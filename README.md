@@ -57,7 +57,9 @@
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)  
 
 - [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)  
-  - [2.1. Competidores](#21-competidores)  
+  - [2.1. Competidores](#21-competidores)
+  
+
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)  
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)  
   - [2.2. Entrevistas](#22-entrevistas)  
@@ -169,6 +171,8 @@
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
+
+En esta sección se llevará a cabo un análisis comparativo de tres proyectos que operan dentro del mismo nicho de mercado que nuestra propuesta. El propósito es detectar brechas y oportunidades que nos permitan diferenciarnos, ofreciendo una propuesta de valor única y mejor alineada con necesidades que hoy en día no están siendo atendidas de manera efectiva.
 
 #### 2.1.1. Análisis competitivo  
 
