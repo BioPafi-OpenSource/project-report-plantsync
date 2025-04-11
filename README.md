@@ -202,8 +202,8 @@ análisis?</td>
     
 ![logo plant care reminder](https://cdn6.aptoide.com/imgs/f/2/a/f2aa9d334e80461cf1803883ce0b7d4c_icon.png?w=128)</td>
     <td>
-     VERA
-![logo VERA](https://www.upc.edu.pe/static/img/logo_upc_red.png)</td>
+     Blossom
+![logo blossom](https://play-lh.googleusercontent.com/rDH_bkyIeGmKXB106DWmXW0xgaZwTOEVETMtBJU4VnhXtAuc35BI_ZYKi7MC5juBIA)</td>
     <td>
   PictureThis    
 ![logo PictureThis](https://www.picturethisai.com/image-handle/website_cmsname/static/name/6e9d6b3268fceedd5926c8fd01430f00/img/icon/prod_logo2.png?x-oss-process=image/format,webp/resize,s_177&v=1.0)</td>
@@ -211,7 +211,7 @@ análisis?</td>
   <tr>
     <td>TODO</td>
     <td>Es una aplicación que se enfoca en la gestión personalizada del cuidado de plantas, permitiendo a los usuarios crear perfiles individuales para cada planta en su colección. Además pueden establecer recordatorios específicos para tareas de cuidado como el riego y la fertilización</td>
-    <td></td>
+    <td>Blossom es una aplicación de identificacion de plantas y diagnostico basico de enfermedades </td>
     <td> Aplicacion que puede identificar plantas y dar recomendaciones o consejos de cuidado en base a la identificacion previa.</td>
   </tr>
   <tr>
@@ -223,10 +223,14 @@ análisis?</td>
 - Ofrecen recordatorios para el riegue o abonado de plantas
 - Organizacion de plantas a traves de perfiles personalizables  
     </td>
-    <td></td>
+    <td>
+    
++ Gran cobertura de especies de plantas  
++ Ofrece una seccion de diario para realizar el seguimiento de plantas
+    </td>
     <td>
 
-+ Acceso a informacion de cuidado de las plantas identificadas
+- Acceso a informacion de cuidado de las plantas identificadas
 - Deteccion de enfermedades usando la cámara.
   </td>
   </tr>
@@ -236,7 +240,7 @@ análisis?</td>
 Objetivo</td>
     <td></td>
     <td>Principiantes y aficionados a las plantas con la necesidad de recordatorios.</td>
-    <td></td>
+    <td>Usuarios urbanos o principiantes al cuidado de las plantas.</td>
     <td>Principiantes e interesados por las plantas que busquen empezar a cuidar plantas</td>
   </tr>
   <tr>
@@ -244,26 +248,36 @@ Objetivo</td>
 Marketing</td>
     <td></td>
     <td>Posicionamiento del mercado como la herramienta tecnológica para jardineros organizados</td>
-    <td></td>
+    <td>
+
+ Aparece en diversos blogs y paginas dedicadas a la jardineria.
+    </td>
     <td>Contratar articulos en portales periodisticos para generar discusion sobre la aplicación</td>
   </tr>
   <tr>
     <td rowspan="3">PERFIL DEL PRODUCTO</td>
     <td>Productos &
 Servicios</td>
-    <td></td>
+    <td>    
+    </td>
     <td> 
 
-- Perfiles personalizados para cada planta
+- Perfiles personalizados para cada planta.
 - Recordatorios específicos para tareas como el riego o cambio de abono.
-- Seguimiento constante del crecimiento
+- Seguimiento constante del crecimiento.
  </td>
-    <td></td>
+    <td>
+    
++ Recordatorios que se establecen manualmente.
++ Identificacion de enfermedades.
++ Identifica más de 30,000 plantas
+de interior o exterior.
+</td>
     <td>
 
-- Identificacion de especies de plantas usando la camara
-- Reconocimiento de enfermedades en plantas
-- Ofrece recomendaciones generales para las plantas identificadas
+- Identificacion de especies de plantas usando la camara.
+- Reconocimiento de enfermedades en plantas.
+- Ofrece recomendaciones generales para las plantas identificadas.
     </td>
   </tr>
   <tr>
@@ -271,8 +285,11 @@ Servicios</td>
 Costos</td>
     <td></td>
     <td>Utiliza el modelo freemium, monetizando mediante funciones avanzadas como el poder crear más de 5 perfiles para plantas.</td>
-    <td></td>
-    <td>Contiene los planes de suscripcion mensual Gold ($5.49) y suscripciones anuales Premium ($39.99) y Platinum ($66.99)
+    <td> 
+    Cuenta con una version gratuita con funcionalidades limitadas. 
+    La versión premium cuesta ($4,99/mes o $29.99/año). 
+    </td>
+    <td>Contiene los planes de suscripcion mensual Gold ($5.49) y suscripciones anuales Premium ($39.99) y Platinum ($66.99).
     </td>
   </tr>
   <tr>
@@ -281,7 +298,7 @@ distribución
 (web/móvil)</td>
     <td></td>
     <td>Móvil</td>
-    <td></td>
+    <td>Móvil</td>
     <td>Móvil</td>
   </tr>
   <tr>
@@ -294,7 +311,12 @@ distribución
   - Actualizaciones constantes
   - Personalización para cada planta del usuario
 </td>
-    <td></td>
+    <td>
+
+- Interfaz amigable y sencilla de usar
+- Tecnología de Inteligencia Artificial
+- Amplia base de datos de plantas
+</td>
     <td>
     
 - Facil de usar para principiantes
@@ -303,14 +325,19 @@ distribución
   </tr>
   <tr>
     <td>Debilidades</td>
-    <td></td>
+    <td> </td>
     <td>
 
  - Acceso limitado a varias de sus funciones
  - Falta de funciones para la identificación de plantas
  - Catálogo de plantas pobre
 </td>
-    <td></td>
+    <td>
+
+
++ Dependencia de las suscripciones para la monetización
++ Falta de valor diferencial destacado
+</td>
     <td>
     
 - Cierta informacion es incorrecta respecto al cuidado de plantas
@@ -324,7 +351,10 @@ distribución
 
  + Agregar funcionalidades como la identificación de plantas
  - Expansión a plataformas web</td>
-    <td></td>
+    <td>
++ Expansión a plataformas web
++ Conexión con otros dispositivos inteligentes del hogar
+</td>
     <td>
     
 + Agregar un seguimiento de plantas y mejorar las guias con informacion actualizada
@@ -337,8 +367,12 @@ distribución
  
 - Alta competencia con aplicaciones más completas
  - Pérdida del mercado ante la preferencia de opciones más automatizadas</td>
-    <td></td>
-    <td>No alerta al usuario del cobro de las suscripciones, generando asi un descontento para los usuarios</td>
+    <td>
++ Saturación en el mercado de aplicaciones para la jardinería</td>
+    <td>
+    
+- Descontento de los usuarios por monetizacion predatoria
+    </td>
   </tr>
 </tbody></table>
 
