@@ -154,9 +154,92 @@
 
 #### 1.2.2. Lean UX Process
 
-##### 1.2.2.1. Lean UX Problem Statements  
+##### 1.2.2.1. Lean UX Problem Statements
 
-##### 1.2.2.2. Lean UX Assumptions  
+El propósito de BioPafi es ofrecer a los hogares peruanos una solución tecnológica amigable que permita monitorear de manera inteligente el estado de las plantas a través de sensores conectados a una plataforma web. Esta solución está dirigida a personas con plantas en casa, quienes desean cuidarlas pero no siempre cuentan con los conocimientos técnicos, el tiempo o los recursos para hacerlo de forma precisa.
+
+El problema se presenta en el momento en que los usuarios deben tomar decisiones sobre el cuidado de sus plantas, como regarlas, moverlas de lugar o protegerlas del clima sin contar con información confiable y en tiempo real sobre su estado. Esta falta de datos conlleva a un cuidado improvisado, que muchas veces resulta en el deterioro de las plantas por exceso o falta de agua, condiciones ambientales inadecuadas, o incluso enfermedades que no son detectadas a tiempo. Actualmente, muchas personas dependen de la observación visual, el tacto o simples aplicaciones de recordatorios, lo que genera márgenes de error significativos en el mantenimiento de sus plantas.
+
+Hemos identificado que esta incertidumbre en el cuidado de las plantas genera frustración, pérdida de tiempo, y en muchos casos, abandono del hábito de jardinería. Esta problemática se intensifica en ambientes urbanos donde las condiciones de iluminación, temperatura, y humedad varían mucho en espacios pequeños. 
+
+A todo esto nos surge la pregunta: ¿Cómo podríamos brindar a las personas una solución inteligente y automatizada que monitoree el estado de sus plantas, brinde alertas de cuidado y recomendaciones personalizadas?
+
++ **Domain:** Jardinería doméstica y tecnología para el hogar.
++ **Customer Segments:** Personas con plantas en casa, jardineros urbanos, especialistas en botánica.
++ **Pain Points:** Falta de tiempo, desconocimiento sobre el cuidado de plantas, olvidos, riesgo excesivo o insuficiente.
++ **Gap:** No hay soluciones accesible y personalizadas que brinden monitoreo y alertas sencillas de entender y recordar
++ **Vision/Strategy:** Crear una plataforma que conecte sensores IoT con una WebApp amigable que ayude a cuidar plantas mediante recomendaciones en tiempo real.
++ **Initial Segment:** Usuarios domésticos con al menos 3 plantas que busquen automatizar parte del cuidado.
+
+##### 1.2.2.2. Lean UX Assumptions
+
+##### Business Assumptions<br/><br/>
+
+1. **Creemos que nuestros clientes tienen la necesidad de** cuidar adecuadamente sus plantas sin tener conocimientos técnicos ni depender exclusivamente de su intuición.
+
+2. **Estas necesidades se pueden resolver con** un sistema automatizado que proporcione datos confiables, alertas y recomendaciones personalizadas a través de un WebApp conectada con sensores IoT.
+
+3. **Nuestros clientes iniciales serán** personas que ya estan cuidando plantas en casa y busquen automatizar su cuidado.
+
+4. **El principal valor que un cliente espera obtener de nuestro servicio es** la tranquilidad de saber que sus plantas están sanas y que reciben el cuidado adecuado.
+
+5. **El cliente también puede obtener** recomendación según el tipo de planta, historial de cuidado, y conexión con el clima.
+
+6. **Adquiriremos la mayoría de nuestros clientes a través de** redes sociales, ferias verdes, y recomendaciones entre comunidades de jardinería urbana.
+
+7. **Generamos ingresos mediante** planes de suscripción mensual con funcionalidades escalables según el plan.
+
+8. **Nuestra competencia principal en el mercado** apps móviles de recordatorio de riego. 
+
+9. **Superaremos a la competencia gracias a** una solución completa, fácil de usar, con alertas automatizadas y diseño centrado en el usuario. 
+
+10. **Nuestro mayor riesgo es** que los sensores no funcionen correctamente o presenten dificultades al ser instalados por nuestros usuarios finales.
+
+11. **Solucionaremos esto mediante** kits preconfigurados, tutoriales simples y servicio de soporte remoto.
+
+12. **Otro riesgo que debemos considerar es que** si los usuarios no captan frente a las apps gratuitas, podrían abandonar el proyecto o no pagar las suscripciones. <br/><br/>
+
+##### User Assumptions<br/><br/>
+
+1. **¿Quién es el usuario?**
+
+Asumimos que nuestros usuarios son personas entre 25 y 60 años con una estilo de vida urbano, que tienen plantas en sus hogares. Suelen tener ocupaciones que les dificultan prestar atención constante a sus plantas. Muchos de ellos no tienen conocimientos técnicos en jardinería ni en dispositivos IoT, pero se adecuan al utilizar plataformas web simples.
+
+2. **¿Dónde encaja nuestro producto en su vida?**
+
+En la rutina diaria del hogar. BioPafi se convierte en la herramienta útil de asistencia de jardinería sin interrumpir otras actividades. 
+
+3. **¿Qué problemas resuelve nuestro producto?**
+
+BioPafi busca resolver frustraciones como: el olvido en el riego, el exceso de agua, la falta de conocimiento técnico y la frustración por perder plantas sin saber por qué.
+
+4. **¿Cuándo y cómo se usa nuestro producto?**
+
+Asumimos que BioPafi se usa de manera ocasional pero efectiva. El usos principal será cuando los usuarios reciban una alerta sobre una condición que requiere acción (riego, cambio de tierra, exceso de humedad) o también cuando ingresan a la WebApp para consultar el estado de sus plantas. 
+
+5. **¿Qué características son importantes?**
+
++ Alertas automáticas, claras y personalizadas a cada tipo de planta.
++ Información simple, íconos de estado y gráficos sencillos.
++ Un diseño amigable y natural que no parezca técnico.
++ Posibilidad de registrar múltiples plantas, asignarle nombres y fotos. 
+
+6. **¿Cómo debería lucir y comportarse el producto?**
+
+BioPafi debe ser visualmente atractivo, con colores naturales y una interfaz limpia. Debe transmitir calidez, tranquilidad y confianza, sin ser complejo ni técnico.<br/><br/>
+
+##### Feature Assumptions<br/><br/>
+
+1. **Creemos que** la aplicación debe contar con una interfaz de usuario intuitiva y amigable que permita a los usuarios sin conocimientos técnicos interactuar fácilmente con la plataforma, facilitando el monitoreo de sus plantas y la recepción de recomendaciones sin complicaciones.
+
+2. **Creemos que** el sistema debe proporcionar alertas automáticas y personalizables que notifiquen a los usuarios de manera oportuna sobre condiciones críticas en el entorno de sus plantas, como niveles bajos de humedad o temperaturas extremas, permitiendo así una acción inmediata.
+
+3. **Creemos que** la aplicación debe integrar representaciones gráficas simples y visuales para mostrar los valores históricos de humedad del suelo, temperatura y humedad ambiental, permitiendo a los usuarios observar patrones y tomar decisiones basadas en tendencias.
+
+4. **Creemos que** la aplicación debe contar con una opción de vinculación con servicios externos como APIs de pronóstico del clima, que permitan anticipar condiciones ambientales y ajustar las recomendaciones según la temperatura y humedad externa.
+
+5. **Creemos que** el producto debe ofrecer funcionalidades adicionales según el plan de suscripción, como análisis avanzado del historial, generación de reportes semanales, recomendaciones específicas por especie de planta o integración con asistentes virtuales del hogar.<br/><br/>
+ 
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements  
 
