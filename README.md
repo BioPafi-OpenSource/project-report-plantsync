@@ -193,9 +193,9 @@ análisis?</td>
   <tr>
     <td rowspan="3">PERFIL</td>
     <td rowspan="2">Overview</td>
-    <td> Biokeeper
+    <td> PlantSync
 
-![logo biokeeper](https://www.upc.edu.pe/static/img/logo_upc_red.png)
+![logo biokeeper](https://raw.githubusercontent.com/renzor11/BioKeeper/refs/heads/main/images/Logo/lVerde.png)
 </td>
     <td>
     Plant Care Reminder
@@ -209,15 +209,17 @@ análisis?</td>
 ![logo PictureThis](https://www.picturethisai.com/image-handle/website_cmsname/static/name/6e9d6b3268fceedd5926c8fd01430f00/img/icon/prod_logo2.png?x-oss-process=image/format,webp/resize,s_177&v=1.0)</td>
   </tr>
   <tr>
-    <td>TODO</td>
-    <td>Es una aplicación que se enfoca en la gestión personalizada del cuidado de plantas, permitiendo a los usuarios crear perfiles individuales para cada planta en su colección. Además pueden establecer recordatorios específicos para tareas de cuidado como el riego y la fertilización</td>
+    <td>PlantSync es una aplicacion que se apoya de la IA
+     para identificar plantas y asistir en su cuidado.
+     Tambien cuenta con un chatbot para resolver dudas sobre el cuidado de las plantas</td>
+    <td>Es una aplicación que se enfoca en la gestión personalizada del cuidado de plantas, permitiendo a los usuarios crear perfiles individuales para cada planta en su colección.</td>
     <td>Blossom es una aplicación de identificacion de plantas y diagnostico basico de enfermedades </td>
     <td> Aplicacion que puede identificar plantas y dar recomendaciones o consejos de cuidado en base a la identificacion previa.</td>
   </tr>
   <tr>
     <td>Ventaja competitiva
     ¿Que valor ofrece a los clientes?</td>
-    <td>TODO</td>
+    <td>Uso de inteligencia artificial para ofrecer soporte avanzado y adaptado a las necesidades específicas de cada planta.</td>
     <td>
 
 - Ofrecen recordatorios para el riegue o abonado de plantas
@@ -238,7 +240,7 @@ análisis?</td>
     <td rowspan="2">PERFIL DEL MARKETING</td>
     <td>Mercado
 Objetivo</td>
-    <td></td>
+    <td>Usuarios expertos acostumbrados a la vida urbana que deseen una guía sencilla y eficaz para el cuidado de su planta en su entorno.</td>
     <td>Principiantes y aficionados a las plantas con la necesidad de recordatorios.</td>
     <td>Usuarios urbanos o principiantes al cuidado de las plantas.</td>
     <td>Principiantes e interesados por las plantas que busquen empezar a cuidar plantas</td>
@@ -246,7 +248,13 @@ Objetivo</td>
   <tr>
     <td>Estrategias de
 Marketing</td>
-    <td></td>
+    <td>
+
++ Anuncios en distintas redes sociales (Instagram, Facebook, etc)
++ Articulos en blogs de jardineria o tecnologia innovadora
+ 
+</td>
+
     <td>Posicionamiento del mercado como la herramienta tecnológica para jardineros organizados</td>
     <td>
 
@@ -258,11 +266,16 @@ Marketing</td>
     <td rowspan="3">PERFIL DEL PRODUCTO</td>
     <td>Productos &
 Servicios</td>
-    <td>    
+    <td>
+
+- Identificación de plantas mediante fotos
+- Recomendaciones basadas mediante Inteligencia Artificial
+- Recordatorio de riegos, fertilización, etc.
+- Consejos adaptados a las condiciones del ambiente
     </td>
     <td> 
 
-- Perfiles personalizados para cada planta.
++ Perfiles personalizados para cada planta.
 - Recordatorios específicos para tareas como el riego o cambio de abono.
 - Seguimiento constante del crecimiento.
  </td>
@@ -283,7 +296,7 @@ de interior o exterior.
   <tr>
     <td>Precios &
 Costos</td>
-    <td></td>
+    <td>Ofrecemos los planes Basico ($2.99/mes), Premium ($10.99/mes) y PRO ($16.99/mes)</td>
     <td>Utiliza el modelo freemium, monetizando mediante funciones avanzadas como el poder crear más de 5 perfiles para plantas.</td>
     <td> 
     Cuenta con una version gratuita con funcionalidades limitadas. 
@@ -296,7 +309,7 @@ Costos</td>
     <td>Canales de
 distribución
 (web/móvil)</td>
-    <td></td>
+    <td>Móvil y Web</td>
     <td>Móvil</td>
     <td>Móvil</td>
     <td>Móvil</td>
@@ -304,7 +317,12 @@ distribución
   <tr>
     <td rowspan="4">ANÁLISIS SWOT</td>
     <td>Fortalezas</td>
-    <td></td>
+    <td>
+
+- Uso de la inteligencia artificial para el cuidado de cada tipo de planta
+- Combinar el cuidado de plantas con la educación e importancia de estas.
+- Interfaz fácil y sencilla de usar
+</td>
     <td> 
 
   - Interfaz amigable
@@ -325,10 +343,13 @@ distribución
   </tr>
   <tr>
     <td>Debilidades</td>
-    <td> </td>
     <td>
 
- - Acceso limitado a varias de sus funciones
+- Dependencia de las suscripciones para monetizar
+- Requerimiento de innovación constante para mantener el valor agregado característico</td>
+    <td>
+
+ + Acceso limitado a varias de sus funciones
  - Falta de funciones para la identificación de plantas
  - Catálogo de plantas pobre
 </td>
@@ -346,7 +367,10 @@ distribución
   </tr>
   <tr>
     <td>Oportunidades</td>
-    <td></td>
+    <td>
+
++ Aprovechar tecnologias como la inteligencia artificial para añadir funcionalidades
+- Colaboración con productos de tecnología para las plantas</td>
     <td>
 
  + Agregar funcionalidades como la identificación de plantas
@@ -362,11 +386,16 @@ distribución
   </tr>
   <tr>
     <td>Amenazas</td>
-    <td></td>
+    <td>
+
+- Limitantes tecnológicas podrían afectar la experiencia del usuario.
+- Amplia competencia en el mercado
+
+</td>
     <td>
  
-- Alta competencia con aplicaciones más completas
- - Pérdida del mercado ante la preferencia de opciones más automatizadas</td>
++ Alta competencia con aplicaciones más completas
+- Pérdida del mercado ante la preferencia de opciones más automatizadas</td>
     <td>
 + Saturación en el mercado de aplicaciones para la jardinería</td>
     <td>
