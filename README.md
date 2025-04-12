@@ -1,36 +1,40 @@
 # Informe de Trabajo Final
 
-**Universidad:**  
+**Universidad Peruana de Ciencias Aplicadas**  
 
-**Carrera:**  
+**Ingeniería de Software**  
 
-**Ciclo:**  
+**5to Ciclo**
 
-**Código del curso:**  
+**Código del curso:**  1ASI0729
 
-**Nombre del curso:**  
+**Nombre del curso:**  Desarrollo de aplicaciones Open Source
 
-**Sección:**  
+**Sección:**  4289
 
-**Nombre del profesor:**  
+**Nombre del profesor:** BAUTISTA UBILLUS, EFRAIN RICARDO
 
-**Nombre del Startup:** 
+**Nombre del Startup:** BioPafi
 
-**Nombre del Producto:**  
+**Nombre del Producto:**  PlantSync
 
 ### Relación de Integrantes
 
-| Código | Apellidos y Nombres |
+| **Código** | **Apellidos y Nombres** |
 |--------|----------------------|
-|        |                      |
+|U20231A500|Palomino Fiestas, Erick Leonardo|
+|        |Gonzales Alvarado, Javier Sebastian |
+|        |Palomares Andrade, Sean Farith |
+|        |Rivera Ratachi, Renzo Sebastian|
+|        | Torres Apolinario, Giovany Smith|
 
-**Mes y Año:**  
+**Abril 2025**  
 
 ---
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha | Descripción de cambios | Autor(es) |
+| **Versión** | **Fecha** | **Descripción de cambios** | **Autor(es)** |
 |--------|-------|-------------------------|-----------|
 | 1.0    |       |                         |           |
 
@@ -148,7 +152,26 @@
 
 #### 1.1.1. Descripción de la Startup  
 
+Nuestra startup, BioPafi, nace con el propósito de brindar soluciones innovadoras para el cuidado de plantas en el hogar y con ello impulsando un cambio ambiental, combinando el poder las ultimas tecnologias. Nuestro primer producto es PlantSync, una aplicación web y móvil que permite a los usuarios monitorear el estado de sus plantas de interior, registrarlas, recibir notificaciones de riego y fertilización, acceder a guías de cuidado y hasta identificar plantas mediante fotos.
+
+**Visión:**
+
+En 5 años, convertirnos en líderes en tecnología ambiental aplicada al hogar en América Latina, destacándonos por la calidad, accesibilidad e innovación de nuestros productos y servicios.
+
+**Misión:**
+
+Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas inteligentes, contribuyendo al bienestar ambiental y al fortalecimiento del vínculo de las personas con la naturaleza.
+
 #### 1.1.2. Perfiles de integrantes del equipo  
+
+| **Foto del Integrantes** | **Nombres y Apellidos** | **Código de estudiante**|**Conocimientos técnicos y habilidades**|
+|--------|----------------------|----------------------|----------------------|
+| 1 | Erick Leonardo Palomino Fiestas | U20231A500 | Conocimientos técnicos y habilidades |
+| 2 | Javier Sebastian Gonzales Alvarado | Código de estudiante | Conocimientos técnicos y habilidades |
+| 3 | Sean Farith Palomares Andrade | Código de estudiante | Conocimientos técnicos y habilidades |
+| 4 | Renzo Sebastian Rivera Ratachi | Código de estudiante | Conocimientos técnicos y habilidades |
+| 5 | Giovany Smith Torres Apolinario | Código de estudiante | Conocimientos técnicos y habilidades |
+
 
 ### 1.2. Solution Profile
 
