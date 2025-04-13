@@ -272,26 +272,34 @@ BioPafi debe ser visualmente atractivo, con colores naturales y una interfaz lim
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 
 Hypothesis Statement 01:
+
 **Creemos que** los expertos y principiantes cuidadores de plantas necesitan una plataforma que les permita llevar un control preciso de sus plantas
 **Sabremos** que hemos tenido exito
 **Cuando** la tasa de adopción de usuarios de la plataforma se encuentre alrededor del 70%
 
 Hypothesis Statement 02:
+
 **Creemos que** emplear alertas, notificaciones y recordatorios ayudarán a los usuarios a tener plantas más saludables
 **Sabremos** que esto es cierto
 **Cuando** alrededor del 70% de los usuarios con dos o más plantas reporten una mejora en la salud de sus plantas después de 2 semanas de usar la plataforma.
 
 Hypothesis Statement 03:
-**Creemos que** la visualización de datos históricos a través de graficos será de ayuda para que los usuarios ajusten sus rutinas de cuidado
+
+**Creemos que** la visualización de datos históricos apoyandonos en graficas simples será de ayuda para que los usuarios ajusten sus rutinas de cuidado
 **Sabremos** que esto es cierto
-**Cuando** al menos el 40% de los usuarios revisen la seccion de datos históricos cada mes
+**Cuando** al menos el 40% de los usuarios revisen la seccion de historial cada mes
 
 Hypothesis Statement 04:
+
 **Creemos que** la implementación de guías será de ayuda para los principiantes cuidadores de planta
 **Sabremos** que esto es cierto
 **Cuando** observemos que este segmento obejtivo consulta las guías al menos una vez por semana
 
 ##### 1.2.2.4. Lean UX Canvas
+
+![Imagen de Lean UX Canvas](https://i.imgur.com/fWHQw4a.jpeg)
+
+Enlace del [Lean UX Canvas](https://miro.com/app/board/uXjVIDSq_vA=/?share_link_id=642247421109)
 
 ### 1.3. Segmentos Objetivo
 
@@ -425,7 +433,6 @@ Servicios</td>
       <td></td>
       <td>
 
-
 - Facil de usar para principiantes
 - Interfaz amigable y sencilla
 </td>
@@ -456,7 +463,6 @@ Servicios</td>
 - Expansión a plataformas web</td>
    <td></td>
    <td>
-
 
 * Agregar un seguimiento de plantas y mejorar las guias con informacion actualizada
     </td>
