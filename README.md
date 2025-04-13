@@ -479,27 +479,6 @@ distribución
 **10.-** ¿Estarías dispuesto/a  pagar por una suscripción que te ofrezca mas ayudas para el cuidado de tus plantas? (podría cambiar)
 
 
-**Entrevista para expertos (jardineros profesionales, técnicos en viveros, etc.):**
-
-**1.-** ¿Cuánto tiempo llevas trabajando como jardinero o cultivando plantas, y qué experiencia has tenido hasta ahora?
-
-**2.-** ¿Cuáles son los mayores desafíos o problemas que enfrentas al cuidar y gestionar las plantas?
-
-**3.-** ¿Qué tipo de datos considera más importantes para mantener con buena salud a las plantas?
-
-**4.-** ¿Qué tan importante es para ti contar con una app que te ayude a registrar el estado de cada planta (ej. nivel de humedad, estado de las hojas)?
-
-**5.-** ¿Qué tan valioso sería para usted contar con reportes históricos (explicar a que se refiere con reportes historicos)de cuidado por planta?
-
-**6.-** ¿Le interesaría una función que permita recibir alertas o recomendaciones basadas en datos ambientales (por ejemplo, “alto riesgo de hongos por humedad”)?
-
-**7.-** ¿Crees que sería útil contar con un sistema de recordatorios para tareas específicas de cuidado, como la fertilización o la revisión de las hojas? ¿Por qué?
-
-**8.-** ¿Qué funcionalidades debería tener una app para que realmente le aporte valor como profesional?
-
-**9.-** ¿Estaría dispuesto/a recomendar o usar una plataforma como esta en su entorno de trabajo? ¿Qué condiciones serían clave?
-
-
 #### 2.2.2. Registro de entrevistas  
 
 #### 2.2.3. Análisis de entrevistas  
