@@ -299,40 +299,46 @@ análisis?</td>
   <tr>
     <td rowspan="3">PERFIL</td>
     <td rowspan="2">Overview</td>
-    <td> Biokeeper
+    <td> PlantSync
 
-![logo biokeeper](https://www.upc.edu.pe/static/img/logo_upc_red.png)
+![logo biokeeper](https://raw.githubusercontent.com/renzor11/BioKeeper/refs/heads/main/images/Logo/lVerde.png)
 </td>
     <td>
     Plant Care Reminder
     
 ![logo plant care reminder](https://cdn6.aptoide.com/imgs/f/2/a/f2aa9d334e80461cf1803883ce0b7d4c_icon.png?w=128)</td>
     <td>
-     VERA
-![logo VERA](https://www.upc.edu.pe/static/img/logo_upc_red.png)</td>
+     Blossom
+![logo blossom](https://play-lh.googleusercontent.com/rDH_bkyIeGmKXB106DWmXW0xgaZwTOEVETMtBJU4VnhXtAuc35BI_ZYKi7MC5juBIA)</td>
     <td>
   PictureThis    
 ![logo PictureThis](https://www.picturethisai.com/image-handle/website_cmsname/static/name/6e9d6b3268fceedd5926c8fd01430f00/img/icon/prod_logo2.png?x-oss-process=image/format,webp/resize,s_177&v=1.0)</td>
   </tr>
   <tr>
-    <td>TODO</td>
-    <td>Es una aplicación que se enfoca en la gestión personalizada del cuidado de plantas, permitiendo a los usuarios crear perfiles individuales para cada planta en su colección. Además pueden establecer recordatorios específicos para tareas de cuidado como el riego y la fertilización</td>
-    <td></td>
+    <td>PlantSync es una aplicacion que se apoya de la IA
+     para identificar plantas y asistir en su cuidado.
+     Tambien cuenta con un chatbot para resolver dudas sobre el cuidado de las plantas</td>
+    <td>Es una aplicación que se enfoca en la gestión personalizada del cuidado de plantas, permitiendo a los usuarios crear perfiles individuales para cada planta en su colección.</td>
+    <td>Blossom es una aplicación de identificacion de plantas y diagnostico basico de enfermedades </td>
     <td> Aplicacion que puede identificar plantas y dar recomendaciones o consejos de cuidado en base a la identificacion previa.</td>
   </tr>
   <tr>
     <td>Ventaja competitiva
     ¿Que valor ofrece a los clientes?</td>
-    <td>TODO</td>
+    <td>Uso de inteligencia artificial para ofrecer soporte avanzado y adaptado a las necesidades específicas de cada planta.</td>
     <td>
 
 - Ofrecen recordatorios para el riegue o abonado de plantas
 - Organizacion de plantas a traves de perfiles personalizables  
     </td>
-    <td></td>
+    <td>
+    
++ Gran cobertura de especies de plantas  
++ Ofrece una seccion de diario para realizar el seguimiento de plantas
+    </td>
     <td>
 
-+ Acceso a informacion de cuidado de las plantas identificadas
+- Acceso a informacion de cuidado de las plantas identificadas
 - Deteccion de enfermedades usando la cámara.
   </td>
   </tr>
@@ -340,67 +346,101 @@ análisis?</td>
     <td rowspan="2">PERFIL DEL MARKETING</td>
     <td>Mercado
 Objetivo</td>
-    <td></td>
+    <td>Usuarios expertos acostumbrados a la vida urbana que deseen una guía sencilla y eficaz para el cuidado de su planta en su entorno.</td>
     <td>Principiantes y aficionados a las plantas con la necesidad de recordatorios.</td>
-    <td></td>
+    <td>Usuarios urbanos o principiantes al cuidado de las plantas.</td>
     <td>Principiantes e interesados por las plantas que busquen empezar a cuidar plantas</td>
   </tr>
   <tr>
     <td>Estrategias de
 Marketing</td>
-    <td></td>
+    <td>
+
++ Anuncios en distintas redes sociales (Instagram, Facebook, etc)
++ Articulos en blogs de jardineria o tecnologia innovadora
+ 
+</td>
+
     <td>Posicionamiento del mercado como la herramienta tecnológica para jardineros organizados</td>
-    <td></td>
+    <td>
+
+ Aparece en diversos blogs y paginas dedicadas a la jardineria.
+    </td>
     <td>Contratar articulos en portales periodisticos para generar discusion sobre la aplicación</td>
   </tr>
   <tr>
     <td rowspan="3">PERFIL DEL PRODUCTO</td>
     <td>Productos &
 Servicios</td>
-    <td></td>
-    <td> 
-
-- Perfiles personalizados para cada planta
-- Recordatorios específicos para tareas como el riego o cambio de abono.
-- Seguimiento constante del crecimiento
- </td>
-    <td></td>
     <td>
 
-- Identificacion de especies de plantas usando la camara
-- Reconocimiento de enfermedades en plantas
-- Ofrece recomendaciones generales para las plantas identificadas
+- Identificación de plantas mediante fotos
+- Recomendaciones basadas mediante Inteligencia Artificial
+- Recordatorio de riegos, fertilización, etc.
+- Consejos adaptados a las condiciones del ambiente
+    </td>
+    <td> 
+
++ Perfiles personalizados para cada planta.
+- Recordatorios específicos para tareas como el riego o cambio de abono.
+- Seguimiento constante del crecimiento.
+ </td>
+    <td>
+    
++ Recordatorios que se establecen manualmente.
++ Identificacion de enfermedades.
++ Identifica más de 30,000 plantas
+de interior o exterior.
+</td>
+    <td>
+
+- Identificacion de especies de plantas usando la camara.
+- Reconocimiento de enfermedades en plantas.
+- Ofrece recomendaciones generales para las plantas identificadas.
     </td>
   </tr>
   <tr>
     <td>Precios &
 Costos</td>
-    <td></td>
+    <td>Ofrecemos los planes Basico ($2.99/mes), Premium ($10.99/mes) y PRO ($16.99/mes)</td>
     <td>Utiliza el modelo freemium, monetizando mediante funciones avanzadas como el poder crear más de 5 perfiles para plantas.</td>
-    <td></td>
-    <td>Contiene los planes de suscripcion mensual Gold ($5.49) y suscripciones anuales Premium ($39.99) y Platinum ($66.99)
+    <td> 
+    Cuenta con una version gratuita con funcionalidades limitadas. 
+    La versión premium cuesta ($4,99/mes o $29.99/año). 
+    </td>
+    <td>Contiene los planes de suscripcion mensual Gold ($5.49) y suscripciones anuales Premium ($39.99) y Platinum ($66.99).
     </td>
   </tr>
   <tr>
     <td>Canales de
 distribución
 (web/móvil)</td>
-    <td></td>
+    <td>Móvil y Web</td>
     <td>Móvil</td>
-    <td></td>
+    <td>Móvil</td>
     <td>Móvil</td>
   </tr>
   <tr>
     <td rowspan="4">ANÁLISIS SWOT</td>
     <td>Fortalezas</td>
-    <td></td>
+    <td>
+
+- Uso de la inteligencia artificial para el cuidado de cada tipo de planta
+- Combinar el cuidado de plantas con la educación e importancia de estas.
+- Interfaz fácil y sencilla de usar
+</td>
     <td> 
 
   - Interfaz amigable
   - Actualizaciones constantes
   - Personalización para cada planta del usuario
 </td>
-    <td></td>
+    <td>
+
+- Interfaz amigable y sencilla de usar
+- Tecnología de Inteligencia Artificial
+- Amplia base de datos de plantas
+</td>
     <td>
     
 - Facil de usar para principiantes
@@ -409,14 +449,22 @@ distribución
   </tr>
   <tr>
     <td>Debilidades</td>
-    <td></td>
     <td>
 
- - Acceso limitado a varias de sus funciones
+- Dependencia de las suscripciones para monetizar
+- Requerimiento de innovación constante para mantener el valor agregado característico</td>
+    <td>
+
+ + Acceso limitado a varias de sus funciones
  - Falta de funciones para la identificación de plantas
  - Catálogo de plantas pobre
 </td>
-    <td></td>
+    <td>
+
+
++ Dependencia de las suscripciones para la monetización
++ Falta de valor diferencial destacado
+</td>
     <td>
     
 - Cierta informacion es incorrecta respecto al cuidado de plantas
@@ -425,12 +473,18 @@ distribución
   </tr>
   <tr>
     <td>Oportunidades</td>
-    <td></td>
+    <td>
+
++ Aprovechar tecnologias como la inteligencia artificial para añadir funcionalidades
+- Colaboración con productos de tecnología para las plantas</td>
     <td>
 
  + Agregar funcionalidades como la identificación de plantas
  - Expansión a plataformas web</td>
-    <td></td>
+    <td>
++ Expansión a plataformas web
++ Conexión con otros dispositivos inteligentes del hogar
+</td>
     <td>
     
 + Agregar un seguimiento de plantas y mejorar las guias con informacion actualizada
@@ -438,23 +492,139 @@ distribución
   </tr>
   <tr>
     <td>Amenazas</td>
-    <td></td>
+    <td>
+
+- Limitantes tecnológicas podrían afectar la experiencia del usuario.
+- Amplia competencia en el mercado
+
+</td>
     <td>
  
-- Alta competencia con aplicaciones más completas
- - Pérdida del mercado ante la preferencia de opciones más automatizadas</td>
-    <td></td>
-    <td>No alerta al usuario del cobro de las suscripciones, generando asi un descontento para los usuarios</td>
++ Alta competencia con aplicaciones más completas
+- Pérdida del mercado ante la preferencia de opciones más automatizadas</td>
+    <td>
++ Saturación en el mercado de aplicaciones para la jardinería</td>
+    <td>
+    
+- Descontento de los usuarios por monetizacion predatoria
+    </td>
   </tr>
 </tbody></table>
 
 
 
-#### 2.1.2. Estrategias y tácticas frente a competidores  
+#### 2.1.2. Estrategias y tácticas frente a competidores 
+
+De acuerdo al análisis competitivo realizado previamente, se logró determinar con precisión las principales fortalezas, oportunidades, debilidades y amenazas de los competidores. A continuación, se presentarán una serie de estrategias y acciones que se tomaran para destacar la aplicación en el mercado objetivo.
+
+## Afrontando las fortalezas de nuestros competidores:
+
++ Interfaz sencilla y amigable de usar.
++ Base de datos de plantas amplia.
++ Uso de tecnologias novedosas como la inteligencia artificial.
+
+## Comprendemos que nuestras fortalezas son:
+
++ Uso de la inteligencia artificial para el cuidado de cada tipo de planta.
++ Combinar el cuidado de plantas con la educación e importancia de estas.
++ Diseño simple y amigable.
+
+
+
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+## Estrategias:
+
++ Generar una experiencia amigable al usuario novato.
++ Asegurarnos de contar con la informacion las plantas que los usuarios expertos podrian desear.
+
+
+## Tácticas:
++ Incluir una base de datos amplia que contenga la mayor cantidad de plantas posible.
+
++ Utilizar entrevistas para planificar el movimiento de nuestros usuarios a traves de la app.
+
+## Afrontando las debilidades de nuestros competidores:
+
++ Acceso limitado a varias de sus funciones en algunos modelos de pago.
++ Falta de funciones para la identificación de plantas.
++ Falta de claridad al comunicar guias o descripciones a los usuarios.
+
+## Comprendemos que nuestras debilidades son:
+
++ Dependencia de las suscripciones para monetizar.
++ Requerimiento de innovación constante para mantener el valor agregado característico.
+
+
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+## Estrategias:
+
++ Incentivar al usuario a pagar por una suscripción.
+
++ Comunicar al usuario de forma clara y en un idioma entendible 
+las recomendaciones o guias que puede aplicar en sus plantas.
+
+## Tácticas:
+
++ Ofrecer funcionalidades clave en las suscrpiciones mas baratas que se complementan con las que se encuentran en suscripciones mas costosas.
++ Enviar mensajes claros y concisos al usuario acerca del estado de sus plantas.
+
+
+## Afrontando las oportunidades de nuestros competidores:
++ Agregar funcionalidades como la identificación de plantas.
++ Expansión a plataformas web.
++ Conexión con otros dispositivos inteligentes del hogar.
++ Agregar un seguimiento de plantas y mejorar las guias con informacion actualizada.
+
+
+## Comprendemos que nuestras oportunidades son:
++ Aprovechar tecnologias como la inteligencia artificial para añadir funcionalidades.
++ Colaboración con productos de tecnología para las plantas.
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+## Estrategias:
+
++ Innovar en la experiencia del usuario mediante la integración de inteligencia artificial para ofrecer cuidados personalizados de plantas.
+
+
+## Tácticas:
+
++ Desarrollar una funcionalidad de identificación automática de plantas por subida de archivo.
+
+
+## Afrontando las amenazas de nuestros competidores:
+
++ Alta competencia con aplicaciones más completas.
++ Pérdida del mercado ante la preferencia de opciones más automatizadas.
++ Saturación en el mercado de aplicaciones para la jardinería.
++ Descontento de los usuarios por monetizacion predatoria.
+
+## Comprendemos que nuestras amenazas son:
+
++ Limitantes tecnológicas podrían afectar la experiencia del usuario.
++ Amplia competencia en el mercado.
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+## Estrategias:
+
++ Distinguirnos de las aplicaciones que suelen ser tediosas en su uso.
+
++ Mantener la confianza que tiene el usuario con nosotros.
+
+## Tácticas:
+
++ Implementar recordatorios automaticos para mejorar la experiencia del usuario.
++ Evitar prácticas de monetización invasivas y comunicar de forma transparente cómo se usan los datos del usuario.
+
 
 ### 2.2. Entrevistas
 
 #### 2.2.1. Diseño de entrevistas  
+
+
+
 
 #### 2.2.2. Registro de entrevistas  
 
