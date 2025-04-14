@@ -479,6 +479,32 @@ distribución
 **10.-** ¿Estarías dispuesto/a  pagar por una suscripción que te ofrezca mas ayudas para el cuidado de tus plantas? (podría cambiar)
 
 
+
+**Entrevista para personas con poca experiencia en el cuidado de plantas:**
+
+**1.-** ¿Alguna vez has tenido una planta en casa? Si es así, ¿cómo fue tu experiencia?
+
+**2.-** ¿Cuáles son los mayores retos o problemas que enfrentas actualmente al cuidar tus plantas?
+
+**3.-** ¿Te resulta difícil saber cuánta agua, luz o cuidados necesita una planta? ¿Por qué?
+
+**4.-** ¿Usas actualmente alguna app, blog o comunidad online para ayudarte con el cuidado? ¿Qué te gusta y qué no de esas herramientas?
+
+**5.-** ¿Te interesaría usar una app que te dé recordatorios de riego y consejos simples para tus plantas según su tipo? ¿Por qué sí o por qué no?
+
+**6.-** ¿Te interesaría una función que analice tu clima local y te dé recomendaciones específicas para cada planta? ¿Por qué sí o por qué no?
+
+**7.-** ¿Qué opinas de una función que permita identificar una planta tomando una foto con el celular? ¿La usarías?
+
+**8.-** ¿Cómo te sentirías con una función que te permita registrar el estado de la planta mediante formularios visuales (como elegir “hojas secas” o “tierra muy húmeda”) y que, en base a eso, te sugiera acciones?
+
+**9.-** ¿Hay alguna función avanzada que te encantaría tener en una app para ayudarte como cuidador de plantas? (por ejemplo: predicción de enfermedades, guía de trasplante, alertas inteligentes, etc.)
+
+**10.-** ¿Estarías dispuesto/a a pagar por funciones premium que mejoren tu experiencia? ¿Qué tendría que ofrecer una app para que valga la pena pagarla?
+
+
+
+
 #### 2.2.2. Registro de entrevistas  
 
 #### 2.2.3. Análisis de entrevistas  
