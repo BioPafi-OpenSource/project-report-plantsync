@@ -303,6 +303,39 @@ Enlace del [Lean UX Canvas](https://miro.com/app/board/uXjVIDSq_vA=/?share_link_
 
 ### 1.3. Segmentos Objetivo
 
+Según Revista Economía (2020), los peruanos realizaron más de 51 mil búsquedas online relacionadas a áreas verdes de enero a octubre del 2020. De las cuales un 66% eran de mantenimiento y mejora de jardines en el hogar.
+El 64% de las personas que realizaron estas búsquedas tenian entre 34 y 50 años.
+
+Ello nos indica que hay segmentos dispuestos a adoptar soluciones tecnológicas que les faciliten el cuidado de sus jardines.
+
+- **Principiantes cuidadores de plantas:**
+
+  Personas interesadas en iniciarse en el cuidado de plantas.
+
+  - Características demográficas
+
+    **Edad:** De 12 a 50 años.
+
+    **Ubicación:** Residentes de zonas urbanas y suburbanas con espacio limitado.
+
+    **Nivel socioeconómico:** Medio, dispuesto a invertir en plantas pero con una tendencia a elegir opciones accesibles.
+
+    **Nivel educativo:** Con conocimientos de tecnología pero desean algo facil de usar.
+
+- **Expertos cuidadores de plantas**
+
+  Personas con experiencia en el cuidado de plantas
+
+  - Características demográficas
+
+    **Edad:** De 18 a 50 años
+
+    **Ubicación:** Residentes de áreas urbanas y suburbanas con mayor disponibilidad de espacios para sus plantas.
+
+    **Nivel socioeconómico:** Medio a alto con acceso a tecnología y con disposición a invertir en herramientas que faciliten el cuidado de plantas.
+
+    **Nivel educativo:** Usuarios con habilidades tecnológicas que se sienten comodos usando herramientas digitales. Además poseen conocimientos y experiencia en el cuidado de plantas.
+
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
@@ -629,6 +662,6 @@ Servicios</td>
 
 ## Bibliografía
 
----
+Revista Economía. (2020). Incremento del interés de los peruanos por el cuidado de las áreas verdes. https://www.revistaeconomia.com/incremento-del-interes-de-los-peruanos-por-el-cuidado-de-las-areas-verdes/
 
 ## Anexos
