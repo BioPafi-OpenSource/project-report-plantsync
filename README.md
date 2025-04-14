@@ -413,13 +413,13 @@ De acuerdo al análisis competitivo realizado previamente, se logró determinar 
 
 ## Afrontando las fortalezas de nuestros competidores:
 
-+ Interfaz sencilla y amigable de usar
-+ Base de datos de plantas amplia
-+ Uso de tecnologias novedosas como la inteligencia artificial
++ Interfaz sencilla y amigable de usar.
++ Base de datos de plantas amplia.
++ Uso de tecnologias novedosas como la inteligencia artificial.
 
 ## Comprendemos que nuestras fortalezas son:
 
-+ Uso de la inteligencia artificial para el cuidado de cada tipo de planta
++ Uso de la inteligencia artificial para el cuidado de cada tipo de planta.
 + Combinar el cuidado de plantas con la educación e importancia de estas.
 + Diseño simple y amigable.
 
@@ -440,13 +440,13 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 ## Afrontando las debilidades de nuestros competidores:
 
-+ Acceso limitado a varias de sus funciones en algunos modelos de pago
++ Acceso limitado a varias de sus funciones en algunos modelos de pago.
 + Falta de funciones para la identificación de plantas.
 + Falta de claridad al comunicar guias o descripciones a los usuarios.
 
 ## Comprendemos que nuestras debilidades son:
 
-+ Dependencia de las suscripciones para monetizar
++ Dependencia de las suscripciones para monetizar.
 + Requerimiento de innovación constante para mantener el valor agregado característico.
 
 
@@ -457,7 +457,8 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 + Incentivar al usuario a pagar por una suscripción.
 
-+ Comunicar al usuario del estado de la aplicación.
++ Comunicar al usuario de forma clara y en un idioma entendible 
+las recomendaciones o guias que puede aplicar en sus plantas.
 
 ## Tácticas:
 
@@ -466,50 +467,58 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 
 ## Afrontando las oportunidades de nuestros competidores:
-+ Agregar funcionalidades como la identificación de plantas
-+ Expansión a plataformas web
-+ Conexión con otros dispositivos inteligentes del hogar
-+ Agregar un seguimiento de plantas y mejorar las guias con informacion actualizada
++ Agregar funcionalidades como la identificación de plantas.
++ Expansión a plataformas web.
++ Conexión con otros dispositivos inteligentes del hogar.
++ Agregar un seguimiento de plantas y mejorar las guias con informacion actualizada.
 
 
 ## Comprendemos que nuestras oportunidades son:
-+ Aprovechar tecnologias como la inteligencia artificial para añadir funcionalidades
-+ Colaboración con productos de tecnología para las plantas
++ Aprovechar tecnologias como la inteligencia artificial para añadir funcionalidades.
++ Colaboración con productos de tecnología para las plantas.
 
 Entonces, podemos aplicar las siguientes estrategias y tácticas:
 ## Estrategias:
 
++ Innovar en la experiencia del usuario mediante la integración de inteligencia artificial para ofrecer cuidados personalizados de plantas.
 
 
 ## Tácticas:
 
-
++ Desarrollar una funcionalidad de identificación automática de plantas por subida de archivo.
 
 
 ## Afrontando las amenazas de nuestros competidores:
 
-+ Alta competencia con aplicaciones más completas
-+ Pérdida del mercado ante la preferencia de opciones más automatizadas
-+ Saturación en el mercado de aplicaciones para la jardinería
-+ Descontento de los usuarios por monetizacion predatoria
++ Alta competencia con aplicaciones más completas.
++ Pérdida del mercado ante la preferencia de opciones más automatizadas.
++ Saturación en el mercado de aplicaciones para la jardinería.
++ Descontento de los usuarios por monetizacion predatoria.
 
 ## Comprendemos que nuestras amenazas son:
 
 + Limitantes tecnológicas podrían afectar la experiencia del usuario.
-+ Amplia competencia en el mercado
++ Amplia competencia en el mercado.
 
 Entonces, podemos aplicar las siguientes estrategias y tácticas:
 ## Estrategias:
 
++ Distinguirnos de las aplicaciones que suelen ser tediosas en su uso.
 
++ Mantener la confianza que tiene el usuario con nosotros.
 
 ## Tácticas:
 
++ Implementar recordatorios automaticos para mejorar la experiencia del usuario.
++ Evitar prácticas de monetización invasivas y comunicar de forma transparente cómo se usan los datos del usuario.
 
 
 ### 2.2. Entrevistas
 
 #### 2.2.1. Diseño de entrevistas  
+
+
+
 
 #### 2.2.2. Registro de entrevistas  
 
