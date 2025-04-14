@@ -449,7 +449,6 @@ distribución
 </tbody></table>
 
 
-
 #### 2.1.2. Estrategias y tácticas frente a competidores  
 
 ### 2.2. Entrevistas
@@ -478,8 +477,6 @@ distribución
 
 **10.-** ¿Estarías dispuesto/a  pagar por una suscripción que te ofrezca mas ayudas para el cuidado de tus plantas? (podría cambiar)
 
-
-
 **Entrevista para personas con poca experiencia en el cuidado de plantas:**
 
 **1.-** ¿Alguna vez has tenido una planta en casa? Si es así, ¿cómo fue tu experiencia?
@@ -502,12 +499,126 @@ distribución
 
 **10.-** ¿Estarías dispuesto/a a pagar por funciones premium que mejoren tu experiencia? ¿Qué tendría que ofrecer una app para que valga la pena pagarla?
 
-
-
-
 #### 2.2.2. Registro de entrevistas  
 
+**Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):**
+
+**Entrevista 1:**
+
+<table>
+  <tr>
+    <td><strong>Nombres</strong></td>
+    <td>Pedro Matias</td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td> Vargas Nuñez</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>22 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>---</td>
+  </tr>
+  <tr>
+    <td><strong>URL del video</strong></td>
+    <td><a href="https://stream.microsoft.com/video123">upc-pre-PlantSync – needfinding-sprint-1</a></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="ruta/al/screenshot.png" alt="Screenshot Entrevista" width="100%">
+    </td>
+    <td>
+      Resumen: Pedro, de 23 años, cuida plantas desde niño gracias a la influencia de una tía. Su rutina se basa en la observación diaria, sin registros formales ni el uso de apps. Sus principales retos son el control del suelo y las plagas. Aunque no utiliza herramientas digitales específicas, suele informarse por YouTube o internet, mostrando un manejo básico de tecnología. Le interesa una aplicación que le permita registrar cuándo fertiliza y que, en base a la edad y estado de la planta, le indique cuándo volver a hacerlo. Desea un calendario que le ayude a planificar cuidados y recibir recomendaciones personalizadas. También valora que la app considere si las plantas están en interiores o exteriores. Aunque prefiere opciones gratuitas, evaluaría pagar por funciones útiles. 
+    </td>
+  </tr>
+</table>
+
+**Entrevista 2:**
+
+<table>
+  <tr>
+    <td><strong>Nombres</strong></td>
+    <td>Pedro Matias</td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td> Vargas Nuñez</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>22 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>---</td>
+  </tr>
+  <tr>
+    <td><strong>URL del video</strong></td>
+    <td><a href="https://stream.microsoft.com/video123">upc-pre-PlantSync – needfinding-sprint-1</a></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="ruta/al/screenshot.png" alt="Screenshot Entrevista" width="100%">
+    </td>
+    <td>
+      Resumen:
+    </td>
+  </tr>
+</table>
+
+**Entrevista 3:**
+
+<table>
+  <tr>
+    <td><strong>Nombres</strong></td>
+    <td>Pedro Matias</td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td> Vargas Nuñez</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>22 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>---</td>
+  </tr>
+  <tr>
+    <td><strong>URL del video</strong></td>
+    <td><a href="https://stream.microsoft.com/video123">upc-pre-PlantSync – needfinding-sprint-1</a></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="ruta/al/screenshot.png" alt="Screenshot Entrevista" width="100%">
+    </td>
+    <td>
+      Resumen:
+    </td>
+  </tr>
+</table>
+
 #### 2.2.3. Análisis de entrevistas  
+
+**Analisis de entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):**
+
+**Analisis de entrevista para personas con poca experiencia en el cuidado de plantas:**
 
 ### 2.3. Needfinding
 
