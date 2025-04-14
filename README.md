@@ -271,11 +271,70 @@ BioPafi debe ser visualmente atractivo, con colores naturales y una interfaz lim
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 
+Hypothesis Statement 01:
+
+**Creemos que** los expertos y principiantes cuidadores de plantas necesitan una plataforma que les permita llevar un control preciso de sus plantas
+**Sabremos** que hemos tenido exito
+**Cuando** la tasa de adopción de usuarios de la plataforma se encuentre alrededor del 70%
+
+Hypothesis Statement 02:
+
+**Creemos que** emplear alertas, notificaciones y recordatorios ayudarán a los usuarios a tener plantas más saludables
+**Sabremos** que esto es cierto
+**Cuando** alrededor del 70% de los usuarios con dos o más plantas reporten una mejora en la salud de sus plantas después de 2 semanas de usar la plataforma.
+
+Hypothesis Statement 03:
+
+**Creemos que** la visualización de datos históricos apoyandonos en graficas simples será de ayuda para que los usuarios ajusten sus rutinas de cuidado
+**Sabremos** que esto es cierto
+**Cuando** al menos el 40% de los usuarios revisen la seccion de historial cada mes
+
+Hypothesis Statement 04:
+
+**Creemos que** la implementación de guías será de ayuda para los principiantes cuidadores de planta
+**Sabremos** que esto es cierto
+**Cuando** observemos que este segmento obejtivo consulta las guías al menos una vez por semana
+
 ##### 1.2.2.4. Lean UX Canvas
+
+![Imagen de Lean UX Canvas](https://i.imgur.com/fWHQw4a.jpeg)
+
+Enlace del [Lean UX Canvas](https://miro.com/app/board/uXjVIDSq_vA=/?share_link_id=642247421109)
 
 ### 1.3. Segmentos Objetivo
 
----
+Según Revista Economía (2020), los peruanos realizaron más de 51 mil búsquedas online relacionadas a áreas verdes de enero a octubre del 2020. De las cuales un 66% eran de mantenimiento y mejora de jardines en el hogar.
+El 64% de las personas que realizaron estas búsquedas tenian entre 34 y 50 años.
+
+Ello nos indica que hay segmentos dispuestos a adoptar soluciones tecnológicas que les faciliten el cuidado de sus jardines.
+
+- **Principiantes cuidadores de plantas:**
+
+  Personas interesadas en iniciarse en el cuidado de plantas.
+
+  - Características demográficas
+
+    **Edad:** De 12 a 50 años.
+
+    **Ubicación:** Residentes de zonas urbanas y suburbanas con espacio limitado.
+
+    **Nivel socioeconómico:** Medio, dispuesto a invertir en plantas pero con una tendencia a elegir opciones accesibles.
+
+    **Nivel educativo:** Con conocimientos de tecnología pero desean algo facil de usar.
+
+- **Expertos cuidadores de plantas**
+
+  Personas con experiencia en el cuidado de plantas
+
+  - Características demográficas
+
+    **Edad:** De 18 a 50 años
+
+    **Ubicación:** Residentes de áreas urbanas y suburbanas con mayor disponibilidad de espacios para sus plantas.
+
+    **Nivel socioeconómico:** Medio a alto con acceso a tecnología y con disposición a invertir en herramientas que faciliten el cuidado de plantas.
+
+    **Nivel educativo:** Usuarios con habilidades tecnológicas que se sienten comodos usando herramientas digitales. Además poseen conocimientos y experiencia en el cuidado de plantas.
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
@@ -474,7 +533,6 @@ distribución
 </td>
     <td>
 
-
 - Cierta informacion es incorrecta respecto al cuidado de plantas
 - No comunica las recomendaciones o guias de forma clara para los usuarios
   </td>
@@ -627,7 +685,12 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### 2.2.1. Diseño de entrevistas
 
+
 #### 2.2.2. Registro de entrevistas
+
+
+#### 2.2.2. Registro de entrevistas  
+
 
 #### 2.2.3. Análisis de entrevistas
 
@@ -650,6 +713,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 ## Capítulo III: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
+
 
 ### 3.2. User Stories
 
@@ -1276,6 +1340,8 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 ### 3.3. Impact Mapping
 
+=======
+
 ### 3.4. Product Backlog
 
 ---
@@ -1392,6 +1458,6 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 ## Bibliografía
 
----
+Revista Economía. (2020). Incremento del interés de los peruanos por el cuidado de las áreas verdes. https://www.revistaeconomia.com/incremento-del-interes-de-los-peruanos-por-el-cuidado-de-las-areas-verdes/
 
 ## Anexos
