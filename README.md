@@ -362,7 +362,7 @@ análisis?</td>
     <td rowspan="2">Overview</td>
     <td> PlantSync
 
-![logo biokeeper](https://raw.githubusercontent.com/renzor11/BioKeeper/refs/heads/main/images/Logo/lVerde.png)
+![logo plantsync](https://i.postimg.cc/vBW1fJFD/Whats-App-Image-2025-04-14-at-5-27-23-PM.jpg)
 
 </td>
     <td>
@@ -423,7 +423,6 @@ Marketing</td>
 * Articulos en blogs de jardineria o tecnologia innovadora
 
 </td>
-
     <td>Posicionamiento del mercado como la herramienta tecnológica para jardineros organizados</td>
     <td>
 
