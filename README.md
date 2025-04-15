@@ -516,7 +516,7 @@ distribución
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>22 años</td>
+    <td>23 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
