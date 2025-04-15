@@ -179,7 +179,17 @@ Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas in
 
 ### 1.2. Solution Profile
 
+En esta sección se detalla el perfil de nuestra solución, desarrollada de manera progresiva bajo el enfoque Lean UX y respaldada por fundamentos sólidos. PlantSync es una aplicación creada para facilitar el cuidado responsable de las plantas, utilizando como herramienta central un chatbot inteligente.
+
+A través de la plataforma, los usuarios pueden registrar sus plantas y recibir asistencia personalizada. El chatbot ha sido entrenado con una base de datos construida por nuestro equipo, la cual reúne información confiable extraída de libros y fuentes científicas especializadas en botánica. Gracias a este conocimiento, el chatbot es capaz de identificar las necesidades específicas de cada planta en función de los datos proporcionados por el usuario —como fotos y detalles del entorno— y ofrecer recomendaciones prácticas para su cuidado. Además, puede detectar señales comunes de deterioro y proponer soluciones adecuadas de forma clara y accesible. PlantSync también incluye un sistema de recordatorios automáticos enviados por correo electrónico, que notifica al usuario sobre los cuidados pendientes o recurrentes de cada planta, asegurando un seguimiento constante y personalizado. De esta forma, promovemos una experiencia más organizada, intuitiva y efectiva para el manejo diario de las plantas.
+
+
 #### 1.2.1. Antecedentes y problemática
+
+Según un artículo de AGRONEGOCIOS (Gutiérrez, A. 2021), uno de los errores más comunes entre quienes recién empiezan a cuidar plantas es el riego excesivo. Los expertos advierten que usar demasiada agua es una de las formas más rápidas de dañar o incluso matar una planta de interior. Otro error frecuente es olvidar que las plantas también necesitan nutrientes, ya que muchas personas creen que solo el agua basta, cuando en realidad es importante fertilizarlas adecuadamente.
+
+Por eso, desde BioPafi queremos apoyar a quienes desean mejorar el cuidado de sus plantas. Nuestra plataforma web permite a los usuarios registrar las plantas que tienen en casa y recibir una guía de cuidados personalizada según el tipo de planta. Además, generamos recordatorios para tareas clave como riego, fertilización y poda, y contamos con un chatbot que ofrece consejos específicos para cada planta registrada, ayudando así a mantenerlas sanas y bien cuidadas.
+
 
 #### 1.2.2. Lean UX Process
 
