@@ -1352,6 +1352,24 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### 4.1.1. General Style Guidelines
 
+**Branding**
+
+**Brand Overview:**
+
+Nuestra startup, BioPafi, nace con el propósito de brindar soluciones innovadoras para el cuidado de plantas en el hogar y con ello impulsando un cambio ambiental, combinando el poder las ultimas tecnologias. Nuestro primer producto es PlantSync, una aplicación web y móvil que permite a los usuarios monitorear el estado de sus plantas de interior, registrarlas, recibir notificaciones de riego y fertilización, acceder a guías de cuidado y hasta identificar plantas mediante fotos.
+
+**Visión:**
+
+En 5 años, convertirnos en líderes en tecnología ambiental aplicada al hogar en América Latina, destacándonos por la calidad, accesibilidad e innovación de nuestros productos y servicios.
+
+**Misión:**
+
+Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas inteligentes, contribuyendo al bienestar ambiental y al fortalecimiento del vínculo de las personas con la naturaleza
+
+**Brand Name**
+
+
+
 #### 4.1.2. Web Style Guidelines
 
 ### 4.2. Information Architecture
