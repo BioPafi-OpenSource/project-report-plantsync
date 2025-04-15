@@ -609,6 +609,9 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 - Utilizar entrevistas para planificar el movimiento de nuestros usuarios a traves de la app.
 
+
+#### 2.1.2. Estrategias y tácticas frente a competidores  
+=======
 ## Afrontando las debilidades de nuestros competidores:
 
 - Acceso limitado a varias de sus funciones en algunos modelos de pago.
@@ -681,6 +684,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 - Implementar recordatorios automaticos para mejorar la experiencia del usuario.
 - Evitar prácticas de monetización invasivas y comunicar de forma transparente cómo se usan los datos del usuario.
 
+
 ### 2.2. Entrevistas
 
 #### 2.2.1. Diseño de entrevistas
@@ -689,10 +693,174 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 #### 2.2.2. Registro de entrevistas
 
 
+**Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):**
+
+**1.-** ¿Cuántos años llevas cuidando plantas en casa y cómo comenzó tu interés?
+
+**2.-** ¿Cuáles son los mayores retos que enfrentas cuando cuidas tus plantas?
+
+**3.-** ¿Tienes un tipo de planta o rutina favorita en tu cuidado diario?
+
+**4.-** ¿Sueles registrar la información del cuidado de tus plantas (cuándo regaste, fertilizaste, etc.)? ¿Cómo lo haces actualmente?
+
+**5.-** ¿Conoces o has usado aplicaciones o blogs especializados para ayudarte con el cuidado?
+
+**6.-** ¿Qué tan interesante te parecería una función que analice tu clima local y te sugiera cuidados específicos?
+
+**7.-** ¿Qué opinas de una función de escaneo de plantas por foto para detectar identificar la especie?
+
+**8.-** ¿Qué opinas sobre la idea de usar una aplicación que te ayude a registrar y monitorear el estado de tus plantas mediante predicciones a través de formularios visuales (por ejemplo, seleccionas la opciones "hojas verdes", "tierra húmeda" y la aplicación te ayudara durante ese momento según una predicción, cuando tienes que regarla o fertilizarla)?
+
+**9.-** ¿Hay alguna función avanzada que te encantaría tener en una app para potenciar tu experiencia como cuidador de plantas?
+
+**10.-** ¿Estarías dispuesto/a  pagar por una suscripción que te ofrezca mas ayudas para el cuidado de tus plantas? (podría cambiar)
+
+**Entrevista para personas con poca experiencia en el cuidado de plantas:**
+
+**1.-** ¿Alguna vez has tenido una planta en casa? Si es así, ¿cómo fue tu experiencia?
+
+**2.-** ¿Cuáles son los mayores retos o problemas que enfrentas actualmente al cuidar tus plantas?
+
+**3.-** ¿Te resulta difícil saber cuánta agua, luz o cuidados necesita una planta? ¿Por qué?
+
+**4.-** ¿Usas actualmente alguna app, blog o comunidad online para ayudarte con el cuidado? ¿Qué te gusta y qué no de esas herramientas?
+
+**5.-** ¿Te interesaría usar una app que te dé recordatorios de riego y consejos simples para tus plantas según su tipo? ¿Por qué sí o por qué no?
+
+**6.-** ¿Te interesaría una función que analice tu clima local y te dé recomendaciones específicas para cada planta? ¿Por qué sí o por qué no?
+
+**7.-** ¿Qué opinas de una función que permita identificar una planta tomando una foto con el celular? ¿La usarías?
+
+**8.-** ¿Cómo te sentirías con una función que te permita registrar el estado de la planta mediante formularios visuales (como elegir “hojas secas” o “tierra muy húmeda”) y que, en base a eso, te sugiera acciones?
+
+**9.-** ¿Hay alguna función avanzada que te encantaría tener en una app para ayudarte como cuidador de plantas? (por ejemplo: predicción de enfermedades, guía de trasplante, alertas inteligentes, etc.)
+
+**10.-** ¿Estarías dispuesto/a a pagar por funciones premium que mejoren tu experiencia? ¿Qué tendría que ofrecer una app para que valga la pena pagarla?
+
 #### 2.2.2. Registro de entrevistas  
 
 
-#### 2.2.3. Análisis de entrevistas
+**Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):**
+
+**Entrevista 1:**
+
+<table>
+  <tr>
+    <td><strong>Nombres</strong></td>
+    <td>Pedro Matias</td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td> Vargas Nuñez</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>23 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>---</td>
+  </tr>
+  <tr>
+    <td><strong>URL del video</strong></td>
+    <td><a href="https://stream.microsoft.com/video123">upc-pre-PlantSync – needfinding-sprint-1</a></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="ruta/al/screenshot.png" alt="Screenshot Entrevista" width="100%">
+    </td>
+    <td>
+      Resumen: Pedro, de 23 años, cuida plantas desde niño gracias a la influencia de una tía. Su rutina se basa en la observación diaria, sin registros formales ni el uso de apps. Sus principales retos son el control del suelo y las plagas. Aunque no utiliza herramientas digitales específicas, suele informarse por YouTube o internet, mostrando un manejo básico de tecnología. Le interesa una aplicación que le permita registrar cuándo fertiliza y que, en base a la edad y estado de la planta, le indique cuándo volver a hacerlo. Desea un calendario que le ayude a planificar cuidados y recibir recomendaciones personalizadas. También valora que la app considere si las plantas están en interiores o exteriores. Aunque prefiere opciones gratuitas, evaluaría pagar por funciones útiles. 
+    </td>
+  </tr>
+</table>
+
+**Entrevista 2:**
+
+<table>
+  <tr>
+    <td><strong>Nombres</strong></td>
+    <td>Pedro Matias</td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td> Vargas Nuñez</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>22 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>---</td>
+  </tr>
+  <tr>
+    <td><strong>URL del video</strong></td>
+    <td><a href="https://stream.microsoft.com/video123">upc-pre-PlantSync – needfinding-sprint-1</a></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="ruta/al/screenshot.png" alt="Screenshot Entrevista" width="100%">
+    </td>
+    <td>
+      Resumen:
+    </td>
+  </tr>
+</table>
+
+**Entrevista 3:**
+
+<table>
+  <tr>
+    <td><strong>Nombres</strong></td>
+    <td>Pedro Matias</td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td> Vargas Nuñez</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>22 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>---</td>
+  </tr>
+  <tr>
+    <td><strong>URL del video</strong></td>
+    <td><a href="https://stream.microsoft.com/video123">upc-pre-PlantSync – needfinding-sprint-1</a></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="ruta/al/screenshot.png" alt="Screenshot Entrevista" width="100%">
+    </td>
+    <td>
+      Resumen:
+    </td>
+  </tr>
+</table>
+
+#### 2.2.3. Análisis de entrevistas  
+
+**Analisis de entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):**
+
+**Analisis de entrevista para personas con poca experiencia en el cuidado de plantas:**
+
+
+
 
 ### 2.3. Needfinding
 
