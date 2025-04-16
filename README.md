@@ -1524,7 +1524,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 **Brand Overview:**
 
-Nuestra startup, BioPafi, nace con el propósito de brindar soluciones innovadoras para el cuidado de plantas en el hogar y con ello impulsando un cambio ambiental, combinando el poder las ultimas tecnologias. Nuestro primer producto es PlantSync, una aplicación web y móvil que permite a los usuarios monitorear el estado de sus plantas de interior, registrarlas, recibir notificaciones de riego y fertilización, acceder a guías de cuidado y hasta identificar plantas mediante fotos.
+Nuestra startup, "BioPafi", nace con el propósito de brindar soluciones innovadoras para el cuidado de plantas en el hogar y con ello impulsando un cambio ambiental, combinando el poder las ultimas tecnologias. Nuestro primer producto es "PlantSync", una aplicación web y móvil que permite a los usuarios monitorear el estado de sus plantas de interior, registrarlas, recibir notificaciones de riego y fertilización, acceder a guías de cuidado y hasta identificar plantas mediante fotos.
 
 **Visión:**
 
@@ -1534,11 +1534,25 @@ En 5 años, convertirnos en líderes en tecnología ambiental aplicada al hogar 
 
 Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas inteligentes, contribuyendo al bienestar ambiental y al fortalecimiento del vínculo de las personas con la naturaleza
 
-**Brand Name**
+**Brand Name:**
+
+El nombre PlantSync surge de la combinación de las palabras “Planta” y “Sincronización”, haciendo referencia a la conexión entre la tecnología y el cuidado vegetal. Esta propuesta responde al dilema del cuidado adecuado de plantas en el hogar. En ese sentido, la aplicación se centra en ofrecer una plataforma intuitiva que automatiza y personaliza el cuidado doméstico de las plantas, contribuyendo a la creación de entornos más verdes, saludables y sostenibles dentro del hogar.
+
+**Colores:**
+
+Los colores son importantes para una buena primera impresion con los usuarios, tomando esto en cuenta y guiandonos por la psicologia del color, hemos decido utilizar el color verde como color principal para nuestra plataforma. El verde simboliza crecimiento y prestigio, lo cual se alinea con los valores de nuestra startup, tambien el color se se vincula principalmente con lo vegetal, el cual se orienta directamente con nuestro proyecto. Como colores secundraios se utilizaran diferentes tonalidades de verde como el oscuro o mas claro para dar armonia en nuestro aproyecto, ademas de utilizar colores como marron, blanco y negro para diferentes apartados secundarios.
+
+**Tipografia**
+
+La tipografia seleccionada aplica jerarquia y legibilidad en entornos web, estos siendo muy importantes para que ayuda al usuario a guiarse dentro de nuestra interfaz. Nuestro proyecto utilizara **"Poppins, con estilo Bold"** y **"Nunito, con estilo Regular"**.
 
 
 
 #### 4.1.2. Web Style Guidelines
+
+La aplicación se enfocara en tener un estilo sencillo y eficiente, lo cual es importante para que el usuario no se sienta abrumado por tantas cosas en pantalla, esto va de la mano con lo que quiere hacer nuestra startup "BioPafi" y en lo que quiera enfocarse nuestro proyecto "PlantSync". Además, se muestra un diseño amigable que resalta los detalles más importantes del producto y presenta el patrón Z ya que nuestra landing page tiene un enfoque simple.
+
+
 
 ### 4.2. Information Architecture
 
