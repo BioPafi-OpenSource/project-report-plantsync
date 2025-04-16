@@ -738,23 +738,21 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### 2.2.2. Registro de entrevistas  
 
+*Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):*
+---
+<br>
 
-**Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):**
-
-**Entrevista 1:**
-
-<table>
+<table align="center">
   <tr>
-    <td><strong>Nombres</strong></td>
-    <td>Pedro Matias</td>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
   </tr>
   <tr>
-    <td><strong>Apellidos</strong></td>
-    <td> Vargas Nuñez</td>
+    <td><strong>Entrevistado</strong></td>
+    <td>Pedro vargas</td>
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>23 años</td>
+    <td>23</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
@@ -762,36 +760,39 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>---</td>
+    <td>...</td>
   </tr>
   <tr>
-    <td><strong>URL del video</strong></td>
-    <td><a href="https://stream.microsoft.com/video123">upc-pre-PlantSync – needfinding-sprint-1</a></td>
+    <td><strong>URL</strong></td>
+    <td>...</td>
   </tr>
   <tr>
-    <td>
-      <img src="ruta/al/screenshot.png" alt="Screenshot Entrevista" width="100%">
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      Pedro, de 23 años, cuida plantas desde niño gracias a la influencia de una tía. Su rutina se basa en la observación diaria, sin registros formales ni el uso de apps. Sus principales retos son el control del suelo y las plagas. Aunque no utiliza herramientas digitales específicas, suele informarse por YouTube o internet, mostrando un manejo básico de tecnología. Le interesa una aplicación que le permita registrar cuándo fertiliza y que, en base a la edad y estado de la planta, le indique cuándo volver a hacerlo. Desea un calendario que le ayude a planificar cuidados y recibir recomendaciones personalizadas. También valora que la app considere si las plantas están en interiores o exteriores. Aunque prefiere opciones gratuitas, evaluaría pagar por funciones útiles. 
     </td>
-    <td>
-      Resumen: Pedro, de 23 años, cuida plantas desde niño gracias a la influencia de una tía. Su rutina se basa en la observación diaria, sin registros formales ni el uso de apps. Sus principales retos son el control del suelo y las plagas. Aunque no utiliza herramientas digitales específicas, suele informarse por YouTube o internet, mostrando un manejo básico de tecnología. Le interesa una aplicación que le permita registrar cuándo fertiliza y que, en base a la edad y estado de la planta, le indique cuándo volver a hacerlo. Desea un calendario que le ayude a planificar cuidados y recibir recomendaciones personalizadas. También valora que la app considere si las plantas están en interiores o exteriores. Aunque prefiere opciones gratuitas, evaluaría pagar por funciones útiles. 
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="ruta/al/screenshot.png" alt="Screenshot Entrevista" width="1000">
     </td>
   </tr>
 </table>
 
-**Entrevista 2:**
 
-<table>
+<br>
+
+<table align="center">
   <tr>
-    <td><strong>Nombres</strong></td>
-    <td>Pedro Matias</td>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
   </tr>
   <tr>
-    <td><strong>Apellidos</strong></td>
-    <td> Vargas Nuñez</td>
+    <td><strong>Entrevistada</strong></td>
+    <td>Leonor Gonzales</td>
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>22 años</td>
+    <td>60</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
@@ -799,36 +800,38 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>---</td>
+    <td>...</td>
   </tr>
   <tr>
-    <td><strong>URL del video</strong></td>
-    <td><a href="https://stream.microsoft.com/video123">upc-pre-PlantSync – needfinding-sprint-1</a></td>
+    <td><strong>URL</strong></td>
+    <td>...</td>
   </tr>
   <tr>
-    <td>
-      <img src="ruta/al/screenshot.png" alt="Screenshot Entrevista" width="100%">
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      Leonor comenzó a cuidar plantas hace seis años cuando empezó a ayudar a su madre con el jardín, y desde entonces ha convertido esta actividad en parte de su rutina. Uno de los mayores desafíos que enfrenta es entender los cuidados específicos de cada tipo de planta, ya que varían mucho en cuanto a exposición solar, cantidad de agua y tipo de suelo. Comenta que al tener muchas plantas, recordar estos detalles se vuelve difícil. Actualmente no utiliza ninguna aplicación especializada. Se apoya principalmente en su memoria, en consejos familiares y en búsquedas en Google, aunque señala que la información suele estar dispersa y poco personalizada. Mencionó que nunca ha encontrado una herramienta digital que le permita organizar, registrar y optimizar el cuidado de sus plantas de manera práctica y confiable. Leonor se mostró muy interesada en funcionalidades como recordatorios personalizados, identificación de especies mediante fotografía y monitoreo del estado de cada planta. Considera que una herramienta con esas características facilitaría su rutina y evitaría errores comunes. Finalmente, afirmó que estaría dispuesta a pagar por una suscripción si la aplicación realmente le ayuda a mantener sus plantas sanas y organizadas.
     </td>
-    <td>
-      Resumen:
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/entrevista-leonor-segmento2.png" alt="Screenshot Entrevista 2" width="1000">
     </td>
   </tr>
 </table>
 
-**Entrevista 3:**
+<br>
 
-<table>
+<table align="center">
   <tr>
-    <td><strong>Nombres</strong></td>
-    <td>Pedro Matias</td>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
   </tr>
   <tr>
-    <td><strong>Apellidos</strong></td>
-    <td> Vargas Nuñez</td>
+    <td><strong>Entrevistada</strong></td>
+    <td>Guadalupe Alvarado</td>
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>22 años</td>
+    <td>52</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
@@ -836,27 +839,75 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>---</td>
+    <td>...</td>
   </tr>
   <tr>
-    <td><strong>URL del video</strong></td>
-    <td><a href="https://stream.microsoft.com/video123">upc-pre-PlantSync – needfinding-sprint-1</a></td>
+    <td><strong>URL</strong></td>
+    <td>...</td>
   </tr>
   <tr>
-    <td>
-      <img src="ruta/al/screenshot.png" alt="Screenshot Entrevista" width="100%">
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      Guadalupe comenzó a cuidar activamente sus plantas durante la pandemia, aunque desde siempre ha sentido afinidad por ellas. Desde entonces ha desarrollado una rutina de jardinería en casa, pero comenta que su principal dificultad es no saber con precisión cada cuánto regar o cuánta agua usar, especialmente porque cada planta requiere cuidados diferentes. A esto se suma que tiene una vida laboral muy agitada, lo cual le impide dedicar tiempo suficiente a investigar temas como tipos de fertilizantes, control de plagas o condiciones de luz y sombra. Actualmente, no lleva un registro del cuidado de sus plantas, ni utiliza herramientas específicas. Suele obtener la información a través de videos en YouTube o reels en Instagram, que si bien le parecen útiles, no siempre son confiables o aplicables a sus casos. Por eso, considera que una app que centralice estos datos y brinde recomendaciones personalizadas sería una gran ayuda, sobre todo por el ahorro de tiempo que implicaría en medio de sus responsabilidades laborales y domésticas. Entre las funcionalidades que más le interesaron destacan el análisis del clima local con recomendaciones específicas, la identificación de plantas mediante imágenes y el registro del estado de cada planta. Guadalupe indicó que estaría dispuesta a pagar por una suscripción siempre que la aplicación realmente le ahorre tiempo, le brinde valor y simplifique el cuidado de sus plantas.
     </td>
-    <td>
-      Resumen:
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/entrevista-guadalupe-segmento2.png" alt="Screenshot Entrevista 3" width="1000">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+*Entrevista para personas con poca experiencia en el cuidado de plantas:*
+---
+<br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistada</strong></td>
+    <td>...o</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      ....
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/ejemplo.png" alt="UPC logo" width="1000">
     </td>
   </tr>
 </table>
 
 #### 2.2.3. Análisis de entrevistas  
 
-**Analisis de entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):**
+*Analisis de entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):*
+---
 
-**Analisis de entrevista para personas con poca experiencia en el cuidado de plantas:**
+*Analisis de entrevista para personas con poca experiencia en el cuidado de plantas:*
+---
 
 
 
