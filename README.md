@@ -395,7 +395,6 @@ análisis?</td>
     </td>
     <td>
 
-
 * Gran cobertura de especies de plantas
 * Ofrece una seccion de diario para realizar el seguimiento de plantas
     </td>
@@ -427,6 +426,7 @@ Marketing</td>
     <td>
 
 Aparece en diversos blogs y paginas dedicadas a la jardineria.
+
 </td>
 <td>Contratar articulos en portales periodisticos para generar discusion sobre la aplicación</td>
 
@@ -450,7 +450,6 @@ Servicios</td>
 - Seguimiento constante del crecimiento.
 </td>
    <td>
-
 
 * Recordatorios que se establecen manualmente.
 * Identificacion de enfermedades.
@@ -608,9 +607,10 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 - Utilizar entrevistas para planificar el movimiento de nuestros usuarios a traves de la app.
 
+#### 2.1.2. Estrategias y tácticas frente a competidores
 
-#### 2.1.2. Estrategias y tácticas frente a competidores  
 =======
+
 ## Afrontando las debilidades de nuestros competidores:
 
 - Acceso limitado a varias de sus funciones en algunos modelos de pago.
@@ -683,14 +683,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 - Implementar recordatorios automaticos para mejorar la experiencia del usuario.
 - Evitar prácticas de monetización invasivas y comunicar de forma transparente cómo se usan los datos del usuario.
 
-
 ### 2.2. Entrevistas
 
 #### 2.2.1. Diseño de entrevistas
 
-
 #### 2.2.2. Registro de entrevistas
-
 
 **Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):**
 
@@ -712,7 +709,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 **9.-** ¿Hay alguna función avanzada que te encantaría tener en una app para potenciar tu experiencia como cuidador de plantas?
 
-**10.-** ¿Estarías dispuesto/a  pagar por una suscripción que te ofrezca mas ayudas para el cuidado de tus plantas? (podría cambiar)
+**10.-** ¿Estarías dispuesto/a pagar por una suscripción que te ofrezca mas ayudas para el cuidado de tus plantas? (podría cambiar)
 
 **Entrevista para personas con poca experiencia en el cuidado de plantas:**
 
@@ -736,10 +733,10 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 **10.-** ¿Estarías dispuesto/a a pagar por funciones premium que mejoren tu experiencia? ¿Qué tendría que ofrecer una app para que valga la pena pagarla?
 
-#### 2.2.2. Registro de entrevistas  
+#### 2.2.2. Registro de entrevistas
 
-*Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):*
----
+## _Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):_
+
 <br>
 
 <table align="center">
@@ -778,7 +775,6 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
     </td>
   </tr>
 </table>
-
 
 <br>
 
@@ -860,8 +856,8 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <br>
 
-*Entrevista para personas con poca experiencia en el cuidado de plantas:*
----
+## _Entrevista para personas con poca experiencia en el cuidado de plantas:_
+
 <br>
 
 <table align="center">
@@ -869,16 +865,16 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
     <th colspan="2" style="text-align:center">Entrevista 1</th>
   </tr>
   <tr>
-    <td><strong>Entrevistada</strong></td>
-    <td>...o</td>
+    <td><strong>Entrevistado</strong></td>
+    <td>Alejandro Flores</td></td>
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>...</td>
+    <td>20 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
-    <td>...</td>
+    <td>Chorrillos</td></td>
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
@@ -886,31 +882,26 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121947_upc_edu_pe/ERhrlKdvktpBk-hLHI8L0PcB9Mymfc-Hg1bXNzltJaevpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jC4E8f">Enlace</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
       Resumen:<br>
-      ....
+      Alejandro Flores de 20 años, vive en un departamento en Lima y comenzó a interesarse por las plantas a inicios del 2025, especialmente por los bonsáis frutales. Cuenta que su experiencia inicial fue algo problemática, debido a que no sabía cómo cuidar correctamente de sus plantas, una de ellas murio por exceso de riego. También mencionó que algunas plantas reaccionan mal al agua del caño, lo que lo sorprendió. Uno de sus mayores retos es identificar el momento adecuado para regar. Además, no tiene claro cuánta luz necesitan sus plantas. Aunque ha buscado algunos consejos en internet y blogs, no ha usado apps específicas. Alejandro se mostró interesado en una app que brinde recordatorios de riego y sugerencias simples, ya que lo ayudaría a crear un hábito y cuidar mejor sus plantas. También le llama la atención la idea de recibir recomendaciones basadas en el clima local y poder identificar plantas, ya que muchas veces encuentra especies que le gustan pero no sabe cómo se llaman. Además le gustaría contar con guías sobre trasplante y recordatorios relacionados a esos cuidados. Finalmente, dijo que estaría dispuesto a pagar por funciones premium, siempre que le ofrezcan herramientas que le ayuden a evitar que sus plantas mueran.
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="images/ejemplo.png" alt="UPC logo" width="1000">
+      <img src="images/entrevista-alejandro-segmento2.png" alt="screenshot entrevista alejandro" width="1000">
     </td>
   </tr>
 </table>
 
-#### 2.2.3. Análisis de entrevistas  
+#### 2.2.3. Análisis de entrevistas
 
-*Analisis de entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):*
----
+## _Analisis de entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):_
 
-*Analisis de entrevista para personas con poca experiencia en el cuidado de plantas:*
----
-
-
-
+## _Analisis de entrevista para personas con poca experiencia en el cuidado de plantas:_
 
 ### 2.3. Needfinding
 
@@ -931,7 +922,6 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 ## Capítulo III: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
-
 
 ### 3.2. User Stories
 
