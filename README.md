@@ -1552,7 +1552,25 @@ La tipografia seleccionada aplica jerarquia y legibilidad en entornos web, estos
 
 La aplicación se enfocara en tener un estilo sencillo y eficiente, lo cual es importante para que el usuario no se sienta abrumado por tantas cosas en pantalla, esto va de la mano con lo que quiere hacer nuestra startup "BioPafi" y en lo que quiera enfocarse nuestro proyecto "PlantSync". Además, se muestra un diseño amigable que resalta los detalles más importantes del producto y presenta el patrón Z ya que nuestra landing page tiene un enfoque simple.
 
+**Botones:**
 
+Los botones se encontraran en el apartado principal de la aplicación web, lo cual permitiran que el usuario añada, elimine y cambie en los diferentes apartados segun las funcionalidades añadidas. Ademas de tener los botones de iniciar y cerrar sesión. Tambien se utilizara para comfirmar diferentes acciones en la aplicación. Los botones tendra colores llamativos siguiendo la paleta de colores elegida.  
+
+**Imágenes:**
+
+Las imágenes se encontraran en diferentes apartados de la web, como en el perfil del usuario, las plantas que registre, las imagenes que podra subir para la identificacion de la planta y diferentes imagenes que usaremos para representar los diferentes funcionalidades de nuestra landing page. 
+
+Las imagenes se utilizaran para que el diseño web se utilizara para que el usuario pueda guiarse visualmente y ayude a guiarse por nuestra web, a la vez de utilizando iconos reconocibles y utilizados en todaa aplicaciones.
+
+**Tablas:**
+
+
+
+**Pantallas emergentes:**
+
+**Encabezado:**
+
+**Pie de página:**
 
 ### 4.2. Information Architecture
 
