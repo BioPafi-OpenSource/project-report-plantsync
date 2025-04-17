@@ -1546,7 +1546,9 @@ Los colores son importantes para una buena primera impresion con los usuarios, t
 
 La tipografia seleccionada aplica jerarquia y legibilidad en entornos web, estos siendo muy importantes para que ayuda al usuario a guiarse dentro de nuestra interfaz. Nuestro proyecto utilizara **"Poppins, con estilo Bold"** y **"Nunito, con estilo Regular"**.
 
+**Lenguaje Aplicado**
 
+El lenguaje utilizado en la web sera sencillo y amigable, el cual se podra entender entre usuarios que recien inician en el cuidado de las plantas y usuarios con años de experiencia. El tono utilizado sera motivador, que ayude a reforzar los logros, tambien se evitaran tecnisismos innesarios para el usuario. Ademas, el estilo del lenguaje sera cercano a lo vegetal, que apoye a que el usuario se motive a cuidar las plantass de manera constante, con mensajes optimistas y breves, los cuales acompañaran en cada acción al usuario.
 
 #### 4.1.2. Web Style Guidelines
 
@@ -1562,15 +1564,17 @@ Las imágenes se encontraran en diferentes apartados de la web, como en el perfi
 
 Las imagenes se utilizaran para que el diseño web se utilizara para que el usuario pueda guiarse visualmente y ayude a guiarse por nuestra web, a la vez de utilizando iconos reconocibles y utilizados en todaa aplicaciones.
 
-**Tablas:**
-
-
-
 **Pantallas emergentes:**
+
+Se utilizaran pantallas emergentes para la confirmacion acciones de cambios en los diferentes apartados de nuestro aplicativo web. Estas pantallas tendran colores mas llamativos para que usuario pueda notarlos ayudar al mismo a no equivocarse.
 
 **Encabezado:**
 
+El encabezado de la pagina web tendra el logo de nuestro proyecto en la posicion izquierda, el cual tendra como utilidad volver a la pagina principal .Ademas, se podra visualizar los apartados de nuestro landing page, por ultimo se podra visualizar los botones para poder ingresar al formulario de iniciar sesión y crear cuenta.
+
 **Pie de página:**
+
+En el pie de página se incluirán los distintos medios de contacto disponibles, como teléfonos de atención al cliente, redes sociales y correos electrónicos. Además, se integrarán los diferentes apartados del encabezado para facilitar la navegación desde cualquier sección del sitio.
 
 ### 4.2. Information Architecture
 
