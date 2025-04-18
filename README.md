@@ -932,6 +932,27 @@ Para la elaboración de los siguientes artefactos se ha tomado en cuenta la edad
 
 #### 2.3.3. User Journey Mapping
 
+Esta sección incluye los User Journey Map relacionado a nuestras dos User Persona previamente elaboradas en la herramienta UXPressia, estos artefactos consistirán en las experiencias que nuestros usuarios enfrentan sus dificultades antes de usar nuestra solución.
+
+
+- #### User Journey Map Mauricio Alcantara:
+
+Este Journey Map describe las experiencias que vive Mauricio luego de comprar su primera planta hasta la eventual frustración por no conocer muy bien las necesidades de su planta.
+
+[![User-Journey-Map-Mauricio.png](https://i.postimg.cc/J43YH1jX/User-Journey-Map-Mauricio.png)](https://postimg.cc/LnX3rFC4)
+
+
+- #### User Journey Map Roxana Madero:
+
+
+Este Journey Map describe las experiencias que vive Roxana, desde que adquiere un planta que le gusta hasta que termina descuidandola por culpa de la gran carga laboral de su trabajo.
+
+
+[![User-Journey-Map.png](https://i.postimg.cc/P5ryL1XG/User-Journey-Map.png)](https://postimg.cc/GHVGV8Tz)
+
+
+
+
 #### 2.3.4. Empathy Mapping
 
 #### 2.3.5. As-is Scenario Mapping
