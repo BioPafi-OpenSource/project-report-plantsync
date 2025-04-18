@@ -916,6 +916,18 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### 2.3.1. User Personas
 
+Para la elaboración de los siguientes artefactos se ha tomado en cuenta la edad, ocupaciones, ubicaciones, intereses y frustraciones de los entrevistados. Estos perfiles representan a usuarios reales que buscan integrar plantas en su vida diaria, pero necesitan orientación clara y soluciones adaptadas a su estilo de vida. A continuación, se presentarán los User Persona elaborados.
+
+- #### User Persona: Interesados en comenzar a cuidar plantas
+
+[![Mauricio-Alcantara.png](https://i.postimg.cc/rw7TNLT2/Mauricio-Alcantara.png)](https://postimg.cc/RW12vyqg)
+
+
+- #### User Persona: Personas con experiencia en el cuidado de plantas
+[![Roxana-Madero.png](https://i.postimg.cc/7Yswb2Q6/Roxana-Madero.png)](https://postimg.cc/VdC3VdwQ)
+
+
+
 #### 2.3.2. User Task Matrix
 
 #### 2.3.3. User Journey Mapping
