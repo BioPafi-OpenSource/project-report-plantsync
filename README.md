@@ -930,6 +930,118 @@ Para la elaboración de los siguientes artefactos se ha tomado en cuenta la edad
 
 #### 2.3.2. User Task Matrix
 
+
+  En este apartado se realizará la User Task Matrix tomando en cuenta los dos segmentos definidos y relacionados a nuestras User Persona, estudiantes univeristarios deseosos de experiencia laboral y gerentes que buscan contratar talento joven para el desarrollo de proyectos.
+
+
+<table border ="1"><thead>
+  <tr>
+    <th></th>
+    <th colspan="2">Experto</th>
+    <th colspan="2">Persona sin experiencia</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>TASK</td>
+    <td>FREQUENCY (Experto)</td>
+    <td>IMPORTANCE (Experto)</td>
+    <td>FREQUENCY (Persona sin experiencia)</td>
+    <td>IMPORTANCE (Persona sin experiencia)</td>
+  </tr>
+
+ <tr>
+    <td>Comprar nuevas plantas</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Rarely</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Ajustar los cuidados segun clima</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Never</td>
+    <td>Low</td>
+  </tr>
+   <tr>
+    <td>Registrar sus actividades de cuidado</td>
+    <td>Sometimes</td>
+    <td>High</td>
+    <td>Never</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Evaluar el estado de salud de sus plantas</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Rarely</td>
+    <td>Medium</td>
+  </tr>
+ <tr>
+    <td>Comprar insumos para el cuidado</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Rarely</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Consultar guías o videos sobre plantas</td>
+    <td>Rarely</td>
+    <td>Medium</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+<tr>
+    <td>Decorar su habitación con plantas</td>
+    <td>Rarely</td>
+    <td>Low</td>
+    <td>Medium</td>
+    <td>High</td>
+</tr>
+<tr>
+    <td>Preguntar por consejos a conocidos</td>
+    <td>Rarely</td>
+    <td>Low</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+ <tr>
+    <td>Buscar soluciones digitales de apoyo</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Sometimes</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Tomar fotos para seguimiento del crecimiento</td>
+    <td>Sometimes</td>
+    <td>Low</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+<br>
+
+Tomando en cuenta este recuadro podemos hacer afirmaciones sobre las actividades de nuestros User Persona:
+
+- Los tasks de mayor importancia para el usuario experto son evaluar el estado de salud de sus plantas y registrar sus actividades, en cambio, el usuario novato prioriza el aprendizaje y busqueda de herramientas digitales.
+
+
+- Entre las principales coincidencias se encuentra el interes de ambos por tomar fotos de sus planta para ver su progreso y tambien la busqueda de soluciones digitales para apoyarse en su cuidado.
+
+- Las diferencias entre ambos se ven relfejadas en la experiencia que ellos poseen. Mientras el usuario experto pasa su tiempo evaluando el estado de cada de planta y manteniendo un plan constante, el usuario novato tiende a mostrarse mas interesado por aprender y darle más importancia al factor estético de las plantas.
+
+  
+
+
+
+
+
+
+
 #### 2.3.3. User Journey Mapping
 
 Esta sección incluye los User Journey Map relacionado a nuestras dos User Persona previamente elaboradas en la herramienta UXPressia, estos artefactos consistirán en las experiencias que nuestros usuarios enfrentan sus dificultades antes de usar nuestra solución.
