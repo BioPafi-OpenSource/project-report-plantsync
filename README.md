@@ -1574,15 +1574,207 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 ### 4.2. Information Architecture
 
+La arquitectura de información de BioPafi define la forma en que se estructurará, clasificará, etiquetará y navegará el contenido dentro de la experiencia digital. Esta estructura busca garantizar una experiencia fluida e intuitiva, tanto en el Landing Page como en la Aplicación Web, permitiendo que usuarios con distintos niveles de experiencia puedan encontrar rápidamente la información y funciones que necesitan para el cuidado eficiente de sus plantas.
+
 #### 4.2.1. Organization Systems
+
+Es importante que tanto la Landing Page como la AppWeb se encuentre organizado para evitar tener una interfaz confusa y un contenido desordenado. Por lo tanto **BioPafi** aplicará un enfoque combinado de organización jerárquica, secuencial y matricial, además de diversos esquemas de categorización.<br><br>
+
++ Jerárquia Visual:
+
+La organización jerárquica se utilizará principalmente en el Landing Page, el Dashboard principal y la vista de perfil del usuario. En estas pantallas, los elementos más relevantes se ubicarán en posiciones destacadas y con mayor peso visual, como los estados actuales de las plantas, alertas urgentes o botones de acción rápida. Por ejemplo, en el Dashboard de la aplicación, cada tarjeta de planta mostrará en la parte superior su nombre, nivel de humedad y estado general. Debajo, de forma secundaria, se ubicarán botones como “Ver guía” o “Editar datos”. De igual manera, en el perfil del usuario, el tipo de suscripción será lo primero visible, seguido de los datos personales y configuraciones.
+
++ Organización secuencial:
+
+La organización secuencial será clave en procesos como el registro de nuevas plantas y el monitoreo manual asistido. En estos casos, la aplicación guiará al usuario por pasos ordenados: primero se selecciona o identifica la planta, luego se configuran los parámetros básicos y finalmente se activan los recordatorios o recomendaciones. Este flujo será especialmente importante para usuarios principiantes, quienes serán orientados a través de formularios visuales simplificados que les permitirán registrar el estado de su planta sin necesidad de conocimientos técnicos.
+
++ Organización Matricial:
+
+La organización matricial estará presente en el módulo de historial de cuidados y en la sección de recomendaciones climáticas, donde los datos estarán distribuidos en tarjetas o cuadrículas que permiten una exploración más libre. Por ejemplo, en el historial, cada evento registrado (riego, fertilización, cambios de estado) aparecerá en una tarjeta ordenada cronológicamente, permitiendo al usuario comparar fechas, intervalos y tendencias.
+
+Respecto a los esquemas de categorización, se utilizarán diferentes enfoques:
+
++ **Por tópicos:** en las guías y recomendaciones, los contenidos estarán organizados según temas como “riego”, “luz”, “plagas” o “fertilización”.
+
++ **Alfabético:** en las búsquedas y listados de plantas registradas, se permitirá ordenar las plantas por nombre personalizado, para facilitar la navegación en jardines con muchas especies.
+
++ **Cronológico:** en el historial de cuidado, las entradas se ordenarán por fecha, permitiendo seguir la evolución de cada planta.<br><br>
+
 
 #### 4.2.2. Labeling Systems
 
+En BioPafi, el sistema de etiquetas ha sido diseñado para ser claro, directo y contextual, ayudando al usuario a entender fácilmente el contenido y las acciones disponibles en cada sección. Se busca minimizar la carga cognitiva mediante el uso de términos sencillos, familiares y consistentes, alineados con los conocimientos generales de los usuarios, especialmente de aquellos con poca experiencia en tecnología o jardinería.
+
++ Menú principal del Landing Page:
+
+  + Inicio
+  + ¿Cómo funciona?
+  + Planes
+  + ¿Quiénes somos?
+  + Login / Registrarse
+
++ Menú de navegación en WebApp:
+
+  + Mis Plantas
+  + Guías 
+  + Tareas
+  + ChatBot
+  + Salir
+  <br><br>
+
+<table align="center">
+  <tr>
+    <td><strong>Tipo etiqueta</strong></td>
+    <td><strong>Ejemplo</strong></td>
+    <td><strong>Aparición</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Encabezado</strong></td>
+    <td>"Mis plantas"</td>
+    <td>En la parte superior de la pantalla principal</td>
+  </tr>
+  <tr>
+    <td><strong>Panel</strong></td>
+    <td>"Historial de cuidados"</td>
+    <td>En una tarjeta dentro del dashboard</td>
+  </tr>
+  <tr>
+    <td><strong>Botón</strong></td>
+    <td>"Agregar planta”</td>
+    <td>Acción destacada en el formulario para agregar plantas</td>
+  </tr>
+  <tr>
+    <td><strong>Navegación</strong></td>
+    <td>“Guías” – “Calendario” – “Perfil”</td>
+    <td>En al barra lateral</td>
+  </tr>
+  <tr>
+    <td><strong>Estado</strong></td>
+    <td>“Último riego hace 3 días”</td>
+    <td>Texto dentro de una tarjeta de planta</td>
+  </tr>
+</table><br><br>
+
 #### 4.2.3. SEO Tags and Meta Tags
 
-#### 4.2.4. Searching Systems
+Las meta etiquetas permiten incluir información estructurada sobre el contenido del sitio web. Aunque no son visibles para el usuario, son leídas por navegadores y buscadores, facilitando su posicionamiento en los resultados de búsqueda y mejorando la visibilidad de BioPafi en internet.
 
-#### 4.2.5. Navigation Systems
+Las metas etiquetas que usaremos:
+
++ Landing Page:
+
+  + Título<br><br>
+
+  ```html
+  <title>BioPafi – Cuida tus plantas con tecnología inteligente</title>
+  ```
+
+  + Codificación de carácteres<br><br>
+
+  ```html
+  <meta charset="utf-8">
+  ```
+
+  + Meta Description<br><br>
+
+  ```html
+  <meta name="description" content="Plataforma web para el monitoreo asistido, registro y recomendaciones personalizadas para el cuidado de tus plantas. Ideal para principiantes y expertos."/>
+  ```
+
+  + Keywords<br><br>
+
+  ```html
+  <meta name="keywords" content="cuidado de plantas, monitoreo de plantas, jardinería digital, sensores, app para plantas"/>
+  ```
+
+  + Author y Derechos de Autor<br><br>
+  
+  ```html
+  <meta name="author" content="Equipo BioPafi"/>
+  <meta name="copyright" content="Copyright Biopafi team" />
+  ```
+
+<br>
+
++ Web Application:
+
+  + Título<br><br>
+
+  ```html
+  <title>Mi Jardín – PlantSync</title>
+  ```
+
+  + Codificación de carácteres<br><br>
+
+  ```html
+  <meta charset="utf-8">
+  ```
+
+  + Meta Description<br><br>
+
+  ```html
+  <meta name="description" content="Gestiona tus plantas, consulta guías interactivas, activa recordatorios y accede a recomendaciones basadas en el clima."/>
+  ```
+
+  + Keywords<br><br>
+
+  ```html
+  <meta name="keywords" content="BioPafi, historial de riego, guías para plantas, monitoreo manual, recomendaciones por clima"/>
+  ```
+
+  + Author y Derechos de Autor<br><br>
+  
+  ```html
+  <meta name="author" content="Equipo BioPafi"/>
+  <meta name="copyright" content="Copyright Biopafi team" />
+  ```
+
+<br>
+
+#### 4.2.4. Searching Systems<br><br>
+
+Dado que la plataforma almacenará una gran cantidad de información, incluyendo tutoriales y guías sobre el cuidado de plantas, es fundamental implementar un sistema de búsqueda y filtrado eficiente. Este sistema estará diseñado para minimizar la carga cognitiva del usuario y facilitar una navegación intuitiva, permitiendo encontrar rápidamente la información relevante para una toma de decisiones informada. A continuación, se detallan sus principales características:
+
++ Opciones de búsqueda:
+
+  + Búsqueda de guías
+
+  + Búsqueda de plantas registradas
+
+  + Búsqueda de tareas
+
+  + Búsqueda de plantas (al momento de registrar una nueva)
+
++ Filtros:
+
+  + Tipo de planta
+
+  + Tipo de tarea
+
+  + Estado de planta
+
+  + Tipo de guía
+
+  + Periodo de tiempo (última semana, mes, personalizado)
+
+
++ Visualización de Datos
+
+  ...(imagenes)
+
+
+#### 4.2.5. Navigation Systems<br><br>
+
+La página web ha sido diseñada con un enfoque minimalista e intuitivo, evitando la sobrecarga visual mediante el uso moderado de botones, imágenes y videos. Tanto la landing page como la aplicación web contarán con una interfaz gráfica limpia y adaptable, que se ajusta automáticamente al tamaño de pantalla del dispositivo del usuario. Este diseño busca ofrecer una experiencia de navegación fluida y ordenada, permitiendo a los usuarios acceder al contenido sin distracciones ni confusión innecesaria.
+
++ Landing Page:
+
+  En la landing page, se implementará un diseño de tipo one-page scroll, que permite al usuario explorar el contenido desplazándose verticalmente de forma continua. Para facilitar la orientación, se incluirá un encabezado fijo que servirá como guía de navegación, permitiendo acceder rápidamente a las secciones principales sin necesidad de hacer scroll manualmente.
+
++ Web App:
+
+   La web app ofrecerá una navegación híbrida. Los usuarios podrán seguir un flujo guiado y secuencial para registrar sus plantas, ideal para quienes prefieren un acompañamiento paso a paso. Sin embargo, también tendrán la libertad de moverse entre los distintos módulos de la aplicación como la sección de guías, el chatbot, el panel de tareas, el perfil del usuario, entre otros, según sus necesidades e intereses, garantizando así una experiencia flexible y personalizada.
+
 
 ### 4.3. Landing Page UI Design
 
