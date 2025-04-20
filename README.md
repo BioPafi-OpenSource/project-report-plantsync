@@ -921,6 +921,15 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 #### 2.3.3. User Journey Mapping
 
 #### 2.3.4. Empathy Mapping
+Emphaty Map Segmento 1: Interesados en comenzar a cuidar plantas
+![EM Segmento 1](https://imgur.com/mdShA6x.jpg)
+
+<br>
+<br>
+
+Emphaty Map Segmento 2: Personas con experiencia en el cuidado de plantas
+
+![EM Segmento 2](https://imgur.com/A9JyFHe.jpg)
 
 #### 2.3.5. As-is Scenario Mapping
 
