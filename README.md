@@ -167,6 +167,14 @@ En 5 años, convertirnos en líderes en tecnología ambiental aplicada al hogar 
 
 Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas inteligentes, contribuyendo al bienestar ambiental y al fortalecimiento del vínculo de las personas con la naturaleza.
 
+Startup: BioPafi
+
+<img src="images/BioPafi-logo1.jpg" alt="logoBioPafi">
+
+Proyect: PlanSync
+
+<img src="images/PlantSync-logo1.jpg" alt="logoBioPafi">
+
 #### 1.1.2. Perfiles de integrantes del equipo
 
 | **Foto del Integrantes** | **Nombres y Apellidos**            | **Código de estudiante** | **Conocimientos técnicos y habilidades** |
