@@ -773,15 +773,37 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
     </tr>
     <tr>
       <td>Title</td>
-      <td colspan="3">titulo</td>
+      <td colspan="3">Inicio sesión de usuario</td>
     </tr>
     <tr>
       <td>Description</td>
-      <td colspan="3">descripcion</td>
+      <td colspan="3">Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta y mis plantas monitoreadas.</td>
     </tr>
     <tr>
       <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
+      <td colspan="3">Escenario 1: Inicio de sesión exitoso
+
+Dado que el usuario ingresó su correo y contraseña correctamente
+
+Cuando presiona el botón "Iniciar sesión"
+
+Entonces el sistema lo redirige a su panel principal
+
+Escenario 2: Credenciales incorrectas
+
+Dado que el usuario ingresó mal su contraseña o correo
+
+Cuando presiona "Iniciar sesión"
+
+Entonces el sistema muestra el mensaje: "Correo o contraseña incorrectos"
+
+Escenario 3: Campos vacíos
+
+Dado que el usuario dejó el correo o la contraseña vacíos
+
+Cuando intenta iniciar sesión
+
+Entonces el sistema muestra un mensaje: "Por favor, completa todos los campos"</td>
     </tr>
   </tbody>
 </table>
@@ -796,15 +818,21 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
     </tr>
     <tr>
       <td>Title</td>
-      <td colspan="3">titulo</td>
+      <td colspan="3">Edición del perfil del usuario</td>
     </tr>
     <tr>
       <td>Description</td>
-      <td colspan="3">descripcion</td>
+      <td colspan="3">Como usuario que inicio sesión, quiero editar mi nombre, imagen, correo y contraseña de mi perfil, para mantener mi información actualizada.</td>
     </tr>
     <tr>
       <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
+      <td colspan="3">Escenario 1: Edición exitosa
+
+Dado que el usuario está autenticado
+
+Cuando actualiza algún dato y guarda
+
+Entonces el sistema muestra "Perfil actualizado correctamente"</td>
     </tr>
   </tbody>
 </table>
@@ -819,15 +847,29 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
     </tr>
     <tr>
       <td>Title</td>
-      <td colspan="3">titulo</td>
+      <td colspan="3">Visualización de tareas de cuidado</td>
     </tr>
     <tr>
       <td>Description</td>
-      <td colspan="3">descripcion</td>
+      <td colspan="3">Como usuario con plantas registradas, quiero ver las tareas pendientes de cuidado, para saber qué debo hacer cada día.</td>
     </tr>
     <tr>
       <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
+      <td colspan="3">Escenario 1: Tareas del día visibles
+
+Dado que el usuario tiene tareas programadas
+
+Cuando entra al panel principal o calendario
+
+Entonces se muestra la lista de tareas del día
+
+Escenario 2: Sin tareas pendientes
+
+Dado que no hay tareas para hoy
+
+Cuando entra al panel
+
+Entonces se muestra el mensaje: "No hay tareas para hoy"</td>
     </tr>
   </tbody>
 </table>
@@ -842,15 +884,29 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
     </tr>
     <tr>
       <td>Title</td>
-      <td colspan="3">titulo</td>
+      <td colspan="3">Evaluación visual asistida de planta</td>
     </tr>
     <tr>
       <td>Description</td>
-      <td colspan="3">descripcion</td>
+      <td colspan="3">Como usuario con sesión iniciada, quiero llenar un formulario guiado sobre el estado de mi planta, para que la app me ayude a monitorear mi planta.</td>
     </tr>
     <tr>
       <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
+      <td colspan="3">Escenario 1: Evaluación completada con guía
+
+Dado que el usuario entra al formulario
+
+Cuando responde las preguntas guiadas (como color de hojas, humedad, etc.)
+
+Entonces el sistema muestra una evaluación y le ayuda a monitorear su planta
+
+Escenario 2: Campos incompletos
+
+Dado que no llenó todos los pasos del formulario
+
+Cuando intenta evaluar
+
+Entonces el sistema muestra: “Por favor, completa todos los pasos para continuar”</td>
     </tr>
   </tbody>
 </table>
@@ -865,15 +921,31 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
     </tr>
     <tr>
       <td>Title</td>
-      <td colspan="3">titulo</td>
+      <td colspan="3">Calendario de tareas y cuidados</td>
     </tr>
     <tr>
       <td>Description</td>
-      <td colspan="3">descripcion</td>
+      <td colspan="3">Como usuario con plan Premium o Pro, quiero ver un calendario con las tareas programadas, para organizarme mejor en el cuidado de mis plantas.</td>
     </tr>
     <tr>
       <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
+      <td colspan="3">Escenario 1: Ver calendario mensual/semanal
+
+Dado que el usuario tiene tareas registradas
+
+Cuando entra a la sección de calendario
+
+Entonces puede ver las tareas organizadas por día
+
+Escenario 2: Añadir recordatorio o tarea en calendario
+
+Dado que el usuario quiere añadir un recordatorio o tarea al calendario
+
+Cuando el usuario le da "click" al boton "Añadir" en el calendario
+
+Entonces se le mostrara formulario para que añada recordatorio o tarea
+
+Y le da click en "Guardar"</td>
     </tr>
   </tbody>
 </table>
