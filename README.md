@@ -1580,7 +1580,7 @@ La arquitectura de información de BioPafi define la forma en que se estructurar
 
 Es importante que tanto la Landing Page como la AppWeb se encuentre organizado para evitar tener una interfaz confusa y un contenido desordenado. Por lo tanto **BioPafi** aplicará un enfoque combinado de organización jerárquica, secuencial y matricial, además de diversos esquemas de categorización.<br><br>
 
-+ Jerárquia Visual:
++ Jerarquía Visual:
 
 La organización jerárquica se utilizará principalmente en el Landing Page, el Dashboard principal y la vista de perfil del usuario. En estas pantallas, los elementos más relevantes se ubicarán en posiciones destacadas y con mayor peso visual, como los estados actuales de las plantas, alertas urgentes o botones de acción rápida. Por ejemplo, en el Dashboard de la aplicación, cada tarjeta de planta mostrará en la parte superior su nombre, nivel de humedad y estado general. Debajo, de forma secundaria, se ubicarán botones como “Ver guía” o “Editar datos”. De igual manera, en el perfil del usuario, el tipo de suscripción será lo primero visible, seguido de los datos personales y configuraciones.
 
@@ -1611,7 +1611,7 @@ En BioPafi, el sistema de etiquetas ha sido diseñado para ser claro, directo y 
   + ¿Cómo funciona?
   + Planes
   + ¿Quiénes somos?
-  + Login / Registrarse
+  + Acceder
 
 + Menú de navegación en WebApp:
 
@@ -1619,6 +1619,7 @@ En BioPafi, el sistema de etiquetas ha sido diseñado para ser claro, directo y 
   + Guías 
   + Tareas
   + ChatBot
+  + Configuración
   + Salir
   <br><br>
 
@@ -1645,7 +1646,7 @@ En BioPafi, el sistema de etiquetas ha sido diseñado para ser claro, directo y 
   </tr>
   <tr>
     <td><strong>Navegación</strong></td>
-    <td>“Guías” – “Calendario” – “Perfil”</td>
+    <td>“Guías” – "Tareas" – "ChatBot"</td>
     <td>En al barra lateral</td>
   </tr>
   <tr>
