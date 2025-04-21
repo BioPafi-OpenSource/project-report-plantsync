@@ -771,7 +771,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td colspan="2">
-      <img src="ruta/al/screenshot.png" alt="Screenshot Entrevista" width="1000">
+      <img src="images/entrevista-pedro-vargas.png" alt="Screenshot Entrevista 2" width="1000">
     </td>
   </tr>
 </table>
@@ -1582,9 +1582,17 @@ El nombre PlantSync surge de la combinación de las palabras “Planta” y “S
 
 Los colores son importantes para una buena primera impresion con los usuarios, tomando esto en cuenta y guiandonos por la psicologia del color, hemos decido utilizar el color verde como color principal para nuestra plataforma. El verde simboliza crecimiento y prestigio, lo cual se alinea con los valores de nuestra startup, tambien el color se se vincula principalmente con lo vegetal, el cual se orienta directamente con nuestro proyecto. Como colores secundraios se utilizaran diferentes tonalidades de verde como el oscuro o mas claro para dar armonia en nuestro aproyecto, ademas de utilizar colores como marron, blanco y negro para diferentes apartados secundarios.
 
+<p align="center">
+  <img src="images/paleta-colore-plantsync.png" alt="Screenshot paleta colores" >
+</p>
+
 **Tipografia**
 
-La tipografia seleccionada aplica jerarquia y legibilidad en entornos web, estos siendo muy importantes para que ayuda al usuario a guiarse dentro de nuestra interfaz. Nuestro proyecto utilizara **"Poppins, con estilo Bold"** y **"Nunito, con estilo Regular"**.
+La tipografia seleccionada aplica jerarquia y legibilidad en entornos web, estos siendo muy importantes para que ayuda al usuario a guiarse dentro de nuestra interfaz. Nuestro proyecto utilizara **"Poppins"** y **"Nunito"**.
+
+<p align="center">
+  <img src="images/tipografia-plantsync.png" alt="Screenshot paleta colores" >
+</p>
 
 **Lenguaje Aplicado**
 
