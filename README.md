@@ -1785,9 +1785,97 @@ La página web ha sido diseñada con un enfoque minimalista e intuitivo, evitand
 
 ### 4.4. Web Applications UX/UI Design
 
-#### 4.4.1. Web Applications Wireframes
+#### 4.4.1. Web Applications Wireframes<br><br>
 
-#### 4.4.2. Web Applications Wireflow Diagrams
+Los wireframes desarrollados para la aplicación web de BioPafi evidencian una planificación centrada en el usuario, aplicando principios de diseño como claridad visual, jerarquía informativa, consistencia e inclusividad. Cada pantalla presenta una estructura limpia y ordenada, con encabezados visibles, elementos distribuidos por nivel de prioridad y navegación lateral constante, lo que facilita la orientación del usuario. Se prioriza el uso de etiquetas claras y botones de acción con alto contraste para favorecer la accesibilidad. El diseño considera a usuarios con distintos niveles de experiencia, ofreciendo formularios guiados para principiantes y paneles de información detallada para expertos. Además, se observa la correcta aplicación de la arquitectura de información en la categorización por módulos (Plantas, Guías, Tareas, ChatBot, Configuración), permitiendo al usuario encontrar lo que necesita sin esfuerzo. Cada vista refleja un entendimiento funcional y estético que responde a las necesidades específicas del público objetivo.
+
+[Enlace del figma](https://www.figma.com/design/5cSEKvg4XXUzsXTpOPJySb/PlantSync?node-id=42-2&t=aclI2b5Cp9Y2pn5i-1)
+
++ Mis Planta:
+
+Vista principal del usuario con el listado de todas sus plantas registradas. Desde aquí puede visualizar el estado general de cada planta, acceder a sus detalles, editarla o añadir una nueva.
+
+<p align="center">
+  <img src="images/wireframes/MisPlantas.png" alt="MisPlantas" width="1000">
+</p>
+
++ Guías:
+
+Catálogo de recomendaciones organizadas por tema (riego, luz, fertilizante, plagas). Permite a los usuarios consultar guías según sus necesidades o tipo de planta.
+
+<p align="center">
+  <img src="images/wireframes/Guias.png" alt="Guías" width="1000">
+</p>
+
++ Tareas:
+
+Sección tipo calendario que muestra los recordatorios programados para cada planta, incluyendo riegos, fertilización u otras tareas. Ayuda al usuario a organizar su rutina de cuidado.
+
+<p align="center">
+  <img src="images/wireframes/Tareas.png" alt="Tareas" width="1000">
+</p>
+
++ Chatbot:
+
+Vista principal del asistente virtual (RootBot), que permite al usuario iniciar una conversación para resolver dudas rápidas sobre el cuidado de plantas.
+
+<p align="center">
+  <img src="images/wireframes/ChatBot.png" alt="ChatBot" width="1000">
+</p>
+
++ Configuración personal
+
+Panel donde el usuario puede actualizar su información personal, configurar notificaciones y gestionar su tipo de suscripción (básico, PRO o premium).
+
+<p align="center">
+  <img src="images/wireframes/Configuracion.png" alt="Configuraciones" width="1000">
+</p>
+
++ Añadir Planta:
+
+Formulario guiado para registrar una nueva planta. Incluye campos como nombre personalizado, especie, fecha de adquisición y opción para activar notificaciones.
+
+<p align="center">
+  <img src="images/wireframes/AnadirPlanta.png" alt="AddPlanta" width="1000">
+</p>
+
++ Ver Guía:
+
+Pantalla con el contenido detallado de una guía específica, incluyendo instrucciones paso a paso, imágenes ilustrativas y recomendaciones prácticas.
+
+<p align="center">
+  <img src="images/wireframes/VerGuia.png" alt="VerGuia" width="1000">
+</p>
+
++ Chateando con ChatBot:
+
+Vista activa de la conversación con el bot. El usuario realiza preguntas relacionadas al cuidado o adquisición de plantas y recibe respuestas contextualizadas.
+
+<p align="center">
+  <img src="images/wireframes/ChateaConBot.png" alt="Chateando con RootBot" width="1000">
+</p>
+
++ Ver Planta:
+
+Pantalla detallada con toda la información de una planta específica, incluyendo foto, especie, historial de cuidado y recomendaciones por clima.
+
+<p align="center">
+  <img src="images/wireframes/VerPlantaEspecifica.png" alt="VerPlanta" width="1000">
+</p>
+
++ Ver historial de planta:
+
+Registro cronológico de las acciones realizadas sobre una planta (riego, fertilización, cambios de estado), acompañado de gráficas simples de humedad y evolución.
+
+<p align="center">
+  <img src="images/wireframes/VerHistorialPlanta.png" alt="Historial" width="1000">
+</p>
+
+<br><br>
+
+#### 4.4.2. Web Applications Wireflow Diagrams<br><br>
+
+
 
 #### 4.4.3. Web Applications Mock-ups
 
