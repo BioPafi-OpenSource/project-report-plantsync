@@ -897,6 +897,50 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
 </table>
 
+
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Estefano Solis</td></td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Cercado de Lima</td></td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a>Enlace</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: Estefano ha tenido experiencias previas cuidando plantas, aunque con dificultades. Su primera planta murió por falta de conocimiento, pero decidió intentarlo nuevamente con otra. Identifica como principales retos el olvido de regarlas, la confusión sobre la cantidad de luz necesaria y la falta de información clara y sencilla. Actualmente no usa apps ni comunidades para ayudarle, solo búsquedas ocasionales en Google que encuentra confusas. Le interesa una app que le brinde recordatorios de riego, consejos paso a paso y recomendaciones basadas en el clima local, siempre que sean simples de entender.Además, valora mucho funcionalidades como identificación de plantas por foto, guias o formularios visuales. Estaría dispuesto a pagar por funciones premium siempre que la app sea útil, fácil de usar y no demasiado costosa. Busca principalmente sentirse apoyado y guiado en su proceso como cuidador de plantas.
+<br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/entrevista-estefano-segmento2.png" alt="screenshot entrevista estefano" width="1000">
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 #### 2.2.3. Análisis de entrevistas
 
 ## _Analisis de entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):_
@@ -904,6 +948,8 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 ## _Analisis de entrevista para personas con poca experiencia en el cuidado de plantas:_
 
 ### 2.3. Needfinding
+
+Luego de realizar las entrevistas e identificar los problemas, necesidades y deseos de nuestro segmento objetivo, procedemos a crear nuestras User Persona, y demás artefactos relacionados a la experiencia del usario antes de conocer nuestra solución.
 
 #### 2.3.1. User Personas
 
