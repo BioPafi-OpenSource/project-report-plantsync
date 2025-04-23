@@ -1,4 +1,8 @@
-# Informe de Trabajo Final
+<h1 align="center">Informe de Trabajo Final</h1>
+
+<p align="center">
+  <img src="images/logoupc.png" alt="UPC logo" width="150">
+</p>
 
 **Universidad Peruana de Ciencias Aplicadas**
 
@@ -26,7 +30,7 @@
 |            | Gonzales Alvarado, Javier Sebastian |
 |            | Palomares Andrade, Sean Farith      |
 |            | Rivera Ratachi, Renzo Sebastian     |
-|            | Torres Apolinario, Giovany Smith    |
+| U202311601 | Torres Apolinario, Giovany Smith    |
 
 **Abril 2025**
 
@@ -34,13 +38,151 @@
 
 ## Registro de Versiones del Informe
 
-| **Versión** | **Fecha** | **Descripción de cambios** | **Autor(es)** |
-| ----------- | --------- | -------------------------- | ------------- |
-| 1.0         |           |                            |               |
+<table align="center">
+  <tr>
+    <td><strong>Versión</strong></td>
+    <td><strong>Fecha</strong></td>
+    <td><strong>Autor(es)</strong></td>
+    <td><strong>Descripción de cambios</strong></td>
+  </tr>
+    <tr>
+    <td>1.0</td>
+    <td>06/04/23</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Palomares, Torres
+    </td>
+    <td>...</td>
+  </tr>
+  </tr>
+  <tr>
+    <td>1.1</td>
+    <td>11/04/23</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Palomares, Torre
+    </td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>1.3</td>
+    <td>14/04/23</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Palomares, Torre
+    </td>
+    <td>...</td>
+  </tr>
+    <tr>
+    <td>1.4</td>
+    <td>16/04/23</td>
+    <td>
+    Palomino,<br>
+    Rivera,<br>
+    Palomares, Torre
+    </td>
+    <td>...</td>
+  </tr>
+    <tr>
+    <td>1.5</td>
+    <td>19/04/23</td>
+    <td>
+    Gonzales,<br>
+    Palomares
+    </td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>1.6</td>
+    <td>22/04/23</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Palomares, Torre
+    </td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>1.7</td>
+    <td>23/04/23</td>
+    <td>
+    Gonzales,<br>
+    Rivera
+    </td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>1.8</td>
+    <td>24/04/23</td>
+    <td>
+    Palomino,<br>
+    Torres
+    </td>
+    <td>...</td>
+  </tr>
+</table>
 
 ---
 
 ## Project Report Collaboration Insights
+
+**TB1**
+---
+
+<table align="center">
+  <tr>
+    <td><strong>Integrante</strong></td>
+    <td><strong>Tareas Asignadas</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Erick Palomino
+    </td>
+    <td>
+      ... 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Javier Gonzales
+    </td>
+    <td>
+      ...
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Renzo Rivera
+    </td>
+    <td>
+      ...
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Sean Palomares
+    </td>
+    <td>
+     ...
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Giovany Torres
+    </td>
+    <td>
+      ...
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -149,6 +291,62 @@
 
 ## Student Outcome
 
+<table align="center">
+  <tr>
+    <td><strong>Criterio</strong></td>
+    <td><strong>Acciones Realizadas</strong></td>
+    <td><strong>Conclusiones</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Comunica oralmente con efectividad a diferentes rangos de audiencia.
+    </td>
+    <td>
+      <strong>Javier Gonzales:</strong>
+      TB1 - ...
+      <br><br>
+      <strong>Erick Palomino:</strong>
+      TB1 - ...
+      <br><br>
+      <strong>Renzo Rivera:</strong>
+      TB1 – ...
+      <br><br>
+      <strong>Andres Coca:</strong>
+      TB1 - ...
+      <br><br>
+      <strong>Cesar Linares</strong>
+      TB1 – ...
+    </td>
+    <td>
+      El equipo demostró una gran unidad, distribuyendo roles de manera efectiva. Cada integrante tomó la iniciativa en partes cruciales del desarrollo del sistema, lo que resultó en productos finales coherentes y bien integrados. Las decisiones se tomaron en conjunto, siempre enfocadas en alcanzar las metas establecidas.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Comunica por escrito con efectividad a diferentes rangos de audiencia 
+    </td>
+    <td>
+      <strong>Javier Gonzales:</strong>
+      TB1 – ...
+      <br><br>
+      <strong>Erick Palomino:</strong>
+      TB1 – ....
+      <br><br>
+      <strong>Renzo Rivera:</strong>
+      TB1 – ...
+      <br><br>
+      <strong>Andres Coca:</strong>
+      TB1 – ...
+      <br><br>
+      <strong>Cesar Linares:</strong>
+      TB1 – ...
+    </td>
+    <td>
+      El equipo creó un ambiente de colaboración donde se valoró el papel, los plazos y las obligaciones de cada miembro. Fijamos metas realistas, mantuvimos una comunicación fluida y, gracias a un esfuerzo coordinado y de apoyo mutuo, completamos con éxito los objetivos de la primera entrega.
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Capítulo I: Introducción
@@ -171,11 +369,11 @@ Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas in
 
 | **Foto del Integrantes** | **Nombres y Apellidos**            | **Código de estudiante** | **Conocimientos técnicos y habilidades** |
 | ------------------------ | ---------------------------------- | ------------------------ | ---------------------------------------- |
-| 1                        | Erick Leonardo Palomino Fiestas    | U20231A500               | Conocimientos técnicos y habilidades     |
+| ![Imagen de Integrante Erick Palomino](/images/fotointegrante-erick-palomino.jpeg)                       | Erick Leonardo Palomino Fiestas    | U20231A500               | Hola, Soy Erick Leonardo Palomino Fiestas, un estudiante entusiasta de quinto ciclo en Ingeniería de Software. Mi conjunto de habilidades técnicas incluye C++, HTML, CSS, fundamentos de JavaScript y experiencia con bases de datos SQL y MongoDB. Me considero una persona responsable, con sólidas habilidades de comunicación para trabajar en equipo y una perspectiva optimista. También tengo un nivel básico de inglés.    |
 | 2                        | Javier Sebastian Gonzales Alvarado | Código de estudiante     | Conocimientos técnicos y habilidades     |
 | 3                        | Sean Farith Palomares Andrade      | Código de estudiante     | Conocimientos técnicos y habilidades     |
 | 4                        | Renzo Sebastian Rivera Ratachi     | Código de estudiante     | Conocimientos técnicos y habilidades     |
-| 5                        | Giovany Smith Torres Apolinario    | Código de estudiante     | Conocimientos técnicos y habilidades     |
+| ![Imagen de Integrante Giovany Torres](/images/fotointegrante-giovany.jpeg) | Giovany Smith Torres Apolinario    | U202311601 | Estoy cursando el quinto ciclo de mi carrera Ingeniería de Software, soy una persona responsable que le gusta resolver desafíos a la par con el trabajo  responsable y en equipo tengo la capacidad de líder y me gusta aprender nuevas cosas dia a dia.     |
 
 ### 1.2. Solution Profile
 
