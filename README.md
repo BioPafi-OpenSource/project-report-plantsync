@@ -863,37 +863,111 @@ Y le da click en "Guardar"</td>
 </tr>
 <tr>
 <td>US06</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Búsqueda de guías por temas o tipo</td>
+<td>Como usuario que necesita resolver una duda específica sobre el cuidado de mis plantas, quiero poder buscar guías dentro de la plataforma por nombre o palabra clave, para encontrar rápidamente la información que necesito sin tener que recorrer todo el catálogo.</td>
+<td>
+Escenario 1: Búsqueda con resultados
+
+Dado que estoy en la sección de guías,
+
+cuando ingreso un término relacionado con el cuidado en la barra de búsqueda,
+
+entonces el sistema muestra una lista de guías relevantes que contienen esa palabra clave.
+
+Escenario 2: Búsqueda sin resultados
+
+Dado que estoy buscando una guía específica,
+
+cuando ingreso una palabra que no coincide con ninguna guía,
+
+entonces se muestra un mensaje de “No se encontraron guías relacionadas”.
+</td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US07</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Visualización de guía específica</td>
+<td>Como usuario interesado en aprender a cuidar mejor mis plantas, quiero acceder a guías detalladas con pasos visuales e instrucciones específicas, para entender cómo aplicar correctamente los cuidados según el tipo de planta.</td>
+<td>
+Escenario 1: Acceso desde el catálogo
+
+Dado que estoy en la sección de guías,
+
+cuando hago clic en una tarjeta de guía,
+
+entonces se abre una vista con la guía completa, dividida en secciones de cuidado con imágenes y recomendaciones.
+</td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US08</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Consultas sobre cuidado al asistente RootBot</td>
+<td>Como usuario que tiene preguntas rápidas sobre el cuidado de mis plantas, quiero poder escribir mis consultas al chatbot dentro de la app, para recibir respuestas inmediatas y recomendaciones útiles sin salir del flujo de uso.</td>
+<td>
+Escenario 1: Pregunta básica sobre riego
+
+Dado que necesito saber cada cuánto regar una planta,
+
+cuando escribo “¿Cada cuánto riego una lavanda?” en el chat,
+
+entonces RootBot me responde con una recomendación y un enlace a la guía correspondiente.
+
+Escenario 2: Consulta sobre adquisición de plantas
+
+Dado que quiero saber dónde comprar una planta específica,
+
+cuando escribo “¿Dónde consigo una Monstera?”,
+
+entonces el bot responde con una sugerencia de viveros o marketplaces asociados.
+</td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US09</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Registro manual de tarea completada</td>
+<td>
+Como usuario que sigue un calendario de cuidado, quiero marcar una tarea como realizada, para llevar un registro actualizado del estado de mis plantas.
+</td>
+<td>
+Escenario 1: Registro de riego realizado
+
+Dado que estoy revisando mis tareas del día,
+
+cuando marco el riego como realizado,
+
+entonces la tarea se actualiza en el historial y cambia de color en el calendario actual.
+
+Escenario 2: Edición posterior del evento
+
+Dado que cometí un error al marcar una tarea,
+
+cuando clickeo la tarea nuevamente,
+
+entonces se cambia el estado a "No realizado".
+</td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US10</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Reprogramar tarea</td>
+<td>Como usuario que no puede realizar una tarea en la fecha prevista, quiero poder posponerla arrastrándola a otro día en el calendario, para reorganizar fácilmente mi rutina de cuidado sin perder el seguimiento.</td>
+<td>
+Escenario 1: Posponer mediante arrastre
+
+Dado que estoy en la vista de calendario,
+
+cuando arrastro una tarea (por ejemplo, “Riego”) a otra fecha,
+
+entonces se despliega un pop-up para definir la nueva hora y se guarda automáticamente el cambio.
+
+Escenario 2: Confirmación de reprogramación
+
+Dado que he modificado la fecha y hora de una tarea,
+
+cuando confirmo los datos en el pop-up,
+
+entonces el sistema actualiza la tarea y la nueva fecha aparece reflejada en el calendario.
+</td>
 <td>EP00</td>
 </tr>
 <tr>
