@@ -395,7 +395,6 @@ análisis?</td>
     </td>
     <td>
 
-
 * Gran cobertura de especies de plantas
 * Ofrece una seccion de diario para realizar el seguimiento de plantas
     </td>
@@ -428,6 +427,7 @@ Marketing</td>
     <td>
 
 Aparece en diversos blogs y paginas dedicadas a la jardineria.
+
 </td>
 <td>Contratar articulos en portales periodisticos para generar discusion sobre la aplicación</td>
 
@@ -451,7 +451,6 @@ Servicios</td>
 - Seguimiento constante del crecimiento.
 </td>
    <td>
-
 
 * Recordatorios que se establecen manualmente.
 * Identificacion de enfermedades.
@@ -685,12 +684,9 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### 2.2.1. Diseño de entrevistas
 
-
 #### 2.2.2. Registro de entrevistas
 
-
-#### 2.2.2. Registro de entrevistas  
-
+#### 2.2.2. Registro de entrevistas
 
 #### 2.2.3. Análisis de entrevistas
 
@@ -714,74 +710,50 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 ### 3.1. To-Be Scenario Mapping
 
-
 ### 3.2. User Stories
 
-#### Epics
-
-<table border ="1" >
+<table border="1">
   <tbody>
     <tr>
-      <td>Epic ID</td>
+      <td>Epic/User Story ID</td>
       <td>Título</td>
       <td>Descripción</td>
+      <td>Criterios de Aceptación</td>
+      <td>Relacionado con Epic ID</td>
     </tr>
     <tr>
-      <td>01</td>
+      <td>EP00</td>
       <td></td>
       <td></td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
     </tr>
     <tr>
-      <td>02</td>
+      <td>EP00</td>
       <td></td>
       <td></td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
     </tr>
     <tr>
-      <td>03</td>
+      <td>EP00</td>
       <td></td>
       <td></td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
     </tr>
     <tr>
-      <td>04</td>
+      <td>EP00</td>
       <td></td>
       <td></td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
     </tr>
     <tr>
-      <td>05</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>06</td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-#### User Stories
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>01</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">Inicio sesión de usuario</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta y mis plantas monitoreadas.</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">Escenario 1: Inicio de sesión exitoso
+      <td>US01</td>
+      <td>Inicio sesión de usuario</td>
+      <td>Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta y mis plantas monitoreadas.</td>
+      <td>Escenario 1: Inicio de sesión exitoso
 
 Dado que el usuario ingresó su correo y contraseña correctamente
 
@@ -804,58 +776,28 @@ Dado que el usuario dejó el correo o la contraseña vacíos
 Cuando intenta iniciar sesión
 
 Entonces el sistema muestra un mensaje: "Por favor, completa todos los campos"</td>
-    </tr>
-  </tbody>
-</table>
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>02</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">Edición del perfil del usuario</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">Como usuario que inicio sesión, quiero editar mi nombre, imagen, correo y contraseña de mi perfil, para mantener mi información actualizada.</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">Escenario 1: Edición exitosa
+<td>EP00</td>
+</tr>
+<tr>
+<td>US02</td>
+<td>Edición del perfil del usuario</td>
+<td>Como usuario que inicio sesión, quiero editar mi nombre, imagen, correo y contraseña de mi perfil, para mantener mi información actualizada.</td>
+<td>Escenario 1: Edición exitosa
 
 Dado que el usuario está autenticado
 
 Cuando actualiza algún dato y guarda
 
 Entonces el sistema muestra "Perfil actualizado correctamente"</td>
-    </tr>
-  </tbody>
-</table>
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>03</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">Visualización de tareas de cuidado</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">Como usuario con plantas registradas, quiero ver las tareas pendientes de cuidado, para saber qué debo hacer cada día.</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">Escenario 1: Tareas del día visibles
+<td>EP00</td>
+</tr>
+<tr>
+<td>US03</td>
+<td>Visualización de tareas de cuidado</td>
+<td>Como usuario con plantas registradas, quiero ver las tareas pendientes de cuidado, para saber qué debo hacer cada día.</td>
+<td>Escenario 1: Tareas del día visibles
 
 Dado que el usuario tiene tareas programadas
 
@@ -870,29 +812,14 @@ Dado que no hay tareas para hoy
 Cuando entra al panel
 
 Entonces se muestra el mensaje: "No hay tareas para hoy"</td>
-    </tr>
-  </tbody>
-</table>
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>04</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">Evaluación visual asistida de planta</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">Como usuario con sesión iniciada, quiero llenar un formulario guiado sobre el estado de mi planta, para que la app me ayude a monitorear mi planta.</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">Escenario 1: Evaluación completada con guía
+<td>EP00</td>
+</tr>
+<tr>
+<td>US04</td>
+<td>Evaluación visual asistida de planta</td>
+<td>Como usuario con sesión iniciada, quiero llenar un formulario guiado sobre el estado de mi planta, para que la app me ayude a monitorear mi planta.</td>
+<td>Escenario 1: Evaluación completada con guía
 
 Dado que el usuario entra al formulario
 
@@ -907,29 +834,14 @@ Dado que no llenó todos los pasos del formulario
 Cuando intenta evaluar
 
 Entonces el sistema muestra: “Por favor, completa todos los pasos para continuar”</td>
-    </tr>
-  </tbody>
-</table>
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>05</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">Calendario de tareas y cuidados</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">Como usuario con plan Premium o Pro, quiero ver un calendario con las tareas programadas, para organizarme mejor en el cuidado de mis plantas.</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">Escenario 1: Ver calendario mensual/semanal
+<td>EP00</td>
+</tr>
+<tr>
+<td>US05</td>
+<td>Calendario de tareas y cuidados</td>
+<td>Como usuario con plan Premium o Pro, quiero ver un calendario con las tareas programadas, para organizarme mejor en el cuidado de mis plantas.</td>
+<td>Escenario 1: Ver calendario mensual/semanal
 
 Dado que el usuario tiene tareas registradas
 
@@ -946,467 +858,185 @@ Cuando el usuario le da "click" al boton "Añadir" en el calendario
 Entonces se le mostrara formulario para que añada recordatorio o tarea
 
 Y le da click en "Guardar"</td>
-    </tr>
-  </tbody>
-</table>
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>06</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US06</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US07</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US08</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US09</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US10</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US11</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US13</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US14</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US16</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US17</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US18</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US19</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US20</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US21</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US22</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US23</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US24</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US25</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US26</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US27</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US28</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US29</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US30</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>07</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>08</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>09</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>10</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>11</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>12</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>13</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>14</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>15</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>16</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>17</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>18</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>19</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>20</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>21</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>22</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>23</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>24</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>25</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
   </tbody>
 </table>
 
