@@ -735,7 +735,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### 2.2.2. Registro de entrevistas
 
-## _Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):_
+## _Expertos cuidadores de plantas_
 
 <br>
 
@@ -749,7 +749,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>23</td>
+    <td>23 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
@@ -757,11 +757,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>00:01 min - 06:56 min</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td><a href=https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=zNWoI7 target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -771,7 +771,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td colspan="2">
-      <img src="ruta/al/screenshot.png" alt="Screenshot Entrevista" width="1000">
+      <img src="images/entrevista-pedro-vargas.png" alt="Screenshot Entrevista" width="1000">
     </td>
   </tr>
 </table>
@@ -780,7 +780,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <table align="center">
   <tr>
-    <th colspan="2" style="text-align:center">Entrevista 1</th>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
   </tr>
   <tr>
     <td><strong>Entrevistada</strong></td>
@@ -788,7 +788,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>60</td>
+    <td>60 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
@@ -796,11 +796,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>12:32 min - 17:26 min</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo3NTMsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=lpsIGE" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -819,7 +819,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <table align="center">
   <tr>
-    <th colspan="2" style="text-align:center">Entrevista 1</th>
+    <th colspan="2" style="text-align:center">Entrevista 3</th>
   </tr>
   <tr>
     <td><strong>Entrevistada</strong></td>
@@ -827,7 +827,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>52</td>
+    <td>52 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
@@ -835,11 +835,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>06:57 min - 12:32 min</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo0MTcsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=yHr5ik" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -856,7 +856,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <br>
 
-## _Entrevista para personas con poca experiencia en el cuidado de plantas:_
+## _Principiantes cuidadores de plantas:_
 
 <br>
 
@@ -878,11 +878,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>21:58 min - 25:38 min</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121947_upc_edu_pe/ERhrlKdvktpBk-hLHI8L0PcB9Mymfc-Hg1bXNzltJaevpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jC4E8f">Enlace</a></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMzE4LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=ZeOch2" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -901,7 +901,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <table align="center">
   <tr>
-    <th colspan="2" style="text-align:center">Entrevista 1</th>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
   </tr>
   <tr>
     <td><strong>Entrevistado</strong></td>
@@ -917,11 +917,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>17:26 min - 21:57 min</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td><a>Enlace</a></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMDQ2LjEwNywidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=5zMtIe" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -936,16 +936,49 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
 </table>
 
-
-
-
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 3</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>...</td></td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>... años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>...</td></td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>21:58 min - 30:27 min</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTM5LjU1OCwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=hyfQVq" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: 
+<br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/entrevista-andrea-santur.png" alt="screenshot andrea santur" width="1000">
+    </td>
+  </tr>
+</table>
 
 
 #### 2.2.3. Análisis de entrevistas
 
-## _Analisis de entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):_
+## _Analisis de entrevista para Expertos cuidadores de plantas:_
 
-## _Analisis de entrevista para personas con poca experiencia en el cuidado de plantas:_
+## _Analisis de entrevista para Principiantes cuidadores de plantas:_
 
 ### 2.3. Needfinding
 
