@@ -1452,46 +1452,86 @@ entonces se despliega un pop-up para definir la nueva hora y se guarda automáti
 Escenario 2: Confirmación de reprogramación
 
 Dado que he modificado la fecha y hora de una tarea,
-
 cuando confirmo los datos en el pop-up,
-
 entonces el sistema actualiza la tarea y la nueva fecha aparece reflejada en el calendario.
 </td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US11</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Registrarse en la app</td>
+<td>Como usuario quiero registrarme en la app para crear mi cuenta y acceder a sus funcionalidades</td>
+<td>Escenario 1: Posponer mediante arrastre
+Dado que el usuario está en la pantalla de registro
+cuando ingrese sus datos en los campos requeridos (Nombre, apellidos, correo y contraseña)
+Y le da click al botón Registrarse
+entonces la cuenta se crea correctamente.
+
+<br>
+Escenario 2: Usuario falla al registrar la cuenta
+Dado que el usuario está en la pantalla de registro
+cuando ingrese no ingrese los datos completamente
+Y le da click al botón Registrarse
+entonces la cuenta no se crea.
+</td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US12</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Crear perfil de planta</td>
+<td> <strong>Como </strong>usuario, <strong>quiero</strong> crear un perfil de cada una de mis plantas <strong>para</strong> poder llevar un registro de sus cuidados</td>
+<td> Escenario 1: Usuario crea perfil de planta
+<strong>Dado que</strong> el usuario se encuentra en el apartado de "Mis plantas", <strong>cuando</strong> selecciona la opcion "Agregar Planta" <strong>Y</strong> completa la información requerida  <strong>Y</strong> hace click en "Añadir" 
+<strong>Entonces</strong> el perfil se crea correctamente.
+
+<br>
+<td> Escenario 2: Usuario crea perfil de planta
+<strong>Dado que</strong> el usuario se encuentra en el apartado de "Mis plantas", <strong>cuando</strong> selecciona la opcion "Agregar Planta" <strong>Y</strong> solo introduce parcialmente la información <strong>Y</strong> hace click en "Añadir" 
+<strong>Entonces</strong> el perfil no se crea.
+
+</td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US13</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Editar perfil de planta</td>
+<td><strong>Como</strong> usuario <strong> quiero</strong> editar el perfil de mi planta <strong> para</strong> corregir algún error que haya cometido   </td>
+<td>Scenario 1: Usuario edita el perfil de una planta
+
+<strong>Dado que</strong> el usuario se encuentra en el perfil de una planta, <strong>cuando</strong> selecciona la opcion "Editar" <strong>Y</strong> edita la información que desea  <strong>Y</strong> hace click en "Guardar" 
+<strong>Entonces</strong> el perfil se edita correctamente.
+
+  </td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US14</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Eliminar perfil de planta</td>
+<td><strong>Como</strong> usuario, <strong>quiero</strong> eliminar los perfiles de las plantas que ya no poseo <strong>para</strong> mantener mi colección actualizada</td>
+<td>    
+Scenario 1: Usuario elimina el perfil de una planta
+
+<strong>Dado que</strong> el usuario se encuentra en el perfil de una planta, <strong>cuando</strong> selecciona la opcion "Borrar" <strong>Y</strong> hace click en "Sí, deseo borrar el perfil"
+<strong>Entonces</strong> el perfil de la planta se borra correctamente.
+
+Scenario 2: Usuario cancela el borrado de perfil de planta
+
+<strong>Dado que</strong> el usuario se encuentra en el perfil de una planta, <strong>cuando</strong> selecciona la opcion "Borrar" <strong>Y</strong> hace click en "Cancelar"
+<strong>Entonces</strong> el perfil de la planta se mantiene en la cuenta del usuario.
+ 
+
+
+</td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US15</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Acceder a perfil de planta</td>
+<td> <strong>Como</strong> usuario, <strong>quiero</strong> acceder a los perfiles de las plantas que poseo <strong>para</strong> ver su información actual </td>
+<td> Scenario 1: Usuario accede al perfil de una planta
+
+<strong>Dado que</strong> el usuario se encuentra en el apartado "Mis plantas", <strong>cuando</strong> hace click en los cards de perfiles de planta
+<strong>Entonces</strong> el  usuario es dirigido al perfil de la planta seleccionada</td>
 <td>EP00</td>
 </tr>
 <tr>
