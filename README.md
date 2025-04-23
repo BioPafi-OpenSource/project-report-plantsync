@@ -1624,6 +1624,10 @@ El encabezado de la pagina web tendra el logo de nuestro proyecto en la posicion
 
 En el pie de página se incluirán los distintos medios de contacto disponibles, como teléfonos de atención al cliente, redes sociales y correos electrónicos. Además, se integrarán los diferentes apartados del encabezado para facilitar la navegación desde cualquier sección del sitio.
 
+<p align="center">
+  <img src="images/landingpage-styleguidelines.png" alt="Screenshot landing page" >
+</p>
+
 ### 4.2. Information Architecture
 
 #### 4.2.1. Organization Systems
