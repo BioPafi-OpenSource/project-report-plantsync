@@ -395,7 +395,6 @@ análisis?</td>
     </td>
     <td>
 
-
 * Gran cobertura de especies de plantas
 * Ofrece una seccion de diario para realizar el seguimiento de plantas
     </td>
@@ -427,6 +426,7 @@ Marketing</td>
     <td>
 
 Aparece en diversos blogs y paginas dedicadas a la jardineria.
+
 </td>
 <td>Contratar articulos en portales periodisticos para generar discusion sobre la aplicación</td>
 
@@ -450,7 +450,6 @@ Servicios</td>
 - Seguimiento constante del crecimiento.
 </td>
    <td>
-
 
 * Recordatorios que se establecen manualmente.
 * Identificacion de enfermedades.
@@ -608,9 +607,10 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 - Utilizar entrevistas para planificar el movimiento de nuestros usuarios a traves de la app.
 
+#### 2.1.2. Estrategias y tácticas frente a competidores
 
-#### 2.1.2. Estrategias y tácticas frente a competidores  
 =======
+
 ## Afrontando las debilidades de nuestros competidores:
 
 - Acceso limitado a varias de sus funciones en algunos modelos de pago.
@@ -683,14 +683,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 - Implementar recordatorios automaticos para mejorar la experiencia del usuario.
 - Evitar prácticas de monetización invasivas y comunicar de forma transparente cómo se usan los datos del usuario.
 
-
 ### 2.2. Entrevistas
 
 #### 2.2.1. Diseño de entrevistas
 
-
 #### 2.2.2. Registro de entrevistas
-
 
 **Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):**
 
@@ -712,7 +709,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 **9.-** ¿Hay alguna función avanzada que te encantaría tener en una app para potenciar tu experiencia como cuidador de plantas?
 
-**10.-** ¿Estarías dispuesto/a  pagar por una suscripción que te ofrezca mas ayudas para el cuidado de tus plantas? (podría cambiar)
+**10.-** ¿Estarías dispuesto/a pagar por una suscripción que te ofrezca mas ayudas para el cuidado de tus plantas? (podría cambiar)
 
 **Entrevista para personas con poca experiencia en el cuidado de plantas:**
 
@@ -736,10 +733,10 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 **10.-** ¿Estarías dispuesto/a a pagar por funciones premium que mejoren tu experiencia? ¿Qué tendría que ofrecer una app para que valga la pena pagarla?
 
-#### 2.2.2. Registro de entrevistas  
+#### 2.2.2. Registro de entrevistas
 
-*Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):*
----
+## _Expertos cuidadores de plantas_
+
 <br>
 
 <table align="center">
@@ -752,7 +749,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>23</td>
+    <td>23 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
@@ -760,11 +757,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>00:01 min - 06:56 min</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td><a href=https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=zNWoI7 target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -774,17 +771,16 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td colspan="2">
-      <img src="ruta/al/screenshot.png" alt="Screenshot Entrevista" width="1000">
+      <img src="images/entrevista-pedro-vargas.png" alt="Screenshot Entrevista" width="1000">
     </td>
   </tr>
 </table>
-
 
 <br>
 
 <table align="center">
   <tr>
-    <th colspan="2" style="text-align:center">Entrevista 1</th>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
   </tr>
   <tr>
     <td><strong>Entrevistada</strong></td>
@@ -792,7 +788,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>60</td>
+    <td>60 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
@@ -800,11 +796,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>12:32 min - 17:26 min</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo3NTMsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=lpsIGE" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -823,7 +819,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <table align="center">
   <tr>
-    <th colspan="2" style="text-align:center">Entrevista 1</th>
+    <th colspan="2" style="text-align:center">Entrevista 3</th>
   </tr>
   <tr>
     <td><strong>Entrevistada</strong></td>
@@ -831,7 +827,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>52</td>
+    <td>52 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
@@ -839,11 +835,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>06:57 min - 12:32 min</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo0MTcsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=yHr5ik" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -860,8 +856,8 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <br>
 
-*Entrevista para personas con poca experiencia en el cuidado de plantas:*
----
+## _Principiantes cuidadores de plantas:_
+
 <br>
 
 <table align="center">
@@ -869,50 +865,124 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
     <th colspan="2" style="text-align:center">Entrevista 1</th>
   </tr>
   <tr>
-    <td><strong>Entrevistada</strong></td>
-    <td>...o</td>
+    <td><strong>Entrevistado</strong></td>
+    <td>Alejandro Flores</td></td>
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>...</td>
+    <td>20 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
-    <td>...</td>
+    <td>Chorrillos</td></td>
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>21:58 min - 25:38 min</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMzE4LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=ZeOch2" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
       Resumen:<br>
-      ....
+      Alejandro Flores de 20 años, vive en un departamento en Lima y comenzó a interesarse por las plantas a inicios del 2025, especialmente por los bonsáis frutales. Cuenta que su experiencia inicial fue algo problemática, debido a que no sabía cómo cuidar correctamente de sus plantas, una de ellas murio por exceso de riego. También mencionó que algunas plantas reaccionan mal al agua del caño, lo que lo sorprendió. Uno de sus mayores retos es identificar el momento adecuado para regar. Además, no tiene claro cuánta luz necesitan sus plantas. Aunque ha buscado algunos consejos en internet y blogs, no ha usado apps específicas. Alejandro se mostró interesado en una app que brinde recordatorios de riego y sugerencias simples, ya que lo ayudaría a crear un hábito y cuidar mejor sus plantas. También le llama la atención la idea de recibir recomendaciones basadas en el clima local y poder identificar plantas, ya que muchas veces encuentra especies que le gustan pero no sabe cómo se llaman. Además le gustaría contar con guías sobre trasplante y recordatorios relacionados a esos cuidados. Finalmente, dijo que estaría dispuesto a pagar por funciones premium, siempre que le ofrezcan herramientas que le ayuden a evitar que sus plantas mueran.
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="images/ejemplo.png" alt="UPC logo" width="1000">
+      <img src="images/entrevista-alejandro-segmento2.png" alt="screenshot entrevista alejandro" width="1000">
     </td>
   </tr>
 </table>
 
-#### 2.2.3. Análisis de entrevistas  
-
-*Analisis de entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):*
----
-
-*Analisis de entrevista para personas con poca experiencia en el cuidado de plantas:*
----
 
 
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Estefano Solis</td></td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Cercado de Lima</td></td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>17:26 min - 21:57 min</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMDQ2LjEwNywidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=5zMtIe" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: Estefano ha tenido experiencias previas cuidando plantas, aunque con dificultades. Su primera planta murió por falta de conocimiento, pero decidió intentarlo nuevamente con otra. Identifica como principales retos el olvido de regarlas, la confusión sobre la cantidad de luz necesaria y la falta de información clara y sencilla. Actualmente no usa apps ni comunidades para ayudarle, solo búsquedas ocasionales en Google que encuentra confusas. Le interesa una app que le brinde recordatorios de riego, consejos paso a paso y recomendaciones basadas en el clima local, siempre que sean simples de entender.Además, valora mucho funcionalidades como identificación de plantas por foto, guias o formularios visuales. Estaría dispuesto a pagar por funciones premium siempre que la app sea útil, fácil de usar y no demasiado costosa. Busca principalmente sentirse apoyado y guiado en su proceso como cuidador de plantas.
+<br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/entrevista-estefano-segmento2.png" alt="screenshot entrevista estefano" width="1000">
+    </td>
+  </tr>
+</table>
 
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 3</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>...</td></td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>... años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>...</td></td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>21:58 min - 30:27 min</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTM5LjU1OCwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=hyfQVq" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: 
+<br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/entrevista-andrea-santur.png" alt="screenshot andrea santur" width="1000">
+    </td>
+  </tr>
+</table>
+
+
+#### 2.2.3. Análisis de entrevistas
+
+## _Analisis de entrevista para Expertos cuidadores de plantas:_
+
+## _Analisis de entrevista para Principiantes cuidadores de plantas:_
 
 ### 2.3. Needfinding
+
+Luego de realizar las entrevistas e identificar los problemas, necesidades y deseos de nuestro segmento objetivo, procedemos a crear nuestras User Persona, y demás artefactos relacionados a la experiencia del usario antes de conocer nuestra solución.
 
 #### 2.3.1. User Personas
 
@@ -931,7 +1001,6 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 ## Capítulo III: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
-
 
 ### 3.2. User Stories
 
