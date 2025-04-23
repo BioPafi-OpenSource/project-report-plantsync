@@ -885,8 +885,6 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### 2.2.1. Diseño de entrevistas
 
-#### 2.2.2. Registro de entrevistas
-
 **Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):**
 
 **1.-** ¿Cuántos años llevas cuidando plantas en casa y cómo comenzó tu interés?
@@ -1172,6 +1170,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 </table>
 
 
+
 #### 2.2.3. Análisis de entrevistas
 
 ## _Analisis de entrevista para Expertos cuidadores de plantas:_
@@ -1202,624 +1201,404 @@ Luego de realizar las entrevistas e identificar los problemas, necesidades y des
 
 ### 3.2. User Stories
 
-#### Epics
-
-<table border ="1" >
+<table border="1">
   <tbody>
     <tr>
-      <td>Epic ID</td>
+      <td>Epic/User Story ID</td>
       <td>Título</td>
       <td>Descripción</td>
+      <td>Criterios de Aceptación</td>
+      <td>Relacionado con Epic ID</td>
     </tr>
     <tr>
-      <td>01</td>
+      <td>EP00</td>
       <td></td>
       <td></td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
     </tr>
     <tr>
-      <td>02</td>
+      <td>EP00</td>
       <td></td>
       <td></td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
     </tr>
     <tr>
-      <td>03</td>
+      <td>EP00</td>
       <td></td>
       <td></td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
     </tr>
     <tr>
-      <td>04</td>
+      <td>EP00</td>
       <td></td>
       <td></td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
     </tr>
     <tr>
-      <td>05</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>06</td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+      <td>US01</td>
+      <td>Inicio sesión de usuario</td>
+      <td>Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta y mis plantas monitoreadas.</td>
+      <td>Escenario 1: Inicio de sesión exitoso
 
----
+Dado que el usuario ingresó su correo y contraseña correctamente
 
-#### User Stories
+Cuando presiona el botón "Iniciar sesión"
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>01</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Entonces el sistema lo redirige a su panel principal
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>02</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Escenario 2: Credenciales incorrectas
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>03</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Dado que el usuario ingresó mal su contraseña o correo
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>04</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Cuando presiona "Iniciar sesión"
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>05</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Entonces el sistema muestra el mensaje: "Correo o contraseña incorrectos"
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>06</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Escenario 3: Campos vacíos
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>07</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Dado que el usuario dejó el correo o la contraseña vacíos
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>08</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Cuando intenta iniciar sesión
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>09</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Entonces el sistema muestra un mensaje: "Por favor, completa todos los campos"</td>
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>10</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US02</td>
+<td>Edición del perfil del usuario</td>
+<td>Como usuario que inicio sesión, quiero editar mi nombre, imagen, correo y contraseña de mi perfil, para mantener mi información actualizada.</td>
+<td>Escenario 1: Edición exitosa
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>11</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Dado que el usuario está autenticado
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>12</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Cuando actualiza algún dato y guarda
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>13</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Entonces el sistema muestra "Perfil actualizado correctamente"</td>
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>14</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US03</td>
+<td>Visualización de tareas de cuidado</td>
+<td>Como usuario con plantas registradas, quiero ver las tareas pendientes de cuidado, para saber qué debo hacer cada día.</td>
+<td>Escenario 1: Tareas del día visibles
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>15</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Dado que el usuario tiene tareas programadas
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>16</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Cuando entra al panel principal o calendario
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>17</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Entonces se muestra la lista de tareas del día
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>18</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Escenario 2: Sin tareas pendientes
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>19</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Dado que no hay tareas para hoy
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>20</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Cuando entra al panel
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>21</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Entonces se muestra el mensaje: "No hay tareas para hoy"</td>
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>22</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US04</td>
+<td>Evaluación visual asistida de planta</td>
+<td>Como usuario con sesión iniciada, quiero llenar un formulario guiado sobre el estado de mi planta, para que la app me ayude a monitorear mi planta.</td>
+<td>Escenario 1: Evaluación completada con guía
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>23</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Dado que el usuario entra al formulario
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>24</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
-  </tbody>
-</table>
+Cuando responde las preguntas guiadas (como color de hojas, humedad, etc.)
 
-<table border ="1" >
-  <tbody>
-    <tr>
-      <td>User Story ID</td>
-      <td>25</td>
-      <td>Epic ID</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Title</td>
-      <td colspan="3">titulo</td>
-    </tr>
-    <tr>
-      <td>Description</td>
-      <td colspan="3">descripcion</td>
-    </tr>
-    <tr>
-      <td>Aceptance Criteria</td>
-      <td colspan="3">criterios</td>
-    </tr>
+Entonces el sistema muestra una evaluación y le ayuda a monitorear su planta
+
+Escenario 2: Campos incompletos
+
+Dado que no llenó todos los pasos del formulario
+
+Cuando intenta evaluar
+
+Entonces el sistema muestra: “Por favor, completa todos los pasos para continuar”</td>
+
+<td>EP00</td>
+</tr>
+<tr>
+<td>US05</td>
+<td>Calendario de tareas y cuidados</td>
+<td>Como usuario con plan Premium o Pro, quiero ver un calendario con las tareas programadas, para organizarme mejor en el cuidado de mis plantas.</td>
+<td>Escenario 1: Ver calendario mensual/semanal
+
+Dado que el usuario tiene tareas registradas
+
+Cuando entra a la sección de calendario
+
+Entonces puede ver las tareas organizadas por día
+
+Escenario 2: Añadir recordatorio o tarea en calendario
+
+Dado que el usuario quiere añadir un recordatorio o tarea al calendario
+
+Cuando el usuario le da "click" al boton "Añadir" en el calendario
+
+Entonces se le mostrara formulario para que añada recordatorio o tarea
+
+Y le da click en "Guardar"</td>
+
+<td>EP00</td>
+</tr>
+<tr>
+<td>US06</td>
+<td>Búsqueda de guías por temas o tipo</td>
+<td>Como usuario que necesita resolver una duda específica sobre el cuidado de mis plantas, quiero poder buscar guías dentro de la plataforma por nombre o palabra clave, para encontrar rápidamente la información que necesito sin tener que recorrer todo el catálogo.</td>
+<td>
+Escenario 1: Búsqueda con resultados
+
+Dado que estoy en la sección de guías,
+
+cuando ingreso un término relacionado con el cuidado en la barra de búsqueda,
+
+entonces el sistema muestra una lista de guías relevantes que contienen esa palabra clave.
+
+Escenario 2: Búsqueda sin resultados
+
+Dado que estoy buscando una guía específica,
+
+cuando ingreso una palabra que no coincide con ninguna guía,
+
+entonces se muestra un mensaje de “No se encontraron guías relacionadas”.
+</td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US07</td>
+<td>Visualización de guía específica</td>
+<td>Como usuario interesado en aprender a cuidar mejor mis plantas, quiero acceder a guías detalladas con pasos visuales e instrucciones específicas, para entender cómo aplicar correctamente los cuidados según el tipo de planta.</td>
+<td>
+Escenario 1: Acceso desde el catálogo
+
+Dado que estoy en la sección de guías,
+
+cuando hago clic en una tarjeta de guía,
+
+entonces se abre una vista con la guía completa, dividida en secciones de cuidado con imágenes y recomendaciones.
+</td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US08</td>
+<td>Consultas sobre cuidado al asistente RootBot</td>
+<td>Como usuario que tiene preguntas rápidas sobre el cuidado de mis plantas, quiero poder escribir mis consultas al chatbot dentro de la app, para recibir respuestas inmediatas y recomendaciones útiles sin salir del flujo de uso.</td>
+<td>
+Escenario 1: Pregunta básica sobre riego
+
+Dado que necesito saber cada cuánto regar una planta,
+
+cuando escribo “¿Cada cuánto riego una lavanda?” en el chat,
+
+entonces RootBot me responde con una recomendación y un enlace a la guía correspondiente.
+
+Escenario 2: Consulta sobre adquisición de plantas
+
+Dado que quiero saber dónde comprar una planta específica,
+
+cuando escribo “¿Dónde consigo una Monstera?”,
+
+entonces el bot responde con una sugerencia de viveros o marketplaces asociados.
+</td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US09</td>
+<td>Registro manual de tarea completada</td>
+<td>
+Como usuario que sigue un calendario de cuidado, quiero marcar una tarea como realizada, para llevar un registro actualizado del estado de mis plantas.
+</td>
+<td>
+Escenario 1: Registro de riego realizado
+
+Dado que estoy revisando mis tareas del día,
+
+cuando marco el riego como realizado,
+
+entonces la tarea se actualiza en el historial y cambia de color en el calendario actual.
+
+Escenario 2: Edición posterior del evento
+
+Dado que cometí un error al marcar una tarea,
+
+cuando clickeo la tarea nuevamente,
+
+entonces se cambia el estado a "No realizado".
+</td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US10</td>
+<td>Reprogramar tarea</td>
+<td>Como usuario que no puede realizar una tarea en la fecha prevista, quiero poder posponerla arrastrándola a otro día en el calendario, para reorganizar fácilmente mi rutina de cuidado sin perder el seguimiento.</td>
+<td>
+Escenario 1: Posponer mediante arrastre
+
+Dado que estoy en la vista de calendario,
+
+cuando arrastro una tarea (por ejemplo, “Riego”) a otra fecha,
+
+entonces se despliega un pop-up para definir la nueva hora y se guarda automáticamente el cambio.
+
+Escenario 2: Confirmación de reprogramación
+
+Dado que he modificado la fecha y hora de una tarea,
+
+cuando confirmo los datos en el pop-up,
+
+entonces el sistema actualiza la tarea y la nueva fecha aparece reflejada en el calendario.
+</td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US11</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US13</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US14</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US16</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US17</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US18</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US19</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US20</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US21</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US22</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US23</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US24</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US25</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US26</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US27</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US28</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US29</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
+<tr>
+<td>US30</td>
+<td></td>
+<td></td>
+<td></td>
+<td>EP00</td>
+</tr>
   </tbody>
 </table>
 
