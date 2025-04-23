@@ -968,8 +968,8 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <img src="images/entrevista-pedro-vargas.png" alt="Screenshot Entrevista" width="1000">
+<td colspan="2">
+  <img src="images/entrevista-pedro-vargas.png" alt="Screenshot Entrevista 2" width="1000">
     </td>
   </tr>
 </table>
@@ -1837,7 +1837,73 @@ Luego de realizar las entrevistas e identificar los problemas, necesidades y des
 
 #### 4.1.1. General Style Guidelines
 
+**Branding**
+
+**Brand Overview:**
+
+Nuestra startup, "BioPafi", nace con el propósito de brindar soluciones innovadoras para el cuidado de plantas en el hogar y con ello impulsando un cambio ambiental, combinando el poder las ultimas tecnologias. Nuestro primer producto es "PlantSync", una aplicación web y móvil que permite a los usuarios monitorear el estado de sus plantas de interior, registrarlas, recibir notificaciones de riego y fertilización, acceder a guías de cuidado y hasta identificar plantas mediante fotos.
+
+**Visión:**
+
+En 5 años, convertirnos en líderes en tecnología ambiental aplicada al hogar en América Latina, destacándonos por la calidad, accesibilidad e innovación de nuestros productos y servicios.
+
+**Misión:**
+
+Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas inteligentes, contribuyendo al bienestar ambiental y al fortalecimiento del vínculo de las personas con la naturaleza
+
+**Brand Name:**
+
+El nombre PlantSync surge de la combinación de las palabras “Planta” y “Sincronización”, haciendo referencia a la conexión entre la tecnología y el cuidado vegetal. Esta propuesta responde al dilema del cuidado adecuado de plantas en el hogar. En ese sentido, la aplicación se centra en ofrecer una plataforma intuitiva que automatiza y personaliza el cuidado doméstico de las plantas, contribuyendo a la creación de entornos más verdes, saludables y sostenibles dentro del hogar.
+
+**Colores:**
+
+Los colores son importantes para una buena primera impresion con los usuarios, tomando esto en cuenta y guiandonos por la psicologia del color, hemos decido utilizar el color verde como color principal para nuestra plataforma. El verde simboliza crecimiento y prestigio, lo cual se alinea con los valores de nuestra startup, tambien el color se se vincula principalmente con lo vegetal, el cual se orienta directamente con nuestro proyecto. Como colores secundraios se utilizaran diferentes tonalidades de verde como el oscuro o mas claro para dar armonia en nuestro aproyecto, ademas de utilizar colores como marron, blanco y negro para diferentes apartados secundarios.
+
+<p align="center">
+  <img src="images/paleta-colore-plantsync.png" alt="Screenshot paleta colores" >
+</p>
+
+**Tipografia**
+
+La tipografia seleccionada aplica jerarquia y legibilidad en entornos web, estos siendo muy importantes para que ayuda al usuario a guiarse dentro de nuestra interfaz. Nuestro proyecto utilizara **"Poppins"** y **"Nunito"**.
+
+<p align="center">
+  <img src="images/tipografia-plantsync.png" alt="Screenshot paleta colores" >
+</p>
+
+**Lenguaje Aplicado**
+
+El lenguaje utilizado en la web sera sencillo y amigable, el cual se podra entender entre usuarios que recien inician en el cuidado de las plantas y usuarios con años de experiencia. El tono utilizado sera motivador, que ayude a reforzar los logros, tambien se evitaran tecnisismos innesarios para el usuario. Ademas, el estilo del lenguaje sera cercano a lo vegetal, que apoye a que el usuario se motive a cuidar las plantass de manera constante, con mensajes optimistas y breves, los cuales acompañaran en cada acción al usuario.
+
 #### 4.1.2. Web Style Guidelines
+
+La aplicación se enfocara en tener un estilo sencillo y eficiente, lo cual es importante para que el usuario no se sienta abrumado por tantas cosas en pantalla, esto va de la mano con lo que quiere hacer nuestra startup "BioPafi" y en lo que quiera enfocarse nuestro proyecto "PlantSync". Además, se muestra un diseño amigable que resalta los detalles más importantes del producto y presenta el patrón Z ya que nuestra landing page tiene un enfoque simple.
+
+**Botones:**
+
+Los botones se encontraran en el apartado principal de la aplicación web, lo cual permitiran que el usuario añada, elimine y cambie en los diferentes apartados segun las funcionalidades añadidas. Ademas de tener los botones de iniciar y cerrar sesión. Tambien se utilizara para comfirmar diferentes acciones en la aplicación. Los botones tendra colores llamativos siguiendo la paleta de colores elegida.  
+
+**Imágenes:**
+
+Las imágenes se encontraran en diferentes apartados de la web, como en el perfil del usuario, las plantas que registre, las imagenes que podra subir para la identificacion de la planta y diferentes imagenes que usaremos para representar los diferentes funcionalidades de nuestra landing page. 
+
+Las imagenes se utilizaran para que el diseño web se utilizara para que el usuario pueda guiarse visualmente y ayude a guiarse por nuestra web, a la vez de utilizando iconos reconocibles y utilizados en todaa aplicaciones.
+
+**Pantallas emergentes:**
+
+Se utilizaran pantallas emergentes para la confirmacion acciones de cambios en los diferentes apartados de nuestro aplicativo web. Estas pantallas tendran colores mas llamativos para que usuario pueda notarlos ayudar al mismo a no equivocarse.
+
+**Encabezado:**
+
+El encabezado de la pagina web tendra el logo de nuestro proyecto en la posicion izquierda, el cual tendra como utilidad volver a la pagina principal .Ademas, se podra visualizar los apartados de nuestro landing page, por ultimo se podra visualizar los botones para poder ingresar al formulario de iniciar sesión y crear cuenta.
+
+**Pie de página:**
+
+En el pie de página se incluirán los distintos medios de contacto disponibles, como teléfonos de atención al cliente, redes sociales y correos electrónicos. Además, se integrarán los diferentes apartados del encabezado para facilitar la navegación desde cualquier sección del sitio.
+
+<p align="center">
+  <img src="images/landingpage-styleguidelines.png" alt="Screenshot landing page" >
+</p>
 
 ### 4.2. Information Architecture
 
