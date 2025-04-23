@@ -1036,7 +1036,6 @@ Y le da click en "Guardar"</td>
 <td></td>
 <td>EP00</td>
 </tr>
-
   </tbody>
 </table>
 
