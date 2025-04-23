@@ -1,4 +1,8 @@
-# Informe de Trabajo Final
+<h1 align="center">Informe de Trabajo Final</h1>
+
+<p align="center">
+  <img src="images/logoupc.png" alt="UPC logo" width="150">
+</p>
 
 **Universidad Peruana de Ciencias Aplicadas**
 
@@ -26,7 +30,7 @@
 |            | Gonzales Alvarado, Javier Sebastian |
 |            | Palomares Andrade, Sean Farith      |
 |            | Rivera Ratachi, Renzo Sebastian     |
-|            | Torres Apolinario, Giovany Smith    |
+| U202311601 | Torres Apolinario, Giovany Smith    |
 
 **Abril 2025**
 
@@ -34,13 +38,151 @@
 
 ## Registro de Versiones del Informe
 
-| **Versión** | **Fecha** | **Descripción de cambios** | **Autor(es)** |
-| ----------- | --------- | -------------------------- | ------------- |
-| 1.0         |           |                            |               |
+<table align="center">
+  <tr>
+    <td><strong>Versión</strong></td>
+    <td><strong>Fecha</strong></td>
+    <td><strong>Autor(es)</strong></td>
+    <td><strong>Descripción de cambios</strong></td>
+  </tr>
+    <tr>
+    <td>1.0</td>
+    <td>06/04/23</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Palomares, Torres
+    </td>
+    <td>...</td>
+  </tr>
+  </tr>
+  <tr>
+    <td>1.1</td>
+    <td>11/04/23</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Palomares, Torre
+    </td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>1.3</td>
+    <td>14/04/23</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Palomares, Torre
+    </td>
+    <td>...</td>
+  </tr>
+    <tr>
+    <td>1.4</td>
+    <td>16/04/23</td>
+    <td>
+    Palomino,<br>
+    Rivera,<br>
+    Palomares, Torre
+    </td>
+    <td>...</td>
+  </tr>
+    <tr>
+    <td>1.5</td>
+    <td>19/04/23</td>
+    <td>
+    Gonzales,<br>
+    Palomares
+    </td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>1.6</td>
+    <td>22/04/23</td>
+    <td>
+    Gonzales,<br>
+    Palomino,<br>
+    Rivera,<br>
+    Palomares, Torre
+    </td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>1.7</td>
+    <td>23/04/23</td>
+    <td>
+    Gonzales,<br>
+    Rivera
+    </td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>1.8</td>
+    <td>24/04/23</td>
+    <td>
+    Palomino,<br>
+    Torres
+    </td>
+    <td>...</td>
+  </tr>
+</table>
 
 ---
 
 ## Project Report Collaboration Insights
+
+**TB1**
+---
+
+<table align="center">
+  <tr>
+    <td><strong>Integrante</strong></td>
+    <td><strong>Tareas Asignadas</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Erick Palomino
+    </td>
+    <td>
+      ... 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Javier Gonzales
+    </td>
+    <td>
+      ...
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Renzo Rivera
+    </td>
+    <td>
+      ...
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Sean Palomares
+    </td>
+    <td>
+     ...
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Giovany Torres
+    </td>
+    <td>
+      ...
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -149,6 +291,62 @@
 
 ## Student Outcome
 
+<table align="center">
+  <tr>
+    <td><strong>Criterio</strong></td>
+    <td><strong>Acciones Realizadas</strong></td>
+    <td><strong>Conclusiones</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Comunica oralmente con efectividad a diferentes rangos de audiencia.
+    </td>
+    <td>
+      <strong>Javier Gonzales:</strong>
+      TB1 - ...
+      <br><br>
+      <strong>Erick Palomino:</strong>
+      TB1 - ...
+      <br><br>
+      <strong>Renzo Rivera:</strong>
+      TB1 – ...
+      <br><br>
+      <strong>Andres Coca:</strong>
+      TB1 - ...
+      <br><br>
+      <strong>Cesar Linares</strong>
+      TB1 – ...
+    </td>
+    <td>
+      El equipo demostró una gran unidad, distribuyendo roles de manera efectiva. Cada integrante tomó la iniciativa en partes cruciales del desarrollo del sistema, lo que resultó en productos finales coherentes y bien integrados. Las decisiones se tomaron en conjunto, siempre enfocadas en alcanzar las metas establecidas.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Comunica por escrito con efectividad a diferentes rangos de audiencia 
+    </td>
+    <td>
+      <strong>Javier Gonzales:</strong>
+      TB1 – ...
+      <br><br>
+      <strong>Erick Palomino:</strong>
+      TB1 – ....
+      <br><br>
+      <strong>Renzo Rivera:</strong>
+      TB1 – ...
+      <br><br>
+      <strong>Andres Coca:</strong>
+      TB1 – ...
+      <br><br>
+      <strong>Cesar Linares:</strong>
+      TB1 – ...
+    </td>
+    <td>
+      El equipo creó un ambiente de colaboración donde se valoró el papel, los plazos y las obligaciones de cada miembro. Fijamos metas realistas, mantuvimos una comunicación fluida y, gracias a un esfuerzo coordinado y de apoyo mutuo, completamos con éxito los objetivos de la primera entrega.
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Capítulo I: Introducción
@@ -171,11 +369,11 @@ Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas in
 
 | **Foto del Integrantes** | **Nombres y Apellidos**            | **Código de estudiante** | **Conocimientos técnicos y habilidades** |
 | ------------------------ | ---------------------------------- | ------------------------ | ---------------------------------------- |
-| 1                        | Erick Leonardo Palomino Fiestas    | U20231A500               | Conocimientos técnicos y habilidades     |
+| ![Imagen de Integrante Erick Palomino](/images/fotointegrante-erick-palomino.jpeg)                       | Erick Leonardo Palomino Fiestas    | U20231A500               | Hola, Soy Erick Leonardo Palomino Fiestas, un estudiante entusiasta de quinto ciclo en Ingeniería de Software. Mi conjunto de habilidades técnicas incluye C++, HTML, CSS, fundamentos de JavaScript y experiencia con bases de datos SQL y MongoDB. Me considero una persona responsable, con sólidas habilidades de comunicación para trabajar en equipo y una perspectiva optimista. También tengo un nivel básico de inglés.    |
 | 2                        | Javier Sebastian Gonzales Alvarado | Código de estudiante     | Conocimientos técnicos y habilidades     |
 | 3                        | Sean Farith Palomares Andrade      | Código de estudiante     | Conocimientos técnicos y habilidades     |
 | 4                        | Renzo Sebastian Rivera Ratachi     | Código de estudiante     | Conocimientos técnicos y habilidades     |
-| 5                        | Giovany Smith Torres Apolinario    | Código de estudiante     | Conocimientos técnicos y habilidades     |
+| ![Imagen de Integrante Giovany Torres](/images/fotointegrante-giovany.jpeg) | Giovany Smith Torres Apolinario    | U202311601 | Estoy cursando el quinto ciclo de mi carrera Ingeniería de Software, soy una persona responsable que le gusta resolver desafíos a la par con el trabajo  responsable y en equipo tengo la capacidad de líder y me gusta aprender nuevas cosas dia a dia.     |
 
 ### 1.2. Solution Profile
 
@@ -735,7 +933,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### 2.2.2. Registro de entrevistas
 
-## _Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):_
+## _Expertos cuidadores de plantas_
 
 <br>
 
@@ -749,7 +947,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>23</td>
+    <td>23 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
@@ -757,11 +955,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>00:01 min - 06:56 min</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td><a href=https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=zNWoI7 target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -770,8 +968,8 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <img src="images/entrevista-pedro-vargas.png" alt="Screenshot Entrevista 2" width="1000">
+<td colspan="2">
+  <img src="images/entrevista-pedro-vargas.png" alt="Screenshot Entrevista 2" width="1000">
     </td>
   </tr>
 </table>
@@ -780,7 +978,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <table align="center">
   <tr>
-    <th colspan="2" style="text-align:center">Entrevista 1</th>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
   </tr>
   <tr>
     <td><strong>Entrevistada</strong></td>
@@ -788,7 +986,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>60</td>
+    <td>60 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
@@ -796,11 +994,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>12:32 min - 17:26 min</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo3NTMsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=lpsIGE" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -819,7 +1017,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <table align="center">
   <tr>
-    <th colspan="2" style="text-align:center">Entrevista 1</th>
+    <th colspan="2" style="text-align:center">Entrevista 3</th>
   </tr>
   <tr>
     <td><strong>Entrevistada</strong></td>
@@ -827,7 +1025,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>52</td>
+    <td>52 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
@@ -835,11 +1033,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>06:57 min - 12:32 min</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td>...</td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo0MTcsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=yHr5ik" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -856,7 +1054,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <br>
 
-## _Entrevista para personas con poca experiencia en el cuidado de plantas:_
+## _Principiantes cuidadores de plantas:_
 
 <br>
 
@@ -878,11 +1076,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>...</td>
+    <td>21:58 min - 25:38 min</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121947_upc_edu_pe/ERhrlKdvktpBk-hLHI8L0PcB9Mymfc-Hg1bXNzltJaevpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jC4E8f">Enlace</a></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMzE4LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=ZeOch2" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -897,13 +1095,92 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
 </table>
 
+
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Estefano Solis</td></td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Cercado de Lima</td></td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>17:26 min - 21:57 min</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMDQ2LjEwNywidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=5zMtIe" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: Estefano ha tenido experiencias previas cuidando plantas, aunque con dificultades. Su primera planta murió por falta de conocimiento, pero decidió intentarlo nuevamente con otra. Identifica como principales retos el olvido de regarlas, la confusión sobre la cantidad de luz necesaria y la falta de información clara y sencilla. Actualmente no usa apps ni comunidades para ayudarle, solo búsquedas ocasionales en Google que encuentra confusas. Le interesa una app que le brinde recordatorios de riego, consejos paso a paso y recomendaciones basadas en el clima local, siempre que sean simples de entender.Además, valora mucho funcionalidades como identificación de plantas por foto, guias o formularios visuales. Estaría dispuesto a pagar por funciones premium siempre que la app sea útil, fácil de usar y no demasiado costosa. Busca principalmente sentirse apoyado y guiado en su proceso como cuidador de plantas.
+<br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/entrevista-estefano-segmento2.png" alt="screenshot entrevista estefano" width="1000">
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 3</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>...</td></td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>... años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>...</td></td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>21:58 min - 30:27 min</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EeKqQuAsXUhOp1v5b9UI7JwBeoIoiZpuvAH-GM7LER1E9A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTM5LjU1OCwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=hyfQVq" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-needfinding-sprint-1</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: 
+<br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/entrevista-andrea-santur.png" alt="screenshot andrea santur" width="1000">
+    </td>
+  </tr>
+</table>
+
+
 #### 2.2.3. Análisis de entrevistas
 
-## _Analisis de entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):_
+## _Analisis de entrevista para Expertos cuidadores de plantas:_
 
-## _Analisis de entrevista para personas con poca experiencia en el cuidado de plantas:_
+## _Analisis de entrevista para Principiantes cuidadores de plantas:_
 
 ### 2.3. Needfinding
+
+Luego de realizar las entrevistas e identificar los problemas, necesidades y deseos de nuestro segmento objetivo, procedemos a crear nuestras User Persona, y demás artefactos relacionados a la experiencia del usario antes de conocer nuestra solución.
 
 #### 2.3.1. User Personas
 
@@ -1630,15 +1907,208 @@ En el pie de página se incluirán los distintos medios de contacto disponibles,
 
 ### 4.2. Information Architecture
 
+La arquitectura de información de BioPafi define la forma en que se estructurará, clasificará, etiquetará y navegará el contenido dentro de la experiencia digital. Esta estructura busca garantizar una experiencia fluida e intuitiva, tanto en el Landing Page como en la Aplicación Web, permitiendo que usuarios con distintos niveles de experiencia puedan encontrar rápidamente la información y funciones que necesitan para el cuidado eficiente de sus plantas.
+
 #### 4.2.1. Organization Systems
+
+Es importante que tanto la Landing Page como la AppWeb se encuentre organizado para evitar tener una interfaz confusa y un contenido desordenado. Por lo tanto **BioPafi** aplicará un enfoque combinado de organización jerárquica, secuencial y matricial, además de diversos esquemas de categorización.<br><br>
+
++ Jerarquía Visual:
+
+La organización jerárquica se utilizará principalmente en el Landing Page, el Dashboard principal y la vista de perfil del usuario. En estas pantallas, los elementos más relevantes se ubicarán en posiciones destacadas y con mayor peso visual, como los estados actuales de las plantas, alertas urgentes o botones de acción rápida. Por ejemplo, en el Dashboard de la aplicación, cada tarjeta de planta mostrará en la parte superior su nombre, nivel de humedad y estado general. Debajo, de forma secundaria, se ubicarán botones como “Ver guía” o “Editar datos”. De igual manera, en el perfil del usuario, el tipo de suscripción será lo primero visible, seguido de los datos personales y configuraciones.
+
++ Organización secuencial:
+
+La organización secuencial será clave en procesos como el registro de nuevas plantas y el monitoreo manual asistido. En estos casos, la aplicación guiará al usuario por pasos ordenados: primero se selecciona o identifica la planta, luego se configuran los parámetros básicos y finalmente se activan los recordatorios o recomendaciones. Este flujo será especialmente importante para usuarios principiantes, quienes serán orientados a través de formularios visuales simplificados que les permitirán registrar el estado de su planta sin necesidad de conocimientos técnicos.
+
++ Organización Matricial:
+
+La organización matricial estará presente en el módulo de historial de cuidados y en la sección de recomendaciones climáticas, donde los datos estarán distribuidos en tarjetas o cuadrículas que permiten una exploración más libre. Por ejemplo, en el historial, cada evento registrado (riego, fertilización, cambios de estado) aparecerá en una tarjeta ordenada cronológicamente, permitiendo al usuario comparar fechas, intervalos y tendencias.
+
+Respecto a los esquemas de categorización, se utilizarán diferentes enfoques:
+
++ **Por tópicos:** en las guías y recomendaciones, los contenidos estarán organizados según temas como “riego”, “luz”, “plagas” o “fertilización”.
+
++ **Alfabético:** en las búsquedas y listados de plantas registradas, se permitirá ordenar las plantas por nombre personalizado, para facilitar la navegación en jardines con muchas especies.
+
++ **Cronológico:** en el historial de cuidado, las entradas se ordenarán por fecha, permitiendo seguir la evolución de cada planta.<br><br>
+
 
 #### 4.2.2. Labeling Systems
 
+En BioPafi, el sistema de etiquetas ha sido diseñado para ser claro, directo y contextual, ayudando al usuario a entender fácilmente el contenido y las acciones disponibles en cada sección. Se busca minimizar la carga cognitiva mediante el uso de términos sencillos, familiares y consistentes, alineados con los conocimientos generales de los usuarios, especialmente de aquellos con poca experiencia en tecnología o jardinería.
+
++ Menú principal del Landing Page:
+
+  + Inicio
+  + ¿Cómo funciona?
+  + Planes
+  + ¿Quiénes somos?
+  + Acceder
+
++ Menú de navegación en WebApp:
+
+  + Mis Plantas
+  + Guías 
+  + Tareas
+  + ChatBot
+  + Configuración
+  + Salir
+  <br><br>
+
+<table align="center">
+  <tr>
+    <td><strong>Tipo etiqueta</strong></td>
+    <td><strong>Ejemplo</strong></td>
+    <td><strong>Aparición</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Encabezado</strong></td>
+    <td>"Mis plantas"</td>
+    <td>En la parte superior de la pantalla principal</td>
+  </tr>
+  <tr>
+    <td><strong>Panel</strong></td>
+    <td>"Historial de cuidados"</td>
+    <td>En una tarjeta dentro del dashboard</td>
+  </tr>
+  <tr>
+    <td><strong>Botón</strong></td>
+    <td>"Agregar planta”</td>
+    <td>Acción destacada en el formulario para agregar plantas</td>
+  </tr>
+  <tr>
+    <td><strong>Navegación</strong></td>
+    <td>“Guías” – "Tareas" – "ChatBot"</td>
+    <td>En al barra lateral</td>
+  </tr>
+  <tr>
+    <td><strong>Estado</strong></td>
+    <td>“Último riego hace 3 días”</td>
+    <td>Texto dentro de una tarjeta de planta</td>
+  </tr>
+</table><br><br>
+
 #### 4.2.3. SEO Tags and Meta Tags
 
-#### 4.2.4. Searching Systems
+Las meta etiquetas permiten incluir información estructurada sobre el contenido del sitio web. Aunque no son visibles para el usuario, son leídas por navegadores y buscadores, facilitando su posicionamiento en los resultados de búsqueda y mejorando la visibilidad de BioPafi en internet.
 
-#### 4.2.5. Navigation Systems
+Las metas etiquetas que usaremos:
+
++ Landing Page:
+
+  + Título<br><br>
+
+  ```html
+  <title>BioPafi – Cuida tus plantas con tecnología inteligente</title>
+  ```
+
+  + Codificación de carácteres<br><br>
+
+  ```html
+  <meta charset="utf-8">
+  ```
+
+  + Meta Description<br><br>
+
+  ```html
+  <meta name="description" content="Plataforma web para el monitoreo asistido, registro y recomendaciones personalizadas para el cuidado de tus plantas. Ideal para principiantes y expertos."/>
+  ```
+
+  + Keywords<br><br>
+
+  ```html
+  <meta name="keywords" content="cuidado de plantas, monitoreo de plantas, jardinería digital, sensores, app para plantas"/>
+  ```
+
+  + Author y Derechos de Autor<br><br>
+  
+  ```html
+  <meta name="author" content="Equipo BioPafi"/>
+  <meta name="copyright" content="Copyright Biopafi team" />
+  ```
+
+<br>
+
++ Web Application:
+
+  + Título<br><br>
+
+  ```html
+  <title>Mi Jardín – PlantSync</title>
+  ```
+
+  + Codificación de carácteres<br><br>
+
+  ```html
+  <meta charset="utf-8">
+  ```
+
+  + Meta Description<br><br>
+
+  ```html
+  <meta name="description" content="Gestiona tus plantas, consulta guías interactivas, activa recordatorios y accede a recomendaciones basadas en el clima."/>
+  ```
+
+  + Keywords<br><br>
+
+  ```html
+  <meta name="keywords" content="BioPafi, historial de riego, guías para plantas, monitoreo manual, recomendaciones por clima"/>
+  ```
+
+  + Author y Derechos de Autor<br><br>
+  
+  ```html
+  <meta name="author" content="Equipo BioPafi"/>
+  <meta name="copyright" content="Copyright Biopafi team" />
+  ```
+
+<br>
+
+#### 4.2.4. Searching Systems<br><br>
+
+Dado que la plataforma almacenará una gran cantidad de información, incluyendo tutoriales y guías sobre el cuidado de plantas, es fundamental implementar un sistema de búsqueda y filtrado eficiente. Este sistema estará diseñado para minimizar la carga cognitiva del usuario y facilitar una navegación intuitiva, permitiendo encontrar rápidamente la información relevante para una toma de decisiones informada. A continuación, se detallan sus principales características:
+
++ Opciones de búsqueda:
+
+  + Búsqueda de guías
+
+  + Búsqueda de plantas registradas
+
+  + Búsqueda de tareas
+
+  + Búsqueda de plantas (al momento de registrar una nueva)
+
++ Filtros:
+
+  + Tipo de planta
+
+  + Tipo de tarea
+
+  + Estado de planta
+
+  + Tipo de guía
+
+  + Periodo de tiempo (última semana, mes, personalizado)
+
+
++ Visualización de Datos
+
+  ...(imagenes)
+
+
+#### 4.2.5. Navigation Systems<br><br>
+
+La página web ha sido diseñada con un enfoque minimalista e intuitivo, evitando la sobrecarga visual mediante el uso moderado de botones, imágenes y videos. Tanto la landing page como la aplicación web contarán con una interfaz gráfica limpia y adaptable, que se ajusta automáticamente al tamaño de pantalla del dispositivo del usuario. Este diseño busca ofrecer una experiencia de navegación fluida y ordenada, permitiendo a los usuarios acceder al contenido sin distracciones ni confusión innecesaria.
+
++ Landing Page:
+
+  En la landing page, se implementará un diseño de tipo one-page scroll, que permite al usuario explorar el contenido desplazándose verticalmente de forma continua. Para facilitar la orientación, se incluirá un encabezado fijo que servirá como guía de navegación, permitiendo acceder rápidamente a las secciones principales sin necesidad de hacer scroll manualmente.
+
++ Web App:
+
+   La web app ofrecerá una navegación híbrida. Los usuarios podrán seguir un flujo guiado y secuencial para registrar sus plantas, ideal para quienes prefieren un acompañamiento paso a paso. Sin embargo, también tendrán la libertad de moverse entre los distintos módulos de la aplicación como la sección de guías, el chatbot, el panel de tareas, el perfil del usuario, entre otros, según sus necesidades e intereses, garantizando así una experiencia flexible y personalizada.
+
 
 ### 4.3. Landing Page UI Design
 
@@ -1648,9 +2118,173 @@ En el pie de página se incluirán los distintos medios de contacto disponibles,
 
 ### 4.4. Web Applications UX/UI Design
 
-#### 4.4.1. Web Applications Wireframes
+#### 4.4.1. Web Applications Wireframes<br><br>
 
-#### 4.4.2. Web Applications Wireflow Diagrams
+Los wireframes desarrollados para la aplicación web de BioPafi evidencian una planificación centrada en el usuario, aplicando principios de diseño como claridad visual, jerarquía informativa, consistencia e inclusividad. Cada pantalla presenta una estructura limpia y ordenada, con encabezados visibles, elementos distribuidos por nivel de prioridad y navegación lateral constante, lo que facilita la orientación del usuario. Se prioriza el uso de etiquetas claras y botones de acción con alto contraste para favorecer la accesibilidad. El diseño considera a usuarios con distintos niveles de experiencia, ofreciendo formularios guiados para principiantes y paneles de información detallada para expertos. Además, se observa la correcta aplicación de la arquitectura de información en la categorización por módulos (Plantas, Guías, Tareas, ChatBot, Configuración), permitiendo al usuario encontrar lo que necesita sin esfuerzo. Cada vista refleja un entendimiento funcional y estético que responde a las necesidades específicas del público objetivo.
+
+[Enlace del figma](https://www.figma.com/design/5cSEKvg4XXUzsXTpOPJySb/PlantSync?node-id=42-2&t=aclI2b5Cp9Y2pn5i-1)
+
++ Mis Planta:
+
+Vista principal del usuario con el listado de todas sus plantas registradas. Desde aquí puede visualizar el estado general de cada planta, acceder a sus detalles, editarla o añadir una nueva.
+
+<p align="center">
+  <img src="images/wireframes/MisPlantas.png" alt="MisPlantas" width="1000">
+</p>
+
++ Guías:
+
+Catálogo de recomendaciones organizadas por tema (riego, luz, fertilizante, plagas). Permite a los usuarios consultar guías según sus necesidades o tipo de planta.
+
+<p align="center">
+  <img src="images/wireframes/Guias.png" alt="Guías" width="1000">
+</p>
+
++ Tareas:
+
+Sección tipo calendario que muestra los recordatorios programados para cada planta, incluyendo riegos, fertilización u otras tareas. Ayuda al usuario a organizar su rutina de cuidado.
+
+<p align="center">
+  <img src="images/wireframes/Tareas.png" alt="Tareas" width="1000">
+</p>
+
++ Chatbot:
+
+Vista principal del asistente virtual (RootBot), que permite al usuario iniciar una conversación para resolver dudas rápidas sobre el cuidado de plantas.
+
+<p align="center">
+  <img src="images/wireframes/ChatBot.png" alt="ChatBot" width="1000">
+</p>
+
++ Configuración personal
+
+Panel donde el usuario puede actualizar su información personal, configurar notificaciones y gestionar su tipo de suscripción (básico, PRO o premium).
+
+<p align="center">
+  <img src="images/wireframes/Configuracion.png" alt="Configuraciones" width="1000">
+</p>
+
++ Añadir Planta:
+
+Formulario guiado para registrar una nueva planta. Incluye campos como nombre personalizado, especie, fecha de adquisición y opción para activar notificaciones.
+
+<p align="center">
+  <img src="images/wireframes/AnadirPlanta.png" alt="AddPlanta" width="1000">
+</p>
+
++ Ver Guía:
+
+Pantalla con el contenido detallado de una guía específica, incluyendo instrucciones paso a paso, imágenes ilustrativas y recomendaciones prácticas.
+
+<p align="center">
+  <img src="images/wireframes/VerGuia.png" alt="VerGuia" width="1000">
+</p>
+
++ Chateando con ChatBot:
+
+Vista activa de la conversación con el bot. El usuario realiza preguntas relacionadas al cuidado o adquisición de plantas y recibe respuestas contextualizadas.
+
+<p align="center">
+  <img src="images/wireframes/ChateaConBot.png" alt="Chateando con RootBot" width="1000">
+</p>
+
++ Ver Planta:
+
+Pantalla detallada con toda la información de una planta específica, incluyendo foto, especie, historial de cuidado y recomendaciones por clima.
+
+<p align="center">
+  <img src="images/wireframes/VerPlantaEspecifica.png" alt="VerPlanta" width="1000">
+</p>
+
++ Ver historial de planta:
+
+Registro cronológico de las acciones realizadas sobre una planta (riego, fertilización, cambios de estado), acompañado de gráficas simples de humedad y evolución.
+
+<p align="center">
+  <img src="images/wireframes/VerHistorialPlanta.png" alt="Historial" width="1000">
+</p>
+
+<br><br>
+
+#### 4.4.2. Web Applications Wireflow Diagrams<br><br>
+
+[Enlace del Lucid parte 1](https://lucid.app/lucidchart/84007aa3-229d-41c7-95be-36ba79ede3d5/edit?viewport_loc=-4889%2C-386%2C12110%2C5687%2C0_0&invitationId=inv_454cb49d-3128-4c42-8ea7-98ae9f14da50)
+[Enlace del Lucid parte 2](https://lucid.app/lucidchart/705f0f0f-e376-4335-b188-bb234cde86a2/edit?viewport_loc=-7424%2C-5702%2C25532%2C11991%2C0_0&invitationId=inv_bc7d108f-b673-49da-9fd9-06710a5600a1)
+
+<br><br>
+
++ **Wireflow 1: Registrar una nueva planta**
+
+**User Goal:** Como usuario principiante, quiero registrar mi nueva planta para empezar a cuidarla con ayuda de la aplicación.
+
+**Flujo:** Este flujo comienza cuando el usuario ingresa a la sección "Mis Plantas" y hace clic en el botón “Agregar Planta”. Se abre un formulario donde debe completar campos como nombre personalizado, especie, fecha de adquisición, subir una foto opcional, y seleccionar si desea recibir recordatorios. Además, puede indicar su nivel de experiencia y activar el monitoreo manual asistido. Una vez completado, pulsa “Añadir” y es redirigido al dashboard con la planta registrada y visible. Este flujo está pensado especialmente para usuarios principiantes que requieren orientación paso a paso.
+
+<p align="center">
+  <img src="images/wireframes/Wireframes1.png" alt="Wireflow" width="1000">
+</p>
+
+<br><br>
+
++ **Wireflow 2: Consultar guía de cuidado**
+
+**User Goal:** Como usuario experto, quiero consultar una guía específica para verificar recomendaciones de cuidado avanzado.
+
+**Flujo:** El flujo inicia desde la sección “Guías”, donde el usuario visualiza un catálogo de recomendaciones. Filtra por categoría o especie y selecciona una guía específica. Al hacer clic en “Ver guía”, accede a una vista con información detallada, pasos visuales, imágenes y consejos según el tipo de planta. Desde ahí, el usuario puede regresar al catálogo o asociar la guía a una planta registrada. Este flujo está enfocado tanto en principiantes como en expertos que buscan información puntual.
+
+<p align="center">
+  <img src="images/wireframes/Wireframes2.png" alt="Wireflow" width="1000">
+</p>
+
+<br><br>
+
++ **Wireflow 3: Ver historial de cuidado**
+
+**User Goal:** Como usuario frecuente, quiero revisar el historial de mi planta para entender cómo ha evolucionado su estado.
+
+**Flujo:** Desde “Mis Plantas”, el usuario selecciona una planta específica y accede a su vista detallada. Allí, hace clic en “Ver Historial”, lo que lo dirige a una pantalla donde puede visualizar los registros de cuidado (riego, fertilización, observaciones) ordenados cronológicamente. También accede a un gráfico de humedad que le permite analizar el estado de la planta a lo largo del tiempo. Este flujo está pensado para usuarios que buscan tomar decisiones basadas en datos.
+
+<p align="center">
+  <img src="images/wireframes/Wireframes3.png" alt="Wireflow" width="1000">
+</p>
+
+<br><br>
+
++ **Wireflow 4: Consultar recomendaciones por clima**
+
+**User Goal:** Como usuario con poco tiempo, quiero saber si hoy debo regar o proteger mis plantas, según el clima actual.
+
+**Flujo:** En el apartado de "Mis Plantas", cuando el usuario desea consultar recomendaciones basadas en el clima, debe hacer clic sobre una de sus plantas previamente registradas. Luego, en la parte inferior izquierda de la pantalla, se mostrará la temperatura actual junto con sugerencias específicas según las condiciones climáticas del día.
+
+<p align="center">
+  <img src="images/wireframes/Wireframes4.png" alt="Wireflow" width="1000">
+</p>
+
+<br><br>
+
++ **Wireflow 5: Configurar mis preferencias y cuenta**
+
+**User Goal:** Como usuario PRO, quiero actualizar mis datos y gestionar mi suscripción.
+
+**Flujo:** Desde el ícono de perfil o el menú lateral, el usuario accede a “Configuración personal”. Aquí puede modificar sus datos (nombre, email), activar o desactivar notificaciones, y gestionar su plan de suscripción. Si decide cambiar de plan, selecciona uno nuevo y confirma. Al guardar los cambios, recibe una notificación y es redirigido a su perfil actualizado. Este flujo aplica tanto a usuarios nuevos como recurrentes.
+
+<p align="center">
+  <img src="images/wireframes/Wireframes5.png" alt="Wireflow" width="1000">
+</p>
+
+<br><br>
+
++ **Wireflow 6: Chatear con el bot**
+
+**User Goal:** Como usuario de BioPafi, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
+
+**Flujo:** Este flujo comienza cuando el usuario accede a la opción “Chatbot” desde el menú lateral o directamente desde una tarjeta destacada en el dashboard. Al ingresar, se presenta una interfaz de mensajería con un campo de texto inferior y mensajes de bienvenida del bot. El usuario escribe su consulta, por ejemplo: “¿Cada cuánto debo regar una lavanda?” o “¿Dónde puedo conseguir plantas para interior?”. El bot procesa la pregunta y responde con un mensaje textual y, si corresponde, con enlaces a guías, recomendaciones o catálogos. El usuario puede continuar haciendo más preguntas o cerrar el chat. En caso de ser un usuario PRO o Premium, también podrá acceder a respuestas más detalladas o enlaces externos. Este flujo está pensado para ofrecer una experiencia conversacional ágil que complemente la navegación tradicional, ideal para usuarios que prefieren resolver dudas en tiempo real.
+
+<p align="center">
+  <img src="images/wireframes/Wireframes6.png" alt="Wireflow" width="1000">
+</p>
+
+<br><br>
+
 
 #### 4.4.3. Web Applications Mock-ups
 
