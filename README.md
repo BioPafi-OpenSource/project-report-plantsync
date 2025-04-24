@@ -1915,7 +1915,7 @@ Los wireframes desarrollados para la aplicación web de BioPafi evidencian una p
 
 [Enlace del figma](https://www.figma.com/design/5cSEKvg4XXUzsXTpOPJySb/PlantSync?node-id=42-2&t=aclI2b5Cp9Y2pn5i-1)
 
-+ Mis Planta:
++ Mis Plantas:
 
 Vista principal del usuario con el listado de todas sus plantas registradas. Desde aquí puede visualizar el estado general de cada planta, acceder a sus detalles, editarla o añadir una nueva.
 
@@ -2078,6 +2078,107 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 
 #### 4.4.3. Web Applications Mock-ups
+
+Lo siguientes mockups se elaboraron tomando como base los wireframes previamente hechos y demuestran fielmente las funcionalidades que puede realizar el usuario al momento de usar la aplicación.
+
+[Enlace del Overflow]()
+
++ Mis Plantas
+
+Vista principal del usuario con el listado de todas sus plantas registradas. Desde aquí puede visualizar el estado general de cada planta, acceder a sus detalles, editarla o añadir una nueva.
+
+<p align="center">
+  <img src="images/mockups/DashBoard Plantas.png" alt="MisPlantas" width="1000">
+</p>
+
+
++ Guías:
+
+Catálogo de recomendaciones organizadas por tema (riego, luz, fertilizante, plagas). Permite a los usuarios consultar guías según sus necesidades o tipo de planta.
+
+<p align="center">
+  <img src="images/mockups/Guias Dashboard MockUp.png" alt="Guías" width="1000">
+</p>
+
++ Tareas:
+
+Sección tipo calendario que muestra los recordatorios programados para cada planta, incluyendo riegos, fertilización u otras tareas. Ayuda al usuario a organizar su rutina de cuidado permitiendole informar que planta ya cuidó o no.
+
+<p align="center">
+  <img src="images/mockups/Tareas.png" alt="Tareas" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/mockups/Tareas Recordatorio.png" alt="TareasRecordatorio" width="1000">
+</p>
+
+
++ Chatbot:
+
+Vista principal del asistente virtual (RootBot), que permite al usuario iniciar una conversación para resolver dudas rápidas sobre el cuidado de plantas.
+
+<p align="center">
+  <img src="images/mockups/chatbot1.png" alt="ChatBot" width="1000">
+</p>
+
+
++ Configuración personal
+
+Panel donde el usuario puede actualizar su información personal, configurar notificaciones y gestionar su tipo de suscripción (básico, PRO o premium).
+
+<p align="center">
+  <img src="images/mockups/profile config.png" alt="Configuraciones" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/mockups/Eleccion de plan.png" alt="ConfiguracionPLan" width="1000">
+</p>
+
++ Añadir Planta:
+
+Formulario guiado para registrar una nueva planta. Incluye campos como nombre personalizado, especie, fecha de adquisición y opción para activar notificaciones.
+
+<p align="center">
+  <img src="images/mockups/añadirplanta.png" alt="AddPlanta" width="1000">
+</p>
+
++ Ver Guía:
+
+Pantalla con el contenido detallado de una guía específica, incluyendo instrucciones paso a paso, imágenes ilustrativas y recomendaciones prácticas.
+
+<p align="center">
+  <img src="images/mockups/guia.png" alt="ViewGuide" width="1000">
+</p>
+
+
+
++ Chateando con ChatBot:
+
+Vista activa de la conversación con el bot. El usuario realiza preguntas relacionadas al cuidado o adquisición de plantas y recibe respuestas contextualizadas.
+
+
+<p align="center">
+  <img src="images/mockups/chatbot2.png" alt="ChatBotConversation" width="1000">
+</p>
++ Ver Planta:
+
+Pantalla detallada con toda la información de una planta específica, incluyendo foto, especie, historial de cuidado y recomendaciones por clima.
+
+<p align="center">
+  <img src="images/mockups/perfilplanta.png" alt="VerPlanta" width="1000">
+</p>
+
++ Ver historial de planta:
+
+Registro cronológico de las acciones realizadas sobre una planta (riego, fertilización, cambios de estado), acompañado de gráficas simples de humedad y evolución.
+
+<p align="center">
+  <img src="images/mockups/historialPlanta.png" alt="Historial" width="1000">
+</p>
+
+<br><br>
+
+
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
