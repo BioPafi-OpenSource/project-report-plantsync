@@ -1536,37 +1536,84 @@ Scenario 2: Usuario cancela el borrado de perfil de planta
 </tr>
 <tr>
 <td>US16</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Selección de idioma</td>
+<td> <strong>Como</strong> usuario, <strong>quiero</strong> elegir el idioma de la pagina web  <strong>para</strong>  usarla cómodamente</td>
+<td>Scenario 1: Selección de idioma al primer acceso
+<strong>Dado que</strong> el usuario accede a la página por primera vez, <strong>cuando</strong> se muestra el pop-up de selección de idioma,
+<strong>Entonces</strong> el usuario puede elegir entre Español e Inglés para navegar cómodamente desde el inicio. 
+
+Scenario 2: Cambio de idioma desde configuración
+<strong>Dado que</strong> el usuario ya está usando la aplicación en un idioma,<strong>cuando</strong> accede a la configuración de su cuenta,
+<strong>Entonces</strong> puede cambiar el idioma y la aplicación se actualiza automáticamente al nuevo idioma seleccionado.
+
+</td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US17</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Historial de cuidados</td>
+<td> <strong>Como</strong> usuario, <strong>quiero</strong> ver un historial de riegos y fertilizaciones <strong>para</strong> cada planta.</td>
+<td>Scenario 1: Visualización de historial por planta
+<strong>Dado que</strong> el usuario ha registrado cuidados de su planta previamente,<strong>cuando</strong> accede a la ficha de una planta específica,
+<strong>Entonces</strong> puede visualizar una lista cronológica de todos los riegos y fertilizaciones aplicados.
+
+Scenario 2: Actualización del historial al cambiar de planta
+<strong>Dado que</strong> el usuario está revisando varias plantas,
+<strong>cuando</strong> selecciona una nueva planta desde el dashboard,
+<strong>Entonces</strong> el historial se actualiza mostrando solo los eventos correspondientes a esa planta. 
+
+</td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US18</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Recomendaciones inteligentes</td>
+<td> <strong>Como</strong> usuario, <strong>quiero</strong> recibir consejos según el estado de mi planta <strong>para</strong> mejorar su cuidado.</td>
+<td>Scenario 1: Recomendación por baja humedad
+<strong>Dado que</strong> la planta tiene niveles bajos de humedad,
+<strong>cuando</strong> el sistema detecta esta condición,
+<strong>Entonces</strong> se le muestra al usuario una recomendación para regarla, junto con instrucciones personalizadas. 
+
+Scenario 2: Recomendación por crecimiento lento
+<strong>Dado que</strong> la planta muestra un crecimiento lento,
+<strong>cuando</strong> el usuario la registra en la app,
+<strong>Entonces</strong> recibe una sugerencia automática sobre fertilizantes adecuados y la frecuencia de aplicación.
+
+</td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US19</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Seguridad y respaldo</td>
+<td> <strong>Como</strong> usuario, <strong>quiero</strong> asegurar mis datos y poder recuperarlos si inicio sesión en otro dispositivo <strong>para</strong> para sentirme mas seguro al cambiar de dispositivo.</td>
+<td>Scenario 1: Recuperación de datos en nuevo dispositivo
+<strong>Dado que</strong> el usuario se conecta desde un nuevo dispositivo,
+<strong>cuando</strong> inicia sesión con sus credenciales,
+<strong>Entonces</strong> toda la información de sus plantas y cuidados anteriores se carga automáticamente gracias al respaldo en la nube. 
+
+Sceanrio 2: Activación de respaldo automático
+<strong>Dado que</strong> el usuario teme perder sus datos,
+<strong>cuando</strong> accede a la configuración,
+<strong>Entonces</strong> puede activar la opción de copia de seguridad automática y ver la fecha del último respaldo.
+
+</td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US20</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Chat o formulario de soporte</td>
+<td> <strong>Como</strong> usuario, <strong>quiero</strong> reportar errores o pedir ayuda técnica si tengo algún error en la web <strong>para</strong> asi recibir ayuda de manera personalizada.</td>
+<td> Scenario 1: Reporte de error desde formulario
+<strong>Dado que</strong> el usuario encuentra un error al registrar una planta,
+<strong>cuando</strong> hace clic en “¿Necesitas ayuda?”,
+<strong>Entonces</strong> se abre un formulario donde puede describir el problema y enviarlo al soporte técnico.
+
+Scenario 2: Consulta a través del chat de soporte
+<strong>Dado que</strong> el usuario tiene una duda sobre cómo usar una función,
+<strong>cuando</strong> accede al ícono de chat en la parte inferior,
+<strong>Entonces</strong> puede iniciar una conversación con el bot de soporte o pedir ser transferido a un agente.
+
+</td>
 <td>EP00</td>
 </tr>
 <tr>
