@@ -133,8 +133,7 @@
 
 ## Project Report Collaboration Insights
 
-**TB1**
----
+## **TB1**
 
 <table align="center">
   <tr>
@@ -182,7 +181,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -367,13 +365,13 @@ Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas in
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
-| **Foto del Integrantes** | **Nombres y Apellidos**            | **Código de estudiante** | **Conocimientos técnicos y habilidades** |
-| ------------------------ | ---------------------------------- | ------------------------ | ---------------------------------------- |
-| ![Imagen de Integrante Erick Palomino](/images/fotointegrante-erick-palomino.jpeg)                       | Erick Leonardo Palomino Fiestas    | U20231A500               | Hola, Soy Erick Leonardo Palomino Fiestas, un estudiante entusiasta de quinto ciclo en Ingeniería de Software. Mi conjunto de habilidades técnicas incluye C++, HTML, CSS, fundamentos de JavaScript y experiencia con bases de datos SQL y MongoDB. Me considero una persona responsable, con sólidas habilidades de comunicación para trabajar en equipo y una perspectiva optimista. También tengo un nivel básico de inglés.    |
-| 2                        | Javier Sebastian Gonzales Alvarado | Código de estudiante     | Conocimientos técnicos y habilidades     |
-| 3                        | Sean Farith Palomares Andrade      | Código de estudiante     | Conocimientos técnicos y habilidades     |
-| 4                        | Renzo Sebastian Rivera Ratachi     | Código de estudiante     | Conocimientos técnicos y habilidades     |
-| ![Imagen de Integrante Giovany Torres](/images/fotointegrante-giovany.jpeg) | Giovany Smith Torres Apolinario    | U202311601 | Estoy cursando el quinto ciclo de mi carrera Ingeniería de Software, soy una persona responsable que le gusta resolver desafíos a la par con el trabajo  responsable y en equipo tengo la capacidad de líder y me gusta aprender nuevas cosas dia a dia.     |
+| **Foto del Integrantes**                                                           | **Nombres y Apellidos**            | **Código de estudiante** | **Conocimientos técnicos y habilidades**                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------------------------------------------------------------------- | ---------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Imagen de Integrante Erick Palomino](/images/fotointegrante-erick-palomino.jpeg) | Erick Leonardo Palomino Fiestas    | U20231A500               | Hola, Soy Erick Leonardo Palomino Fiestas, un estudiante entusiasta de quinto ciclo en Ingeniería de Software. Mi conjunto de habilidades técnicas incluye C++, HTML, CSS, fundamentos de JavaScript y experiencia con bases de datos SQL y MongoDB. Me considero una persona responsable, con sólidas habilidades de comunicación para trabajar en equipo y una perspectiva optimista. También tengo un nivel básico de inglés. |
+| 2                                                                                  | Javier Sebastian Gonzales Alvarado | Código de estudiante     | Conocimientos técnicos y habilidades                                                                                                                                                                                                                                                                                                                                                                                             |
+| 3                                                                                  | Sean Farith Palomares Andrade      | Código de estudiante     | Conocimientos técnicos y habilidades                                                                                                                                                                                                                                                                                                                                                                                             |
+| 4                                                                                  | Renzo Sebastian Rivera Ratachi     | Código de estudiante     | Conocimientos técnicos y habilidades                                                                                                                                                                                                                                                                                                                                                                                             |
+| ![Imagen de Integrante Giovany Torres](/images/fotointegrante-giovany.jpeg)        | Giovany Smith Torres Apolinario    | U202311601               | Estoy cursando el quinto ciclo de mi carrera Ingeniería de Software, soy una persona responsable que le gusta resolver desafíos a la par con el trabajo responsable y en equipo tengo la capacidad de líder y me gusta aprender nuevas cosas dia a dia.                                                                                                                                                                          |
 
 ### 1.2. Solution Profile
 
@@ -1093,8 +1091,6 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
 </table>
 
-
-
 <table align="center">
   <tr>
     <th colspan="2" style="text-align:center">Entrevista 2</th>
@@ -1169,8 +1165,6 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
 </table>
 
-
-
 #### 2.2.3. Análisis de entrevistas
 
 ## _Analisis de entrevista para Expertos cuidadores de plantas:_
@@ -1198,6 +1192,16 @@ Luego de realizar las entrevistas e identificar los problemas, necesidades y des
 ## Capítulo III: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
+
+Principiantes
+
+<img src="images/plantsync-tobe-principiantes.jpg" alt="tobe scenario map principiantes" width="1000">
+
+Expertos
+
+<img src="images/plantsync-tobe-expertos.jpg" alt="tobe scenario map principiantes" width="1000">
+
+Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?share_link_id=106413711670)
 
 ### 3.2. User Stories
 
@@ -1370,6 +1374,7 @@ Dado que estoy buscando una guía específica,
 cuando ingreso una palabra que no coincide con ninguna guía,
 
 entonces se muestra un mensaje de “No se encontraron guías relacionadas”.
+
 </td>
 <td>EP00</td>
 </tr>
@@ -1385,6 +1390,7 @@ Dado que estoy en la sección de guías,
 cuando hago clic en una tarjeta de guía,
 
 entonces se abre una vista con la guía completa, dividida en secciones de cuidado con imágenes y recomendaciones.
+
 </td>
 <td>EP00</td>
 </tr>
@@ -1408,6 +1414,7 @@ Dado que quiero saber dónde comprar una planta específica,
 cuando escribo “¿Dónde consigo una Monstera?”,
 
 entonces el bot responde con una sugerencia de viveros o marketplaces asociados.
+
 </td>
 <td>EP00</td>
 </tr>
@@ -1433,6 +1440,7 @@ Dado que cometí un error al marcar una tarea,
 cuando clickeo la tarea nuevamente,
 
 entonces se cambia el estado a "No realizado".
+
 </td>
 <td>EP00</td>
 </tr>
@@ -1456,6 +1464,7 @@ Dado que he modificado la fecha y hora de una tarea,
 cuando confirmo los datos en el pop-up,
 
 entonces el sistema actualiza la tarea y la nueva fecha aparece reflejada en el calendario.
+
 </td>
 <td>EP00</td>
 </tr>
@@ -1604,7 +1613,11 @@ entonces el sistema actualiza la tarea y la nueva fecha aparece reflejada en el 
 
 ### 3.3. Impact Mapping
 
-=======
+<img src="images/impact-map-principiantes.png" alt="tobe scenario map principiantes" width="1000">
+
+<img src="images/impact-map-expertos.png" alt="tobe scenario map principiantes" width="1000">
+
+Enlace: [Impact Map en UXPRESSIA]()
 
 ### 3.4. Product Backlog
 
@@ -1660,11 +1673,11 @@ La aplicación se enfocara en tener un estilo sencillo y eficiente, lo cual es i
 
 **Botones:**
 
-Los botones se encontraran en el apartado principal de la aplicación web, lo cual permitiran que el usuario añada, elimine y cambie en los diferentes apartados segun las funcionalidades añadidas. Ademas de tener los botones de iniciar y cerrar sesión. Tambien se utilizara para comfirmar diferentes acciones en la aplicación. Los botones tendra colores llamativos siguiendo la paleta de colores elegida.  
+Los botones se encontraran en el apartado principal de la aplicación web, lo cual permitiran que el usuario añada, elimine y cambie en los diferentes apartados segun las funcionalidades añadidas. Ademas de tener los botones de iniciar y cerrar sesión. Tambien se utilizara para comfirmar diferentes acciones en la aplicación. Los botones tendra colores llamativos siguiendo la paleta de colores elegida.
 
 **Imágenes:**
 
-Las imágenes se encontraran en diferentes apartados de la web, como en el perfil del usuario, las plantas que registre, las imagenes que podra subir para la identificacion de la planta y diferentes imagenes que usaremos para representar los diferentes funcionalidades de nuestra landing page. 
+Las imágenes se encontraran en diferentes apartados de la web, como en el perfil del usuario, las plantas que registre, las imagenes que podra subir para la identificacion de la planta y diferentes imagenes que usaremos para representar los diferentes funcionalidades de nuestra landing page.
 
 Las imagenes se utilizaran para que el diseño web se utilizara para que el usuario pueda guiarse visualmente y ayude a guiarse por nuestra web, a la vez de utilizando iconos reconocibles y utilizados en todaa aplicaciones.
 
@@ -1692,48 +1705,47 @@ La arquitectura de información de BioPafi define la forma en que se estructurar
 
 Es importante que tanto la Landing Page como la AppWeb se encuentre organizado para evitar tener una interfaz confusa y un contenido desordenado. Por lo tanto **BioPafi** aplicará un enfoque combinado de organización jerárquica, secuencial y matricial, además de diversos esquemas de categorización.<br><br>
 
-+ Jerarquía Visual:
+- Jerarquía Visual:
 
 La organización jerárquica se utilizará principalmente en el Landing Page, el Dashboard principal y la vista de perfil del usuario. En estas pantallas, los elementos más relevantes se ubicarán en posiciones destacadas y con mayor peso visual, como los estados actuales de las plantas, alertas urgentes o botones de acción rápida. Por ejemplo, en el Dashboard de la aplicación, cada tarjeta de planta mostrará en la parte superior su nombre, nivel de humedad y estado general. Debajo, de forma secundaria, se ubicarán botones como “Ver guía” o “Editar datos”. De igual manera, en el perfil del usuario, el tipo de suscripción será lo primero visible, seguido de los datos personales y configuraciones.
 
-+ Organización secuencial:
+- Organización secuencial:
 
 La organización secuencial será clave en procesos como el registro de nuevas plantas y el monitoreo manual asistido. En estos casos, la aplicación guiará al usuario por pasos ordenados: primero se selecciona o identifica la planta, luego se configuran los parámetros básicos y finalmente se activan los recordatorios o recomendaciones. Este flujo será especialmente importante para usuarios principiantes, quienes serán orientados a través de formularios visuales simplificados que les permitirán registrar el estado de su planta sin necesidad de conocimientos técnicos.
 
-+ Organización Matricial:
+- Organización Matricial:
 
 La organización matricial estará presente en el módulo de historial de cuidados y en la sección de recomendaciones climáticas, donde los datos estarán distribuidos en tarjetas o cuadrículas que permiten una exploración más libre. Por ejemplo, en el historial, cada evento registrado (riego, fertilización, cambios de estado) aparecerá en una tarjeta ordenada cronológicamente, permitiendo al usuario comparar fechas, intervalos y tendencias.
 
 Respecto a los esquemas de categorización, se utilizarán diferentes enfoques:
 
-+ **Por tópicos:** en las guías y recomendaciones, los contenidos estarán organizados según temas como “riego”, “luz”, “plagas” o “fertilización”.
+- **Por tópicos:** en las guías y recomendaciones, los contenidos estarán organizados según temas como “riego”, “luz”, “plagas” o “fertilización”.
 
-+ **Alfabético:** en las búsquedas y listados de plantas registradas, se permitirá ordenar las plantas por nombre personalizado, para facilitar la navegación en jardines con muchas especies.
+- **Alfabético:** en las búsquedas y listados de plantas registradas, se permitirá ordenar las plantas por nombre personalizado, para facilitar la navegación en jardines con muchas especies.
 
-+ **Cronológico:** en el historial de cuidado, las entradas se ordenarán por fecha, permitiendo seguir la evolución de cada planta.<br><br>
-
+- **Cronológico:** en el historial de cuidado, las entradas se ordenarán por fecha, permitiendo seguir la evolución de cada planta.<br><br>
 
 #### 4.2.2. Labeling Systems
 
 En BioPafi, el sistema de etiquetas ha sido diseñado para ser claro, directo y contextual, ayudando al usuario a entender fácilmente el contenido y las acciones disponibles en cada sección. Se busca minimizar la carga cognitiva mediante el uso de términos sencillos, familiares y consistentes, alineados con los conocimientos generales de los usuarios, especialmente de aquellos con poca experiencia en tecnología o jardinería.
 
-+ Menú principal del Landing Page:
+- Menú principal del Landing Page:
 
-  + Inicio
-  + ¿Cómo funciona?
-  + Planes
-  + ¿Quiénes somos?
-  + Acceder
+  - Inicio
+  - ¿Cómo funciona?
+  - Planes
+  - ¿Quiénes somos?
+  - Acceder
 
-+ Menú de navegación en WebApp:
+- Menú de navegación en WebApp:
 
-  + Mis Plantas
-  + Guías 
-  + Tareas
-  + ChatBot
-  + Configuración
-  + Salir
-  <br><br>
+  - Mis Plantas
+  - Guías
+  - Tareas
+  - ChatBot
+  - Configuración
+  - Salir
+    <br><br>
 
 <table align="center">
   <tr>
@@ -1774,71 +1786,83 @@ Las meta etiquetas permiten incluir información estructurada sobre el contenido
 
 Las metas etiquetas que usaremos:
 
-+ Landing Page:
+- Landing Page:
 
-  + Título<br><br>
+  - Título<br><br>
 
   ```html
   <title>BioPafi – Cuida tus plantas con tecnología inteligente</title>
   ```
 
-  + Codificación de carácteres<br><br>
+  - Codificación de carácteres<br><br>
 
   ```html
-  <meta charset="utf-8">
+  <meta charset="utf-8" />
   ```
 
-  + Meta Description<br><br>
+  - Meta Description<br><br>
 
   ```html
-  <meta name="description" content="Plataforma web para el monitoreo asistido, registro y recomendaciones personalizadas para el cuidado de tus plantas. Ideal para principiantes y expertos."/>
+  <meta
+    name="description"
+    content="Plataforma web para el monitoreo asistido, registro y recomendaciones personalizadas para el cuidado de tus plantas. Ideal para principiantes y expertos."
+  />
   ```
 
-  + Keywords<br><br>
+  - Keywords<br><br>
 
   ```html
-  <meta name="keywords" content="cuidado de plantas, monitoreo de plantas, jardinería digital, sensores, app para plantas"/>
+  <meta
+    name="keywords"
+    content="cuidado de plantas, monitoreo de plantas, jardinería digital, sensores, app para plantas"
+  />
   ```
 
-  + Author y Derechos de Autor<br><br>
-  
+  - Author y Derechos de Autor<br><br>
+
   ```html
-  <meta name="author" content="Equipo BioPafi"/>
+  <meta name="author" content="Equipo BioPafi" />
   <meta name="copyright" content="Copyright Biopafi team" />
   ```
 
 <br>
 
-+ Web Application:
+- Web Application:
 
-  + Título<br><br>
+  - Título<br><br>
 
   ```html
   <title>Mi Jardín – PlantSync</title>
   ```
 
-  + Codificación de carácteres<br><br>
+  - Codificación de carácteres<br><br>
 
   ```html
-  <meta charset="utf-8">
+  <meta charset="utf-8" />
   ```
 
-  + Meta Description<br><br>
+  - Meta Description<br><br>
 
   ```html
-  <meta name="description" content="Gestiona tus plantas, consulta guías interactivas, activa recordatorios y accede a recomendaciones basadas en el clima."/>
+  <meta
+    name="description"
+    content="Gestiona tus plantas, consulta guías interactivas, activa recordatorios y accede a recomendaciones basadas en el clima."
+  />
   ```
 
-  + Keywords<br><br>
+  - Keywords<br><br>
 
   ```html
-  <meta name="keywords" content="BioPafi, historial de riego, guías para plantas, monitoreo manual, recomendaciones por clima"/>
+  <meta
+    name="keywords"
+    content="BioPafi, historial de riego, guías para plantas, monitoreo manual, recomendaciones por clima"
+  />
   ```
 
-  + Author y Derechos de Autor<br><br>
-  
+  - Author y Derechos de Autor<br><br>
+
   ```html
-  <meta name="author" content="Equipo BioPafi"/>
+  <meta name="author" content="Equipo BioPafi" />
   <meta name="copyright" content="Copyright Biopafi team" />
   ```
 
@@ -1848,46 +1872,43 @@ Las metas etiquetas que usaremos:
 
 Dado que la plataforma almacenará una gran cantidad de información, incluyendo tutoriales y guías sobre el cuidado de plantas, es fundamental implementar un sistema de búsqueda y filtrado eficiente. Este sistema estará diseñado para minimizar la carga cognitiva del usuario y facilitar una navegación intuitiva, permitiendo encontrar rápidamente la información relevante para una toma de decisiones informada. A continuación, se detallan sus principales características:
 
-+ Opciones de búsqueda:
+- Opciones de búsqueda:
 
-  + Búsqueda de guías
+  - Búsqueda de guías
 
-  + Búsqueda de plantas registradas
+  - Búsqueda de plantas registradas
 
-  + Búsqueda de tareas
+  - Búsqueda de tareas
 
-  + Búsqueda de plantas (al momento de registrar una nueva)
+  - Búsqueda de plantas (al momento de registrar una nueva)
 
-+ Filtros:
+- Filtros:
 
-  + Tipo de planta
+  - Tipo de planta
 
-  + Tipo de tarea
+  - Tipo de tarea
 
-  + Estado de planta
+  - Estado de planta
 
-  + Tipo de guía
+  - Tipo de guía
 
-  + Periodo de tiempo (última semana, mes, personalizado)
+  - Periodo de tiempo (última semana, mes, personalizado)
 
-
-+ Visualización de Datos
+- Visualización de Datos
 
   ...(imagenes)
-
 
 #### 4.2.5. Navigation Systems<br><br>
 
 La página web ha sido diseñada con un enfoque minimalista e intuitivo, evitando la sobrecarga visual mediante el uso moderado de botones, imágenes y videos. Tanto la landing page como la aplicación web contarán con una interfaz gráfica limpia y adaptable, que se ajusta automáticamente al tamaño de pantalla del dispositivo del usuario. Este diseño busca ofrecer una experiencia de navegación fluida y ordenada, permitiendo a los usuarios acceder al contenido sin distracciones ni confusión innecesaria.
 
-+ Landing Page:
+- Landing Page:
 
   En la landing page, se implementará un diseño de tipo one-page scroll, que permite al usuario explorar el contenido desplazándose verticalmente de forma continua. Para facilitar la orientación, se incluirá un encabezado fijo que servirá como guía de navegación, permitiendo acceder rápidamente a las secciones principales sin necesidad de hacer scroll manualmente.
 
-+ Web App:
+- Web App:
 
-   La web app ofrecerá una navegación híbrida. Los usuarios podrán seguir un flujo guiado y secuencial para registrar sus plantas, ideal para quienes prefieren un acompañamiento paso a paso. Sin embargo, también tendrán la libertad de moverse entre los distintos módulos de la aplicación como la sección de guías, el chatbot, el panel de tareas, el perfil del usuario, entre otros, según sus necesidades e intereses, garantizando así una experiencia flexible y personalizada.
-
+  La web app ofrecerá una navegación híbrida. Los usuarios podrán seguir un flujo guiado y secuencial para registrar sus plantas, ideal para quienes prefieren un acompañamiento paso a paso. Sin embargo, también tendrán la libertad de moverse entre los distintos módulos de la aplicación como la sección de guías, el chatbot, el panel de tareas, el perfil del usuario, entre otros, según sus necesidades e intereses, garantizando así una experiencia flexible y personalizada.
 
 ### 4.3. Landing Page UI Design
 
@@ -1915,7 +1936,7 @@ Los wireframes desarrollados para la aplicación web de BioPafi evidencian una p
 
 [Enlace del figma](https://www.figma.com/design/5cSEKvg4XXUzsXTpOPJySb/PlantSync?node-id=42-2&t=aclI2b5Cp9Y2pn5i-1)
 
-+ Mis Planta:
+- Mis Planta:
 
 Vista principal del usuario con el listado de todas sus plantas registradas. Desde aquí puede visualizar el estado general de cada planta, acceder a sus detalles, editarla o añadir una nueva.
 
@@ -1923,7 +1944,7 @@ Vista principal del usuario con el listado de todas sus plantas registradas. Des
   <img src="images/wireframes/MisPlantas.png" alt="MisPlantas" width="1000">
 </p>
 
-+ Guías:
+- Guías:
 
 Catálogo de recomendaciones organizadas por tema (riego, luz, fertilizante, plagas). Permite a los usuarios consultar guías según sus necesidades o tipo de planta.
 
@@ -1931,7 +1952,7 @@ Catálogo de recomendaciones organizadas por tema (riego, luz, fertilizante, pla
   <img src="images/wireframes/Guias.png" alt="Guías" width="1000">
 </p>
 
-+ Tareas:
+- Tareas:
 
 Sección tipo calendario que muestra los recordatorios programados para cada planta, incluyendo riegos, fertilización u otras tareas. Ayuda al usuario a organizar su rutina de cuidado.
 
@@ -1939,7 +1960,7 @@ Sección tipo calendario que muestra los recordatorios programados para cada pla
   <img src="images/wireframes/Tareas.png" alt="Tareas" width="1000">
 </p>
 
-+ Chatbot:
+- Chatbot:
 
 Vista principal del asistente virtual (RootBot), que permite al usuario iniciar una conversación para resolver dudas rápidas sobre el cuidado de plantas.
 
@@ -1947,7 +1968,7 @@ Vista principal del asistente virtual (RootBot), que permite al usuario iniciar 
   <img src="images/wireframes/ChatBot.png" alt="ChatBot" width="1000">
 </p>
 
-+ Configuración personal
+- Configuración personal
 
 Panel donde el usuario puede actualizar su información personal, configurar notificaciones y gestionar su tipo de suscripción (básico, PRO o premium).
 
@@ -1955,7 +1976,7 @@ Panel donde el usuario puede actualizar su información personal, configurar not
   <img src="images/wireframes/Configuracion.png" alt="Configuraciones" width="1000">
 </p>
 
-+ Añadir Planta:
+- Añadir Planta:
 
 Formulario guiado para registrar una nueva planta. Incluye campos como nombre personalizado, especie, fecha de adquisición y opción para activar notificaciones.
 
@@ -1963,7 +1984,7 @@ Formulario guiado para registrar una nueva planta. Incluye campos como nombre pe
   <img src="images/wireframes/AnadirPlanta.png" alt="AddPlanta" width="1000">
 </p>
 
-+ Ver Guía:
+- Ver Guía:
 
 Pantalla con el contenido detallado de una guía específica, incluyendo instrucciones paso a paso, imágenes ilustrativas y recomendaciones prácticas.
 
@@ -1971,7 +1992,7 @@ Pantalla con el contenido detallado de una guía específica, incluyendo instruc
   <img src="images/wireframes/VerGuia.png" alt="VerGuia" width="1000">
 </p>
 
-+ Chateando con ChatBot:
+- Chateando con ChatBot:
 
 Vista activa de la conversación con el bot. El usuario realiza preguntas relacionadas al cuidado o adquisición de plantas y recibe respuestas contextualizadas.
 
@@ -1979,7 +2000,7 @@ Vista activa de la conversación con el bot. El usuario realiza preguntas relaci
   <img src="images/wireframes/ChateaConBot.png" alt="Chateando con RootBot" width="1000">
 </p>
 
-+ Ver Planta:
+- Ver Planta:
 
 Pantalla detallada con toda la información de una planta específica, incluyendo foto, especie, historial de cuidado y recomendaciones por clima.
 
@@ -1987,7 +2008,7 @@ Pantalla detallada con toda la información de una planta específica, incluyend
   <img src="images/wireframes/VerPlantaEspecifica.png" alt="VerPlanta" width="1000">
 </p>
 
-+ Ver historial de planta:
+- Ver historial de planta:
 
 Registro cronológico de las acciones realizadas sobre una planta (riego, fertilización, cambios de estado), acompañado de gráficas simples de humedad y evolución.
 
@@ -2004,7 +2025,7 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 <br><br>
 
-+ **Wireflow 1: Registrar una nueva planta**
+- **Wireflow 1: Registrar una nueva planta**
 
 **User Goal:** Como usuario principiante, quiero registrar mi nueva planta para empezar a cuidarla con ayuda de la aplicación.
 
@@ -2016,7 +2037,7 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 <br><br>
 
-+ **Wireflow 2: Consultar guía de cuidado**
+- **Wireflow 2: Consultar guía de cuidado**
 
 **User Goal:** Como usuario experto, quiero consultar una guía específica para verificar recomendaciones de cuidado avanzado.
 
@@ -2028,7 +2049,7 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 <br><br>
 
-+ **Wireflow 3: Ver historial de cuidado**
+- **Wireflow 3: Ver historial de cuidado**
 
 **User Goal:** Como usuario frecuente, quiero revisar el historial de mi planta para entender cómo ha evolucionado su estado.
 
@@ -2040,7 +2061,7 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 <br><br>
 
-+ **Wireflow 4: Consultar recomendaciones por clima**
+- **Wireflow 4: Consultar recomendaciones por clima**
 
 **User Goal:** Como usuario con poco tiempo, quiero saber si hoy debo regar o proteger mis plantas, según el clima actual.
 
@@ -2052,7 +2073,7 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 <br><br>
 
-+ **Wireflow 5: Configurar mis preferencias y cuenta**
+- **Wireflow 5: Configurar mis preferencias y cuenta**
 
 **User Goal:** Como usuario PRO, quiero actualizar mis datos y gestionar mi suscripción.
 
@@ -2064,7 +2085,7 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 <br><br>
 
-+ **Wireflow 6: Chatear con el bot**
+- **Wireflow 6: Chatear con el bot**
 
 **User Goal:** Como usuario de BioPafi, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
 
@@ -2075,7 +2096,6 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 </p>
 
 <br><br>
-
 
 #### 4.4.3. Web Applications Mock-ups
 
