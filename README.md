@@ -1616,37 +1616,52 @@ Scenario 2: Consulta a través del chat de soporte
 </tr>
 <tr>
 <td>US21</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Sección principal con mensaje claro</td>
+<td><strong>Como</strong>  visitante de la landing page, <strong>quiero</strong>  ver de inmediato el mensaje principal del sitio al ingresar, <strong>para</strong> así saber de qué trata la página sin tener que desplazarme.</td>
+<td>Scenario 1:  Visualización del mensaje principal
+<strong>Dado que</strong> el visitante de la landing page,
+<strong>cuando</strong>  carga la página,
+<strong>Entonces</strong> se muestra un encabezado con el nombre del producto/servicio y un mensaje claro de que se trata el producto.</td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US22</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Comparar planes de suscripción</td>
+<td><strong>Como</strong>  visitante de la landing page, <strong>quiero</strong> comparar fácilmente los planes de suscripción  <strong>para</strong> elegir el que mejor se ajuste a mis necesidades</td>
+<td>Scenario 1:  Visualización comparativa
+<strong>Dado que</strong> el visitante de la landing page baja a la sección de Planes,,
+<strong>cuando</strong>  observa la información,
+<strong>Entonces</strong> puede identificar rápidamente las diferencias de características y precios entre los planes.</td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US23</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Visualizar información sobre la empresa</td>
+<td><strong>Como</strong>  visitante de la landing page, <strong>quiero</strong> conocer más sobre la empresa detrás del servicio, <strong>para</strong> confiar en el producto antes de suscribirme.</td>
+<td>Scenario 1:  Sección de información sobre la empresa
+<strong>Dado que</strong> el visitante de la landing page baja hasta la sección “¿Quiénes somos?”,
+<strong>cuando</strong> lee el texto
+<strong>Entonces</strong> obtiene una breve descripción de la misión y valores de la empresa.</td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US24</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Visualización de botón "Acceder" en la cabecera</td>
+<td><strong>Como</strong>  visitante de la landing page, <strong>quiero</strong> ver un botón de "Acceder" en la parte superior de la landing, <strong>para</strong> saber que más adelante podré ingresar a mi cuenta.</td>
+<td>Scenario 1: Visualización de botón "Acceder"
+<strong>Dado que</strong> el visitante entra a la landing page
+<strong>cuando</strong>  observa la barra de navegación,
+<strong>Entonces</strong> puede ver el botón "Acceder" ubicado en la esquina superior derecha.</td>
 <td>EP00</td>
 </tr>
 <tr>
 <td>US25</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Visualización del botón "Empieza ahora" en la landing</td>
+<td><strong>Como</strong>  visitante de la landing page, <strong>quiero</strong> ver un botón llamativo de "Empieza ahora" en la landing, <strong>para</strong> sentirme invitado a comenzar con el servicio.</td>
+<td>Scenario 1:  Visualización del botón "Empieza ahora"
+<strong>Dado que</strong> el visitante navega por la landing page
+<strong>cuando</strong>  llega a la parte principal,
+<strong>Entonces</strong>puede ver claramente el botón "Empieza ahora" que destaca sobre el resto del contenido</td>
 <td>EP00</td>
 </tr>
 <tr>
