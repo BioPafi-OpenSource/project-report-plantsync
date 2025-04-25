@@ -2093,7 +2093,7 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 Lo siguientes mockups se elaboraron tomando como base los wireframes previamente hechos y demuestran fielmente las funcionalidades que puede realizar el usuario al momento de usar la aplicación.
 
-[Enlace del Overflow]()
+[Enlace del Figma](https://www.figma.com/design/5cSEKvg4XXUzsXTpOPJySb/PlantSync?node-id=44-4&t=UOYHjiQEz5g3pkpn-1 )
 
 + Mis Plantas
 
