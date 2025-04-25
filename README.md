@@ -2127,11 +2127,107 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
+<table align="center">
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-LandingPage</td>
+    <td>main</td>
+    <td>f178de7</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>24/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>0f56aa1</td>
+    <td>feat: added the header and 2 sections</td>
+    <td>added the header and 2 sections</td>
+    <td>24/04/25</td>
+  </tr>
+</table>
+
+<br>
+
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+
+Durante la primera fase de desarrollo se logró implementar correctamente la página principal. Esta contiene varias áreas que permiten a los visitantes obtener información completa sobre nuestro producto y conocer sus funcionalidades más importantes.
+
++ Header:
+
+Barra superior fija con el logo de PlantSync, menú de navegación por anclas (Cómo funciona, Planes, Integrantes y Acceder).
+
+<p align="center">
+  <img src="images/landingPage/header.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Sección principal:
+
+Sección principal impactante con un mensaje claro y directo, complementada por una imagen que identifica a la AppWeb. Contiene un botón de acción inmediata con texto tipo "Empeiza ahora" para dirigirse al formulario de "Registrarse".
+
+<p align="center">
+  <img src="images/landingPage/hero.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Sección ¿Cómo funciona?:
+
+Explicación sencilla en 3 pasos de como funciona nuestra plataforma.
+
+<p align="center">
+  <img src="images/landingPage/how-it-works.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+Para este primer sprint no se vio una ejecutación de servicios.
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+En la primera fase de desarrollo de PlantSync, se ejecutaron las tareas preliminares de implementación centradas principalmente en el lanzamiento de la Landing Page estática. A continuación los pasos que utilizamos para desplegar la Landing:
+
++ Creación del repositorio
+
+Se creó el repositorio de la Landing page en la misma organización que el reporte en GitHub. Tambien a este repositorio se integraron las ramas (main) para ver la version final, (develop) para ir subiendo los commits. Además de crear el *index.html* y el *sytle.css*.
+
++ Configuración del entorno de despliegue:
+
+Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Esto es principalmente a su facilidad para configurar y desplegar desde la rama Main. Y actualizamos constantemente la Landing Page con los commits desde Develop. 
+
+  + Activación de GitHub Pages en el repositorio:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Confirmación del enlace del repositorio con entorno de publicación:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Visualización de la Landing Page:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+
+
+[Link de la Landing Page](https://biopafi-opensource.github.io/plantSync-LandingPage/)
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
