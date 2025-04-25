@@ -2076,7 +2076,7 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 + **Wireflow 6: Chatear con el bot**
 
-**User Goal:** Como usuario de BioPafi, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
+**User Goal:** Como usuario de PlantSync, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
 
 **User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
 
@@ -2194,7 +2194,10 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
-[Enlace para acceder al Overflow]()
+Se elaboraron User Flow Diagrams en base a los Wireflows anteriormente hechos. El objetivo de estos diagramas es mostrar los pasos que seguirán los usuarios de nuestra aplicación al momento de alcanzar sus objetivos.
+
+
+[Enlace para acceder al Overflow](https://overflow.io/s/YN9XV7BV)
 
 
 + **User Flow Diagram 1: Registrar una nueva planta**
