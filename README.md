@@ -27,9 +27,9 @@
 | **Código** | **Apellidos y Nombres**             |
 | ---------- | ----------------------------------- |
 | U20231A500 | Palomino Fiestas, Erick Leonardo    |
-|            | Gonzales Alvarado, Javier Sebastian |
-|            | Palomares Andrade, Sean Farith      |
-|            | Rivera Ratachi, Renzo Sebastian     |
+| U202312966 | Gonzales Alvarado, Javier Sebastian |
+| U202121947 | Palomares Andrade, Sean Farith      |
+| U20231D974 | Rivera Ratachi, Renzo Sebastian     |
 | U202311601 | Torres Apolinario, Giovany Smith    |
 
 **Abril 2025**
@@ -54,78 +54,98 @@
     Rivera,<br>
     Palomares, Torres
     </td>
-    <td>...</td>
+    <td>Creación del documento en repositorio compartido en GitHub</td>
   </tr>
   </tr>
   <tr>
     <td>1.1</td>
-    <td>11/04/23</td>
+    <td>9/04/23</td>
     <td>
     Palomino,<br>
     Gonzales,<br>
     Rivera,<br>
-    Palomares, Torre
+    Palomares, Torres
     </td>
-    <td>...</td>
+    <td>Realizacion del Startup Profile, Perfiles de integrantes del equipo y Antecedentes y Problematicas </td>
+  </tr>
+  <tr>
+    <td>1.2</td>
+    <td>10/04/23</td>
+    <td>
+    Gonzales,<br>
+    Palomares
+    </td>
+    <td>Realizacion del Lean UX Procces</td>
   </tr>
   <tr>
     <td>1.3</td>
+    <td>12/04/23</td>
+    <td>
+    Renzo<br>
+    </td>
+    <td>Realización de Competidores, analisis y estrategias</td>
+  </tr>
+  <tr>
+    <td>1.4</td>
     <td>14/04/23</td>
     <td>
     Palomino,<br>
     Gonzales,<br>
     Rivera,<br>
-    Palomares, Torre
+    Palomares, Torres
     </td>
-    <td>...</td>
+    <td>Realizacion de diseño de entrevistas, registro y analisis</td>
   </tr>
-    <tr>
-    <td>1.4</td>
-    <td>16/04/23</td>
-    <td>
-    Palomino,<br>
-    Rivera,<br>
-    Palomares, Torre
-    </td>
-    <td>...</td>
-  </tr>
-    <tr>
+  <tr>
     <td>1.5</td>
-    <td>19/04/23</td>
+    <td>15/04/23</td>
     <td>
-    Gonzales,<br>
-    Palomares
+    Rivera,<br>
+    Torres
     </td>
-    <td>...</td>
+    <td>Realización del Needfinding segun las entrevistas</td>
   </tr>
   <tr>
     <td>1.6</td>
-    <td>22/04/23</td>
+    <td>17/04/23</td>
     <td>
-    Gonzales,<br>
     Palomino,<br>
+    Gonzales,<br>
     Rivera,<br>
-    Palomares, Torre
+    Palomares, Torres
     </td>
-    <td>...</td>
+    <td>Realización de los to-be scenario Mapping, User Stories, Impact Mapping y Product Backlog</td>
   </tr>
   <tr>
     <td>1.7</td>
-    <td>23/04/23</td>
+    <td>18/04/23</td>
     <td>
-    Gonzales,<br>
-    Rivera
+    Palomino,<br>
+    Gonzales
     </td>
-    <td>...</td>
+    <td>Realización de los style guidelines y Information Architecture</td>
   </tr>
   <tr>
-    <td>1.8</td>
+    <td>1.9</td>
     <td>24/04/23</td>
     <td>
     Palomino,<br>
-    Torres
+    Gonzales,<br>
+    Rivera,<br>
+    Palomares, Torres
     </td>
-    <td>...</td>
+    <td>Realización de la Landing Page UI Desing, Web Application UX/UI Desing, Web Application Prototyping, Domain Driven Software Architecture, Class Diagram, Database Diagram</td>
+  </tr>
+  <tr>
+    <td>1.10</td>
+    <td>26/04/23</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Palomares, Torres
+    </td>
+    <td>Realización del Software Configuration Managmente, Landing Page, Service & Application Implementation, Sprint 1 y Conclusiones</td>
   </tr>
 </table>
 
@@ -302,23 +322,23 @@
       Comunica oralmente con efectividad a diferentes rangos de audiencia.
     </td>
     <td>
-      <strong>Javier Gonzales:</strong>
-      TB1 - ...
-      <br><br>
       <strong>Erick Palomino:</strong>
+      TB1 - 
+      <br><br>
+      <strong>Javier Gonzales:</strong>
       TB1 - ...
       <br><br>
       <strong>Renzo Rivera:</strong>
       TB1 – ...
       <br><br>
-      <strong>Andres Coca:</strong>
+      <strong>Sean Palomares:</strong>
       TB1 - ...
       <br><br>
-      <strong>Cesar Linares</strong>
+      <strong>Giovany Torres</strong>
       TB1 – ...
     </td>
     <td>
-      El equipo demostró una gran unidad, distribuyendo roles de manera efectiva. Cada integrante tomó la iniciativa en partes cruciales del desarrollo del sistema, lo que resultó en productos finales coherentes y bien integrados. Las decisiones se tomaron en conjunto, siempre enfocadas en alcanzar las metas establecidas.
+      ...
     </td>
   </tr>
   <tr>
@@ -326,23 +346,23 @@
       Comunica por escrito con efectividad a diferentes rangos de audiencia 
     </td>
     <td>
-      <strong>Javier Gonzales:</strong>
+      <strong>Erick Palomino:</strong>
       TB1 – ...
       <br><br>
-      <strong>Erick Palomino:</strong>
+      <strong>Javier Gonzales:</strong>
       TB1 – ....
       <br><br>
       <strong>Renzo Rivera:</strong>
       TB1 – ...
       <br><br>
-      <strong>Andres Coca:</strong>
+      <strong>Sean Palomares:</strong>
       TB1 – ...
       <br><br>
-      <strong>Cesar Linares:</strong>
+      <strong>Giovany Torres:</strong>
       TB1 – ...
     </td>
     <td>
-      El equipo creó un ambiente de colaboración donde se valoró el papel, los plazos y las obligaciones de cada miembro. Fijamos metas realistas, mantuvimos una comunicación fluida y, gracias a un esfuerzo coordinado y de apoyo mutuo, completamos con éxito los objetivos de la primera entrega.
+      ...
     </td>
   </tr>
 </table>
@@ -370,9 +390,9 @@ Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas in
 | **Foto del Integrantes** | **Nombres y Apellidos**            | **Código de estudiante** | **Conocimientos técnicos y habilidades** |
 | ------------------------ | ---------------------------------- | ------------------------ | ---------------------------------------- |
 | ![Imagen de Integrante Erick Palomino](/images/fotointegrante-erick-palomino.jpeg)                       | Erick Leonardo Palomino Fiestas    | U20231A500               | Hola, Soy Erick Leonardo Palomino Fiestas, un estudiante entusiasta de quinto ciclo en Ingeniería de Software. Mi conjunto de habilidades técnicas incluye C++, HTML, CSS, fundamentos de JavaScript y experiencia con bases de datos SQL y MongoDB. Me considero una persona responsable, con sólidas habilidades de comunicación para trabajar en equipo y una perspectiva optimista. También tengo un nivel básico de inglés.    |
-| 2                        | Javier Sebastian Gonzales Alvarado | Código de estudiante     | Conocimientos técnicos y habilidades     |
-| 3                        | Sean Farith Palomares Andrade      | Código de estudiante     | Conocimientos técnicos y habilidades     |
-| 4                        | Renzo Sebastian Rivera Ratachi     | Código de estudiante     | Conocimientos técnicos y habilidades     |
+|![Imagen de Integrante Javier Gonzales](/images/fotointegrante-javier.jpg)| Javier Sebastian Gonzales Alvarado | U202312966| Mi nombre es Javier Gonzales, soy estudiante de la carrera Ingeniería de Software. Mi código es U202312966. Tengo conocimientos en los lenguajes C++ y Java. Además me considero una persona responsable y disponible para ayudar a los demás si presentan dificultades.|
+|![Imagen de Integrante Sean Palomares](/images/fotointegrante-sean.jpg)| Sean Farith Palomares Andrade|U202121947| Soy Sean Palomares, estudiante de sexto ciclo de la carrera de Ciencias de la Computación. Me interesan los temas de desarrollo de software y machine learning. Tengo conocimiento en Python, C++ y C#. Estoy emocionado por colaborar con el grupo para lograr completar nuestro proyecto.|
+|![Imagen de Integrante Renzo Rivera](/images/fotointegrante-renzo.jpg)| Renzo Sebastian Rivera Ratachi|U20231D974|Soy Renzo Sebastian Rivera Ratachi y soy estudiante de la carrera de Ingeniería de Software. Actualmente estoy cursando el 5to ciclo de mi carrera y tengo conocimientos intermedios de HTML, CSS, JavaScript y C++. Me considero una persona responsable y puntual.|
 | ![Imagen de Integrante Giovany Torres](/images/fotointegrante-giovany.jpeg) | Giovany Smith Torres Apolinario    | U202311601 | Estoy cursando el quinto ciclo de mi carrera Ingeniería de Software, soy una persona responsable que le gusta resolver desafíos a la par con el trabajo  responsable y en equipo tengo la capacidad de líder y me gusta aprender nuevas cosas dia a dia.     |
 
 ### 1.2. Solution Profile
