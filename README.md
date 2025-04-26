@@ -1915,7 +1915,7 @@ Los wireframes desarrollados para la aplicación web de BioPafi evidencian una p
 
 [Enlace del figma](https://www.figma.com/design/5cSEKvg4XXUzsXTpOPJySb/PlantSync?node-id=42-2&t=aclI2b5Cp9Y2pn5i-1)
 
-+ Mis Planta:
++ Mis Plantas:
 
 Vista principal del usuario con el listado de todas sus plantas registradas. Desde aquí puede visualizar el estado general de cada planta, acceder a sus detalles, editarla o añadir una nueva.
 
@@ -2008,6 +2008,8 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 **User Goal:** Como usuario principiante, quiero registrar mi nueva planta para empezar a cuidarla con ayuda de la aplicación.
 
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
 **Flujo:** Este flujo comienza cuando el usuario ingresa a la sección "Mis Plantas" y hace clic en el botón “Agregar Planta”. Se abre un formulario donde debe completar campos como nombre personalizado, especie, fecha de adquisición, subir una foto opcional, y seleccionar si desea recibir recordatorios. Además, puede indicar su nivel de experiencia y activar el monitoreo manual asistido. Una vez completado, pulsa “Añadir” y es redirigido al dashboard con la planta registrada y visible. Este flujo está pensado especialmente para usuarios principiantes que requieren orientación paso a paso.
 
 <p align="center">
@@ -2019,6 +2021,8 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 + **Wireflow 2: Consultar guía de cuidado**
 
 **User Goal:** Como usuario experto, quiero consultar una guía específica para verificar recomendaciones de cuidado avanzado.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
 
 **Flujo:** El flujo inicia desde la sección “Guías”, donde el usuario visualiza un catálogo de recomendaciones. Filtra por categoría o especie y selecciona una guía específica. Al hacer clic en “Ver guía”, accede a una vista con información detallada, pasos visuales, imágenes y consejos según el tipo de planta. Desde ahí, el usuario puede regresar al catálogo o asociar la guía a una planta registrada. Este flujo está enfocado tanto en principiantes como en expertos que buscan información puntual.
 
@@ -2032,6 +2036,8 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 **User Goal:** Como usuario frecuente, quiero revisar el historial de mi planta para entender cómo ha evolucionado su estado.
 
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
 **Flujo:** Desde “Mis Plantas”, el usuario selecciona una planta específica y accede a su vista detallada. Allí, hace clic en “Ver Historial”, lo que lo dirige a una pantalla donde puede visualizar los registros de cuidado (riego, fertilización, observaciones) ordenados cronológicamente. También accede a un gráfico de humedad que le permite analizar el estado de la planta a lo largo del tiempo. Este flujo está pensado para usuarios que buscan tomar decisiones basadas en datos.
 
 <p align="center">
@@ -2043,6 +2049,8 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 + **Wireflow 4: Consultar recomendaciones por clima**
 
 **User Goal:** Como usuario con poco tiempo, quiero saber si hoy debo regar o proteger mis plantas, según el clima actual.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
 
 **Flujo:** En el apartado de "Mis Plantas", cuando el usuario desea consultar recomendaciones basadas en el clima, debe hacer clic sobre una de sus plantas previamente registradas. Luego, en la parte inferior izquierda de la pantalla, se mostrará la temperatura actual junto con sugerencias específicas según las condiciones climáticas del día.
 
@@ -2056,6 +2064,8 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 **User Goal:** Como usuario PRO, quiero actualizar mis datos y gestionar mi suscripción.
 
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
 **Flujo:** Desde el ícono de perfil o el menú lateral, el usuario accede a “Configuración personal”. Aquí puede modificar sus datos (nombre, email), activar o desactivar notificaciones, y gestionar su plan de suscripción. Si decide cambiar de plan, selecciona uno nuevo y confirma. Al guardar los cambios, recibe una notificación y es redirigido a su perfil actualizado. Este flujo aplica tanto a usuarios nuevos como recurrentes.
 
 <p align="center">
@@ -2066,7 +2076,9 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 + **Wireflow 6: Chatear con el bot**
 
-**User Goal:** Como usuario de BioPafi, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
+**User Goal:** Como usuario de PlantSync, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
 
 **Flujo:** Este flujo comienza cuando el usuario accede a la opción “Chatbot” desde el menú lateral o directamente desde una tarjeta destacada en el dashboard. Al ingresar, se presenta una interfaz de mensajería con un campo de texto inferior y mensajes de bienvenida del bot. El usuario escribe su consulta, por ejemplo: “¿Cada cuánto debo regar una lavanda?” o “¿Dónde puedo conseguir plantas para interior?”. El bot procesa la pregunta y responde con un mensaje textual y, si corresponde, con enlaces a guías, recomendaciones o catálogos. El usuario puede continuar haciendo más preguntas o cerrar el chat. En caso de ser un usuario PRO o Premium, también podrá acceder a respuestas más detalladas o enlaces externos. Este flujo está pensado para ofrecer una experiencia conversacional ágil que complemente la navegación tradicional, ideal para usuarios que prefieren resolver dudas en tiempo real.
 
@@ -2079,7 +2091,205 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 #### 4.4.3. Web Applications Mock-ups
 
+Lo siguientes mockups se elaboraron tomando como base los wireframes previamente hechos y demuestran fielmente las funcionalidades que puede realizar el usuario al momento de usar la aplicación.
+
+[Enlace del Figma](https://www.figma.com/design/5cSEKvg4XXUzsXTpOPJySb/PlantSync?node-id=44-4&t=UOYHjiQEz5g3pkpn-1 )
+
++ Mis Plantas
+
+Vista principal del usuario con el listado de todas sus plantas registradas. Desde aquí puede visualizar el estado general de cada planta, acceder a sus detalles, editarla o añadir una nueva.
+
+<p align="center">
+  <img src="images/mockups/DashBoard Plantas.png" alt="MisPlantas" width="1000">
+</p>
+
+
++ Guías:
+
+Catálogo de recomendaciones organizadas por tema (riego, luz, fertilizante, plagas). Permite a los usuarios consultar guías según sus necesidades o tipo de planta.
+
+<p align="center">
+  <img src="images/mockups/Guias Dashboard MockUp.png" alt="Guías" width="1000">
+</p>
+
++ Tareas:
+
+Sección tipo calendario que muestra los recordatorios programados para cada planta, incluyendo riegos, fertilización u otras tareas. Ayuda al usuario a organizar su rutina de cuidado permitiendole informar que planta ya cuidó o no.
+
+<p align="center">
+  <img src="images/mockups/Tareas.png" alt="Tareas" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/mockups/Tareas Recordatorio.png" alt="TareasRecordatorio" width="1000">
+</p>
+
+
++ Chatbot:
+
+Vista principal del asistente virtual (RootBot), que permite al usuario iniciar una conversación para resolver dudas rápidas sobre el cuidado de plantas.
+
+<p align="center">
+  <img src="images/mockups/chatbot1.png" alt="ChatBot" width="1000">
+</p>
+
+
++ Configuración personal
+
+Panel donde el usuario puede actualizar su información personal, configurar notificaciones y gestionar su tipo de suscripción (básico, PRO o premium).
+
+<p align="center">
+  <img src="images/mockups/profile config.png" alt="Configuraciones" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/mockups/Eleccion de plan.png" alt="ConfiguracionPLan" width="1000">
+</p>
+
++ Añadir Planta:
+
+Formulario guiado para registrar una nueva planta. Incluye campos como nombre personalizado, especie, fecha de adquisición y opción para activar notificaciones.
+
+<p align="center">
+  <img src="images/mockups/añadirplanta.png" alt="AddPlanta" width="1000">
+</p>
+
++ Ver Guía:
+
+Pantalla con el contenido detallado de una guía específica, incluyendo instrucciones paso a paso, imágenes ilustrativas y recomendaciones prácticas.
+
+<p align="center">
+  <img src="images/mockups/guia.png" alt="ViewGuide" width="1000">
+</p>
+
+
+
++ Chateando con ChatBot:
+
+Vista activa de la conversación con el bot. El usuario realiza preguntas relacionadas al cuidado o adquisición de plantas y recibe respuestas contextualizadas.
+
+
+<p align="center">
+  <img src="images/mockups/chatbot2.png" alt="ChatBotConversation" width="1000">
+</p>
++ Ver Planta:
+
+Pantalla detallada con toda la información de una planta específica, incluyendo foto, especie, historial de cuidado y recomendaciones por clima.
+
+<p align="center">
+  <img src="images/mockups/perfilplanta.png" alt="VerPlanta" width="1000">
+</p>
+
++ Ver historial de planta:
+
+Registro cronológico de las acciones realizadas sobre una planta (riego, fertilización, cambios de estado), acompañado de gráficas simples de humedad y evolución.
+
+<p align="center">
+  <img src="images/mockups/historialPlanta.png" alt="Historial" width="1000">
+</p>
+
+<br><br>
+
+
+
 #### 4.4.4. Web Applications User Flow Diagrams
+
+Se elaboraron User Flow Diagrams en base a los Wireflows anteriormente hechos. El objetivo de estos diagramas es mostrar los pasos que seguirán los usuarios de nuestra aplicación al momento de alcanzar sus objetivos.
+
+
+[Enlace para acceder al Overflow](https://overflow.io/s/YN9XV7BV)
+
+
++ **User Flow Diagram 1: Registrar una nueva planta**
+
+**User Goal:** Como usuario principiante, quiero registrar mi nueva planta para empezar a cuidarla con ayuda de la aplicación.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
+**Flujo:** Este flujo comienza cuando el usuario ingresa a la sección "Mis Plantas" y hace clic en el botón “Agregar Planta”. Se abre un formulario donde debe completar campos como nombre personalizado, especie, fecha de adquisición, subir una foto opcional, y seleccionar si desea recibir recordatorios. Además, puede indicar su nivel de experiencia y activar el monitoreo manual asistido. Una vez completado, pulsa “Añadir” y es redirigido al dashboard con la planta registrada y visible. Este flujo está pensado especialmente para usuarios principiantes que requieren orientación paso a paso.
+
+<p align="center">
+  <img src="images/mockups/addplant.png" alt="User Flow Diagram 1" width="1000">
+</p>
+
+<br><br>
+
++ **User Flow Diagram 2: Consultar guía de cuidado**
+
+**User Goal:** Como usuario experto, quiero consultar una guía específica para verificar recomendaciones de cuidado avanzado.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
+**Flujo:** El flujo inicia desde la sección “Guías”, donde el usuario visualiza un catálogo de recomendaciones. Filtra por categoría o especie y selecciona una guía específica. Al hacer clic en “Ver guía”, accede a una vista con información detallada, pasos visuales, imágenes y consejos según el tipo de planta. Desde ahí, el usuario puede regresar al catálogo o asociar la guía a una planta registrada. Este flujo está enfocado tanto en principiantes como en expertos que buscan información puntual.
+
+<p align="center">
+  <img src="images/mockups/consultarguias.png" alt="User Flow Diagram 2" width="1000">
+</p>
+
+<br><br>
+
++ **User Flow Diagram 3: Ver historial de cuidado**
+
+**User Goal:** Como usuario frecuente, quiero revisar el historial de mi planta para entender cómo ha evolucionado su estado.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
+
+**Flujo:** Desde “Mis Plantas”, el usuario selecciona una planta específica y accede a su vista detallada. Allí, hace clic en “Ver Historial”, lo que lo dirige a una pantalla donde puede visualizar los registros de cuidado (riego, fertilización, observaciones) ordenados cronológicamente. También accede a un gráfico de humedad que le permite analizar el estado de la planta a lo largo del tiempo. Este flujo está pensado para usuarios que buscan tomar decisiones basadas en datos.
+
+<p align="center">
+  <img src="images/mockups/verhistorial.png" alt="User Flow Diagram 3" width="1000">
+</p>
+
+<br><br>
+
++ **User Flow Diagram 4: Consultar recomendaciones por clima**
+
+**User Goal:** Como usuario con poco tiempo, quiero saber si hoy debo regar o proteger mis plantas, según el clima actual.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
+
+**Flujo:** En el apartado de "Mis Plantas", cuando el usuario desea consultar recomendaciones basadas en el clima, debe hacer clic sobre una de sus plantas previamente registradas. Luego, en la parte inferior izquierda de la pantalla, se mostrará la temperatura actual junto con sugerencias específicas según las condiciones climáticas del día.
+
+<p align="center">
+  <img src="images/mockups/consultarclima.png" alt="User Flow Diagram 4" width="1000">
+</p>
+
+<br><br>
+
++ **User Flow Diagram 5: Configurar mis preferencias y cuenta**
+
+**User Goal:** Como usuario PRO, quiero actualizar mis datos y gestionar mi suscripción.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
+
+**Flujo:** Desde el ícono de perfil o el menú lateral, el usuario accede a “Configuración personal”. Aquí puede modificar sus datos (nombre, email), activar o desactivar notificaciones, y gestionar su plan de suscripción. Si decide cambiar de plan, selecciona uno nuevo y confirma. Al guardar los cambios, recibe una notificación y es redirigido a su perfil actualizado. Este flujo aplica tanto a usuarios nuevos como recurrentes.
+
+<p align="center">
+  <img src="images/mockups/cambiarconfig.png" alt="User Flow Diagram 5" width="1000">
+</p>
+
+<br><br>
+
++ **User Flow Diagram 6: Chatear con el bot**
+
+**User Goal:** Como usuario de PlantSync, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
+
+**Flujo:** Este flujo comienza cuando el usuario accede a la opción “Chatbot” desde el menú lateral o directamente desde una tarjeta destacada en el dashboard. Al ingresar, se presenta una interfaz de mensajería con un campo de texto inferior y mensajes de bienvenida del bot. El usuario escribe su consulta, por ejemplo: “¿Cada cuánto debo regar una lavanda?” o “¿Dónde puedo conseguir plantas para interior?”. El bot procesa la pregunta y responde con un mensaje textual y, si corresponde, con enlaces a guías, recomendaciones o catálogos. El usuario puede continuar haciendo más preguntas o cerrar el chat. En caso de ser un usuario PRO o Premium, también podrá acceder a respuestas más detalladas o enlaces externos. Este flujo está pensado para ofrecer una experiencia conversacional ágil que complemente la navegación tradicional, ideal para usuarios que prefieren resolver dudas en tiempo real.
+
+<p align="center">
+  <img src="images/mockups/consultarchatbot.png" alt="User Flow Diagram 6" width="1000">
+</p>
+
+<br><br>
+
+
+
 
 ### 4.5. Web Applications Prototyping
 
