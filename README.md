@@ -2121,7 +2121,73 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 ##### 5.2.1.1. Sprint Planning 1
 
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>Sprint 1</b></td>
+      <td>implementacion de la parte estatica de la landing page</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Planning Background</b></td>
+    </tr>
+    <tr>
+      <td><b>Date</b></td>
+      <td>25/04/2025</td>
+    </tr>
+    <tr>
+      <td><b>Time</b></td>
+      <td>20:50 PM</td>
+    </tr>
+    <tr>
+      <td><b>Location</b></td>
+      <td>Reunión realizada mediante Discord</td>
+    </tr>
+    <tr>
+      <td><b>Prepared By</b></td>
+      <td>Palomino Fiestas, Erick Leonardo</td>
+    </tr>
+    <tr>
+      <td><b>Attendees (to planning meeting)</b></td>
+      <td>
+          Gonzales Alvarado, Javier Sebastian <br>
+          Palomares Andrade, Sean Farith <br>
+          Rivera Ratachi, Renzo Sebastian <br>
+          Torres Apolinario, Giovany Smith <br>
+          
+  </td>
+    </tr>
+    <tr>
+      <td><b>Sprint n – 1 Review</b></td>
+      <td>Se creará la organización de PlantSync en Github, se crea las ramas, 
+          se separa los trabajos a realizar como entrevistas, wireframe y mock-up.
+      </td>
+    </tr>
+    <tr>
+      <td><b>Sprint n – 1 Retrospective</b></td>
+      <td>Para la implementación para el landing page se ha realizado mediante html, css y js</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+    </tr>
+    <tr>
+      <td><b>Sprint 1 Goal</b></td>
+      <td>Elaborar y diseñar una landing page atractiva e informativa para la aplicación de PlantSync</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 1 Velocity</b></td>
+      <td>20 Points</td>
+    </tr>
+    <tr>
+      <td><b>Sum of Story Points</b></td>
+      <td>20 Points
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
+
 
 ##### 5.2.1.3. Sprint Backlog 1
 
