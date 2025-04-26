@@ -2083,6 +2083,18 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 ### 4.5. Web Applications Prototyping
 
+Esta sección expone los prototipos interactivos elaborados para su uso en navegadores web en computadoras de escritorio. Estos prototipos fueron construidos a partir de los diagramas de flujo de usuario previamente definidos, con el fin de garantizar una navegación lógica, intuitiva y eficiente para el usuario.
+
+Se dio prioridad a interacciones simples y directas, como los clics, el desplazamiento vertical y las transiciones suaves entre pantallas, simulando el comportamiento real de un sistema en funcionamiento. La organización de la información responde a una estructura jerárquica clara, diseñada para satisfacer las necesidades del usuario, ofreciendo acceso rápido a funciones clave, retroalimentación oportuna y una navegación orientada en todo momento.
+
+<p align="center">
+  <img src="images/prueba-flujo-plantsync.png" alt="Wireflow" width="1000">
+</p>
+
+Para ver explicación: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/Efz5uoQ9CiZMsQq9P7aAtYgB3Kdz429KvfvlVxiDye_6fQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJttwU" target="_blank">Web Applications Prototyping</a>
+
+Para ver el flujo: <a href="https://www.figma.com/proto/5cSEKvg4XXUzsXTpOPJySb/PlantSync?node-id=185-4&p=f&t=eAmx3yAzYRvh6zqb-0&scaling=scale-down&content-scaling=fixed&page-id=44%3A4&starting-point-node-id=185%3A4" target="_blank">Flujo de la Web Applications Prototyping</a>
+
 ### 4.6. Domain-Driven Software Architecture
 
 #### 4.6.1. Software Architecture Context Diagram
