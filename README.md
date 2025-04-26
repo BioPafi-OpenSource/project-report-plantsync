@@ -963,8 +963,6 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   <tr>
     <td colspan="2" style="text-align:justify">
       Resumen: Andrea ha cuidado plantas anteriormente, aunque con algunas dificultades. Su primera planta murió por no recibir el cuidado necesario, pero decidió intentarlo nuevamente con otras plantas pero esta vez siendo mas cuidadoso. Identifica como principales problemas como lo es el olvido de regarlas, la confusión sobre la cantidad de luz necesaria y la falta de información clara y sencilla para los cuidados. Actualmente no usa apps ni comunidades para ayudarle. Le interesa una app que le brinde recordatorios de riego, consejos paso a paso y recomendaciones basadas en el clima local, siempre que sean simples de entender.Además, valora mucho funcionalidades como identificación de plantas por foto, guias o formularios visuales. Estaría dispuesto a pagar por funciones premium siempre que la app sea útil, fácil de usar y no demasiado costosa que cumpla sus expectativas en su uso. Busca principalmente sentirse apoyado en el proceso de cuidado de plantas.
-<br>
-    
     </td>
   </tr>
   <tr>
@@ -979,7 +977,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 ## _Analisis de entrevista para Expertos cuidadores de plantas:_
 
+El 100% de los entrevistados tiene una experiencia prolongada en el cuidado de plantas, con edades que oscilan entre los 23 y 60 años, habiendo comenzado principalmente por influencia familiar (66%) o como resultado de un interés desarrollado durante la pandemia (33%). Todos integran el cuidado de sus plantas en su rutina diaria, aunque el 100% reconoce que no utilizan aplicaciones especializadas, recurriendo a fuentes como YouTube, Google o el conocimiento heredado. Entre los principales desafíos, el 100% señala la personalización de cuidados según el tipo de planta y la dificultad de mantener la constancia en los cuidados cuando la cantidad de plantas es amplia (66%). Todos manifiestan interés en una aplicación que ofrezca recomendaciones personalizadas, registro de actividades de cuidado y recordatorios automáticos, mientras que el 66% considera esencial incluir una función de identificación de plantas mediante fotos y recomendaciones basadas en condiciones climáticas locales. Aunque actualmente no utilizan apps, el 100% expresó disposición a pagar una suscripción si perciben un valor real en la optimización de sus rutinas y el mejoramiento de la salud de sus plantas. Finalmente, el segmento evidencia una necesidad clara de organización y asistencia continua, valorando soluciones que respeten su autonomía y experiencia previa.
+
 ## _Analisis de entrevista para Principiantes cuidadores de plantas:_
+
+El 100% de los entrevistados se encuentra en una etapa inicial en el cuidado de plantas, con edades que oscilan entre los 18 y 20 años, habiendo comenzado por iniciativa personal y enfrentado dificultades como la pérdida de su primera planta por exceso de riego (66%) o falta de información (33%). Todos reconocen la carencia de conocimientos técnicos específicos y la necesidad de guías simples y claras para afrontar tareas básicas como riego, exposición solar y trasplante. Ninguno utiliza actualmente aplicaciones o comunidades digitales especializadas, confiando en búsquedas en Google que consideran dispersas o confusas. El 100% mostró gran interés por una aplicación que brinde recordatorios de riego, recomendaciones personalizadas basadas en clima local, guías paso a paso y la opción de identificar plantas mediante fotos, mientras que el 66% resalta la importancia de recibir sugerencias adaptadas a su entorno doméstico. En cuanto a la disposición de pago, el 100% se mostró favorable siempre que la herramienta sea clara, útil y ayude a evitar errores comunes. Finalmente, todos expresaron su deseo de sentirse acompañados en el proceso de aprendizaje, valorando especialmente la simplicidad y la facilidad de uso como factores clave para adoptar una solución digital.
 
 ### 2.3. Needfinding
 
