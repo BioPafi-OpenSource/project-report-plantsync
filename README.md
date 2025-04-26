@@ -942,15 +942,15 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Entrevistado</strong></td>
-    <td>...</td></td>
+    <td>Andrea Elizabeth Santur Tello</td></td>
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>... años</td>
+    <td>18 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
-    <td>...</td></td>
+    <td>Los Olivos</td></td>
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
@@ -962,8 +962,9 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
-      Resumen: 
+      Resumen: Andrea ha cuidado plantas anteriormente, aunque con algunas dificultades. Su primera planta murió por no recibir el cuidado necesario, pero decidió intentarlo nuevamente con otras plantas pero esta vez siendo mas cuidadoso. Identifica como principales problemas como lo es el olvido de regarlas, la confusión sobre la cantidad de luz necesaria y la falta de información clara y sencilla para los cuidados. Actualmente no usa apps ni comunidades para ayudarle. Le interesa una app que le brinde recordatorios de riego, consejos paso a paso y recomendaciones basadas en el clima local, siempre que sean simples de entender.Además, valora mucho funcionalidades como identificación de plantas por foto, guias o formularios visuales. Estaría dispuesto a pagar por funciones premium siempre que la app sea útil, fácil de usar y no demasiado costosa que cumpla sus expectativas en su uso. Busca principalmente sentirse apoyado en el proceso de cuidado de plantas.
 <br>
+    
     </td>
   </tr>
   <tr>
