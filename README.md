@@ -1681,7 +1681,7 @@ El encabezado de la pagina web tendra el logo de nuestro proyecto en la posicion
 En el pie de página se incluirán los distintos medios de contacto disponibles, como teléfonos de atención al cliente, redes sociales y correos electrónicos. Además, se integrarán los diferentes apartados del encabezado para facilitar la navegación desde cualquier sección del sitio.
 
 <p align="center">
-  <img src="images/landingpage-styleguidelines.png" alt="Screenshot landing page" >
+  <img src="images/LandingPageUpdated.png" alt="Screenshot landing page" >
 </p>
 
 ### 4.2. Information Architecture
@@ -1896,7 +1896,7 @@ La página web ha sido diseñada con un enfoque minimalista e intuitivo, evitand
 En este apartado se observara nuestra landing page de desktop web browser en una version basica. En este se podra observar apartados importantes para una primera impresion para el usuario tal que, una presentacion rapida de que se trata nuestro proyecto, luego se podra observar rapidamente en 3 pasos el funcionamiento de nuestro producto, ademas se podra ver los diferentes planes para nuestro usuario y por ultimo una pequeña presentación de nuestra startup.
 
 <p align="center">
-  <img src="images/wireframes/ladingpage-wireframe.png" alt="Landing Page Wireframe" width="500">
+  <img src="images/wireframelandingpage.png" alt="Landing Page Wireframe" width="500">
 </p>
 
 #### 4.3.2. Landing Page Mock-up
@@ -1904,7 +1904,7 @@ En este apartado se observara nuestra landing page de desktop web browser en una
 Apartir de nuestro wireframe que es una version basica de nuestro lading page, se realizo nuestra version final de nuestro landing page. Esta cuenta con los mismos aparados realizados anteriormente. En este se podra observar los colores elegidos y lenguaje utilizado, siendo este amigable para el usuario.
 
 <p align="center">
-  <img src="images/landingpage-mockup.png" alt="Landing Page Mockup" width="500">
+  <img src="images/LandingPageUpdated.png" alt="Landing Page Mockup" width="500">
 </p>
 
 ### 4.4. Web Applications UX/UI Design
