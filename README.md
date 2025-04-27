@@ -3955,10 +3955,17 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
 ### Conclusiones y recomendaciones
 
 
+
 ---
 
 ## Bibliografía
 
+Gutiérrez, A (2021, 17 de agosto). Estos son los errores más comunes que se cometen en el cuidado de las plantas de interior. Agronegocios
+https://www.agronegocios.co/agricultura/estos-son-los-errores-mas-comunes-que-se-cometen-en-el-cuidado-de-las-plantas-de-interior-3218312
+
 Revista Economía. (2020). Incremento del interés de los peruanos por el cuidado de las áreas verdes. https://www.revistaeconomia.com/incremento-del-interes-de-los-peruanos-por-el-cuidado-de-las-areas-verdes/
+
+SERPAR (2021, 8 de marzo), 10 cosas que debes aprender sobre el cuidado de plantas. SERPAR
+https://www.serpar.gob.pe/noticias/10-cosas-que-debes-aprender-sobre-el-cuidado-de-plantas/
 
 ## Anexos
