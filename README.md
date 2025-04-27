@@ -211,6 +211,21 @@
 + Giovany Torres (Giovany7x)
 + Sean Palomares (SeanPalomares)
 
+<p align="center">
+  <img src="images/insight-github/contributors1-plantsync.png" alt="evidencia-sprint" width="800">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/insight-github/overview1-plantsync.png" alt="evidencia-sprint" width="800">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/insight-github/branch1-plantsync.png" alt="evidencia-sprint" width="800">
+</p>
+<br><br>
+
 ---
 
 ## Contenido
