@@ -399,6 +399,7 @@ Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas in
 
 
 
+
 ### 1.2. Solution Profile
 
 En esta sección se detalla el perfil de nuestra solución, desarrollada de manera progresiva bajo el enfoque Lean UX y respaldada por fundamentos sólidos. PlantSync es una aplicación creada para facilitar el cuidado responsable de las plantas, utilizando como herramienta central un chatbot inteligente.
@@ -2436,6 +2437,7 @@ Dado que la plataforma almacenará una gran cantidad de información, incluyendo
 
 - Opciones de búsqueda:
 
+
   - Búsqueda de guías
 
   - Búsqueda de plantas registradas
@@ -2455,6 +2457,7 @@ Dado que la plataforma almacenará una gran cantidad de información, incluyendo
   - Tipo de guía
 
   - Periodo de tiempo (última semana, mes, personalizado)
+
 
 - Visualización de Datos
 
@@ -2660,11 +2663,13 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 - **Wireflow 6: Chatear con el bot**
 
 
+
 **User Goal:** Como usuario de PlantSync, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
 
 
 
 **User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
 
 
 **Flujo:** Este flujo comienza cuando el usuario accede a la opción “Chatbot” desde el menú lateral o directamente desde una tarjeta destacada en el dashboard. Al ingresar, se presenta una interfaz de mensajería con un campo de texto inferior y mensajes de bienvenida del bot. El usuario escribe su consulta, por ejemplo: “¿Cada cuánto debo regar una lavanda?” o “¿Dónde puedo conseguir plantas para interior?”. El bot procesa la pregunta y responde con un mensaje textual y, si corresponde, con enlaces a guías, recomendaciones o catálogos. El usuario puede continuar haciendo más preguntas o cerrar el chat. En caso de ser un usuario PRO o Premium, también podrá acceder a respuestas más detalladas o enlaces externos. Este flujo está pensado para ofrecer una experiencia conversacional ágil que complemente la navegación tradicional, ideal para usuarios que prefieren resolver dudas en tiempo real.
@@ -3314,11 +3319,137 @@ Se eligió utilizar Vertabelo para modelar el diagrama de base de datos por su f
 
 #### 5.1.1. Software Development Environment Configuration
 
+**Requirements Management**
+
+**Trello:** Herramienta de gestión de proyectos que permite visualizar, asignar y dar seguimientos a tareas y user stories.
+
+Enlace de referencia: https://trello.com/
+
+**Product UX/UI Design**
+
+**Figma:** Plataforma colaborativa de diseño digital que será usada para crear los prototipos, wireframes y style guidelines de la plataforma.
+
+Enlace de referencia: https://www.figma.com/
+
+**Lucidchart:** Herramienta de diagramación que permitirá elaborar los diagramas de clases.
+
+Enlace de referencia: https://www.lucidchart.com/
+
+**Software Development**
+
+**Visual Studio Code:** Entorno de desarrollo elegido por su flexibilidad, extensiones y compatibilidad multiplataforma. Ideal para un trabajo colaborativo.
+
+Enlace de referencia: https://code.visualstudio.com/
+
+**HTML5:** Lenguaje de marcado para estructurar contenido en la web.
+
+Enlace de referencia: https://www.w3schools.com/html/
+
+**CSS3:** Lenguaje empleado para manejar el estilo y diseño del contenido de las páginas web.
+
+Enlace de referencia: https://google.github.io/styleguide/htmlcssguide.html
+
+**JavaScript:** Lenguaje de programación orientado a eventos para el desarrollo de la lógica de interacción de la aplicación.
+
+Enlace de referencia: https://developer.mozilla.org/es/docs/Web/JavaScript
+
+**Software Deployment**
+
+**Git:** Sistema de control de versiones distribuido que permitirá gestionar el historial de cambios y trabajo colaborativo en el código fuente.
+
+Enlace de referencia: https://git-scm.com/
+
+**Software Documentation and Project Management**
+
+**GitHub:** Plataforma en la nube para la gestión de repositorios, revisiones de código y colaboración en desarrollo.
+
+Enlace de referencia: https://github.com/
+
 #### 5.1.2. Source Code Management
+
+[Repositorio principal en GitHub](https://github.com/BioPafi-OpenSource)
+
+[Repositorio de la Landing Page](https://github.com/BioPafi-OpenSource/plantSync-LandingPage)
+
+**GitFlow:**
+
+Se utilizará el modelo GitFlow propuesto por Vincent Driessen para organizar el trabajo de desarrollo de forma estructurada.
+
+- Ejemplo de GitFlow:
+  <img src="images/gitflow.png" alt="Ejemplo de GitFlow" >
+
+Estructura de branches:
+
+1. Main branch: Contendrá la versión estable de producción de la aplicación. Solo se fusionarán cambios probados y verificados.
+
+2. Develop branch: Incluirá las últimas funcionalidades completadas y en proceso de validación.
+
+3. Feature branches: Se utilizarán estas ramas para trabajar funcionalidades por separado y posteriormente fusionarlas con develop cuando se haya completado el trabajo. Se usará el prefijo `feature/<nombre-de-la-funcionalidad>`
+
+Las convenciones a utilizar para Release branches y Hotfix branches serán:
+
+**Release branches:**
+
+Se utilizarán para gestionar versiones estables de la aplicación que están listas para ser implementadas en producción. Su propósito es consolidar las características y mejoras de la rama develop que ya han sido verificadas y son aptas para el despliegue. Se adoptará el sistema de Versionado Semántico (Semantic Versioning) para nombrar las versiones, siguiendo el formato MAJOR.MINOR.PATCH.
+
+**Hotfix branches:**
+
+Estas ramas se crearán para solucionar errores críticos detectados en la rama main (producción) que afecten de manera importante el funcionamiento de la plataforma.
+
+**Semantic Versioning:**
+Se aplicará Semantic Versioning 2.0.0 para nombrar releases (por ejemplo: v1.0.0, v1.1.0, v2.0.0).
+
+**Commits:**
+Se seguirá la convención Conventional Commits para mantener claridad en el historial de cambios.
+
+`<type>[optional scope]: <description>`
+
+Ejemplo:
+
+`feat(auth): add user login validation`
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
+HTML:
+
+- Cerrar todos los elementos HTML
+- Utilizar el texto alt en todas las imágenes para mantener la accesibilidad
+- Usar minúsculas para todos los nombres de etiquetas y atributos.
+
+CSS:
+
+- Nombres de clases descriptivos usando kebab-case
+- Mantener la especificidad baja para facilitar el mantenimiento.
+- Evitar unidades en valores 0
+
+JavaScript:
+
+- Código en inglés.
+- Nombrar variables en camelCase y clases en PascalCase.
+- Comentarios claros y concisos en inglés.
+
+Gherkin:
+
+- Seguir la estructura Given - When - Then para escenarios.
+
 #### 5.1.4. Software Deployment Configuration
+
+Pasos para el despliegue de la Landing Page en GitHub Pages:
+
+1. Asegurarse que los archivos de la landing page sigan la correcta nomenclatura:
+   - index.html
+   - style.css
+   - Carpeta img para las imágenes
+2. Cargar los archivos al repositorio correspondiente mediante commits.
+3. En el repositorio de la Landing Page dirigirse a `Settings`, luego `Pages` y seleccionar la rama `main`. En folder seleccionar la carpeta raíz `/(root)`
+4. Guardar los cambios y esperar a que GitHub prepare el sitio.
+5. Una vez desplegado, GitHub proporcionará la URL pública de la Landing Page.
+
+[Enlace a la Landing Page desplegada](https://biopafi-opensource.github.io/plantSync-LandingPage/)
+
+<p align="center">
+  <img src="images/landing-page-deployment-evidence.png" alt="landing-page-deployment-evidence" width="">
+</p>
 
 ### 5.2. Landing Page, Services & Applications Implementation
 
