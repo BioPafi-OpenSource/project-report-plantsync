@@ -397,7 +397,57 @@ Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas in
 
 ### 1.2. Solution Profile
 
+En esta sección se detalla el perfil de nuestra solución, desarrollada de manera progresiva bajo el enfoque Lean UX y respaldada por fundamentos sólidos. PlantSync es una aplicación creada para facilitar el cuidado responsable de las plantas, utilizando como herramienta central un chatbot inteligente.
+
+A través de la plataforma, los usuarios pueden registrar sus plantas y recibir asistencia personalizada. El chatbot ha sido entrenado con una base de datos construida por nuestro equipo, la cual reúne información confiable extraída de libros y fuentes científicas especializadas en botánica. Gracias a este conocimiento, el chatbot es capaz de identificar las necesidades específicas de cada planta en función de los datos proporcionados por el usuario —como fotos y detalles del entorno— y ofrecer recomendaciones prácticas para su cuidado. Además, puede detectar señales comunes de deterioro y proponer soluciones adecuadas de forma clara y accesible. PlantSync también incluye un sistema de recordatorios automáticos enviados por correo electrónico, que notifica al usuario sobre los cuidados pendientes o recurrentes de cada planta, asegurando un seguimiento constante y personalizado. De esta forma, promovemos una experiencia más organizada, intuitiva y efectiva para el manejo diario de las plantas.
+
+
 #### 1.2.1. Antecedentes y problemática
+
+Según un artículo de AGRONEGOCIOS (Gutiérrez, A. 2021), uno de los errores más comunes entre quienes recién empiezan a cuidar plantas es el riego excesivo. Los expertos advierten que usar demasiada agua es una de las formas más rápidas de dañar o incluso matar una planta de interior. Otro error frecuente es olvidar que las plantas también necesitan nutrientes, ya que muchas personas creen que solo el agua basta, cuando en realidad es importante fertilizarlas adecuadamente.
+
+Por eso, desde BioPafi queremos apoyar a quienes desean mejorar el cuidado de sus plantas. Nuestra plataforma web permite a los usuarios registrar las plantas que tienen en casa y recibir una guía de cuidados personalizada según el tipo de planta. Además, generamos recordatorios para tareas clave como riego, fertilización y poda, y contamos con un chatbot que ofrece consejos específicos para cada planta registrada, ayudando así a mantenerlas sanas y bien cuidadas.
+
+Who? (¿Quién?)
+La solución está dirigida a personas que desean cuidar plantas de forma responsable, especialmente principiantes, aficionados, familias, adultos mayores, estudiantes y profesionales que buscan una guía confiable sin complicaciones técnicas. También es útil para emprendedores de viveros, tiendas de jardinería o diseñadores de interiores con proyectos verdes.
+
+What? (¿Qué?)
+PlantSync es una aplicación web con un chatbot inteligente entrenado en botánica, que ofrece asistencia personalizada, recomendaciones prácticas y recordatorios automáticos para el cuidado de plantas, ayudando a prevenir errores comunes y promoviendo una jardinería consciente y sostenible.
+
+Where? (¿Dónde?)
+El proyecto se implementará inicialmente en Perú, con foco en áreas urbanas como Lima Metropolitana, donde existe una alta concentración de usuarios digitales interesados en el cuidado del hogar. A mediano plazo, se contempla su expansión a otros países de América Latina, comenzando por México, Colombia y Chile, donde hay un mercado emergente con características similares.
+
+When? (¿Cuándo?)
+El diseño conceptual y la validación inicial comenzaron en abril de 2025. Actualmente nos encontramos en fase de desarrollo del prototipo funcional (MVP). Se espera una versión beta para julio de 2025, la cual será sometida a pruebas con usuarios reales. El lanzamiento oficial está previsto para noviembre de 2025, con actualizaciones progresivas durante 2026 para incorporar nuevas funciones.
+
+Why? (¿Por qué?)
+Porque muchas personas desean cuidar mejor sus plantas, pero carecen del conocimiento, del tiempo o de una guía adecuada para hacerlo, lo que lleva al deterioro de sus plantas, frustración y abandono del hábito. PlantSync responde a esta necesidad con una propuesta innovadora, educativa y automatizada, que convierte el proceso de cuidado en una experiencia agradable, accesible y sostenible.
+
+How? (¿Cómo?)
+La solución se desarrolla aplicando el enfoque Lean UX y metodologías ágiles. Se basa en tecnologías como React para el frontend, Firebase para la gestión de usuarios y base de datos en tiempo real, y un sistema de Machine Learning entrenado con TensorFlow para el análisis de imágenes de las plantas. Además, se ha integrado un modelo de procesamiento de lenguaje natural (NLP) que permite al chatbot entender las preguntas de los usuarios y responder con claridad y empatía.
+
+How much? (¿Cuánto?)
+A continuación, se detalla el presupuesto estimado para el desarrollo y lanzamiento de PlantSync:
+
+Fase 1 – Prototipo funcional (UX/UI, MVP):
+■ Diseño de experiencia de usuario, mockups y desarrollo básico de la app: $5,000
+
+Fase 2 – Desarrollo completo e integración IA:
+■ Entrenamiento del chatbot, integración de la base de datos botánica y análisis de imágenes: $12,000
+
+Fase 3 – Infraestructura, despliegue y marketing inicial:
+■ Hosting, dominio, correos automáticos, campañas de lanzamiento: $3,000
+
+Mantenimiento y soporte anual estimado:
+■ Actualizaciones, feedback de usuarios, escalabilidad: $2,000
+
+Total estimado: $22,000 USD
+
+Resumen: 
+
+Existe una brecha significativa entre el deseo de las personas por tener plantas sanas y su conocimiento real sobre cómo cuidarlas. Errores comunes como el riego inadecuado, la falta de nutrientes o la escasa exposición a la luz natural provocan que muchas plantas mueran innecesariamente. Esta situación genera frustración y desmotiva a quienes buscan un estilo de vida más natural y saludable. PlantSync nace como respuesta a esta problemática, ofreciendo una herramienta digital intuitiva y confiable que guía al usuario en cada paso del proceso de cuidado, con el objetivo de reducir la tasa de muerte de plantas, fomentar el aprendizaje botánico y promover una cultura de sostenibilidad desde el hogar.
+
+
 
 #### 1.2.2. Lean UX Process
 
