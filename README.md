@@ -1404,6 +1404,59 @@ Segmento 2: Roxana Madero
 
 ### 2.4. Ubiquitous Language
 
+El Ubiquitous Language en BioPafi asegura que todos los miembros del equipo, aliados estratégicos y usuarios finales compartan un mismo entendimiento de los conceptos clave relacionados con PlantSync. Esta alineación semántica facilita el desarrollo, comunicación y evolución continua de nuestra solución tecnológica para el cuidado de plantas en el hogar.
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th><strong>Término</strong></th>
+      <th><strong>Definición</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Plant Registry</td>
+      <td>Funcionalidad que permite a los usuarios registrar sus plantas, ingresando datos como nombre, especie, fecha de adquisición y condiciones del entorno.</td>
+    </tr>
+    <tr>
+      <td>Smart Care Chatbot</td>
+      <td>Asistente conversacional entrenado con información botánica especializada, diseñado para brindar asesoría personalizada sobre el cuidado de cada planta.</td>
+    </tr>
+    <tr>
+      <td>Plant Health Monitoring</td>
+      <td>Seguimiento automático del estado de salud de las plantas, basado en reportes del usuario, fotos y datos ambientales proporcionados.</td>
+    </tr>
+    <tr>
+      <td>Care Reminders</td>
+      <td>Sistema de notificaciones que alerta a los usuarios sobre tareas pendientes de cuidado como riego, fertilización y cambios de sustrato.</td>
+    </tr>
+    <tr>
+      <td>Plant Identification</td>
+      <td>Funcionalidad que permite reconocer especies de plantas mediante fotografías, usando algoritmos de análisis de imagen.</td>
+    </tr>
+    <tr>
+      <td>Adaptive Care Recommendations</td>
+      <td>Sugerencias personalizadas de cuidado generadas dinámicamente según la especie de la planta, las condiciones reportadas y los cambios ambientales detectados.</td>
+    </tr>
+    <tr>
+      <td>Environmental Context Analysis</td>
+      <td>Evaluación de las condiciones del entorno de la planta (luz, temperatura, humedad) para adaptar las recomendaciones de cuidado.</td>
+    </tr>
+    <tr>
+      <td>Deterioration Detection</td>
+      <td>Identificación temprana de signos de daño o estrés en las plantas, como manchas, hojas amarillas o marchitamiento, y propuesta de acciones correctivas.</td>
+    </tr>
+    <tr>
+      <td>Knowledge Base</td>
+      <td>Base de datos construida a partir de fuentes científicas y literatura especializada, utilizada para entrenar el chatbot y respaldar la asesoría brindada.</td>
+    </tr>
+    <tr>
+      <td>Lean UX Iterative Development</td>
+      <td>Proceso de diseño y mejora continua basado en la retroalimentación de usuarios y pruebas constantes, asegurando que PlantSync evolucione de manera ágil y centrada en el usuario.</td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 
 ## Capítulo III: Requirements Specification
