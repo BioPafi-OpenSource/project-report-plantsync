@@ -166,7 +166,7 @@
       Erick Palomino
     </td>
     <td>
-      ... 
+      Startup Profile, Style Guidelines, User Stories, Landing Page UI Desing, Web Application Prototyping, Landing Page Code.
     </td>
   </tr>
   <tr>
@@ -174,7 +174,7 @@
       Javier Gonzales
     </td>
     <td>
-      ...
+      Lean Ux Problem Statement, Assumptions, Desarrollo de entrevistas, Arquitectura de informacion, Wireframes y Wireflows, Desarrollo de la Landing Page
     </td>
   </tr>
   <tr>
@@ -182,7 +182,7 @@
       Renzo Rivera
     </td>
     <td>
-      ...
+      Competitive Analysis, User Personas, User Journey Mapping, User Task Matrix, User Stories, User Flow Diagrams, Plan Section Landing Page
     </td>
   </tr>
   <tr>
@@ -190,7 +190,7 @@
       Sean Palomares
     </td>
     <td>
-     ...
+     Lean UX Hypothesis Statements y Canvas, Segmentos Objetivo, To-Be Scenario Mapping, Impact Mapping, Product Backlog, Software Object-Oriented Design, Database Design, Software Configuration Management
     </td>
   </tr>
   <tr>
@@ -198,11 +198,10 @@
       Giovany Torres
     </td>
     <td>
-      ...
+      Antecedentes y Problemática, Empathy Mapping , As-is scenario mapping, Ubiquitous Language, Domain driven software architecture, Sprint planning 1, Sprint Backlog 1, Landing page, Conclusiones
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -323,22 +322,22 @@
     </td>
     <td>
       <strong>Erick Palomino:</strong>
-      TB1 - 
+      TB1 - Participación en la presentación oral de la propuesta inicial del proyecto, explicación de Startup Profile y Lineamientos de Estilo.
       <br><br>
       <strong>Javier Gonzales:</strong>
-      TB1 - ...
+      TB1 - Presentación oral de los resultados de entrevistas y de la estructura de la Landing Page.
       <br><br>
       <strong>Renzo Rivera:</strong>
-      TB1 – ...
+      TB1 – Exposición de análisis competitivo y explicación de los User Flow Diagrams durante la reunión grupal.
       <br><br>
       <strong>Sean Palomares:</strong>
-      TB1 - ...
+      TB1 - Explicación oral de los mapas de impacto y segmentación de objetivos en reuniones grupales.
       <br><br>
       <strong>Giovany Torres</strong>
-      TB1 – ...
+      TB1 –  Presentación oral de los antecedentes, problemática y mapeos de escenarios en el desarrollo inicial del proyecto.
     </td>
     <td>
-      ...
+      Como grupo, logramos una comunicación oral efectiva que facilitó la comprensión de las distintas etapas del proyecto. La coordinación de presentaciones y la exposición clara de ideas fortalecieron nuestro trabajo en equipo y permitieron que cada integrante aportara de forma precisa en su área asignada.
     </td>
   </tr>
   <tr>
@@ -347,22 +346,22 @@
     </td>
     <td>
       <strong>Erick Palomino:</strong>
-      TB1 – ...
+      TB1 – Redacción del Startup Profile, Style Guidelines, User Stories y contenido de la Landing Page.
       <br><br>
       <strong>Javier Gonzales:</strong>
-      TB1 – ....
+      TB1 –  Redacción del Lean UX Problem Statement, Assumptions y desarrollo de wireframes documentados.
       <br><br>
       <strong>Renzo Rivera:</strong>
-      TB1 – ...
+      TB1 –  Documentación escrita de análisis competitivo, User Personas, User Journey Mapping y Task Matrix.
       <br><br>
       <strong>Sean Palomares:</strong>
-      TB1 – ...
+      TB1 – Elaboración escrita de Hypothesis Statements, Product Backlog y base de diseño orientado a objetos.
       <br><br>
       <strong>Giovany Torres:</strong>
-      TB1 – ...
+      TB1 –  Redacción de antecedentes, problemática, Empathy Mapping y documentos de arquitectura de software, incluyendo la conclusión escrita del reporte.
     </td>
     <td>
-      ...
+      Como equipo, fuimos capaces de producir documentos escritos claros y adaptados al público objetivo, asegurando la coherencia y calidad de la información entregada. Esto facilitó la comprensión del proyecto tanto para el equipo como para los revisores externos. El trabajo colaborativo en los entregables escritos fue clave para mantener una línea de comunicación efectiva en todo el desarrollo del proyecto.
     </td>
   </tr>
 </table>
