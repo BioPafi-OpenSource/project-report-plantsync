@@ -2218,6 +2218,46 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
     <td>added the header and 2 sections</td>
     <td>24/04/25</td>
   </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>3327631</td>
+    <td>feat: add plans section </td>
+    <td>Added a plans section to Landing Page</td>
+    <td>25/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>64e8c00</td>
+    <td>docs: add plan hover effects</td>
+    <td>Added a visual effect to plans section</td>
+    <td>25/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>dacf2b0</td>
+    <td>feat: added about us part</td>
+    <td>Added about us part in html and css</td>
+    <td>25/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>81fdf8b</td>
+    <td>feat: add footer</td>
+    <td>Added footer structure and style</td>
+    <td>25/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>ef1a590</td>
+    <td>feat: add the terms and conditions </td>
+    <td>The terms and conditions of the landing page were added</td>
+    <td>25/04/25</td>
+  </tr>
 </table>
 
 <br>
