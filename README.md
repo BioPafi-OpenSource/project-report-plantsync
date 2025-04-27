@@ -990,7 +990,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 **9.-** ¿Hay alguna función avanzada que te encantaría tener en una app para potenciar tu experiencia como cuidador de plantas?
 
-**10.-** ¿Estarías dispuesto/a pagar por una suscripción que te ofrezca mas ayudas para el cuidado de tus plantas? (podría cambiar)
+**10.-** ¿Estarías dispuesto/a pagar por una suscripción que te ofrezca mas ayudas para el cuidado de tus plantas?
 
 **Entrevista para personas con poca experiencia en el cuidado de plantas:**
 
@@ -3593,13 +3593,12 @@ Pasos para el despliegue de la Landing Page en GitHub Pages:
     </tr>
     <tr>
       <td><b>Sprint n – 1 Review</b></td>
-      <td>Se creará la organización de PlantSync en Github, se crea las ramas, 
-          se separa los trabajos a realizar como entrevistas, wireframe y mock-up.
+      <td> Al ser el primer sprint, no se realizo.
       </td>
     </tr>
     <tr>
       <td><b>Sprint n – 1 Retrospective</b></td>
-      <td>Para la implementación para el landing page se ha realizado mediante html, css y js</td>
+      <td>Al ser el primer sprint, no se realizo.</td>
     </tr>
     <tr>
       <td colspan="2"><b>Sprint Goal & User Stories</b></td>
