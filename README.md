@@ -414,7 +414,7 @@ When? (¿Cuándo?)
 El diseño conceptual y la validación inicial comenzaron en abril de 2025. Actualmente nos encontramos en fase de desarrollo del prototipo funcional (MVP). Se espera una versión beta para julio de 2025, la cual será sometida a pruebas con usuarios reales. El lanzamiento oficial está previsto para noviembre de 2025, con actualizaciones progresivas durante 2026 para incorporar nuevas funciones.
 
 Why? (¿Por qué?)
-Porque muchas personas desean cuidar mejor sus plantas, pero carecen del conocimiento, del tiempo o de una guía adecuada para hacerlo, lo que lleva al deterioro de sus plantas, frustración y abandono del hábito. PlantSync responde a esta necesidad con una propuesta innovadora, educativa y automatizada, que convierte el proceso de cuidado en una experiencia agradable, accesible y sostenible.
+Porque muchas personas desean cuidar mejor sus plantas, pero carecen del conocimiento, del tiempo o de una guía adecuada para hacerlo, segun (SERPAR, 2021) Regar las plantas ayuda en su crecimiento y a mantenerlas sanas, previniendo enfermedades y daños provocados por insectos.Y esto lleva al deterioro de sus plantas, frustración y abandono del hábito. PlantSync responde a esta necesidad con una propuesta innovadora, educativa y automatizada, que convierte el proceso de cuidado en una experiencia agradable, accesible y sostenible.
 
 How? (¿Cómo?)
 La solución se desarrolla aplicando el enfoque Lean UX y metodologías ágiles. Se basa en tecnologías como React para el frontend, Firebase para la gestión de usuarios y base de datos en tiempo real, y un sistema de Machine Learning entrenado con TensorFlow para el análisis de imágenes de las plantas. Además, se ha integrado un modelo de procesamiento de lenguaje natural (NLP) que permite al chatbot entender las preguntas de los usuarios y responder con claridad y empatía.
@@ -3655,7 +3655,7 @@ Pasos para el despliegue de la Landing Page en GitHub Pages:
 ##### 5.2.1.3. Sprint Backlog 1
 Durante el Sprint backlog, el equipo tuvo la tarea de realizar y completar la landing page. la herramienta para la organización y gestion a los mienbros fue Trello. Esta herramienta nos sirvio para dividirnos las tareas y trabajos a realizar por el equipo de trabajo.
 
-![TRELLO SPRINT BACKLOG](https://imgur.com/S9s6vYT.jpg)
+![TRELLO SPRINT BACKLOG](https://imgur.com/iHG90e4.jpg)
 
 Link de Trello: https://trello.com/invite/b/680e415701f792ca595048d8/ATTI84e6897024d2315973c80adedcfa5d9745BADA07/plantsync  
 
