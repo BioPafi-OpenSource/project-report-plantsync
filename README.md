@@ -3379,9 +3379,9 @@ Enlace de referencia: https://trello.com/
 
 Enlace de referencia: https://www.figma.com/
 
-**Lucidchart:** Herramienta de diagramación que permitirá elaborar los diagramas de clases.
+**Overflow:** Herramienta de diagramación que permitirá elaborar los diagramas de clases.
 
-Enlace de referencia: https://www.lucidchart.com/
+Enlace de referencia: https://overflow.io/
 
 **Software Development**
 
