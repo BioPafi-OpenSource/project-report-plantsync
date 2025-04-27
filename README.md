@@ -2470,19 +2470,289 @@ Fuente: Elaborado con structurizr
 
 ##### 5.2.1.1. Sprint Planning 1
 
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>Sprint 1</b></td>
+      <td>implementacion de la parte estatica de la landing page</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Planning Background</b></td>
+    </tr>
+    <tr>
+      <td><b>Date</b></td>
+      <td>25/04/2025</td>
+    </tr>
+    <tr>
+      <td><b>Time</b></td>
+      <td>20:50 PM</td>
+    </tr>
+    <tr>
+      <td><b>Location</b></td>
+      <td>Reunión realizada mediante Discord</td>
+    </tr>
+    <tr>
+      <td><b>Prepared By</b></td>
+      <td>Palomino Fiestas, Erick Leonardo</td>
+    </tr>
+    <tr>
+      <td><b>Attendees (to planning meeting)</b></td>
+      <td>
+          Gonzales Alvarado, Javier Sebastian <br>
+          Palomares Andrade, Sean Farith <br>
+          Rivera Ratachi, Renzo Sebastian <br>
+          Torres Apolinario, Giovany Smith <br>
+          
+  </td>
+    </tr>
+    <tr>
+      <td><b>Sprint n – 1 Review</b></td>
+      <td>Se creará la organización de PlantSync en Github, se crea las ramas, 
+          se separa los trabajos a realizar como entrevistas, wireframe y mock-up.
+      </td>
+    </tr>
+    <tr>
+      <td><b>Sprint n – 1 Retrospective</b></td>
+      <td>Para la implementación para el landing page se ha realizado mediante html, css y js</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+    </tr>
+    <tr>
+      <td><b>Sprint 1 Goal</b></td>
+      <td>Elaborar y diseñar una landing page atractiva e informativa para la aplicación de PlantSync</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 1 Velocity</b></td>
+      <td>20 Points</td>
+    </tr>
+    <tr>
+      <td><b>Sum of Story Points</b></td>
+      <td>20 Points
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
+
 
 ##### 5.2.1.3. Sprint Backlog 1
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
+<table align="center">
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-LandingPage</td>
+    <td>main</td>
+    <td>f178de7</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>24/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>0f56aa1</td>
+    <td>feat: added the header and 2 sections</td>
+    <td>added the header and 2 sections</td>
+    <td>24/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>3327631</td>
+    <td>feat: add plans section </td>
+    <td>Added a plans section to Landing Page</td>
+    <td>25/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>64e8c00</td>
+    <td>docs: add plan hover effects</td>
+    <td>Added a visual effect to plans section</td>
+    <td>25/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>dacf2b0</td>
+    <td>feat: added about us part</td>
+    <td>Added about us part in html and css</td>
+    <td>25/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>81fdf8b</td>
+    <td>feat: add footer</td>
+    <td>Added footer structure and style</td>
+    <td>25/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>ef1a590</td>
+    <td>feat: add the terms and conditions </td>
+    <td>The terms and conditions of the landing page were added</td>
+    <td>25/04/25</td>
+  </tr>
+</table>
+
+<br>
+
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+
+Durante la primera fase de desarrollo se logró implementar correctamente la página principal. Esta contiene varias áreas que permiten a los visitantes obtener información completa sobre nuestro producto y conocer sus funcionalidades más importantes.
+
++ Header:
+
+Barra superior fija con el logo de PlantSync, menú de navegación por anclas (Cómo funciona, Planes, Integrantes y Acceder).
+
+<p align="center">
+  <img src="images/landingPage/header.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Sección principal:
+
+Sección principal impactante con un mensaje claro y directo, complementada por una imagen que identifica a la AppWeb. Contiene un botón de acción inmediata con texto tipo "Empeiza ahora" para dirigirse al formulario de "Registrarse".
+
+<p align="center">
+  <img src="images/landingPage/hero.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Sección ¿Cómo funciona?:
+
+Explicación sencilla en 3 pasos de como funciona nuestra plataforma.
+
+<p align="center">
+  <img src="images/landingPage/how-it-works.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Seccion Planes:
+
+Explicación de los diferentes planes con sus beneficios y montos de pago
+<p align="center">
+  <img src="images/landingPage/planes-landingpage.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Seccion ¿Quíenes somos?:
+
+Explicación breve del el startup BioPafi y una frase representativa.
+<p align="center">
+  <img src="images/landingPage/aboutus-landingpage.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Seccion Footer:
+
+Barra inferior fija con el logo de PlantSync, donde se encuentran Ayuda, Politicas , Redes Sociales y, Terminos y Condiciones , con su respectivo derechos de autor.
+<p align="center">
+  <img src="images/landingPage/footer-landingpage.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Seccion Terminos y Condiciones:
+
+Explicación de los terminos y condiciones del producto
+<p align="center">
+  <img src="images/landingPage/terms-landingpage.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+Para este primer sprint no se vio una ejecutación de servicios.
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+En la primera fase de desarrollo de PlantSync, se ejecutaron las tareas preliminares de implementación centradas principalmente en el lanzamiento de la Landing Page estática. A continuación los pasos que utilizamos para desplegar la Landing:
+
++ Creación del repositorio
+
+Se creó el repositorio de la Landing page en la misma organización que el reporte en GitHub. Tambien a este repositorio se integraron las ramas (main) para ver la version final, (develop) para ir subiendo los commits. Además de crear el *index.html* y el *sytle.css*.
+
++ Configuración del entorno de despliegue:
+
+Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Esto es principalmente a su facilidad para configurar y desplegar desde la rama Main. Y actualizamos constantemente la Landing Page con los commits desde Develop. 
+
+  + Activación de GitHub Pages en el repositorio:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Confirmación del enlace del repositorio con entorno de publicación:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Visualización de la Landing Page:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+[Link de la Landing Page](https://biopafi-opensource.github.io/plantSync-LandingPage/)
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>Alumno</b></td>
+      <td><b>Actividad</b></td>
+    </tr>
+    <tr>
+      <td>Palomino Fiestas, Erick Leonardo</td>
+      <td>Implementación de la sección del apartado ¿Quíenes Somos?</td>
+    </tr>
+    <tr>
+      <td>Gonzales Alvarado, Javier Sebastian</td>
+      <td>Implementación de el header, apartado principal y el apartado ¿Comó funciona?</td>
+    </tr>
+    <tr>
+      <td>Rivera Ratachi, Renzo Sebastian </td>
+      <td>Implementación del apartado de planes</td>
+    </tr>
+    <tr>
+      <td>Palomares Andrade, Sean Farith</td>
+      <td>Implementación de el footer</td>
+    </tr>
+    <tr>
+      <td>Torres Apolinario, Giovany Smith</td>
+      <td>Imprementación de el apartado de Terminos y Condiciones</td>
+    </tr>    
+  </tbody>
+</table>
+
+<p align="center">
+  <img src="images/insight-landingpage/evidencia1-sprint1.png" alt="evidencia-sprint" width="800">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/insight-landingpage/evidencia2-sprint1.png" alt="evidencia-sprint" width="800">
+</p>
+<br><br>
 
 ### 5.3. Validation Interviews
 
