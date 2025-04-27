@@ -1255,9 +1255,154 @@ Luego de realizar las entrevistas e identificar los problemas, necesidades y des
 
 #### 2.3.1. User Personas
 
+Para la elaboración de los siguientes artefactos se ha tomado en cuenta la edad, ocupaciones, ubicaciones, intereses y frustraciones de los entrevistados. Estos perfiles representan a usuarios reales que buscan integrar plantas en su vida diaria, pero necesitan orientación clara y soluciones adaptadas a su estilo de vida. A continuación, se presentarán los User Persona elaborados.
+
+- #### User Persona: Interesados en comenzar a cuidar plantas
+
+[![Mauricio-Alcantara.png](https://i.postimg.cc/rw7TNLT2/Mauricio-Alcantara.png)](https://postimg.cc/RW12vyqg)
+
+
+- #### User Persona: Personas con experiencia en el cuidado de plantas
+[![Roxana-Madero.png](https://i.postimg.cc/7Yswb2Q6/Roxana-Madero.png)](https://postimg.cc/VdC3VdwQ)
+
+
+
 #### 2.3.2. User Task Matrix
 
+
+  En este apartado se realizará la User Task Matrix tomando en cuenta los dos segmentos definidos y relacionados a nuestras User Persona, estudiantes univeristarios deseosos de experiencia laboral y gerentes que buscan contratar talento joven para el desarrollo de proyectos.
+
+
+<table border ="1"><thead>
+  <tr>
+    <th></th>
+    <th colspan="2">Experto</th>
+    <th colspan="2">Persona sin experiencia</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>TASK</td>
+    <td>FREQUENCY (Experto)</td>
+    <td>IMPORTANCE (Experto)</td>
+    <td>FREQUENCY (Persona sin experiencia)</td>
+    <td>IMPORTANCE (Persona sin experiencia)</td>
+  </tr>
+
+ <tr>
+    <td>Comprar nuevas plantas</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Rarely</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Ajustar los cuidados segun clima</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Never</td>
+    <td>Low</td>
+  </tr>
+   <tr>
+    <td>Registrar sus actividades de cuidado</td>
+    <td>Sometimes</td>
+    <td>High</td>
+    <td>Never</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Evaluar el estado de salud de sus plantas</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Rarely</td>
+    <td>Medium</td>
+  </tr>
+ <tr>
+    <td>Comprar insumos para el cuidado</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Rarely</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Consultar guías o videos sobre plantas</td>
+    <td>Rarely</td>
+    <td>Medium</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+<tr>
+    <td>Decorar su habitación con plantas</td>
+    <td>Rarely</td>
+    <td>Low</td>
+    <td>Medium</td>
+    <td>High</td>
+</tr>
+<tr>
+    <td>Preguntar por consejos a conocidos</td>
+    <td>Rarely</td>
+    <td>Low</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+ <tr>
+    <td>Buscar soluciones digitales de apoyo</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Sometimes</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Tomar fotos para seguimiento del crecimiento</td>
+    <td>Sometimes</td>
+    <td>Low</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+<br>
+
+Tomando en cuenta este recuadro podemos hacer afirmaciones sobre las actividades de nuestros User Persona:
+
+- Los tasks de mayor importancia para el usuario experto son evaluar el estado de salud de sus plantas y registrar sus actividades, en cambio, el usuario novato prioriza el aprendizaje y busqueda de herramientas digitales.
+
+
+- Entre las principales coincidencias se encuentra el interes de ambos por tomar fotos de sus planta para ver su progreso y tambien la busqueda de soluciones digitales para apoyarse en su cuidado.
+
+- Las diferencias entre ambos se ven relfejadas en la experiencia que ellos poseen. Mientras el usuario experto pasa su tiempo evaluando el estado de cada de planta y manteniendo un plan constante, el usuario novato tiende a mostrarse mas interesado por aprender y darle más importancia al factor estético de las plantas.
+
+  
+
+
+
+
+
+
+
 #### 2.3.3. User Journey Mapping
+
+Esta sección incluye los User Journey Map relacionado a nuestras dos User Persona previamente elaboradas en la herramienta UXPressia, estos artefactos consistirán en las experiencias que nuestros usuarios enfrentan sus dificultades antes de usar nuestra solución.
+
+
+- #### User Journey Map Mauricio Alcantara:
+
+Este Journey Map describe las experiencias que vive Mauricio luego de comprar su primera planta hasta la eventual frustración por no conocer muy bien las necesidades de su planta.
+
+[![User-Journey-Map-Mauricio.png](https://i.postimg.cc/J43YH1jX/User-Journey-Map-Mauricio.png)](https://postimg.cc/LnX3rFC4)
+
+
+- #### User Journey Map Roxana Madero:
+
+
+Este Journey Map describe las experiencias que vive Roxana, desde que adquiere un planta que le gusta hasta que termina descuidandola por culpa de la gran carga laboral de su trabajo.
+
+
+[![User-Journey-Map.png](https://i.postimg.cc/P5ryL1XG/User-Journey-Map.png)](https://postimg.cc/GHVGV8Tz)
+
+
+
 
 #### 2.3.4. Empathy Mapping
 Emphaty Map Segmento 1: Interesados en comenzar a cuidar plantas
