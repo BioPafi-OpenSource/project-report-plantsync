@@ -2318,11 +2318,63 @@ Se elaboraron User Flow Diagrams en base a los Wireflows anteriormente hechos. E
 
 ### 4.6. Domain-Driven Software Architecture
 
+El Domain Driven Design (DDD) busca lograr una comprensión común del dominio relacionado al problema que se desea resolver. Este enfoque facilita una mejor colaboración entre desarrolladores y expertos del dominio. DDD no se limita únicamente al uso de un lenguaje común, sino que también incluye un conjunto de patrones, prácticas y diagramas arquitectónicos que ayudan a alinear el software con el dominio, fortaleciendo así la visión compartida que propone este enfoque.
+
 #### 4.6.1. Software Architecture Context Diagram
+
+El esquema de contexto ofrece una perspectiva general de las interacciones entre el sistema de software PlantSync, los usuarios y sistemas externos
+
+![C4 CONTEXT](https://imgur.com/mjU7Myv.jpg)
+ Fuente: Elaborado con structurizr
+
+
+
 
 #### 4.6.2. Software Architecture Container Diagrams
 
+El diagrama de contenedores ofrece una visión general de las conexiones entre aplicaciones y fuentes de datos en el sistema PlantSync. Muestra cómo interactúan y dependen entre sí para su funcionamiento.
+
+![C4 COMTAINER](https://imgur.com/mSzG2RS.jpg)
+Fuente: Elaborado con structurizr
+
+
+
 #### 4.6.3. Software Architecture Components Diagrams
+Los diagramas de componentes proporcionan una perspectiva sobre las interrelaciones de los elementos principales del sistema de software, describiendo cómo se implementan los módulos respectivos en el programa. <br>
+
+Component user registration
+
+![C4 COMPONENT](https://imgur.com/H06Et9W.jpg)
+
+Fuente: Elaborado con structurizr
+
+Component plant registration
+
+![C4 COMPONENT](https://imgur.com/Mg3pEog.jpg)
+
+Fuente: Elaborado con structurizr
+
+Component IA & Recomendaciones
+
+![C4 COMPONENT](https://imgur.com/UyIkExn.jpg)
+
+Fuente: Elaborado con structurizr
+
+Component Chatbot & Guías
+
+![C4 COMPONENT](https://imgur.com/nOJC2Pq.jpg)
+
+Fuente: Elaborado con structurizr
+
+Component Notification Service
+
+![C4 COMPONENT](https://imgur.com/b8F9CM1.jpg)
+
+Fuente: Elaborado con structurizr
+
+Component Payment method
+![C4 COMPONENT](https://imgur.com/z2fH6HJ.jpg)
+Fuente: Elaborado con structurizr
 
 ### 4.7. Software Object-Oriented Design
 
