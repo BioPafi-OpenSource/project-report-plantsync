@@ -3456,6 +3456,24 @@ Ejemplo:
 
 `feat(auth): add user login validation`
 
+**Mensajes de Commit siguiendo la Convención Conventional Commits**
+
+Se adoptará el estándar de Conventional Commits en los mensajes de commit para garantizar una mayor claridad sobre las modificaciones efectuadas en el código.
+
+feat: Implementación de nuevas funciones o características.
+
+fix: Solución de errores o fallos.
+
+docs: Actualizaciones o modificaciones en la documentación.
+
+style: Ajustes de formato que no afectan el comportamiento del código.
+
+refactor: Reestructuración del código sin alterar su funcionalidad.
+
+test: Creación o modificación de pruebas.
+
+chore: Actividades de mantenimiento o tareas menores.
+
 #### 5.1.3. Source Code Style Guide & Conventions
 
 HTML:
