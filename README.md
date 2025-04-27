@@ -2101,6 +2101,10 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 #### 4.7.1. Class Diagrams
 
+<img src="images/plantsync-class-diagram.png" alt="class-diagram" width="1000">
+
+[Enlace al diagrama de clases en Lucidchart](https://lucid.app/lucidchart/71aae26d-573f-4be7-82fe-42fed6ec6e8d/view)
+
 #### 4.7.2. Class Dictionary
 
 Class User
@@ -2113,8 +2117,8 @@ Class User
   </tr>
   <tr>
     <td>id</td>
-    <td>int</td>
-    <td>Unique code for an user</td>
+    <td>uuid</td>
+    <td>Unique identifier of an user</td>
   </tr>
   <tr>
     <td>firstName</td>
@@ -2148,33 +2152,28 @@ Class Plant
   </tr>
   <tr>
     <td>id</td>
-    <td></td>
-    <td></td>
+    <td>uuid</td>
+    <td>Unique identifier of an plant</td>
   </tr>
   <tr>
     <td>commonName</td>
-    <td></td>
-    <td></td>
+    <td>String</td>
+    <td>Common name of a plant</td>
   </tr>
   <tr>
     <td>cientificName</td>
-    <td></td>
-    <td></td>
+    <td>String</td>
+    <td>Cientific name of a plant</td>
   </tr>
   <tr>
-    <td>description</td>
-    <td></td>
-    <td></td>
+    <td>soilType</td>
+    <td>List&ltSoilType&gt</td>
+    <td>List of the soil types suitable for a plant</td>
   </tr>
   <tr>
-    <td>preferedClimate</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>sunlightNeed</td>
+    <td>float</td>
+    <td>Hours of sunlight a plant needs</td>
   </tr>
 </table>
 
@@ -2187,19 +2186,29 @@ Class Climate
     <td><strong>Description</strong></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of a Climate</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>name</td>
+    <td>String</td>
+    <td>Name of a climate</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>humidity</td>
+    <td>float</td>
+    <td>Percentage of humidity in the air of a climate</td>
+  </tr>
+  <tr>
+    <td>temperature</td>
+    <td>float</td>
+    <td>Temperature degree in celcius</td>
+  </tr>
+  <tr>
+    <td>sunlightHours</td>
+    <td>float</td>
+    <td>Hours of sunlight of a climate</td>
   </tr>
 </table>
 
@@ -2212,19 +2221,19 @@ Class Guide
     <td><strong>Description</strong></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of a guide</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>title</td>
+    <td>String</td>
+    <td>Title of a guide</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>content</td>
+    <td>String</td>
+    <td>Content of a guide</td>
   </tr>
 </table>
 
@@ -2237,23 +2246,28 @@ Class Recomendation
     <td><strong>Description</strong></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of an recomendation</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>recomendation</td>
+    <td>String</td>
+    <td>Content of the recomendation</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>guide</td>
+    <td>Guide</td>
+    <td>Guide included in the recomendation</td>
+  </tr>
+  <tr>
+    <td>climate</td>
+    <td>Climate</td>
+    <td>Suitable climate for the recomendation</td>
   </tr>
 </table>
 
-Class
+Class PlantProfile
 
 <table align="center">
   <tr>
@@ -2262,27 +2276,204 @@ Class
     <td><strong>Description</strong></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of a PlantProfile</td>
+  </tr>
+  <tr>
+    <td>plant</td>
+    <td>Plant</td>
+    <td>Plant of a PlantProfile</td>
+  </tr>
+  <tr>
+    <td>isAlive</td>
+    <td>bool</td>
+    <td>State of a plant</td>
+  </tr>
+  <tr>
+    <td>creationDate</td>
+    <td>Date</td>
+    <td>Date the profile was created</td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td>String</td>
+    <td>Decription of a plant</td>
+  </tr>
+  <tr>
+    <td>nickname</td>
+    <td>String</td>
+    <td>Nickname of a plant</td>
+  </tr>
+  <tr>
+    <td>tasks</td>
+    <td>Task</td>
+    <td>Pending tasks of a plant</td>
+  </tr>
+  <tr>
+    <td>records</td>
+    <td>Record</td>
+    <td>Records of plant</td>
+  </tr>
+  <tr>
+    <td>lastWatered</td>
+    <td>Date</td>
+    <td>Last date a plant got watered</td>
+  </tr>
+</table>
+
+Class Record
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of a record</td>
+  </tr>
+  <tr>
+    <td>title</td>
+    <td>String</td>
+    <td>Title of a record</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>Date</td>
+    <td>Creation date of a record</td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td>String</td>
+    <td>Description of the activities in a record</td>
+  </tr>
+</table>
+
+Class Task
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of a task</td>
+  </tr>
+  <tr>
+    <td>creationDate</td>
+    <td>Date</td>
+    <td>Creation date of a task</td>
+  </tr>
+  <tr>
+    <td>dueDate</td>
+    <td>Date</td>
+    <td>Limit day for a task</td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td>String</td>
+    <td>Description of a task</td>
+  </tr>
+  <tr>
+    <td>isDone</td>
+    <td>bool</td>
+    <td>State of a task</td>
+  </tr>
+</table>
+
+Class Reminder
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of an reminder</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>Date</td>
+    <td>Date of a reminder</td>
+  </tr>
+  <tr>
+    <td>title</td>
+    <td>String</td>
+    <td>Title of a reminder</td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td>String</td>
+    <td>Description of a reminder</td>
+  </tr>
+</table>
+
+Class ManualAssistedMonitoring
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of a ManualAssistedMonitoring</td>
+  </tr>
+  <tr>
+    <td>question</td>
+    <td>String</td>
+    <td>Question for the Asistance</td>
+  </tr>
+  <tr>
+    <td>answer</td>
+    <td>String</td>
+    <td>Answer of the question</td>
+  </tr>
+</table>
+
+Class Subscription
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>Unique identifier of an subscription</td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>subscriptionType</td>
+    <td>SubscriptionType</td>
+    <td>Type of the subscription</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>paymentCard</td>
+    <td>PaymentCard</td>
+    <td>Payment Card associated to the subscription</td>
   </tr>
 </table>
 
 ### 4.8. Database Design
 
+Se eligió utilizar Vertabelo para modelar el diagrama de base de datos por su facilidad de uso y MySQL como motor de la base de datos por su estabilidad y escalabilidad.
+
 #### 4.8.1. Database Diagram
 
----
+<img src="images/plantsync-database-diagram.png" alt="plantsync-database-diagram" width="1000">
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
