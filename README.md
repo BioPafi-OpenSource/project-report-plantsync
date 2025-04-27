@@ -3645,6 +3645,11 @@ Pasos para el despliegue de la Landing Page en GitHub Pages:
 </table>
 
 ##### 5.2.1.3. Sprint Backlog 1
+Durante el Sprint backlog, el equipo tuvo la tarea de realizar y completar la landing page. la herramienta para la organización y gestion a los mienbros fue Trello. Esta herramienta nos sirvio para dividirnos las tareas y trabajos a realizar por el equipo de trabajo.
+
+![TRELLO SPRINT BACKLOG](https://imgur.com/S9s6vYT.jpg)
+
+Link de Trello: https://trello.com/invite/b/680e415701f792ca595048d8/ATTI84e6897024d2315973c80adedcfa5d9745BADA07/plantsync  
 
 <table border="1">
   <thead>
