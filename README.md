@@ -294,14 +294,8 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product](#54-video-about-the-product)
 
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
-- [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -392,6 +386,8 @@ Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas in
 | ![Imagen de Integrante Sean Palomares](/images/fotointegrante-sean.jpg)            | Sean Farith Palomares Andrade      | U202121947               | Soy Sean Palomares, estudiante de sexto ciclo de la carrera de Ciencias de la Computación. Me interesan los temas de desarrollo de software y machine learning. Tengo conocimiento en Python, C++ y C#. Estoy emocionado por colaborar con el grupo para lograr completar nuestro proyecto.                                                                                                                                      |
 | ![Imagen de Integrante Renzo Rivera](/images/fotointegrante-renzo.jpg)             | Renzo Sebastian Rivera Ratachi     | U20231D974               | Soy Renzo Sebastian Rivera Ratachi y soy estudiante de la carrera de Ingeniería de Software. Actualmente estoy cursando el 5to ciclo de mi carrera y tengo conocimientos intermedios de HTML, CSS, JavaScript y C++. Me considero una persona responsable y puntual.                                                                                                                                                             |
 | ![Imagen de Integrante Giovany Torres](/images/fotointegrante-giovany.jpeg)        | Giovany Smith Torres Apolinario    | U202311601               | Estoy cursando el quinto ciclo de mi carrera Ingeniería de Software, soy una persona responsable que le gusta resolver desafíos a la par con el trabajo responsable y en equipo tengo la capacidad de líder y me gusta aprender nuevas cosas dia a dia.                                                                                                                                                                          |
+
+
 
 ### 1.2. Solution Profile
 
@@ -1397,6 +1393,59 @@ Segmento 2: Roxana Madero
 
 ### 2.4. Ubiquitous Language
 
+El Ubiquitous Language en BioPafi asegura que todos los miembros del equipo, aliados estratégicos y usuarios finales compartan un mismo entendimiento de los conceptos clave relacionados con PlantSync. Esta alineación semántica facilita el desarrollo, comunicación y evolución continua de nuestra solución tecnológica para el cuidado de plantas en el hogar.
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th><strong>Término</strong></th>
+      <th><strong>Definición</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Plant Registry</td>
+      <td>Funcionalidad que permite a los usuarios registrar sus plantas, ingresando datos como nombre, especie, fecha de adquisición y condiciones del entorno.</td>
+    </tr>
+    <tr>
+      <td>Smart Care Chatbot</td>
+      <td>Asistente conversacional entrenado con información botánica especializada, diseñado para brindar asesoría personalizada sobre el cuidado de cada planta.</td>
+    </tr>
+    <tr>
+      <td>Plant Health Monitoring</td>
+      <td>Seguimiento automático del estado de salud de las plantas, basado en reportes del usuario, fotos y datos ambientales proporcionados.</td>
+    </tr>
+    <tr>
+      <td>Care Reminders</td>
+      <td>Sistema de notificaciones que alerta a los usuarios sobre tareas pendientes de cuidado como riego, fertilización y cambios de sustrato.</td>
+    </tr>
+    <tr>
+      <td>Plant Identification</td>
+      <td>Funcionalidad que permite reconocer especies de plantas mediante fotografías, usando algoritmos de análisis de imagen.</td>
+    </tr>
+    <tr>
+      <td>Adaptive Care Recommendations</td>
+      <td>Sugerencias personalizadas de cuidado generadas dinámicamente según la especie de la planta, las condiciones reportadas y los cambios ambientales detectados.</td>
+    </tr>
+    <tr>
+      <td>Environmental Context Analysis</td>
+      <td>Evaluación de las condiciones del entorno de la planta (luz, temperatura, humedad) para adaptar las recomendaciones de cuidado.</td>
+    </tr>
+    <tr>
+      <td>Deterioration Detection</td>
+      <td>Identificación temprana de signos de daño o estrés en las plantas, como manchas, hojas amarillas o marchitamiento, y propuesta de acciones correctivas.</td>
+    </tr>
+    <tr>
+      <td>Knowledge Base</td>
+      <td>Base de datos construida a partir de fuentes científicas y literatura especializada, utilizada para entrenar el chatbot y respaldar la asesoría brindada.</td>
+    </tr>
+    <tr>
+      <td>Lean UX Iterative Development</td>
+      <td>Proceso de diseño y mejora continua basado en la retroalimentación de usuarios y pruebas constantes, asegurando que PlantSync evolucione de manera ágil y centrada en el usuario.</td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 
 ## Capítulo III: Requirements Specification
@@ -2315,7 +2364,12 @@ En BioPafi, el sistema de etiquetas ha sido diseñado para ser claro, directo y 
   - ChatBot
   - Configuración
   - Salir
-    <br><br>
+  <br>
+  <p align="center">
+  <img src="images/labelingSystemBioPafi.jpg" alt="Landing Page Wireframe" width="1000">
+  </p>
+  
+  <br>
 
 <table align="center">
   <tr>
@@ -2444,6 +2498,7 @@ Dado que la plataforma almacenará una gran cantidad de información, incluyendo
 
 - Opciones de búsqueda:
 
+
   - Búsqueda de guías
 
   - Búsqueda de plantas registradas
@@ -2464,9 +2519,6 @@ Dado que la plataforma almacenará una gran cantidad de información, incluyendo
 
   - Periodo de tiempo (última semana, mes, personalizado)
 
-- Visualización de Datos
-
-  ...(imagenes)
 
 #### 4.2.5. Navigation Systems<br><br>
 
@@ -2667,9 +2719,12 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 - **Wireflow 6: Chatear con el bot**
 
+
 **User Goal:** Como usuario de PlantSync, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
 
 **User Persona:** Personas con poca y mucha experiencia en el cuidado de plantas
+
+
 
 **Flujo:** Este flujo comienza cuando el usuario accede a la opción “Chatbot” desde el menú lateral o directamente desde una tarjeta destacada en el dashboard. Al ingresar, se presenta una interfaz de mensajería con un campo de texto inferior y mensajes de bienvenida del bot. El usuario escribe su consulta, por ejemplo: “¿Cada cuánto debo regar una lavanda?” o “¿Dónde puedo conseguir plantas para interior?”. El bot procesa la pregunta y responde con un mensaje textual y, si corresponde, con enlaces a guías, recomendaciones o catálogos. El usuario puede continuar haciendo más preguntas o cerrar el chat. En caso de ser un usuario PRO o Premium, también podrá acceder a respuestas más detalladas o enlaces externos. Este flujo está pensado para ofrecer una experiencia conversacional ágil que complemente la navegación tradicional, ideal para usuarios que prefieren resolver dudas en tiempo real.
 
@@ -3289,8 +3344,8 @@ Class Subscription
   </tr>
   <tr>
     <td>id</td>
+    <td>uuid</td>
     <td>Unique identifier of an subscription</td>
-    <td></td>
   </tr>
   <tr>
     <td>subscriptionType</td>
@@ -3318,11 +3373,155 @@ Se eligió utilizar Vertabelo para modelar el diagrama de base de datos por su f
 
 #### 5.1.1. Software Development Environment Configuration
 
+**Requirements Management**
+
+**Trello:** Herramienta de gestión de proyectos que permite visualizar, asignar y dar seguimientos a tareas y user stories.
+
+Enlace de referencia: https://trello.com/
+
+**Product UX/UI Design**
+
+**Figma:** Plataforma colaborativa de diseño digital que será usada para crear los prototipos, wireframes y style guidelines de la plataforma.
+
+Enlace de referencia: https://www.figma.com/
+
+**Overflow:** Herramienta de diagramación que permitirá elaborar los diagramas de clases.
+
+Enlace de referencia: https://overflow.io/
+
+**Software Development**
+
+**Visual Studio Code:** Entorno de desarrollo elegido por su flexibilidad, extensiones y compatibilidad multiplataforma. Ideal para un trabajo colaborativo.
+
+Enlace de referencia: https://code.visualstudio.com/
+
+**HTML5:** Lenguaje de marcado para estructurar contenido en la web.
+
+Enlace de referencia: https://www.w3schools.com/html/
+
+**CSS3:** Lenguaje empleado para manejar el estilo y diseño del contenido de las páginas web.
+
+Enlace de referencia: https://google.github.io/styleguide/htmlcssguide.html
+
+**JavaScript:** Lenguaje de programación orientado a eventos para el desarrollo de la lógica de interacción de la aplicación.
+
+Enlace de referencia: https://developer.mozilla.org/es/docs/Web/JavaScript
+
+**Software Deployment**
+
+**Git:** Sistema de control de versiones distribuido que permitirá gestionar el historial de cambios y trabajo colaborativo en el código fuente.
+
+Enlace de referencia: https://git-scm.com/
+
+**Software Documentation and Project Management**
+
+**GitHub:** Plataforma en la nube para la gestión de repositorios, revisiones de código y colaboración en desarrollo.
+
+Enlace de referencia: https://github.com/
+
 #### 5.1.2. Source Code Management
+
+[Repositorio principal en GitHub](https://github.com/BioPafi-OpenSource)
+
+[Repositorio de la Landing Page](https://github.com/BioPafi-OpenSource/plantSync-LandingPage)
+
+**GitFlow:**
+
+Se utilizará el modelo GitFlow propuesto por Vincent Driessen para organizar el trabajo de desarrollo de forma estructurada.
+
+- Ejemplo de GitFlow:
+  <img src="images/gitflow.png" alt="Ejemplo de GitFlow" >
+
+Estructura de branches:
+
+1. Main branch: Contendrá la versión estable de producción de la aplicación. Solo se fusionarán cambios probados y verificados.
+
+2. Develop branch: Incluirá las últimas funcionalidades completadas y en proceso de validación.
+
+3. Feature branches: Se utilizarán estas ramas para trabajar funcionalidades por separado y posteriormente fusionarlas con develop cuando se haya completado el trabajo. Se usará el prefijo `feature/<nombre-de-la-funcionalidad>`
+
+Las convenciones a utilizar para Release branches y Hotfix branches serán:
+
+**Release branches:**
+
+Se utilizarán para gestionar versiones estables de la aplicación que están listas para ser implementadas en producción. Su propósito es consolidar las características y mejoras de la rama develop que ya han sido verificadas y son aptas para el despliegue. Se adoptará el sistema de Versionado Semántico (Semantic Versioning) para nombrar las versiones, siguiendo el formato MAJOR.MINOR.PATCH.
+
+**Hotfix branches:**
+
+Estas ramas se crearán para solucionar errores críticos detectados en la rama main (producción) que afecten de manera importante el funcionamiento de la plataforma.
+
+**Semantic Versioning:**
+Se aplicará Semantic Versioning 2.0.0 para nombrar releases (por ejemplo: v1.0.0, v1.1.0, v2.0.0).
+
+**Commits:**
+Se seguirá la convención Conventional Commits para mantener claridad en el historial de cambios.
+
+`<type>[optional scope]: <description>`
+
+Ejemplo:
+
+`feat(auth): add user login validation`
+
+**Mensajes de Commit siguiendo la Convención Conventional Commits**
+
+Se adoptará el estándar de Conventional Commits en los mensajes de commit para garantizar una mayor claridad sobre las modificaciones efectuadas en el código.
+
+feat: Implementación de nuevas funciones o características.
+
+fix: Solución de errores o fallos.
+
+docs: Actualizaciones o modificaciones en la documentación.
+
+style: Ajustes de formato que no afectan el comportamiento del código.
+
+refactor: Reestructuración del código sin alterar su funcionalidad.
+
+test: Creación o modificación de pruebas.
+
+chore: Actividades de mantenimiento o tareas menores.
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
+HTML:
+
+- Cerrar todos los elementos HTML
+- Utilizar el texto alt en todas las imágenes para mantener la accesibilidad
+- Usar minúsculas para todos los nombres de etiquetas y atributos.
+
+CSS:
+
+- Nombres de clases descriptivos usando kebab-case
+- Mantener la especificidad baja para facilitar el mantenimiento.
+- Evitar unidades en valores 0
+
+JavaScript:
+
+- Código en inglés.
+- Nombrar variables en camelCase y clases en PascalCase.
+- Comentarios claros y concisos en inglés.
+
+Gherkin:
+
+- Seguir la estructura Given - When - Then para escenarios.
+
 #### 5.1.4. Software Deployment Configuration
+
+Pasos para el despliegue de la Landing Page en GitHub Pages:
+
+1. Asegurarse que los archivos de la landing page sigan la correcta nomenclatura:
+   - index.html
+   - style.css
+   - Carpeta img para las imágenes
+2. Cargar los archivos al repositorio correspondiente mediante commits.
+3. En el repositorio de la Landing Page dirigirse a `Settings`, luego `Pages` y seleccionar la rama `main`. En folder seleccionar la carpeta raíz `/(root)`
+4. Guardar los cambios y esperar a que GitHub prepare el sitio.
+5. Una vez desplegado, GitHub proporcionará la URL pública de la Landing Page.
+
+[Enlace a la Landing Page desplegada](https://biopafi-opensource.github.io/plantSync-LandingPage/)
+
+<p align="center">
+  <img src="images/landing-page-deployment-evidence.png" alt="landing-page-deployment-evidence" width="">
+</p>
 
 ### 5.2. Landing Page, Services & Applications Implementation
 
@@ -3396,7 +3595,139 @@ Se eligió utilizar Vertabelo para modelar el diagrama de base de datos por su f
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Team Member<br>(Last Name, First Name)</th>
+      <th>Github Username</th>
+      <th>Contenido y Mensaje<br>Leader (L) / Collaborator (C)</th>
+      <th>Funcionalidades<br>(L) / (C)</th>
+      <th>Navegaion en el sistema<br>(L) / (C)</th>
+      <th>Deployment and optimización<br>(L) / (C)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Palomino Fiestas, Erick Leonardo</td>
+      <td>erickLeo13</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Gonzales Alvarado, Javier Sebastian</td>
+      <td>WoodsDos</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Palomares Andrade, Sean Farith</td>
+      <td>SeanPalomares</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Rivera Ratachi, Renzo Sebastian</td>
+      <td>renzor11</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Torres Apolinario, Giovany Smith</td>
+      <td>Giovany7x</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ##### 5.2.1.3. Sprint Backlog 1
+Durante el Sprint backlog, el equipo tuvo la tarea de realizar y completar la landing page. la herramienta para la organización y gestion a los mienbros fue Trello. Esta herramienta nos sirvio para dividirnos las tareas y trabajos a realizar por el equipo de trabajo.
+
+![TRELLO SPRINT BACKLOG](https://imgur.com/S9s6vYT.jpg)
+
+Link de Trello: https://trello.com/invite/b/680e415701f792ca595048d8/ATTI84e6897024d2315973c80adedcfa5d9745BADA07/plantsync  
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Sprint 1</th>
+      <th colspan="8">Sprint 1</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="3">Work-Item / Task</th>
+      <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status<br>(To-do / In-Process / To-Review / Done)</th>
+    </tr>
+      
+  </thead>
+  <tbody>
+    <tr>
+      <td>TS01</td>
+      <td>Seccion Principal</td>
+      <td>TK03</td>
+      <td>Sección principal con mensaje claro</td>
+      <td>Como visitante de la landing page, quiero ver de inmediato el mensaje principal del sitio al ingresar, para así saber de qué trata la página sin tener que desplazarme.</td>
+      <td>4</td>
+      <td>Palomino Fiestas, Erick Leonardo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Comparar planes de suscripción</td>
+      <td>TK04</td>
+      <td>Planes de suscripción</td>
+      <td>Como visitante de la landing page, quiero comparar fácilmente los planes de suscripción para elegir el que mejor se ajuste a mis necesidades</td>
+      <td>3</td>
+      <td>Rivera Ratachi, Renzo Sebastian</td>
+      <td>Done</td>
+    </tr>
+
+  <tr>
+      <td>TS03</td>
+      <td>	Visualización de botón "Acceder" en la cabecera</td>
+      <td>TK02</td>
+      <td>Acceso Landing Page</td>
+      <td>Como visitante de la landing page, quiero ver un botón de "Acceder" en la parte superior de la landing, para saber que más adelante podré ingresar a mi cuenta.</td>
+      <td>1</td>
+      <td>Rivera Ratachi, Renzo Sebastian</td>
+      <td>Done</td>
+    
+  </tr>
+
+  <tr>
+      <td>TS04</td>
+      <td>	Visualización del botón "Empieza ahora" en la landing</td>
+      <td>TK02</td>
+      <td>Acceso Landing Page</td>
+      <td>Como visitante de la landing page, quiero ver un botón llamativo de "Empieza ahora" en la landing, para sentirme invitado a comenzar con el servicio.</td>
+      <td>2</td>
+      <td>Palomares Andrade, Sean Farith</td>
+      <td>Done</td>
+    
+  </tr>
+    
+  </tbody>
+</table>
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -3616,15 +3947,6 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
 </p>
 <br><br>
 
-### 5.3. Validation Interviews
-
-#### 5.3.1. Diseño de Entrevistas
-
-#### 5.3.2. Registro de Entrevistas
-
-#### 5.3.3. Evaluaciones según heurísticas
-
-### 5.4. Video About-the-Product
 
 ---
 
@@ -3632,7 +3954,6 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
 
 ### Conclusiones y recomendaciones
 
-### Video About-the-Team
 
 ---
 
