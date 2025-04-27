@@ -16,7 +16,7 @@
 
 **Sección:** 4289
 
-**Nombre del profesor:** BAUTISTA UBILLUS, EFRAIN RICARDO
+**Nombre del profesor:** BAUTISTA UBILLÚS, EFRAIN RICARDO
 
 **Nombre del Startup:** BioPafi
 
@@ -990,7 +990,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 **9.-** ¿Hay alguna función avanzada que te encantaría tener en una app para potenciar tu experiencia como cuidador de plantas?
 
-**10.-** ¿Estarías dispuesto/a pagar por una suscripción que te ofrezca mas ayudas para el cuidado de tus plantas? (podría cambiar)
+**10.-** ¿Estarías dispuesto/a pagar por una suscripción que te ofrezca mas ayudas para el cuidado de tus plantas?
 
 **Entrevista para personas con poca experiencia en el cuidado de plantas:**
 
@@ -2071,7 +2071,7 @@ Enlace: [Impact Map en UXPRESSIA]()
     <td>4</td>
     <td>US24</td>
     <td>Visualización de botón "Acceder" en la cabecera</td>
-    <td>CComo visitante de la landing page, quiero ver un botón de "Acceder" en la parte superior de la landing, para saber que más adelante podré ingresar a mi cuenta.	</td>
+    <td>Como visitante de la landing page, quiero ver un botón de "Acceder" en la parte superior de la landing, para saber que más adelante podré ingresar a mi cuenta.	</td>
     <td>1</td>
 </tr>
 <tr>
@@ -3593,13 +3593,12 @@ Pasos para el despliegue de la Landing Page en GitHub Pages:
     </tr>
     <tr>
       <td><b>Sprint n – 1 Review</b></td>
-      <td>Se creará la organización de PlantSync en Github, se crea las ramas, 
-          se separa los trabajos a realizar como entrevistas, wireframe y mock-up.
+      <td> Al ser el primer sprint, no se realizo.
       </td>
     </tr>
     <tr>
       <td><b>Sprint n – 1 Retrospective</b></td>
-      <td>Para la implementación para el landing page se ha realizado mediante html, css y js</td>
+      <td>Al ser el primer sprint, no se realizo.</td>
     </tr>
     <tr>
       <td colspan="2"><b>Sprint Goal & User Stories</b></td>
@@ -3610,11 +3609,11 @@ Pasos para el despliegue de la Landing Page en GitHub Pages:
     </tr>
     <tr>
       <td><b>Sprint 1 Velocity</b></td>
-      <td>20 Points</td>
+      <td>9 Points</td>
     </tr>
     <tr>
       <td><b>Sum of Story Points</b></td>
-      <td>20 Points
+      <td>9 Points
       </td>
     </tr>
   </tbody>
@@ -3682,7 +3681,7 @@ Pasos para el despliegue de la Landing Page en GitHub Pages:
 ##### 5.2.1.3. Sprint Backlog 1
 Durante el Sprint backlog, el equipo tuvo la tarea de realizar y completar la landing page. la herramienta para la organización y gestion a los mienbros fue Trello. Esta herramienta nos sirvio para dividirnos las tareas y trabajos a realizar por el equipo de trabajo.
 
-![TRELLO SPRINT BACKLOG](https://imgur.com/iHG90e4.jpg)
+![TRELLO SPRINT BACKLOG](images/spring1-backlog.png)
 
 Link de Trello: https://trello.com/invite/b/680e415701f792ca595048d8/ATTI84e6897024d2315973c80adedcfa5d9745BADA07/plantsync  
 
@@ -3749,6 +3748,17 @@ Link de Trello: https://trello.com/invite/b/680e415701f792ca595048d8/ATTI84e6897
       <td>Como visitante de la landing page, quiero ver un botón llamativo de "Empieza ahora" en la landing, para sentirme invitado a comenzar con el servicio.</td>
       <td>2</td>
       <td>Palomares Andrade, Sean Farith</td>
+      <td>Done</td>
+    
+  </tr>
+  <tr>
+      <td>TS05</td>
+      <td>	Visualizar información sobre la empresa</td>
+      <td>TK02</td>
+      <td>Acceso Landing Page</td>
+      <td>Como visitante de la landing page, quiero conocer más sobre la empresa detrás del servicio, para confiar en el producto antes de suscribirme.</td>
+      <td>2</td>
+      <td>Gonzales Alvarado, Javier Sebastian</td>
       <td>Done</td>
     
   </tr>
