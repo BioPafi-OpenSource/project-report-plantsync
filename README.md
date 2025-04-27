@@ -1742,7 +1742,8 @@ cuando ingrese sus datos en los campos requeridos (Nombre, apellidos, correo y c
 Y le da click al botón Registrarse
 entonces la cuenta se crea correctamente.
 
-<br>
+
+
 Escenario 2: Usuario falla al registrar la cuenta
 Dado que el usuario está en la pantalla de registro
 cuando ingrese no ingrese los datos completamente
@@ -1759,11 +1760,12 @@ entonces la cuenta no se crea.
 <strong>Dado que</strong> el usuario se encuentra en el apartado de "Mis plantas", <strong>cuando</strong> selecciona la opcion "Agregar Planta" <strong>Y</strong> completa la información requerida  <strong>Y</strong> hace click en "Añadir" 
 <strong>Entonces</strong> el perfil se crea correctamente.
 
-<br>
-Escenario 2: Usuario crea perfil de planta
+
+
+
+Escenario 2: Usuario falla al crear perfil de planta
 <strong>Dado que</strong> el usuario se encuentra en el apartado de "Mis plantas", <strong>cuando</strong> selecciona la opcion "Agregar Planta" <strong>Y</strong> solo introduce parcialmente la información <strong>Y</strong> hace click en "Añadir" 
 <strong>Entonces</strong> el perfil no se crea.
-
 </td>
 <td>EP02</td>
 </tr>
@@ -1775,8 +1777,7 @@ Escenario 2: Usuario crea perfil de planta
 
 <strong>Dado que</strong> el usuario se encuentra en el perfil de una planta, <strong>cuando</strong> selecciona la opcion "Editar" <strong>Y</strong> edita la información que desea <strong>Y</strong> hace click en "Guardar"
 <strong>Entonces</strong> el perfil se edita correctamente.
-
-  </td>
+</td>
 <td>EP02</td>
 </tr>
 <tr>
@@ -1805,9 +1806,9 @@ Scenario 2: Usuario cancela el borrado de perfil de planta
 
 <strong>Dado que</strong> el usuario se encuentra en el apartado "Mis plantas", <strong>cuando</strong> hace click en los cards de perfiles de planta
 <strong>Entonces</strong> el usuario es dirigido al perfil de la planta seleccionada</td>
-
 <td>EP02</td>
 </tr>
+
 <tr>
 <td>US16</td>
 <td>Selección de idioma</td>
@@ -1819,7 +1820,6 @@ Scenario 2: Usuario cancela el borrado de perfil de planta
 Scenario 2: Cambio de idioma desde configuración
 <strong>Dado que</strong> el usuario ya está usando la aplicación en un idioma,<strong>cuando</strong> accede a la configuración de su cuenta,
 <strong>Entonces</strong> puede cambiar el idioma y la aplicación se actualiza automáticamente al nuevo idioma seleccionado.
-
 </td>
 <td>EP01</td>
 </tr>
