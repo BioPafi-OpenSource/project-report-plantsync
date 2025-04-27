@@ -388,18 +388,13 @@ Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas in
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
-
-
-| **Foto del Integrantes** | **Nombres y Apellidos**            | **Código de estudiante** | **Conocimientos técnicos y habilidades** |
-| ------------------------ | ---------------------------------- | ------------------------ | ---------------------------------------- |
-| ![Imagen de Integrante Erick Palomino](/images/fotointegrante-erick-palomino.jpeg)                       | Erick Leonardo Palomino Fiestas    | U20231A500               | Hola, Soy Erick Leonardo Palomino Fiestas, un estudiante entusiasta de quinto ciclo en Ingeniería de Software. Mi conjunto de habilidades técnicas incluye C++, HTML, CSS, fundamentos de JavaScript y experiencia con bases de datos SQL y MongoDB. Me considero una persona responsable, con sólidas habilidades de comunicación para trabajar en equipo y una perspectiva optimista. También tengo un nivel básico de inglés.    |
-|![Imagen de Integrante Javier Gonzales](/images/fotointegrante-javier.jpg)| Javier Sebastian Gonzales Alvarado | U202312966| Mi nombre es Javier Gonzales, soy estudiante de la carrera Ingeniería de Software. Mi código es U202312966. Tengo conocimientos en los lenguajes C++ y Java. Además me considero una persona responsable y disponible para ayudar a los demás si presentan dificultades.|
-|![Imagen de Integrante Sean Palomares](/images/fotointegrante-sean.jpg)| Sean Farith Palomares Andrade|U202121947| Soy Sean Palomares, estudiante de sexto ciclo de la carrera de Ciencias de la Computación. Me interesan los temas de desarrollo de software y machine learning. Tengo conocimiento en Python, C++ y C#. Estoy emocionado por colaborar con el grupo para lograr completar nuestro proyecto.|
-|![Imagen de Integrante Renzo Rivera](/images/fotointegrante-renzo.jpg)| Renzo Sebastian Rivera Ratachi|U20231D974|Soy Renzo Sebastian Rivera Ratachi y soy estudiante de la carrera de Ingeniería de Software. Actualmente estoy cursando el 5to ciclo de mi carrera y tengo conocimientos intermedios de HTML, CSS, JavaScript y C++. Me considero una persona responsable y puntual.|
-| ![Imagen de Integrante Giovany Torres](/images/fotointegrante-giovany.jpeg) | Giovany Smith Torres Apolinario    | U202311601 | Estoy cursando el quinto ciclo de mi carrera Ingeniería de Software, soy una persona responsable que le gusta resolver desafíos a la par con el trabajo  responsable y en equipo tengo la capacidad de líder y me gusta aprender nuevas cosas dia a dia.     |
-
-
-
+| **Foto del Integrantes**                                                           | **Nombres y Apellidos**            | **Código de estudiante** | **Conocimientos técnicos y habilidades**                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------------------------------------------------------------------- | ---------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Imagen de Integrante Erick Palomino](/images/fotointegrante-erick-palomino.jpeg) | Erick Leonardo Palomino Fiestas    | U20231A500               | Hola, Soy Erick Leonardo Palomino Fiestas, un estudiante entusiasta de quinto ciclo en Ingeniería de Software. Mi conjunto de habilidades técnicas incluye C++, HTML, CSS, fundamentos de JavaScript y experiencia con bases de datos SQL y MongoDB. Me considero una persona responsable, con sólidas habilidades de comunicación para trabajar en equipo y una perspectiva optimista. También tengo un nivel básico de inglés. |
+| ![Imagen de Integrante Javier Gonzales](/images/fotointegrante-javier.jpg)         | Javier Sebastian Gonzales Alvarado | U202312966               | Mi nombre es Javier Gonzales, soy estudiante de la carrera Ingeniería de Software. Mi código es U202312966. Tengo conocimientos en los lenguajes C++ y Java. Además me considero una persona responsable y disponible para ayudar a los demás si presentan dificultades.                                                                                                                                                         |
+| ![Imagen de Integrante Sean Palomares](/images/fotointegrante-sean.jpg)            | Sean Farith Palomares Andrade      | U202121947               | Soy Sean Palomares, estudiante de sexto ciclo de la carrera de Ciencias de la Computación. Me interesan los temas de desarrollo de software y machine learning. Tengo conocimiento en Python, C++ y C#. Estoy emocionado por colaborar con el grupo para lograr completar nuestro proyecto.                                                                                                                                      |
+| ![Imagen de Integrante Renzo Rivera](/images/fotointegrante-renzo.jpg)             | Renzo Sebastian Rivera Ratachi     | U20231D974               | Soy Renzo Sebastian Rivera Ratachi y soy estudiante de la carrera de Ingeniería de Software. Actualmente estoy cursando el 5to ciclo de mi carrera y tengo conocimientos intermedios de HTML, CSS, JavaScript y C++. Me considero una persona responsable y puntual.                                                                                                                                                             |
+| ![Imagen de Integrante Giovany Torres](/images/fotointegrante-giovany.jpeg)        | Giovany Smith Torres Apolinario    | U202311601               | Estoy cursando el quinto ciclo de mi carrera Ingeniería de Software, soy una persona responsable que le gusta resolver desafíos a la par con el trabajo responsable y en equipo tengo la capacidad de líder y me gusta aprender nuevas cosas dia a dia.                                                                                                                                                                          |
 
 
 
@@ -428,7 +423,7 @@ When? (¿Cuándo?)
 El diseño conceptual y la validación inicial comenzaron en abril de 2025. Actualmente nos encontramos en fase de desarrollo del prototipo funcional (MVP). Se espera una versión beta para julio de 2025, la cual será sometida a pruebas con usuarios reales. El lanzamiento oficial está previsto para noviembre de 2025, con actualizaciones progresivas durante 2026 para incorporar nuevas funciones.
 
 Why? (¿Por qué?)
-Porque muchas personas desean cuidar mejor sus plantas, pero carecen del conocimiento, del tiempo o de una guía adecuada para hacerlo, lo que lleva al deterioro de sus plantas, frustración y abandono del hábito. PlantSync responde a esta necesidad con una propuesta innovadora, educativa y automatizada, que convierte el proceso de cuidado en una experiencia agradable, accesible y sostenible.
+Porque muchas personas desean cuidar mejor sus plantas, pero carecen del conocimiento, del tiempo o de una guía adecuada para hacerlo, segun (SERPAR, 2021) Regar las plantas ayuda en su crecimiento y a mantenerlas sanas, previniendo enfermedades y daños provocados por insectos.Y esto lleva al deterioro de sus plantas, frustración y abandono del hábito. PlantSync responde a esta necesidad con una propuesta innovadora, educativa y automatizada, que convierte el proceso de cuidado en una experiencia agradable, accesible y sostenible.
 
 How? (¿Cómo?)
 La solución se desarrolla aplicando el enfoque Lean UX y metodologías ágiles. Se basa en tecnologías como React para el frontend, Firebase para la gestión de usuarios y base de datos en tiempo real, y un sistema de Machine Learning entrenado con TensorFlow para el análisis de imágenes de las plantas. Además, se ha integrado un modelo de procesamiento de lenguaje natural (NLP) que permite al chatbot entender las preguntas de los usuarios y responder con claridad y empatía.
@@ -1403,7 +1398,7 @@ Segmento 1: Mauricio Alcantara
 ![AS IS SEGMENTO 1](https://imgur.com/6FZnUb2.jpg)
 
 Segmento 2: Roxana Madero
-![AS IS SEGMENTO 2](https://imgur.com/c7CyxiD.jpg)
+![AS IS SEGMENTO 2](https://imgur.com/Uqkp5xK.jpg)
 
 ### 2.4. Ubiquitous Language
 
@@ -1756,7 +1751,8 @@ cuando ingrese sus datos en los campos requeridos (Nombre, apellidos, correo y c
 Y le da click al botón Registrarse
 entonces la cuenta se crea correctamente.
 
-<br>
+
+
 Escenario 2: Usuario falla al registrar la cuenta
 Dado que el usuario está en la pantalla de registro
 cuando ingrese no ingrese los datos completamente
@@ -1773,11 +1769,12 @@ entonces la cuenta no se crea.
 <strong>Dado que</strong> el usuario se encuentra en el apartado de "Mis plantas", <strong>cuando</strong> selecciona la opcion "Agregar Planta" <strong>Y</strong> completa la información requerida  <strong>Y</strong> hace click en "Añadir" 
 <strong>Entonces</strong> el perfil se crea correctamente.
 
-<br>
-<td> Escenario 2: Usuario crea perfil de planta
+
+
+
+Escenario 2: Usuario falla al crear perfil de planta
 <strong>Dado que</strong> el usuario se encuentra en el apartado de "Mis plantas", <strong>cuando</strong> selecciona la opcion "Agregar Planta" <strong>Y</strong> solo introduce parcialmente la información <strong>Y</strong> hace click en "Añadir" 
 <strong>Entonces</strong> el perfil no se crea.
-
 </td>
 <td>EP02</td>
 </tr>
@@ -1789,8 +1786,7 @@ entonces la cuenta no se crea.
 
 <strong>Dado que</strong> el usuario se encuentra en el perfil de una planta, <strong>cuando</strong> selecciona la opcion "Editar" <strong>Y</strong> edita la información que desea <strong>Y</strong> hace click en "Guardar"
 <strong>Entonces</strong> el perfil se edita correctamente.
-
-  </td>
+</td>
 <td>EP02</td>
 </tr>
 <tr>
@@ -1819,9 +1815,9 @@ Scenario 2: Usuario cancela el borrado de perfil de planta
 
 <strong>Dado que</strong> el usuario se encuentra en el apartado "Mis plantas", <strong>cuando</strong> hace click en los cards de perfiles de planta
 <strong>Entonces</strong> el usuario es dirigido al perfil de la planta seleccionada</td>
-
 <td>EP02</td>
 </tr>
+
 <tr>
 <td>US16</td>
 <td>Selección de idioma</td>
@@ -1833,7 +1829,6 @@ Scenario 2: Usuario cancela el borrado de perfil de planta
 Scenario 2: Cambio de idioma desde configuración
 <strong>Dado que</strong> el usuario ya está usando la aplicación en un idioma,<strong>cuando</strong> accede a la configuración de su cuenta,
 <strong>Entonces</strong> puede cambiar el idioma y la aplicación se actualiza automáticamente al nuevo idioma seleccionado.
-
 </td>
 <td>EP01</td>
 </tr>
@@ -2086,161 +2081,175 @@ Enlace: [Impact Map en UXPRESSIA]()
     <td>3</td>
 </tr>
 <tr>
-    <td>8</td>
-    <td>US15</td>
-    <td>Acceder a perfil de planta</td>
-    <td>Como usuario, quiero acceder a los perfiles de las plantas que poseo para ver su información actual	</td>
-    <td>2</td>
+  <td>8</td>
+  <td>US02</td>
+  <td>Edición del perfil del usuario</td>
+  <td>Como usuario que inicio sesión, quiero editar mi nombre, imagen, correo y contraseña de mi perfil, para mantener mi información actualizada.</td>
+  <td>2</td>
 </tr>
 <tr>
     <td>9</td>
     <td>US12</td>
     <td>Crear perfil de planta</td>
     <td>Como usuario, quiero crear un perfil de cada una de mis plantas para poder llevar un registro de sus cuidados	</td>
-    <td>3</td>
+    <td>5</td>
 </tr>
 <tr>
     <td>10</td>
-    <td>US13</td>
-    <td>Editar perfil de planta</td>
-    <td>Como usuario quiero editar el perfil de mi planta para corregir algún error que haya cometido	</td>
+    <td>US15</td>
+    <td>Acceder a perfil de planta</td>
+    <td>Como usuario, quiero acceder a los perfiles de las plantas que poseo para ver su información actual	</td>
     <td>2</td>
 </tr>
 <tr>
     <td>11</td>
+    <td>US13</td>
+    <td>Editar perfil de planta</td>
+    <td>Como usuario quiero editar el perfil de mi planta para corregir algún error que haya cometido	</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>12</td>
     <td>US14</td>
     <td>Eliminar perfil de planta</td>
     <td>Como usuario, quiero eliminar los perfiles de las plantas que ya no poseo para mantener mi colección actualizada	</td>
     <td>2</td>
 </tr>
 <tr>
-    <td>12</td>
+    <td>13</td>
     <td>US16</td>
     <td>Selección de idioma</td>
     <td>Como usuario, quiero elegir el idioma de la pagina web para usarla cómodamente	</td>
     <td>2</td>
 </tr>
 <tr>
-    <td>13</td>
+    <td>14</td>
     <td>US09</td>
     <td>Registro manual de tarea completada</td>
     <td>Como usuario que sigue un calendario de cuidado, quiero marcar una tarea como realizada, para llevar un registro actualizado del estado de mis plantas.	</td>
-    <td>2</td>
-</tr>
-<tr>
-    <td>14</td>
-    <td>US10</td>
-    <td>Reprogramar tarea</td>
-    <td>Como usuario que no puede realizar una tarea en la fecha prevista, quiero poder posponerla arrastrándola a otro día en el calendario, para reorganizar fácilmente mi rutina de cuidado sin perder el seguimiento.	</td>
-    <td>2</td>
+    <td>5</td>
 </tr>
 <tr>
     <td>15</td>
-    <td>US07</td>
-    <td>Visualización de guía específica</td>
-    <td>Como usuario interesado en aprender a cuidar mejor mis plantas, quiero acceder a guías detalladas con pasos visuales e instrucciones específicas, para entender cómo aplicar correctamente los cuidados según el tipo de planta.	</td>
-    <td>2</td>
+    <td>US10</td>
+    <td>Reprogramar tarea</td>
+    <td>Como usuario que no puede realizar una tarea en la fecha prevista, quiero poder posponerla arrastrándola a otro día en el calendario, para reorganizar fácilmente mi rutina de cuidado sin perder el seguimiento.	</td>
+    <td>3</td>
 </tr>
 <tr>
     <td>16</td>
-    <td>US06</td>
-    <td>Búsqueda de guías por temas o tipo</td>
-    <td>Como usuario que necesita resolver una duda específica sobre el cuidado de mis plantas, quiero poder buscar guías dentro de la plataforma por nombre o palabra clave, para encontrar rápidamente la información que necesito sin tener que recorrer todo el catálogo.	</td>
-    <td>2</td>
+    <td>US07</td>
+    <td>Visualización de guía específica</td>
+    <td>Como usuario interesado en aprender a cuidar mejor mis plantas, quiero acceder a guías detalladas con pasos visuales e instrucciones específicas, para entender cómo aplicar correctamente los cuidados según el tipo de planta.	</td>
+    <td>5</td>
 </tr>
 <tr>
     <td>17</td>
-    <td>US08</td>
-    <td>Consultas sobre cuidado al asistente RootBot</td>
-    <td>Como usuario que tiene preguntas rápidas sobre el cuidado de mis plantas, quiero poder escribir mis consultas al chatbot dentro de la app, para recibir respuestas inmediatas y recomendaciones útiles sin salir del flujo de uso.	</td>
-    <td>3</td>
+    <td>US06</td>
+    <td>Búsqueda de guías por temas o tipo</td>
+    <td>Como usuario que necesita resolver una duda específica sobre el cuidado de mis plantas, quiero poder buscar guías dentro de la plataforma por nombre o palabra clave, para encontrar rápidamente la información que necesito sin tener que recorrer todo el catálogo.	</td>
+    <td>5</td>
 </tr>
 <tr>
     <td>18</td>
-    <td>US05</td>
-    <td>Calendario de tareas y cuidados</td>
-    <td>Como usuario con plan Premium o Pro, quiero ver un calendario con las tareas programadas, para organizarme mejor en el cuidado de mis plantas.	</td>
-    <td>3</td>
+    <td>US08</td>
+    <td>Consultas sobre cuidado al asistente RootBot</td>
+    <td>Como usuario que tiene preguntas rápidas sobre el cuidado de mis plantas, quiero poder escribir mis consultas al chatbot dentro de la app, para recibir respuestas inmediatas y recomendaciones útiles sin salir del flujo de uso.	</td>
+    <td>8</td>
 </tr>
 <tr>
     <td>19</td>
+    <td>US05</td>
+    <td>Calendario de tareas y cuidados</td>
+    <td>Como usuario con plan Premium o Pro, quiero ver un calendario con las tareas programadas, para organizarme mejor en el cuidado de mis plantas.	</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>20</td>
     <td>US03</td>
     <td>Visualización de tareas de cuidado</td>
     <td>Como usuario con plantas registradas, quiero ver las tareas pendientes de cuidado, para saber qué debo hacer cada día</td>
     <td>2</td>
 </tr>
 <tr>
-    <td>20</td>
+    <td>21</td>
     <td>US17</td>
     <td>Historial de cuidados</td>
     <td>Como usuario, quiero ver un historial de riegos y fertilizaciones para cada planta.	</td>
     <td>3</td>
 </tr>
 <tr>
-    <td>21</td>
+    <td>22</td>
     <td>US04</td>
     <td>Evaluación visual asistida de planta</td>
     <td>Como usuario con sesión iniciada, quiero llenar un formulario guiado sobre el estado de mi planta, para que la app me ayude a monitorear mi planta.	</td>
     <td>5</td>
 </tr>
 <tr>
-    <td>22</td>
+    <td>23</td>
     <td>US18</td>
     <td>Recomendaciones inteligentes</td>
     <td>Como usuario, quiero recibir consejos según el estado de mi planta para mejorar su cuidado.	</td>
     <td>5</td>
 </tr>
 <tr>
-    <td>23</td>
+    <td>24</td>
     <td>US19</td>
     <td>Seguridad y respaldo</td>
     <td>Como usuario, quiero asegurar mis datos y poder recuperarlos si inicio sesión en otro dispositivo para para sentirme mas seguro al cambiar de dispositivo.	</td>
     <td>5</td>
 </tr>
 <tr>
-    <td>24</td>
+    <td>25</td>
     <td>US20</td>
     <td>Chat o formulario de soporte</td>
     <td>Como usuario, quiero reportar errores o pedir ayuda técnica si tengo algún error en la web para asi recibir ayuda de manera personalizada.	</td>
-    <td>3</td>
-</tr>
-<tr>
-    <td>25</td>
-    <td>US26</td>
-    <td>Establecer recordatorios</td>
-    <td>Como usuario quiero poder establecer un recordatorio de una planta específica para no olvidarme de sus cuidados</td>
-    <td>3</td>
+    <td>8</td>
 </tr>
 <tr>
     <td>26</td>
-    <td>US27</td>
-    <td>Editar recordatorio</td>
-    <td>Como usuario quiero editar un recordatorio existente para ajustar la tarea, la hora o la frecuencia según las necesidades de mi planta</td>
-    <td>2</td>
+    <td>US26</td>
+    <td>Establecer recordatorios</td>
+    <td>Como usuario quiero poder establecer un recordatorio de una planta específica para no olvidarme de sus cuidados</td>
+    <td>5</td>
 </tr>
 <tr>
     <td>27</td>
+    <td>US30</td>
+    <td>Ver recordatorios activos</td>
+    <td>Como usuario quiero ver la lista de recordatorios activos para tener claridad sobre las próximas tareas de cuidado	</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>28</td>
+    <td>US27</td>
+    <td>Editar recordatorio</td>
+    <td>Como usuario quiero editar un recordatorio existente para ajustar la tarea, la hora o la frecuencia según las necesidades de mi planta</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>29</td>
     <td>US28</td>
     <td>Eliminar recordatorio</td>
     <td>Como usuario quiero eliminar un recordatorio que ya no necesito para mantener la lista organizada</td>
     <td>2</td>
 </tr>
 <tr>
-    <td>28</td>
+    <td>30</td>
     <td>US29</td>
     <td>Pausar recordatorio</td>
     <td>Como usuario quiero pausar un recordatorio por un tiempo definido para no recibir alertas durante ese periodo	</td>
-    <td>2</td>
+    <td>3</td>
 </tr>
-<tr>
-    <td>29</td>
-    <td>US30</td>
-    <td>Ver recordatorios activos</td>
-    <td>Como usuario quiero ver la lista de recordatorios activos para tener claridad sobre las próximas tareas de cuidado	</td>
-    <td>2</td>
-</tr>
+
   </tbody>
 </table>
+
+<p align="center">
+  <img src="images/product-backlog-evidence.png" alt="Screenshot product backlog" >
+</p>
+
+Enlace del Product Backlog en Trello: [Enlace](https://trello.com/b/q75pmpzq/product-backlog)
 
 ## Capítulo IV: Product Design
 
@@ -2723,12 +2732,9 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 - **Wireflow 6: Chatear con el bot**
 
 
-
 **User Goal:** Como usuario de PlantSync, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
 
-
-
-**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+**User Persona:** Personas con poca y mucha experiencia en el cuidado de plantas
 
 
 
@@ -3601,7 +3607,69 @@ Pasos para el despliegue de la Landing Page en GitHub Pages:
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Team Member<br>(Last Name, First Name)</th>
+      <th>Github Username</th>
+      <th>Contenido y Mensaje<br>Leader (L) / Collaborator (C)</th>
+      <th>Funcionalidades<br>(L) / (C)</th>
+      <th>Navegaion en el sistema<br>(L) / (C)</th>
+      <th>Deployment and optimización<br>(L) / (C)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Palomino Fiestas, Erick Leonardo</td>
+      <td>erickLeo13</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Gonzales Alvarado, Javier Sebastian</td>
+      <td>WoodsDos</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Palomares Andrade, Sean Farith</td>
+      <td>SeanPalomares</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Rivera Ratachi, Renzo Sebastian</td>
+      <td>renzor11</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Torres Apolinario, Giovany Smith</td>
+      <td>Giovany7x</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ##### 5.2.1.3. Sprint Backlog 1
+Durante el Sprint backlog, el equipo tuvo la tarea de realizar y completar la landing page. la herramienta para la organización y gestion a los mienbros fue Trello. Esta herramienta nos sirvio para dividirnos las tareas y trabajos a realizar por el equipo de trabajo.
+
+![TRELLO SPRINT BACKLOG](https://imgur.com/iHG90e4.jpg)
+
+Link de Trello: https://trello.com/invite/b/680e415701f792ca595048d8/ATTI84e6897024d2315973c80adedcfa5d9745BADA07/plantsync  
 
 <table border="1">
   <thead>
@@ -3898,12 +3966,34 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
 
 ### Conclusiones y recomendaciones
 
+- Se puede concluir que existe una gran cantidad de personas que no tiene mucha experiencia en el cuidado de plantas, lo cual conlleva a que sus plantas sufran enfermedades o en el peor de los casos se mueran por la falta de cuidado.
 
+- El uso de los repositorios y funcionalidades de GitHub incrementó la eficiencia, calidad y colaboración del equipo en el desarrollo de software. Además, permitió una gestión rigurosa de activos y versiones, asegurando el control del código fuente y la documentación, lo que facilitó el cumplimiento de las expectativas del público objetivo.
+
+- La planificación y ejecución de entrevistas fueron clave para comprender, comunicar y validar los requisitos y expectativas de los stakeholders. Esto permitió identificar frustraciones, metas, pensamientos y percepciones relacionados con el problema que la solución busca atender, logrando así una mejor satisfacción de sus necesidades.
+
+- Los artefactos de Needfinding resultan esenciales para obtener una aproximación precisa y auténtica al público objetivo.
+
+- El desarrollo de las Style Guidelines contribuyó a mantener la coherencia y la calidad visual del contenido en la plataforma, consolidando una identidad sólida y consistente para la startup.
+
+- La elaboración de los User Stories y del Product Backlog permitió priorizar las funcionalidades de la solución de software, orientando al equipo de desarrollo sobre qué debía ser entregado primero.
+
+- La creación de Wireframes sentó bases firmes para el desarrollo de la plataforma interactiva, ya que ayudó a definir los aspectos visuales antes de iniciar la codificación, logrando un producto final más efectivo y atractivo para el usuario.
+
+- El trabajo por sprints es fundamental para avanzar de manera constante y organizada. Definir un límite de user story points evita la sobrecarga de tareas, permitiendo un desarrollo adecuado del Landing Page.
+
+- El Sprint 1 resultó ser una excelente estrategia para integrar los User Stories priorizados en el primer entregable. Cada integrante del equipo participó activamente en el desarrollo colaborativo del Landing Page en el repositorio, complementado con reuniones de retroalimentación grupal.
 ---
 
 ## Bibliografía
 
+Gutiérrez, A (2021, 17 de agosto). Estos son los errores más comunes que se cometen en el cuidado de las plantas de interior. Agronegocios
+https://www.agronegocios.co/agricultura/estos-son-los-errores-mas-comunes-que-se-cometen-en-el-cuidado-de-las-plantas-de-interior-3218312
+
 Revista Economía. (2020). Incremento del interés de los peruanos por el cuidado de las áreas verdes. https://www.revistaeconomia.com/incremento-del-interes-de-los-peruanos-por-el-cuidado-de-las-areas-verdes/
+
+SERPAR (2021, 8 de marzo), 10 cosas que debes aprender sobre el cuidado de plantas. SERPAR
+https://www.serpar.gob.pe/noticias/10-cosas-que-debes-aprender-sobre-el-cuidado-de-plantas/
 
 ## Anexos
 
