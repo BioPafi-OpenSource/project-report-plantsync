@@ -1389,7 +1389,7 @@ Segmento 1: Mauricio Alcantara
 ![AS IS SEGMENTO 1](https://imgur.com/6FZnUb2.jpg)
 
 Segmento 2: Roxana Madero
-![AS IS SEGMENTO 2](https://imgur.com/c7CyxiD.jpg)
+![AS IS SEGMENTO 2](https://imgur.com/Uqkp5xK.jpg)
 
 ### 2.4. Ubiquitous Language
 
