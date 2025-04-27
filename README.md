@@ -2293,6 +2293,37 @@ Explicación sencilla en 3 pasos de como funciona nuestra plataforma.
 </p>
 <br><br>
 
++ Seccion Planes:
+
+Explicación de los diferentes planes con sus beneficios y montos de pago
+<p align="center">
+  <img src="images/landingPage/planes-landingpage.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Seccion ¿Quíenes somos?:
+
+Explicación breve del el startup BioPafi y una frase representativa.
+<p align="center">
+  <img src="images/landingPage/aboutus-landingpage.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Seccion Footer:
+
+Barra inferior fija con el logo de PlantSync, donde se encuentran Ayuda, Politicas , Redes Sociales y, Terminos y Condiciones , con su respectivo derechos de autor.
+<p align="center">
+  <img src="images/landingPage/footer-landingpage.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Seccion Terminos y Condiciones:
+
+Explicación de los terminos y condiciones del producto
+<p align="center">
+  <img src="images/landingPage/terms-landingpage.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2331,11 +2362,48 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
 </p>
 <br><br>
 
-
-
 [Link de la Landing Page](https://biopafi-opensource.github.io/plantSync-LandingPage/)
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>Alumno</b></td>
+      <td><b>Actividad</b></td>
+    </tr>
+    <tr>
+      <td>Palomino Fiestas, Erick Leonardo</td>
+      <td>Implementación de la sección del apartado ¿Quíenes Somos?</td>
+    </tr>
+    <tr>
+      <td>Gonzales Alvarado, Javier Sebastian</td>
+      <td>Implementación de el header, apartado principal y el apartado ¿Comó funciona?</td>
+    </tr>
+    <tr>
+      <td>Rivera Ratachi, Renzo Sebastian </td>
+      <td>Implementación del apartado de planes</td>
+    </tr>
+    <tr>
+      <td>Palomares Andrade, Sean Farith</td>
+      <td>Implementación de el footer</td>
+    </tr>
+    <tr>
+      <td>Torres Apolinario, Giovany Smith</td>
+      <td>Imprementación de el apartado de Terminos y Condiciones</td>
+    </tr>    
+  </tbody>
+</table>
+
+<p align="center">
+  <img src="images/insight-landingpage/evidencia1-sprint1.png" alt="evidencia-sprint" width="800">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/insight-landingpage/evidencia2-sprint1.png" alt="evidencia-sprint" width="800">
+</p>
+<br><br>
 
 ### 5.3. Validation Interviews
 
