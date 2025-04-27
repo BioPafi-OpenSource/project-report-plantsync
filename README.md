@@ -153,8 +153,7 @@
 
 ## Project Report Collaboration Insights
 
-**TB1**
----
+## **TB1**
 
 <table align="center">
   <tr>
@@ -393,6 +392,7 @@ Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas in
 |![Imagen de Integrante Sean Palomares](/images/fotointegrante-sean.jpg)| Sean Farith Palomares Andrade|U202121947| Soy Sean Palomares, estudiante de sexto ciclo de la carrera de Ciencias de la Computación. Me interesan los temas de desarrollo de software y machine learning. Tengo conocimiento en Python, C++ y C#. Estoy emocionado por colaborar con el grupo para lograr completar nuestro proyecto.|
 |![Imagen de Integrante Renzo Rivera](/images/fotointegrante-renzo.jpg)| Renzo Sebastian Rivera Ratachi|U20231D974|Soy Renzo Sebastian Rivera Ratachi y soy estudiante de la carrera de Ingeniería de Software. Actualmente estoy cursando el 5to ciclo de mi carrera y tengo conocimientos intermedios de HTML, CSS, JavaScript y C++. Me considero una persona responsable y puntual.|
 | ![Imagen de Integrante Giovany Torres](/images/fotointegrante-giovany.jpeg) | Giovany Smith Torres Apolinario    | U202311601 | Estoy cursando el quinto ciclo de mi carrera Ingeniería de Software, soy una persona responsable que le gusta resolver desafíos a la par con el trabajo  responsable y en equipo tengo la capacidad de líder y me gusta aprender nuevas cosas dia a dia.     |
+
 
 ### 1.2. Solution Profile
 
@@ -1162,8 +1162,6 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
 </table>
 
-
-
 <table align="center">
   <tr>
     <th colspan="2" style="text-align:center">Entrevista 2</th>
@@ -1236,8 +1234,6 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
     </td>
   </tr>
 </table>
-
-
 
 #### 2.2.3. Análisis de entrevistas
 
@@ -1602,6 +1598,7 @@ Dado que estoy buscando una guía específica,
 cuando ingreso una palabra que no coincide con ninguna guía,
 
 entonces se muestra un mensaje de “No se encontraron guías relacionadas”.
+
 </td>
 <td>EP00</td>
 </tr>
@@ -1617,6 +1614,7 @@ Dado que estoy en la sección de guías,
 cuando hago clic en una tarjeta de guía,
 
 entonces se abre una vista con la guía completa, dividida en secciones de cuidado con imágenes y recomendaciones.
+
 </td>
 <td>EP00</td>
 </tr>
@@ -1640,6 +1638,7 @@ Dado que quiero saber dónde comprar una planta específica,
 cuando escribo “¿Dónde consigo una Monstera?”,
 
 entonces el bot responde con una sugerencia de viveros o marketplaces asociados.
+
 </td>
 <td>EP00</td>
 </tr>
@@ -1665,6 +1664,7 @@ Dado que cometí un error al marcar una tarea,
 cuando clickeo la tarea nuevamente,
 
 entonces se cambia el estado a "No realizado".
+
 </td>
 <td>EP00</td>
 </tr>
@@ -1688,6 +1688,7 @@ Dado que he modificado la fecha y hora de una tarea,
 cuando confirmo los datos en el pop-up,
 
 entonces el sistema actualiza la tarea y la nueva fecha aparece reflejada en el calendario.
+
 </td>
 <td>EP00</td>
 </tr>
@@ -1892,11 +1893,11 @@ La aplicación se enfocara en tener un estilo sencillo y eficiente, lo cual es i
 
 **Botones:**
 
-Los botones se encontraran en el apartado principal de la aplicación web, lo cual permitiran que el usuario añada, elimine y cambie en los diferentes apartados segun las funcionalidades añadidas. Ademas de tener los botones de iniciar y cerrar sesión. Tambien se utilizara para comfirmar diferentes acciones en la aplicación. Los botones tendra colores llamativos siguiendo la paleta de colores elegida.  
+Los botones se encontraran en el apartado principal de la aplicación web, lo cual permitiran que el usuario añada, elimine y cambie en los diferentes apartados segun las funcionalidades añadidas. Ademas de tener los botones de iniciar y cerrar sesión. Tambien se utilizara para comfirmar diferentes acciones en la aplicación. Los botones tendra colores llamativos siguiendo la paleta de colores elegida.
 
 **Imágenes:**
 
-Las imágenes se encontraran en diferentes apartados de la web, como en el perfil del usuario, las plantas que registre, las imagenes que podra subir para la identificacion de la planta y diferentes imagenes que usaremos para representar los diferentes funcionalidades de nuestra landing page. 
+Las imágenes se encontraran en diferentes apartados de la web, como en el perfil del usuario, las plantas que registre, las imagenes que podra subir para la identificacion de la planta y diferentes imagenes que usaremos para representar los diferentes funcionalidades de nuestra landing page.
 
 Las imagenes se utilizaran para que el diseño web se utilizara para que el usuario pueda guiarse visualmente y ayude a guiarse por nuestra web, a la vez de utilizando iconos reconocibles y utilizados en todaa aplicaciones.
 
@@ -1924,48 +1925,47 @@ La arquitectura de información de BioPafi define la forma en que se estructurar
 
 Es importante que tanto la Landing Page como la AppWeb se encuentre organizado para evitar tener una interfaz confusa y un contenido desordenado. Por lo tanto **BioPafi** aplicará un enfoque combinado de organización jerárquica, secuencial y matricial, además de diversos esquemas de categorización.<br><br>
 
-+ Jerarquía Visual:
+- Jerarquía Visual:
 
 La organización jerárquica se utilizará principalmente en el Landing Page, el Dashboard principal y la vista de perfil del usuario. En estas pantallas, los elementos más relevantes se ubicarán en posiciones destacadas y con mayor peso visual, como los estados actuales de las plantas, alertas urgentes o botones de acción rápida. Por ejemplo, en el Dashboard de la aplicación, cada tarjeta de planta mostrará en la parte superior su nombre, nivel de humedad y estado general. Debajo, de forma secundaria, se ubicarán botones como “Ver guía” o “Editar datos”. De igual manera, en el perfil del usuario, el tipo de suscripción será lo primero visible, seguido de los datos personales y configuraciones.
 
-+ Organización secuencial:
+- Organización secuencial:
 
 La organización secuencial será clave en procesos como el registro de nuevas plantas y el monitoreo manual asistido. En estos casos, la aplicación guiará al usuario por pasos ordenados: primero se selecciona o identifica la planta, luego se configuran los parámetros básicos y finalmente se activan los recordatorios o recomendaciones. Este flujo será especialmente importante para usuarios principiantes, quienes serán orientados a través de formularios visuales simplificados que les permitirán registrar el estado de su planta sin necesidad de conocimientos técnicos.
 
-+ Organización Matricial:
+- Organización Matricial:
 
 La organización matricial estará presente en el módulo de historial de cuidados y en la sección de recomendaciones climáticas, donde los datos estarán distribuidos en tarjetas o cuadrículas que permiten una exploración más libre. Por ejemplo, en el historial, cada evento registrado (riego, fertilización, cambios de estado) aparecerá en una tarjeta ordenada cronológicamente, permitiendo al usuario comparar fechas, intervalos y tendencias.
 
 Respecto a los esquemas de categorización, se utilizarán diferentes enfoques:
 
-+ **Por tópicos:** en las guías y recomendaciones, los contenidos estarán organizados según temas como “riego”, “luz”, “plagas” o “fertilización”.
+- **Por tópicos:** en las guías y recomendaciones, los contenidos estarán organizados según temas como “riego”, “luz”, “plagas” o “fertilización”.
 
-+ **Alfabético:** en las búsquedas y listados de plantas registradas, se permitirá ordenar las plantas por nombre personalizado, para facilitar la navegación en jardines con muchas especies.
+- **Alfabético:** en las búsquedas y listados de plantas registradas, se permitirá ordenar las plantas por nombre personalizado, para facilitar la navegación en jardines con muchas especies.
 
-+ **Cronológico:** en el historial de cuidado, las entradas se ordenarán por fecha, permitiendo seguir la evolución de cada planta.<br><br>
-
+- **Cronológico:** en el historial de cuidado, las entradas se ordenarán por fecha, permitiendo seguir la evolución de cada planta.<br><br>
 
 #### 4.2.2. Labeling Systems
 
 En BioPafi, el sistema de etiquetas ha sido diseñado para ser claro, directo y contextual, ayudando al usuario a entender fácilmente el contenido y las acciones disponibles en cada sección. Se busca minimizar la carga cognitiva mediante el uso de términos sencillos, familiares y consistentes, alineados con los conocimientos generales de los usuarios, especialmente de aquellos con poca experiencia en tecnología o jardinería.
 
-+ Menú principal del Landing Page:
+- Menú principal del Landing Page:
 
-  + Inicio
-  + ¿Cómo funciona?
-  + Planes
-  + ¿Quiénes somos?
-  + Acceder
+  - Inicio
+  - ¿Cómo funciona?
+  - Planes
+  - ¿Quiénes somos?
+  - Acceder
 
-+ Menú de navegación en WebApp:
+- Menú de navegación en WebApp:
 
-  + Mis Plantas
-  + Guías 
-  + Tareas
-  + ChatBot
-  + Configuración
-  + Salir
-  <br><br>
+  - Mis Plantas
+  - Guías
+  - Tareas
+  - ChatBot
+  - Configuración
+  - Salir
+    <br><br>
 
 <table align="center">
   <tr>
@@ -2006,71 +2006,83 @@ Las meta etiquetas permiten incluir información estructurada sobre el contenido
 
 Las metas etiquetas que usaremos:
 
-+ Landing Page:
+- Landing Page:
 
-  + Título<br><br>
+  - Título<br><br>
 
   ```html
   <title>BioPafi – Cuida tus plantas con tecnología inteligente</title>
   ```
 
-  + Codificación de carácteres<br><br>
+  - Codificación de carácteres<br><br>
 
   ```html
-  <meta charset="utf-8">
+  <meta charset="utf-8" />
   ```
 
-  + Meta Description<br><br>
+  - Meta Description<br><br>
 
   ```html
-  <meta name="description" content="Plataforma web para el monitoreo asistido, registro y recomendaciones personalizadas para el cuidado de tus plantas. Ideal para principiantes y expertos."/>
+  <meta
+    name="description"
+    content="Plataforma web para el monitoreo asistido, registro y recomendaciones personalizadas para el cuidado de tus plantas. Ideal para principiantes y expertos."
+  />
   ```
 
-  + Keywords<br><br>
+  - Keywords<br><br>
 
   ```html
-  <meta name="keywords" content="cuidado de plantas, monitoreo de plantas, jardinería digital, sensores, app para plantas"/>
+  <meta
+    name="keywords"
+    content="cuidado de plantas, monitoreo de plantas, jardinería digital, sensores, app para plantas"
+  />
   ```
 
-  + Author y Derechos de Autor<br><br>
-  
+  - Author y Derechos de Autor<br><br>
+
   ```html
-  <meta name="author" content="Equipo BioPafi"/>
+  <meta name="author" content="Equipo BioPafi" />
   <meta name="copyright" content="Copyright Biopafi team" />
   ```
 
 <br>
 
-+ Web Application:
+- Web Application:
 
-  + Título<br><br>
+  - Título<br><br>
 
   ```html
   <title>Mi Jardín – PlantSync</title>
   ```
 
-  + Codificación de carácteres<br><br>
+  - Codificación de carácteres<br><br>
 
   ```html
-  <meta charset="utf-8">
+  <meta charset="utf-8" />
   ```
 
-  + Meta Description<br><br>
+  - Meta Description<br><br>
 
   ```html
-  <meta name="description" content="Gestiona tus plantas, consulta guías interactivas, activa recordatorios y accede a recomendaciones basadas en el clima."/>
+  <meta
+    name="description"
+    content="Gestiona tus plantas, consulta guías interactivas, activa recordatorios y accede a recomendaciones basadas en el clima."
+  />
   ```
 
-  + Keywords<br><br>
+  - Keywords<br><br>
 
   ```html
-  <meta name="keywords" content="BioPafi, historial de riego, guías para plantas, monitoreo manual, recomendaciones por clima"/>
+  <meta
+    name="keywords"
+    content="BioPafi, historial de riego, guías para plantas, monitoreo manual, recomendaciones por clima"
+  />
   ```
 
-  + Author y Derechos de Autor<br><br>
-  
+  - Author y Derechos de Autor<br><br>
+
   ```html
-  <meta name="author" content="Equipo BioPafi"/>
+  <meta name="author" content="Equipo BioPafi" />
   <meta name="copyright" content="Copyright Biopafi team" />
   ```
 
@@ -2080,46 +2092,43 @@ Las metas etiquetas que usaremos:
 
 Dado que la plataforma almacenará una gran cantidad de información, incluyendo tutoriales y guías sobre el cuidado de plantas, es fundamental implementar un sistema de búsqueda y filtrado eficiente. Este sistema estará diseñado para minimizar la carga cognitiva del usuario y facilitar una navegación intuitiva, permitiendo encontrar rápidamente la información relevante para una toma de decisiones informada. A continuación, se detallan sus principales características:
 
-+ Opciones de búsqueda:
+- Opciones de búsqueda:
 
-  + Búsqueda de guías
+  - Búsqueda de guías
 
-  + Búsqueda de plantas registradas
+  - Búsqueda de plantas registradas
 
-  + Búsqueda de tareas
+  - Búsqueda de tareas
 
-  + Búsqueda de plantas (al momento de registrar una nueva)
+  - Búsqueda de plantas (al momento de registrar una nueva)
 
-+ Filtros:
+- Filtros:
 
-  + Tipo de planta
+  - Tipo de planta
 
-  + Tipo de tarea
+  - Tipo de tarea
 
-  + Estado de planta
+  - Estado de planta
 
-  + Tipo de guía
+  - Tipo de guía
 
-  + Periodo de tiempo (última semana, mes, personalizado)
+  - Periodo de tiempo (última semana, mes, personalizado)
 
-
-+ Visualización de Datos
+- Visualización de Datos
 
   ...(imagenes)
-
 
 #### 4.2.5. Navigation Systems<br><br>
 
 La página web ha sido diseñada con un enfoque minimalista e intuitivo, evitando la sobrecarga visual mediante el uso moderado de botones, imágenes y videos. Tanto la landing page como la aplicación web contarán con una interfaz gráfica limpia y adaptable, que se ajusta automáticamente al tamaño de pantalla del dispositivo del usuario. Este diseño busca ofrecer una experiencia de navegación fluida y ordenada, permitiendo a los usuarios acceder al contenido sin distracciones ni confusión innecesaria.
 
-+ Landing Page:
+- Landing Page:
 
   En la landing page, se implementará un diseño de tipo one-page scroll, que permite al usuario explorar el contenido desplazándose verticalmente de forma continua. Para facilitar la orientación, se incluirá un encabezado fijo que servirá como guía de navegación, permitiendo acceder rápidamente a las secciones principales sin necesidad de hacer scroll manualmente.
 
-+ Web App:
+- Web App:
 
-   La web app ofrecerá una navegación híbrida. Los usuarios podrán seguir un flujo guiado y secuencial para registrar sus plantas, ideal para quienes prefieren un acompañamiento paso a paso. Sin embargo, también tendrán la libertad de moverse entre los distintos módulos de la aplicación como la sección de guías, el chatbot, el panel de tareas, el perfil del usuario, entre otros, según sus necesidades e intereses, garantizando así una experiencia flexible y personalizada.
-
+  La web app ofrecerá una navegación híbrida. Los usuarios podrán seguir un flujo guiado y secuencial para registrar sus plantas, ideal para quienes prefieren un acompañamiento paso a paso. Sin embargo, también tendrán la libertad de moverse entre los distintos módulos de la aplicación como la sección de guías, el chatbot, el panel de tareas, el perfil del usuario, entre otros, según sus necesidades e intereses, garantizando así una experiencia flexible y personalizada.
 
 ### 4.3. Landing Page UI Design
 
@@ -2147,7 +2156,8 @@ Los wireframes desarrollados para la aplicación web de BioPafi evidencian una p
 
 [Enlace del figma](https://www.figma.com/design/5cSEKvg4XXUzsXTpOPJySb/PlantSync?node-id=42-2&t=aclI2b5Cp9Y2pn5i-1)
 
-+ Mis Plantas:
+
+- Mis Planta:
 
 Vista principal del usuario con el listado de todas sus plantas registradas. Desde aquí puede visualizar el estado general de cada planta, acceder a sus detalles, editarla o añadir una nueva.
 
@@ -2155,7 +2165,7 @@ Vista principal del usuario con el listado de todas sus plantas registradas. Des
   <img src="images/wireframes/MisPlantas.png" alt="MisPlantas" width="1000">
 </p>
 
-+ Guías:
+- Guías:
 
 Catálogo de recomendaciones organizadas por tema (riego, luz, fertilizante, plagas). Permite a los usuarios consultar guías según sus necesidades o tipo de planta.
 
@@ -2163,7 +2173,7 @@ Catálogo de recomendaciones organizadas por tema (riego, luz, fertilizante, pla
   <img src="images/wireframes/Guias.png" alt="Guías" width="1000">
 </p>
 
-+ Tareas:
+- Tareas:
 
 Sección tipo calendario que muestra los recordatorios programados para cada planta, incluyendo riegos, fertilización u otras tareas. Ayuda al usuario a organizar su rutina de cuidado.
 
@@ -2171,7 +2181,7 @@ Sección tipo calendario que muestra los recordatorios programados para cada pla
   <img src="images/wireframes/Tareas.png" alt="Tareas" width="1000">
 </p>
 
-+ Chatbot:
+- Chatbot:
 
 Vista principal del asistente virtual (RootBot), que permite al usuario iniciar una conversación para resolver dudas rápidas sobre el cuidado de plantas.
 
@@ -2179,7 +2189,7 @@ Vista principal del asistente virtual (RootBot), que permite al usuario iniciar 
   <img src="images/wireframes/ChatBot.png" alt="ChatBot" width="1000">
 </p>
 
-+ Configuración personal
+- Configuración personal
 
 Panel donde el usuario puede actualizar su información personal, configurar notificaciones y gestionar su tipo de suscripción (básico, PRO o premium).
 
@@ -2187,7 +2197,7 @@ Panel donde el usuario puede actualizar su información personal, configurar not
   <img src="images/wireframes/Configuracion.png" alt="Configuraciones" width="1000">
 </p>
 
-+ Añadir Planta:
+- Añadir Planta:
 
 Formulario guiado para registrar una nueva planta. Incluye campos como nombre personalizado, especie, fecha de adquisición y opción para activar notificaciones.
 
@@ -2195,7 +2205,7 @@ Formulario guiado para registrar una nueva planta. Incluye campos como nombre pe
   <img src="images/wireframes/AnadirPlanta.png" alt="AddPlanta" width="1000">
 </p>
 
-+ Ver Guía:
+- Ver Guía:
 
 Pantalla con el contenido detallado de una guía específica, incluyendo instrucciones paso a paso, imágenes ilustrativas y recomendaciones prácticas.
 
@@ -2203,7 +2213,7 @@ Pantalla con el contenido detallado de una guía específica, incluyendo instruc
   <img src="images/wireframes/VerGuia.png" alt="VerGuia" width="1000">
 </p>
 
-+ Chateando con ChatBot:
+- Chateando con ChatBot:
 
 Vista activa de la conversación con el bot. El usuario realiza preguntas relacionadas al cuidado o adquisición de plantas y recibe respuestas contextualizadas.
 
@@ -2211,7 +2221,7 @@ Vista activa de la conversación con el bot. El usuario realiza preguntas relaci
   <img src="images/wireframes/ChateaConBot.png" alt="Chateando con RootBot" width="1000">
 </p>
 
-+ Ver Planta:
+- Ver Planta:
 
 Pantalla detallada con toda la información de una planta específica, incluyendo foto, especie, historial de cuidado y recomendaciones por clima.
 
@@ -2219,7 +2229,7 @@ Pantalla detallada con toda la información de una planta específica, incluyend
   <img src="images/wireframes/VerPlantaEspecifica.png" alt="VerPlanta" width="1000">
 </p>
 
-+ Ver historial de planta:
+- Ver historial de planta:
 
 Registro cronológico de las acciones realizadas sobre una planta (riego, fertilización, cambios de estado), acompañado de gráficas simples de humedad y evolución.
 
@@ -2236,7 +2246,7 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 <br><br>
 
-+ **Wireflow 1: Registrar una nueva planta**
+- **Wireflow 1: Registrar una nueva planta**
 
 **User Goal:** Como usuario principiante, quiero registrar mi nueva planta para empezar a cuidarla con ayuda de la aplicación.
 
@@ -2250,7 +2260,7 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 <br><br>
 
-+ **Wireflow 2: Consultar guía de cuidado**
+- **Wireflow 2: Consultar guía de cuidado**
 
 **User Goal:** Como usuario experto, quiero consultar una guía específica para verificar recomendaciones de cuidado avanzado.
 
@@ -2264,7 +2274,7 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 <br><br>
 
-+ **Wireflow 3: Ver historial de cuidado**
+- **Wireflow 3: Ver historial de cuidado**
 
 **User Goal:** Como usuario frecuente, quiero revisar el historial de mi planta para entender cómo ha evolucionado su estado.
 
@@ -2278,7 +2288,7 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 <br><br>
 
-+ **Wireflow 4: Consultar recomendaciones por clima**
+- **Wireflow 4: Consultar recomendaciones por clima**
 
 **User Goal:** Como usuario con poco tiempo, quiero saber si hoy debo regar o proteger mis plantas, según el clima actual.
 
@@ -2292,7 +2302,7 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 <br><br>
 
-+ **Wireflow 5: Configurar mis preferencias y cuenta**
+- **Wireflow 5: Configurar mis preferencias y cuenta**
 
 **User Goal:** Como usuario PRO, quiero actualizar mis datos y gestionar mi suscripción.
 
@@ -2306,7 +2316,7 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 <br><br>
 
-+ **Wireflow 6: Chatear con el bot**
+- **Wireflow 6: Chatear con el bot**
 
 **User Goal:** Como usuario de PlantSync, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
 
@@ -2319,7 +2329,6 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 </p>
 
 <br><br>
-
 
 #### 4.4.3. Web Applications Mock-ups
 
@@ -2589,13 +2598,379 @@ Fuente: Elaborado con structurizr
 
 #### 4.7.1. Class Diagrams
 
+<img src="images/plantsync-class-diagram.png" alt="class-diagram" width="1000">
+
+[Enlace al diagrama de clases en Lucidchart](https://lucid.app/lucidchart/71aae26d-573f-4be7-82fe-42fed6ec6e8d/view)
+
 #### 4.7.2. Class Dictionary
+
+Class User
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of an user</td>
+  </tr>
+  <tr>
+    <td>firstName</td>
+    <td>String</td>
+    <td>First name of an user</td>
+  </tr>
+  <tr>
+    <td>lastName</td>
+    <td>String</td>
+    <td>Second name of an user</td>
+  </tr>
+  <tr>
+    <td>email</td>
+    <td>String</td>
+    <td>Email of an user</td>
+  </tr>
+  <tr>
+    <td>password</td>
+    <td>String</td>
+    <td>Password of an user</td>
+  </tr>
+</table>
+
+Class Plant
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of an plant</td>
+  </tr>
+  <tr>
+    <td>commonName</td>
+    <td>String</td>
+    <td>Common name of a plant</td>
+  </tr>
+  <tr>
+    <td>cientificName</td>
+    <td>String</td>
+    <td>Cientific name of a plant</td>
+  </tr>
+  <tr>
+    <td>soilType</td>
+    <td>List&ltSoilType&gt</td>
+    <td>List of the soil types suitable for a plant</td>
+  </tr>
+  <tr>
+    <td>sunlightNeed</td>
+    <td>float</td>
+    <td>Hours of sunlight a plant needs</td>
+  </tr>
+</table>
+
+Class Climate
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of a Climate</td>
+  </tr>
+  <tr>
+    <td>name</td>
+    <td>String</td>
+    <td>Name of a climate</td>
+  </tr>
+  <tr>
+    <td>humidity</td>
+    <td>float</td>
+    <td>Percentage of humidity in the air of a climate</td>
+  </tr>
+  <tr>
+    <td>temperature</td>
+    <td>float</td>
+    <td>Temperature degree in celcius</td>
+  </tr>
+  <tr>
+    <td>sunlightHours</td>
+    <td>float</td>
+    <td>Hours of sunlight of a climate</td>
+  </tr>
+</table>
+
+Class Guide
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of a guide</td>
+  </tr>
+  <tr>
+    <td>title</td>
+    <td>String</td>
+    <td>Title of a guide</td>
+  </tr>
+  <tr>
+    <td>content</td>
+    <td>String</td>
+    <td>Content of a guide</td>
+  </tr>
+</table>
+
+Class Recomendation
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of an recomendation</td>
+  </tr>
+  <tr>
+    <td>recomendation</td>
+    <td>String</td>
+    <td>Content of the recomendation</td>
+  </tr>
+  <tr>
+    <td>guide</td>
+    <td>Guide</td>
+    <td>Guide included in the recomendation</td>
+  </tr>
+  <tr>
+    <td>climate</td>
+    <td>Climate</td>
+    <td>Suitable climate for the recomendation</td>
+  </tr>
+</table>
+
+Class PlantProfile
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of a PlantProfile</td>
+  </tr>
+  <tr>
+    <td>plant</td>
+    <td>Plant</td>
+    <td>Plant of a PlantProfile</td>
+  </tr>
+  <tr>
+    <td>isAlive</td>
+    <td>bool</td>
+    <td>State of a plant</td>
+  </tr>
+  <tr>
+    <td>creationDate</td>
+    <td>Date</td>
+    <td>Date the profile was created</td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td>String</td>
+    <td>Decription of a plant</td>
+  </tr>
+  <tr>
+    <td>nickname</td>
+    <td>String</td>
+    <td>Nickname of a plant</td>
+  </tr>
+  <tr>
+    <td>tasks</td>
+    <td>Task</td>
+    <td>Pending tasks of a plant</td>
+  </tr>
+  <tr>
+    <td>records</td>
+    <td>Record</td>
+    <td>Records of plant</td>
+  </tr>
+  <tr>
+    <td>lastWatered</td>
+    <td>Date</td>
+    <td>Last date a plant got watered</td>
+  </tr>
+</table>
+
+Class Record
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of a record</td>
+  </tr>
+  <tr>
+    <td>title</td>
+    <td>String</td>
+    <td>Title of a record</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>Date</td>
+    <td>Creation date of a record</td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td>String</td>
+    <td>Description of the activities in a record</td>
+  </tr>
+</table>
+
+Class Task
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of a task</td>
+  </tr>
+  <tr>
+    <td>creationDate</td>
+    <td>Date</td>
+    <td>Creation date of a task</td>
+  </tr>
+  <tr>
+    <td>dueDate</td>
+    <td>Date</td>
+    <td>Limit day for a task</td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td>String</td>
+    <td>Description of a task</td>
+  </tr>
+  <tr>
+    <td>isDone</td>
+    <td>bool</td>
+    <td>State of a task</td>
+  </tr>
+</table>
+
+Class Reminder
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of an reminder</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>Date</td>
+    <td>Date of a reminder</td>
+  </tr>
+  <tr>
+    <td>title</td>
+    <td>String</td>
+    <td>Title of a reminder</td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td>String</td>
+    <td>Description of a reminder</td>
+  </tr>
+</table>
+
+Class ManualAssistedMonitoring
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>uuid</td>
+    <td>Unique identifier of a ManualAssistedMonitoring</td>
+  </tr>
+  <tr>
+    <td>question</td>
+    <td>String</td>
+    <td>Question for the Asistance</td>
+  </tr>
+  <tr>
+    <td>answer</td>
+    <td>String</td>
+    <td>Answer of the question</td>
+  </tr>
+</table>
+
+Class Subscription
+
+<table align="center">
+  <tr>
+    <td><strong>Atribute</strong></td>
+    <td><strong>Type</strong></td>
+    <td><strong>Description</strong></td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>Unique identifier of an subscription</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>subscriptionType</td>
+    <td>SubscriptionType</td>
+    <td>Type of the subscription</td>
+  </tr>
+  <tr>
+    <td>paymentCard</td>
+    <td>PaymentCard</td>
+    <td>Payment Card associated to the subscription</td>
+  </tr>
+</table>
 
 ### 4.8. Database Design
 
+Se eligió utilizar Vertabelo para modelar el diagrama de base de datos por su facilidad de uso y MySQL como motor de la base de datos por su estabilidad y escalabilidad.
+
 #### 4.8.1. Database Diagram
 
----
+<img src="images/plantsync-database-diagram.png" alt="plantsync-database-diagram" width="1000">
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
