@@ -3525,6 +3525,76 @@ Pasos para el despliegue de la Landing Page en GitHub Pages:
 
 ##### 5.2.1.3. Sprint Backlog 1
 
+<table border="1">
+  <thead>
+    <tr>
+      <th>Sprint 1</th>
+      <th colspan="8">Sprint 1</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="3">Work-Item / Task</th>
+      <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status<br>(To-do / In-Process / To-Review / Done)</th>
+    </tr>
+      
+  </thead>
+  <tbody>
+    <tr>
+      <td>TS01</td>
+      <td>Seccion Principal</td>
+      <td>TK03</td>
+      <td>Sección principal con mensaje claro</td>
+      <td>Como visitante de la landing page, quiero ver de inmediato el mensaje principal del sitio al ingresar, para así saber de qué trata la página sin tener que desplazarme.</td>
+      <td>4</td>
+      <td>Palomino Fiestas, Erick Leonardo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Comparar planes de suscripción</td>
+      <td>TK04</td>
+      <td>Planes de suscripción</td>
+      <td>Como visitante de la landing page, quiero comparar fácilmente los planes de suscripción para elegir el que mejor se ajuste a mis necesidades</td>
+      <td>3</td>
+      <td>Rivera Ratachi, Renzo Sebastian</td>
+      <td>Done</td>
+    </tr>
+
+  <tr>
+      <td>TS03</td>
+      <td>	Visualización de botón "Acceder" en la cabecera</td>
+      <td>TK02</td>
+      <td>Acceso Landing Page</td>
+      <td>Como visitante de la landing page, quiero ver un botón de "Acceder" en la parte superior de la landing, para saber que más adelante podré ingresar a mi cuenta.</td>
+      <td>1</td>
+      <td>Rivera Ratachi, Renzo Sebastian</td>
+      <td>Done</td>
+    
+  </tr>
+
+  <tr>
+      <td>TS04</td>
+      <td>	Visualización del botón "Empieza ahora" en la landing</td>
+      <td>TK02</td>
+      <td>Acceso Landing Page</td>
+      <td>Como visitante de la landing page, quiero ver un botón llamativo de "Empieza ahora" en la landing, para sentirme invitado a comenzar con el servicio.</td>
+      <td>2</td>
+      <td>Palomares Andrade, Sean Farith</td>
+      <td>Done</td>
+    
+  </tr>
+    
+  </tbody>
+</table>
+
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
 <table align="center">
