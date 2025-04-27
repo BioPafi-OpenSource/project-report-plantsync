@@ -385,6 +385,7 @@ Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas in
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
+
 | **Foto del Integrantes** | **Nombres y Apellidos**            | **Código de estudiante** | **Conocimientos técnicos y habilidades** |
 | ------------------------ | ---------------------------------- | ------------------------ | ---------------------------------------- |
 | ![Imagen de Integrante Erick Palomino](/images/fotointegrante-erick-palomino.jpeg)                       | Erick Leonardo Palomino Fiestas    | U20231A500               | Hola, Soy Erick Leonardo Palomino Fiestas, un estudiante entusiasta de quinto ciclo en Ingeniería de Software. Mi conjunto de habilidades técnicas incluye C++, HTML, CSS, fundamentos de JavaScript y experiencia con bases de datos SQL y MongoDB. Me considero una persona responsable, con sólidas habilidades de comunicación para trabajar en equipo y una perspectiva optimista. También tengo un nivel básico de inglés.    |
@@ -392,6 +393,7 @@ Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas in
 |![Imagen de Integrante Sean Palomares](/images/fotointegrante-sean.jpg)| Sean Farith Palomares Andrade|U202121947| Soy Sean Palomares, estudiante de sexto ciclo de la carrera de Ciencias de la Computación. Me interesan los temas de desarrollo de software y machine learning. Tengo conocimiento en Python, C++ y C#. Estoy emocionado por colaborar con el grupo para lograr completar nuestro proyecto.|
 |![Imagen de Integrante Renzo Rivera](/images/fotointegrante-renzo.jpg)| Renzo Sebastian Rivera Ratachi|U20231D974|Soy Renzo Sebastian Rivera Ratachi y soy estudiante de la carrera de Ingeniería de Software. Actualmente estoy cursando el 5to ciclo de mi carrera y tengo conocimientos intermedios de HTML, CSS, JavaScript y C++. Me considero una persona responsable y puntual.|
 | ![Imagen de Integrante Giovany Torres](/images/fotointegrante-giovany.jpeg) | Giovany Smith Torres Apolinario    | U202311601 | Estoy cursando el quinto ciclo de mi carrera Ingeniería de Software, soy una persona responsable que le gusta resolver desafíos a la par con el trabajo  responsable y en equipo tengo la capacidad de líder y me gusta aprender nuevas cosas dia a dia.     |
+
 
 
 ### 1.2. Solution Profile
@@ -1427,6 +1429,16 @@ Segmento 2: Roxana Madero
 
 ### 3.1. To-Be Scenario Mapping
 
+Principiantes
+
+<img src="images/plantsync-tobe-principiantes.jpg" alt="tobe scenario map principiantes" width="1000">
+
+Expertos
+
+<img src="images/plantsync-tobe-expertos.jpg" alt="tobe scenario map principiantes" width="1000">
+
+Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?share_link_id=106413711670)
+
 ### 3.2. User Stories
 
 <table border="1">
@@ -1837,7 +1849,11 @@ entonces el sistema actualiza la tarea y la nueva fecha aparece reflejada en el 
 
 ### 3.3. Impact Mapping
 
-=======
+<img src="images/impact-map-principiantes.png" alt="tobe scenario map principiantes" width="1000">
+
+<img src="images/impact-map-expertos.png" alt="tobe scenario map principiantes" width="1000">
+
+Enlace: [Impact Map en UXPRESSIA]()
 
 ### 3.4. Product Backlog
 
@@ -2319,6 +2335,7 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 - **Wireflow 6: Chatear con el bot**
 
 **User Goal:** Como usuario de PlantSync, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
+
 
 **User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
 
