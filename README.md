@@ -294,14 +294,8 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product](#54-video-about-the-product)
 
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
-- [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -2361,7 +2355,12 @@ En BioPafi, el sistema de etiquetas ha sido diseñado para ser claro, directo y 
   - ChatBot
   - Configuración
   - Salir
-    <br><br>
+  <br>
+  <p align="center">
+  <img src="images/labelingSystemBioPafi.jpg" alt="Landing Page Wireframe" width="1000">
+  </p>
+  
+  <br>
 
 <table align="center">
   <tr>
@@ -2511,10 +2510,6 @@ Dado que la plataforma almacenará una gran cantidad de información, incluyendo
 
   - Periodo de tiempo (última semana, mes, personalizado)
 
-
-- Visualización de Datos
-
-  ...(imagenes)
 
 #### 4.2.5. Navigation Systems<br><br>
 
@@ -3866,15 +3861,6 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
 </p>
 <br><br>
 
-### 5.3. Validation Interviews
-
-#### 5.3.1. Diseño de Entrevistas
-
-#### 5.3.2. Registro de Entrevistas
-
-#### 5.3.3. Evaluaciones según heurísticas
-
-### 5.4. Video About-the-Product
 
 ---
 
@@ -3882,7 +3868,6 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
 
 ### Conclusiones y recomendaciones
 
-### Video About-the-Team
 
 ---
 
