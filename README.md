@@ -3954,8 +3954,23 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
 
 ### Conclusiones y recomendaciones
 
+- Se puede concluir que existe una gran cantidad de personas que no tiene mucha experiencia en el cuidado de plantas, lo cual conlleva a que sus plantas sufran enfermedades o en el peor de los casos se mueran por la falta de cuidado.
 
+- El uso de los repositorios y funcionalidades de GitHub incrementó la eficiencia, calidad y colaboración del equipo en el desarrollo de software. Además, permitió una gestión rigurosa de activos y versiones, asegurando el control del código fuente y la documentación, lo que facilitó el cumplimiento de las expectativas del público objetivo.
 
+- La planificación y ejecución de entrevistas fueron clave para comprender, comunicar y validar los requisitos y expectativas de los stakeholders. Esto permitió identificar frustraciones, metas, pensamientos y percepciones relacionados con el problema que la solución busca atender, logrando así una mejor satisfacción de sus necesidades.
+
+- Los artefactos de Needfinding resultan esenciales para obtener una aproximación precisa y auténtica al público objetivo.
+
+- El desarrollo de las Style Guidelines contribuyó a mantener la coherencia y la calidad visual del contenido en la plataforma, consolidando una identidad sólida y consistente para la startup.
+
+- La elaboración de los User Stories y del Product Backlog permitió priorizar las funcionalidades de la solución de software, orientando al equipo de desarrollo sobre qué debía ser entregado primero.
+
+- La creación de Wireframes sentó bases firmes para el desarrollo de la plataforma interactiva, ya que ayudó a definir los aspectos visuales antes de iniciar la codificación, logrando un producto final más efectivo y atractivo para el usuario.
+
+- El trabajo por sprints es fundamental para avanzar de manera constante y organizada. Definir un límite de user story points evita la sobrecarga de tareas, permitiendo un desarrollo adecuado del Landing Page.
+
+- El Sprint 1 resultó ser una excelente estrategia para integrar los User Stories priorizados en el primer entregable. Cada integrante del equipo participó activamente en el desarrollo colaborativo del Landing Page en el repositorio, complementado con reuniones de retroalimentación grupal.
 ---
 
 ## Bibliografía
