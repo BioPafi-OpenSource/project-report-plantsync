@@ -386,6 +386,7 @@ Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas in
 #### 1.1.2. Perfiles de integrantes del equipo
 
 
+
 | **Foto del Integrantes** | **Nombres y Apellidos**            | **Código de estudiante** | **Conocimientos técnicos y habilidades** |
 | ------------------------ | ---------------------------------- | ------------------------ | ---------------------------------------- |
 | ![Imagen de Integrante Erick Palomino](/images/fotointegrante-erick-palomino.jpeg)                       | Erick Leonardo Palomino Fiestas    | U20231A500               | Hola, Soy Erick Leonardo Palomino Fiestas, un estudiante entusiasta de quinto ciclo en Ingeniería de Software. Mi conjunto de habilidades técnicas incluye C++, HTML, CSS, fundamentos de JavaScript y experiencia con bases de datos SQL y MongoDB. Me considero una persona responsable, con sólidas habilidades de comunicación para trabajar en equipo y una perspectiva optimista. También tengo un nivel básico de inglés.    |
@@ -393,6 +394,7 @@ Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas in
 |![Imagen de Integrante Sean Palomares](/images/fotointegrante-sean.jpg)| Sean Farith Palomares Andrade|U202121947| Soy Sean Palomares, estudiante de sexto ciclo de la carrera de Ciencias de la Computación. Me interesan los temas de desarrollo de software y machine learning. Tengo conocimiento en Python, C++ y C#. Estoy emocionado por colaborar con el grupo para lograr completar nuestro proyecto.|
 |![Imagen de Integrante Renzo Rivera](/images/fotointegrante-renzo.jpg)| Renzo Sebastian Rivera Ratachi|U20231D974|Soy Renzo Sebastian Rivera Ratachi y soy estudiante de la carrera de Ingeniería de Software. Actualmente estoy cursando el 5to ciclo de mi carrera y tengo conocimientos intermedios de HTML, CSS, JavaScript y C++. Me considero una persona responsable y puntual.|
 | ![Imagen de Integrante Giovany Torres](/images/fotointegrante-giovany.jpeg) | Giovany Smith Torres Apolinario    | U202311601 | Estoy cursando el quinto ciclo de mi carrera Ingeniería de Software, soy una persona responsable que le gusta resolver desafíos a la par con el trabajo  responsable y en equipo tengo la capacidad de líder y me gusta aprender nuevas cosas dia a dia.     |
+
 
 
 
@@ -1451,30 +1453,37 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>Relacionado con Epic ID</td>
     </tr>
     <tr>
-      <td>EP00</td>
-      <td></td>
-      <td></td>
+      <td>EP01</td>
+      <td>Gestión de cuenta de usuario</td>
+      <td>Este epic abarca todos los procesos relacionados con la gestión de cuentas de usuario, como la creación e inicio de sesión</td>
       <td>No corresponde</td>
       <td>No corresponde</td>
     </tr>
     <tr>
-      <td>EP00</td>
-      <td></td>
-      <td></td>
+      <td>EP02</td>
+      <td>Gestión de plantas</td>
+      <td>Este epic cubre todas las funcionalidades relacionadas con el manejo de plantas dentro de la plataforma</td>
       <td>No corresponde</td>
       <td>No corresponde</td>
     </tr>
     <tr>
-      <td>EP00</td>
-      <td></td>
-      <td></td>
+      <td>EP03</td>
+      <td>Recordatorio y seguimiento de tareas</td>
+      <td>Este epic cubre las funcionalidades de recordatorio de tareas para el cuidado de las plantas</td>
       <td>No corresponde</td>
       <td>No corresponde</td>
     </tr>
     <tr>
-      <td>EP00</td>
-      <td></td>
-      <td></td>
+      <td>EP04</td>
+      <td>Recomendaciones y guías de cuidado</td>
+      <td>Abarca las recomendaciones personalizadas y las guías de cuidado para cada planta según su tipo, estado y necesidades específicas</td>
+      <td>No corresponde</td>
+      <td>No corresponde</td>
+    </tr>
+    <tr>
+      <td>EP05</td>
+      <td>Seguridad y soporte</td>
+      <td>Este epic contiene las funcionalidades de seguridad</td>
       <td>No corresponde</td>
       <td>No corresponde</td>
     </tr>
@@ -1506,7 +1515,7 @@ Cuando intenta iniciar sesión
 
 Entonces el sistema muestra un mensaje: "Por favor, completa todos los campos"</td>
 
-<td>EP00</td>
+<td>EP01</td>
 </tr>
 <tr>
 <td>US02</td>
@@ -1520,7 +1529,7 @@ Cuando actualiza algún dato y guarda
 
 Entonces el sistema muestra "Perfil actualizado correctamente"</td>
 
-<td>EP00</td>
+<td>EP01</td>
 </tr>
 <tr>
 <td>US03</td>
@@ -1542,7 +1551,7 @@ Cuando entra al panel
 
 Entonces se muestra el mensaje: "No hay tareas para hoy"</td>
 
-<td>EP00</td>
+<td>EP03</td>
 </tr>
 <tr>
 <td>US04</td>
@@ -1564,7 +1573,7 @@ Cuando intenta evaluar
 
 Entonces el sistema muestra: “Por favor, completa todos los pasos para continuar”</td>
 
-<td>EP00</td>
+<td>EP02</td>
 </tr>
 <tr>
 <td>US05</td>
@@ -1588,7 +1597,7 @@ Entonces se le mostrara formulario para que añada recordatorio o tarea
 
 Y le da click en "Guardar"</td>
 
-<td>EP00</td>
+<td>EP03</td>
 </tr>
 <tr>
 <td>US06</td>
@@ -1612,7 +1621,7 @@ cuando ingreso una palabra que no coincide con ninguna guía,
 entonces se muestra un mensaje de “No se encontraron guías relacionadas”.
 
 </td>
-<td>EP00</td>
+<td>EP04</td>
 </tr>
 <tr>
 <td>US07</td>
@@ -1628,7 +1637,7 @@ cuando hago clic en una tarjeta de guía,
 entonces se abre una vista con la guía completa, dividida en secciones de cuidado con imágenes y recomendaciones.
 
 </td>
-<td>EP00</td>
+<td>EP04</td>
 </tr>
 <tr>
 <td>US08</td>
@@ -1652,7 +1661,7 @@ cuando escribo “¿Dónde consigo una Monstera?”,
 entonces el bot responde con una sugerencia de viveros o marketplaces asociados.
 
 </td>
-<td>EP00</td>
+<td>EP04</td>
 </tr>
 <tr>
 <td>US09</td>
@@ -1678,7 +1687,7 @@ cuando clickeo la tarea nuevamente,
 entonces se cambia el estado a "No realizado".
 
 </td>
-<td>EP00</td>
+<td>EP03</td>
 </tr>
 <tr>
 <td>US10</td>
@@ -1696,153 +1705,279 @@ entonces se despliega un pop-up para definir la nueva hora y se guarda automáti
 Escenario 2: Confirmación de reprogramación
 
 Dado que he modificado la fecha y hora de una tarea,
-
 cuando confirmo los datos en el pop-up,
-
 entonces el sistema actualiza la tarea y la nueva fecha aparece reflejada en el calendario.
 
 </td>
-<td>EP00</td>
+<td>EP03</td>
 </tr>
 <tr>
 <td>US11</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+<td>Registrarse en la app</td>
+<td>Como usuario quiero registrarme en la app para crear mi cuenta y acceder a sus funcionalidades</td>
+<td>Escenario 1: Posponer mediante arrastre
+Dado que el usuario está en la pantalla de registro
+cuando ingrese sus datos en los campos requeridos (Nombre, apellidos, correo y contraseña)
+Y le da click al botón Registrarse
+entonces la cuenta se crea correctamente.
+
+<br>
+Escenario 2: Usuario falla al registrar la cuenta
+Dado que el usuario está en la pantalla de registro
+cuando ingrese no ingrese los datos completamente
+Y le da click al botón Registrarse
+entonces la cuenta no se crea.
+</td>
+<td>EP01</td>
 </tr>
 <tr>
 <td>US12</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+<td>Crear perfil de planta</td>
+<td> <strong>Como </strong>usuario, <strong>quiero</strong> crear un perfil de cada una de mis plantas <strong>para</strong> poder llevar un registro de sus cuidados</td>
+<td> Escenario 1: Usuario crea perfil de planta
+<strong>Dado que</strong> el usuario se encuentra en el apartado de "Mis plantas", <strong>cuando</strong> selecciona la opcion "Agregar Planta" <strong>Y</strong> completa la información requerida  <strong>Y</strong> hace click en "Añadir" 
+<strong>Entonces</strong> el perfil se crea correctamente.
+
+<br>
+<td> Escenario 2: Usuario crea perfil de planta
+<strong>Dado que</strong> el usuario se encuentra en el apartado de "Mis plantas", <strong>cuando</strong> selecciona la opcion "Agregar Planta" <strong>Y</strong> solo introduce parcialmente la información <strong>Y</strong> hace click en "Añadir" 
+<strong>Entonces</strong> el perfil no se crea.
+
+</td>
+<td>EP02</td>
 </tr>
 <tr>
 <td>US13</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+<td>Editar perfil de planta</td>
+<td><strong>Como</strong> usuario <strong> quiero</strong> editar el perfil de mi planta <strong> para</strong> corregir algún error que haya cometido   </td>
+<td>Scenario 1: Usuario edita el perfil de una planta
+
+<strong>Dado que</strong> el usuario se encuentra en el perfil de una planta, <strong>cuando</strong> selecciona la opcion "Editar" <strong>Y</strong> edita la información que desea <strong>Y</strong> hace click en "Guardar"
+<strong>Entonces</strong> el perfil se edita correctamente.
+
+  </td>
+<td>EP02</td>
 </tr>
 <tr>
 <td>US14</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+<td>Eliminar perfil de planta</td>
+<td><strong>Como</strong> usuario, <strong>quiero</strong> eliminar los perfiles de las plantas que ya no poseo <strong>para</strong> mantener mi colección actualizada</td>
+<td>    
+Scenario 1: Usuario elimina el perfil de una planta
+
+<strong>Dado que</strong> el usuario se encuentra en el perfil de una planta, <strong>cuando</strong> selecciona la opcion "Borrar" <strong>Y</strong> hace click en "Sí, deseo borrar el perfil"
+<strong>Entonces</strong> el perfil de la planta se borra correctamente.
+
+Scenario 2: Usuario cancela el borrado de perfil de planta
+
+<strong>Dado que</strong> el usuario se encuentra en el perfil de una planta, <strong>cuando</strong> selecciona la opcion "Borrar" <strong>Y</strong> hace click en "Cancelar"
+<strong>Entonces</strong> el perfil de la planta se mantiene en la cuenta del usuario.
+
+</td>
+<td>EP02</td>
 </tr>
 <tr>
 <td>US15</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+<td>Acceder a perfil de planta</td>
+<td> <strong>Como</strong> usuario, <strong>quiero</strong> acceder a los perfiles de las plantas que poseo <strong>para</strong> ver su información actual </td>
+<td> Scenario 1: Usuario accede al perfil de una planta
+
+<strong>Dado que</strong> el usuario se encuentra en el apartado "Mis plantas", <strong>cuando</strong> hace click en los cards de perfiles de planta
+<strong>Entonces</strong> el usuario es dirigido al perfil de la planta seleccionada</td>
+
+<td>EP02</td>
 </tr>
 <tr>
 <td>US16</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+<td>Selección de idioma</td>
+<td> <strong>Como</strong> usuario, <strong>quiero</strong> elegir el idioma de la pagina web  <strong>para</strong>  usarla cómodamente</td>
+<td>Scenario 1: Selección de idioma al primer acceso
+<strong>Dado que</strong> el usuario accede a la página por primera vez, <strong>cuando</strong> se muestra el pop-up de selección de idioma,
+<strong>Entonces</strong> el usuario puede elegir entre Español e Inglés para navegar cómodamente desde el inicio.
+
+Scenario 2: Cambio de idioma desde configuración
+<strong>Dado que</strong> el usuario ya está usando la aplicación en un idioma,<strong>cuando</strong> accede a la configuración de su cuenta,
+<strong>Entonces</strong> puede cambiar el idioma y la aplicación se actualiza automáticamente al nuevo idioma seleccionado.
+
+</td>
+<td>EP01</td>
 </tr>
 <tr>
 <td>US17</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+<td>Historial de cuidados</td>
+<td> <strong>Como</strong> usuario, <strong>quiero</strong> ver un historial de riegos y fertilizaciones <strong>para</strong> cada planta.</td>
+<td>Scenario 1: Visualización de historial por planta
+<strong>Dado que</strong> el usuario ha registrado cuidados de su planta previamente,<strong>cuando</strong> accede a la ficha de una planta específica,
+<strong>Entonces</strong> puede visualizar una lista cronológica de todos los riegos y fertilizaciones aplicados.
+
+Scenario 2: Actualización del historial al cambiar de planta
+<strong>Dado que</strong> el usuario está revisando varias plantas,
+<strong>cuando</strong> selecciona una nueva planta desde el dashboard,
+<strong>Entonces</strong> el historial se actualiza mostrando solo los eventos correspondientes a esa planta.
+
+</td>
+<td>EP03</td>
 </tr>
 <tr>
 <td>US18</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+<td>Recomendaciones inteligentes</td>
+<td> <strong>Como</strong> usuario, <strong>quiero</strong> recibir consejos según el estado de mi planta <strong>para</strong> mejorar su cuidado.</td>
+<td>Scenario 1: Recomendación por baja humedad
+<strong>Dado que</strong> la planta tiene niveles bajos de humedad,
+<strong>cuando</strong> el sistema detecta esta condición,
+<strong>Entonces</strong> se le muestra al usuario una recomendación para regarla, junto con instrucciones personalizadas.
+
+Scenario 2: Recomendación por crecimiento lento
+<strong>Dado que</strong> la planta muestra un crecimiento lento,
+<strong>cuando</strong> el usuario la registra en la app,
+<strong>Entonces</strong> recibe una sugerencia automática sobre fertilizantes adecuados y la frecuencia de aplicación.
+
+</td>
+<td>EP04</td>
 </tr>
 <tr>
 <td>US19</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+<td>Seguridad y respaldo</td>
+<td> <strong>Como</strong> usuario, <strong>quiero</strong> asegurar mis datos y poder recuperarlos si inicio sesión en otro dispositivo <strong>para</strong> para sentirme mas seguro al cambiar de dispositivo.</td>
+<td>Scenario 1: Recuperación de datos en nuevo dispositivo
+<strong>Dado que</strong> el usuario se conecta desde un nuevo dispositivo,
+<strong>cuando</strong> inicia sesión con sus credenciales,
+<strong>Entonces</strong> toda la información de sus plantas y cuidados anteriores se carga automáticamente gracias al respaldo en la nube.
+
+Sceanrio 2: Activación de respaldo automático
+<strong>Dado que</strong> el usuario teme perder sus datos,
+<strong>cuando</strong> accede a la configuración,
+<strong>Entonces</strong> puede activar la opción de copia de seguridad automática y ver la fecha del último respaldo.
+
+</td>
+<td>EP05</td>
 </tr>
 <tr>
 <td>US20</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+<td>Chat o formulario de soporte</td>
+<td> <strong>Como</strong> usuario, <strong>quiero</strong> reportar errores o pedir ayuda técnica si tengo algún error en la web <strong>para</strong> asi recibir ayuda de manera personalizada.</td>
+<td> Scenario 1: Reporte de error desde formulario
+<strong>Dado que</strong> el usuario encuentra un error al registrar una planta,
+<strong>cuando</strong> hace clic en “¿Necesitas ayuda?”,
+<strong>Entonces</strong> se abre un formulario donde puede describir el problema y enviarlo al soporte técnico.
+
+Scenario 2: Consulta a través del chat de soporte
+<strong>Dado que</strong> el usuario tiene una duda sobre cómo usar una función,
+<strong>cuando</strong> accede al ícono de chat en la parte inferior,
+<strong>Entonces</strong> puede iniciar una conversación con el bot de soporte o pedir ser transferido a un agente.
+
+</td>
+<td>EP05</td>
 </tr>
 <tr>
 <td>US21</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+<td>Sección principal con mensaje claro</td>
+<td><strong>Como</strong>  visitante de la landing page, <strong>quiero</strong>  ver de inmediato el mensaje principal del sitio al ingresar, <strong>para</strong> así saber de qué trata la página sin tener que desplazarme.</td>
+<td>Scenario 1:  Visualización del mensaje principal
+<strong>Dado que</strong> el visitante de la landing page,
+<strong>cuando</strong>  carga la página,
+<strong>Entonces</strong> se muestra un encabezado con el nombre del producto/servicio y un mensaje claro de que se trata el producto.</td>
+<td>No corresponde</td>
 </tr>
 <tr>
 <td>US22</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+<td>Comparar planes de suscripción</td>
+<td><strong>Como</strong>  visitante de la landing page, <strong>quiero</strong> comparar fácilmente los planes de suscripción  <strong>para</strong> elegir el que mejor se ajuste a mis necesidades</td>
+<td>Scenario 1:  Visualización comparativa
+<strong>Dado que</strong> el visitante de la landing page baja a la sección de Planes,,
+<strong>cuando</strong>  observa la información,
+<strong>Entonces</strong> puede identificar rápidamente las diferencias de características y precios entre los planes.</td>
+<td>No corresponde</td>
 </tr>
 <tr>
 <td>US23</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+<td>Visualizar información sobre la empresa</td>
+<td><strong>Como</strong>  visitante de la landing page, <strong>quiero</strong> conocer más sobre la empresa detrás del servicio, <strong>para</strong> confiar en el producto antes de suscribirme.</td>
+<td>Scenario 1:  Sección de información sobre la empresa
+<strong>Dado que</strong> el visitante de la landing page baja hasta la sección “¿Quiénes somos?”,
+<strong>cuando</strong> lee el texto
+<strong>Entonces</strong> obtiene una breve descripción de la misión y valores de la empresa.</td>
+<td>No corresponde</td>
 </tr>
 <tr>
 <td>US24</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+<td>Visualización de botón "Acceder" en la cabecera</td>
+<td><strong>Como</strong>  visitante de la landing page, <strong>quiero</strong> ver un botón de "Acceder" en la parte superior de la landing, <strong>para</strong> saber que más adelante podré ingresar a mi cuenta.</td>
+<td>Scenario 1: Visualización de botón "Acceder"
+<strong>Dado que</strong> el visitante entra a la landing page
+<strong>cuando</strong>  observa la barra de navegación,
+<strong>Entonces</strong> puede ver el botón "Acceder" ubicado en la esquina superior derecha.</td>
+<td>No corresponde</td>
 </tr>
 <tr>
 <td>US25</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+<td>Visualización del botón "Empieza ahora" en la landing</td>
+<td><strong>Como</strong>  visitante de la landing page, <strong>quiero</strong> ver un botón llamativo de "Empieza ahora" en la landing, <strong>para</strong> sentirme invitado a comenzar con el servicio.</td>
+<td>Scenario 1:  Visualización del botón "Empieza ahora"
+<strong>Dado que</strong> el visitante navega por la landing page
+<strong>cuando</strong>  llega a la parte principal,
+<strong>Entonces</strong>puede ver claramente el botón "Empieza ahora" que destaca sobre el resto del contenido</td>
+<td>No corresponde</td>
 </tr>
 <tr>
-<td>US26</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+  <td>US26</td>
+  <td>Establecer recordatorios</td>
+  <td><strong>Como</strong> usuario <strong>quiero</strong> poder establecer un recordatorio de una planta específica <strong>para</strong> no olvidarme de sus cuidados</td>
+  <td>
+    Escenario 1: 
+    <strong>Dado que</strong> el usuario quiere crear un recordatorio para una planta, 
+    <stong>cuando</stong> seleccione la planta e introduzca sus características y la fecha del recordatorio, 
+    <strong>entonces</strong> el recordatorio se creará y podrá ser visualizado en el calendario.
+  </td>
+  <td>EP03</td>
 </tr>
 <tr>
-<td>US27</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+  <td>US27</td>
+  <td>Editar recordatorio</td>
+  <td><strong>Como</strong> usuario <strong>quiero</strong> editar un recordatorio existente <strong>para</strong> ajustar la tarea, la hora o la frecuencia según las necesidades de mi planta</td>
+  <td>
+    Escenario 1:<br/>
+    <strong>Dado que</strong> el usuario tiene un recordatorio activo,<br/>
+    <strong>cuando</strong> modifique el tipo de tarea, la hora o la frecuencia del recordatorio,<br/>
+    <strong>entonces</strong> el sistema actualiza el recordatorio y la próxima notificación se programa con la nueva configuración.
+  </td>
+  <td>EP03</td>
 </tr>
 <tr>
-<td>US28</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+  <td>US28</td>
+  <td>Eliminar recordatorio</td>
+  <td><strong>Como</strong> usuario <strong>quiero</strong> eliminar un recordatorio que ya no necesito <strong>para</strong> mantener la lista organizada</td>
+  <td>
+    Escenario 1:<br/>
+    <strong>Dado que</strong> el usuario ve la lista de recordatorios,<br/>
+    <strong>cuando</strong> seleccione eliminar un recordatorio y confirme la acción,<br/>
+    <strong>entonces</strong> el recordatorio desaparece de la lista y no genera más notificaciones.
+  </td>
+  <td>EP03</td>
 </tr>
 <tr>
-<td>US29</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+  <td>US29</td>
+  <td>Pausar recordatorio</td>
+  <td><strong>Como</strong> usuario <strong>quiero</strong> pausar un recordatorio por un tiempo definido <strong>para</strong> no recibir alertas durante ese periodo</td>
+  <td>
+    Escenario 1:<br/>
+    <strong>Dado que</strong> el usuario tiene un recordatorio programado,<br/>
+    <strong>cuando</strong> active la opción de pausa y defina la duración o fecha de reactivación,<br/>
+    <strong>entonces</strong> el recordatorio se pausa y se reactiva automáticamente al vencerse el periodo.
+  </td>
+  <td>EP03</td>
 </tr>
 <tr>
-<td>US30</td>
-<td></td>
-<td></td>
-<td></td>
-<td>EP00</td>
+  <td>US30</td>
+  <td>Ver recordatorios activos</td>
+  <td><strong>Como</strong> usuario <strong>quiero</strong> ver la lista de recordatorios activos <strong>para</strong> tener claridad sobre las próximas tareas de cuidado</td>
+  <td>
+    Escenario 1:<br/>
+    <strong>Dado que</strong> el usuario accede a la sección de recordatorios,<br/>
+    <strong>cuando</strong> solicite ver los recordatorios activos,<br/>
+    <strong>entonces</strong> la plataforma muestra una lista organizada por planta, tarea, hora y frecuencia.
+  </td>
+  <td>EP03</td>
 </tr>
   </tbody>
 </table>
@@ -1857,7 +1992,220 @@ Enlace: [Impact Map en UXPRESSIA]()
 
 ### 3.4. Product Backlog
 
----
+<table border="1">
+  <tbody>
+  <tr>
+    <td>#Orden</td>
+    <td>User Story ID</td>
+    <td>Título</td>
+    <td>Descripción</td>
+    <td>Story Points (1/2/3/5/8)</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>US21</td>
+    <td>Sección principal con mensaje claro</td>
+    <td>Como visitante de la landing page, quiero ver de inmediato el mensaje principal del sitio al ingresar, para así saber de qué trata la página sin tener que desplazarme.	</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>2</td>
+    <td>US22</td>
+    <td>Comparar planes de suscripción</td>
+    <td>Como visitante de la landing page, quiero comparar fácilmente los planes de suscripción para elegir el que mejor se ajuste a mis necesidades</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>3</td>
+    <td>US23</td>
+    <td>Visualizar información sobre la empresa</td>
+    <td>Como visitante de la landing page, quiero conocer más sobre la empresa detrás del servicio, para confiar en el producto antes de suscribirme.	</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>4</td>
+    <td>US24</td>
+    <td>Visualización de botón "Acceder" en la cabecera</td>
+    <td>CComo visitante de la landing page, quiero ver un botón de "Acceder" en la parte superior de la landing, para saber que más adelante podré ingresar a mi cuenta.	</td>
+    <td>1</td>
+</tr>
+<tr>
+    <td>5</td>
+    <td>US25</td>
+    <td>Visualización del botón "Empieza ahora" en la landing</td>
+    <td>Como visitante de la landing page, quiero ver un botón llamativo de "Empieza ahora" en la landing, para sentirme invitado a comenzar con el servicio.</td>
+    <td>1</td>
+</tr>
+  <tr>
+    <td>6</td>
+    <td>US11</td>
+    <td>Registrarse en la app</td>
+    <td>Como usuario quiero registrarme en la app para crear mi cuenta y acceder a sus funcionalidades	</td>
+    <td>3</td>
+  </tr>
+<tr>
+    <td>7</td>
+    <td>US01</td>
+    <td>Inicio sesión de usuario</td>
+    <td>Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta y mis plantas monitoreadas.	</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>8</td>
+    <td>US15</td>
+    <td>Acceder a perfil de planta</td>
+    <td>Como usuario, quiero acceder a los perfiles de las plantas que poseo para ver su información actual	</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>9</td>
+    <td>US12</td>
+    <td>Crear perfil de planta</td>
+    <td>Como usuario, quiero crear un perfil de cada una de mis plantas para poder llevar un registro de sus cuidados	</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>10</td>
+    <td>US13</td>
+    <td>Editar perfil de planta</td>
+    <td>Como usuario quiero editar el perfil de mi planta para corregir algún error que haya cometido	</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>11</td>
+    <td>US14</td>
+    <td>Eliminar perfil de planta</td>
+    <td>Como usuario, quiero eliminar los perfiles de las plantas que ya no poseo para mantener mi colección actualizada	</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>12</td>
+    <td>US16</td>
+    <td>Selección de idioma</td>
+    <td>Como usuario, quiero elegir el idioma de la pagina web para usarla cómodamente	</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>13</td>
+    <td>US09</td>
+    <td>Registro manual de tarea completada</td>
+    <td>Como usuario que sigue un calendario de cuidado, quiero marcar una tarea como realizada, para llevar un registro actualizado del estado de mis plantas.	</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>14</td>
+    <td>US10</td>
+    <td>Reprogramar tarea</td>
+    <td>Como usuario que no puede realizar una tarea en la fecha prevista, quiero poder posponerla arrastrándola a otro día en el calendario, para reorganizar fácilmente mi rutina de cuidado sin perder el seguimiento.	</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>15</td>
+    <td>US07</td>
+    <td>Visualización de guía específica</td>
+    <td>Como usuario interesado en aprender a cuidar mejor mis plantas, quiero acceder a guías detalladas con pasos visuales e instrucciones específicas, para entender cómo aplicar correctamente los cuidados según el tipo de planta.	</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>16</td>
+    <td>US06</td>
+    <td>Búsqueda de guías por temas o tipo</td>
+    <td>Como usuario que necesita resolver una duda específica sobre el cuidado de mis plantas, quiero poder buscar guías dentro de la plataforma por nombre o palabra clave, para encontrar rápidamente la información que necesito sin tener que recorrer todo el catálogo.	</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>17</td>
+    <td>US08</td>
+    <td>Consultas sobre cuidado al asistente RootBot</td>
+    <td>Como usuario que tiene preguntas rápidas sobre el cuidado de mis plantas, quiero poder escribir mis consultas al chatbot dentro de la app, para recibir respuestas inmediatas y recomendaciones útiles sin salir del flujo de uso.	</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>18</td>
+    <td>US05</td>
+    <td>Calendario de tareas y cuidados</td>
+    <td>Como usuario con plan Premium o Pro, quiero ver un calendario con las tareas programadas, para organizarme mejor en el cuidado de mis plantas.	</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>19</td>
+    <td>US03</td>
+    <td>Visualización de tareas de cuidado</td>
+    <td>Como usuario con plantas registradas, quiero ver las tareas pendientes de cuidado, para saber qué debo hacer cada día</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>20</td>
+    <td>US17</td>
+    <td>Historial de cuidados</td>
+    <td>Como usuario, quiero ver un historial de riegos y fertilizaciones para cada planta.	</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>21</td>
+    <td>US04</td>
+    <td>Evaluación visual asistida de planta</td>
+    <td>Como usuario con sesión iniciada, quiero llenar un formulario guiado sobre el estado de mi planta, para que la app me ayude a monitorear mi planta.	</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>22</td>
+    <td>US18</td>
+    <td>Recomendaciones inteligentes</td>
+    <td>Como usuario, quiero recibir consejos según el estado de mi planta para mejorar su cuidado.	</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>23</td>
+    <td>US19</td>
+    <td>Seguridad y respaldo</td>
+    <td>Como usuario, quiero asegurar mis datos y poder recuperarlos si inicio sesión en otro dispositivo para para sentirme mas seguro al cambiar de dispositivo.	</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>24</td>
+    <td>US20</td>
+    <td>Chat o formulario de soporte</td>
+    <td>Como usuario, quiero reportar errores o pedir ayuda técnica si tengo algún error en la web para asi recibir ayuda de manera personalizada.	</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>25</td>
+    <td>US26</td>
+    <td>Establecer recordatorios</td>
+    <td>Como usuario quiero poder establecer un recordatorio de una planta específica para no olvidarme de sus cuidados</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>26</td>
+    <td>US27</td>
+    <td>Editar recordatorio</td>
+    <td>Como usuario quiero editar un recordatorio existente para ajustar la tarea, la hora o la frecuencia según las necesidades de mi planta</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>27</td>
+    <td>US28</td>
+    <td>Eliminar recordatorio</td>
+    <td>Como usuario quiero eliminar un recordatorio que ya no necesito para mantener la lista organizada</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>28</td>
+    <td>US29</td>
+    <td>Pausar recordatorio</td>
+    <td>Como usuario quiero pausar un recordatorio por un tiempo definido para no recibir alertas durante ese periodo	</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>29</td>
+    <td>US30</td>
+    <td>Ver recordatorios activos</td>
+    <td>Como usuario quiero ver la lista de recordatorios activos para tener claridad sobre las próximas tareas de cuidado	</td>
+    <td>2</td>
+</tr>
+  </tbody>
+</table>
 
 ## Capítulo IV: Product Design
 
@@ -2172,7 +2520,6 @@ Los wireframes desarrollados para la aplicación web de BioPafi evidencian una p
 
 [Enlace del figma](https://www.figma.com/design/5cSEKvg4XXUzsXTpOPJySb/PlantSync?node-id=42-2&t=aclI2b5Cp9Y2pn5i-1)
 
-
 - Mis Planta:
 
 Vista principal del usuario con el listado de todas sus plantas registradas. Desde aquí puede visualizar el estado general de cada planta, acceder a sus detalles, editarla o añadir una nueva.
@@ -2334,7 +2681,9 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 - **Wireflow 6: Chatear con el bot**
 
+
 **User Goal:** Como usuario de PlantSync, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
+
 
 
 **User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
