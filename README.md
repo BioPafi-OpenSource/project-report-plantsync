@@ -27,9 +27,9 @@
 | **Código** | **Apellidos y Nombres**             |
 | ---------- | ----------------------------------- |
 | U20231A500 | Palomino Fiestas, Erick Leonardo    |
-|            | Gonzales Alvarado, Javier Sebastian |
-|            | Palomares Andrade, Sean Farith      |
-|            | Rivera Ratachi, Renzo Sebastian     |
+| U202312966 | Gonzales Alvarado, Javier Sebastian |
+| U202121947 | Palomares Andrade, Sean Farith      |
+| U20231D974 | Rivera Ratachi, Renzo Sebastian     |
 | U202311601 | Torres Apolinario, Giovany Smith    |
 
 **Abril 2025**
@@ -54,78 +54,98 @@
     Rivera,<br>
     Palomares, Torres
     </td>
-    <td>...</td>
+    <td>Creación del documento en repositorio compartido en GitHub</td>
   </tr>
   </tr>
   <tr>
     <td>1.1</td>
-    <td>11/04/23</td>
+    <td>9/04/23</td>
     <td>
     Palomino,<br>
     Gonzales,<br>
     Rivera,<br>
-    Palomares, Torre
+    Palomares, Torres
     </td>
-    <td>...</td>
+    <td>Realizacion del Startup Profile, Perfiles de integrantes del equipo y Antecedentes y Problematicas </td>
+  </tr>
+  <tr>
+    <td>1.2</td>
+    <td>10/04/23</td>
+    <td>
+    Gonzales,<br>
+    Palomares
+    </td>
+    <td>Realizacion del Lean UX Procces</td>
   </tr>
   <tr>
     <td>1.3</td>
+    <td>12/04/23</td>
+    <td>
+    Renzo<br>
+    </td>
+    <td>Realización de Competidores, analisis y estrategias</td>
+  </tr>
+  <tr>
+    <td>1.4</td>
     <td>14/04/23</td>
     <td>
     Palomino,<br>
     Gonzales,<br>
     Rivera,<br>
-    Palomares, Torre
+    Palomares, Torres
     </td>
-    <td>...</td>
+    <td>Realizacion de diseño de entrevistas, registro y analisis</td>
   </tr>
-    <tr>
-    <td>1.4</td>
-    <td>16/04/23</td>
-    <td>
-    Palomino,<br>
-    Rivera,<br>
-    Palomares, Torre
-    </td>
-    <td>...</td>
-  </tr>
-    <tr>
+  <tr>
     <td>1.5</td>
-    <td>19/04/23</td>
+    <td>15/04/23</td>
     <td>
-    Gonzales,<br>
-    Palomares
+    Rivera,<br>
+    Torres
     </td>
-    <td>...</td>
+    <td>Realización del Needfinding segun las entrevistas</td>
   </tr>
   <tr>
     <td>1.6</td>
-    <td>22/04/23</td>
+    <td>17/04/23</td>
     <td>
-    Gonzales,<br>
     Palomino,<br>
+    Gonzales,<br>
     Rivera,<br>
-    Palomares, Torre
+    Palomares, Torres
     </td>
-    <td>...</td>
+    <td>Realización de los to-be scenario Mapping, User Stories, Impact Mapping y Product Backlog</td>
   </tr>
   <tr>
     <td>1.7</td>
-    <td>23/04/23</td>
+    <td>18/04/23</td>
     <td>
-    Gonzales,<br>
-    Rivera
+    Palomino,<br>
+    Gonzales
     </td>
-    <td>...</td>
+    <td>Realización de los style guidelines y Information Architecture</td>
   </tr>
   <tr>
-    <td>1.8</td>
+    <td>1.9</td>
     <td>24/04/23</td>
     <td>
     Palomino,<br>
-    Torres
+    Gonzales,<br>
+    Rivera,<br>
+    Palomares, Torres
     </td>
-    <td>...</td>
+    <td>Realización de la Landing Page UI Desing, Web Application UX/UI Desing, Web Application Prototyping, Domain Driven Software Architecture, Class Diagram, Database Diagram</td>
+  </tr>
+  <tr>
+    <td>1.10</td>
+    <td>26/04/23</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Palomares, Torres
+    </td>
+    <td>Realización del Software Configuration Managmente, Landing Page, Service & Application Implementation, Sprint 1 y Conclusiones</td>
   </tr>
 </table>
 
@@ -145,7 +165,7 @@
       Erick Palomino
     </td>
     <td>
-      ... 
+      Startup Profile, Style Guidelines, User Stories, Landing Page UI Desing, Web Application Prototyping, Landing Page Code.
     </td>
   </tr>
   <tr>
@@ -153,7 +173,7 @@
       Javier Gonzales
     </td>
     <td>
-      ...
+      Lean Ux Problem Statement, Assumptions, Desarrollo de entrevistas, Arquitectura de informacion, Wireframes y Wireflows, Desarrollo de la Landing Page
     </td>
   </tr>
   <tr>
@@ -161,7 +181,7 @@
       Renzo Rivera
     </td>
     <td>
-      ...
+      Competitive Analysis, User Personas, User Journey Mapping, User Task Matrix, User Stories, User Flow Diagrams, Plan Section Landing Page
     </td>
   </tr>
   <tr>
@@ -169,7 +189,7 @@
       Sean Palomares
     </td>
     <td>
-     ...
+     Lean UX Hypothesis Statements y Canvas, Segmentos Objetivo, To-Be Scenario Mapping, Impact Mapping, Product Backlog, Software Object-Oriented Design, Database Design, Software Configuration Management
     </td>
   </tr>
   <tr>
@@ -177,7 +197,7 @@
       Giovany Torres
     </td>
     <td>
-      ...
+      Antecedentes y Problemática, Empathy Mapping , As-is scenario mapping, Ubiquitous Language, Domain driven software architecture, Sprint planning 1, Sprint Backlog 1, Landing page, Conclusiones
     </td>
   </tr>
 </table>
@@ -300,23 +320,23 @@
       Comunica oralmente con efectividad a diferentes rangos de audiencia.
     </td>
     <td>
-      <strong>Javier Gonzales:</strong>
-      TB1 - ...
-      <br><br>
       <strong>Erick Palomino:</strong>
-      TB1 - ...
+      TB1 - Participación en la presentación oral de la propuesta inicial del proyecto, explicación de Startup Profile y Lineamientos de Estilo.
+      <br><br>
+      <strong>Javier Gonzales:</strong>
+      TB1 - Presentación oral de los resultados de entrevistas y de la estructura de la Landing Page.
       <br><br>
       <strong>Renzo Rivera:</strong>
-      TB1 – ...
+      TB1 – Exposición de análisis competitivo y explicación de los User Flow Diagrams durante la reunión grupal.
       <br><br>
-      <strong>Andres Coca:</strong>
-      TB1 - ...
+      <strong>Sean Palomares:</strong>
+      TB1 - Explicación oral de los mapas de impacto y segmentación de objetivos en reuniones grupales.
       <br><br>
-      <strong>Cesar Linares</strong>
-      TB1 – ...
+      <strong>Giovany Torres</strong>
+      TB1 –  Presentación oral de los antecedentes, problemática y mapeos de escenarios en el desarrollo inicial del proyecto.
     </td>
     <td>
-      El equipo demostró una gran unidad, distribuyendo roles de manera efectiva. Cada integrante tomó la iniciativa en partes cruciales del desarrollo del sistema, lo que resultó en productos finales coherentes y bien integrados. Las decisiones se tomaron en conjunto, siempre enfocadas en alcanzar las metas establecidas.
+      Como grupo, logramos una comunicación oral efectiva que facilitó la comprensión de las distintas etapas del proyecto. La coordinación de presentaciones y la exposición clara de ideas fortalecieron nuestro trabajo en equipo y permitieron que cada integrante aportara de forma precisa en su área asignada.
     </td>
   </tr>
   <tr>
@@ -324,23 +344,23 @@
       Comunica por escrito con efectividad a diferentes rangos de audiencia 
     </td>
     <td>
-      <strong>Javier Gonzales:</strong>
-      TB1 – ...
-      <br><br>
       <strong>Erick Palomino:</strong>
-      TB1 – ....
+      TB1 – Redacción del Startup Profile, Style Guidelines, User Stories y contenido de la Landing Page.
+      <br><br>
+      <strong>Javier Gonzales:</strong>
+      TB1 –  Redacción del Lean UX Problem Statement, Assumptions y desarrollo de wireframes documentados.
       <br><br>
       <strong>Renzo Rivera:</strong>
-      TB1 – ...
+      TB1 –  Documentación escrita de análisis competitivo, User Personas, User Journey Mapping y Task Matrix.
       <br><br>
-      <strong>Andres Coca:</strong>
-      TB1 – ...
+      <strong>Sean Palomares:</strong>
+      TB1 – Elaboración escrita de Hypothesis Statements, Product Backlog y base de diseño orientado a objetos.
       <br><br>
-      <strong>Cesar Linares:</strong>
-      TB1 – ...
+      <strong>Giovany Torres:</strong>
+      TB1 –  Redacción de antecedentes, problemática, Empathy Mapping y documentos de arquitectura de software, incluyendo la conclusión escrita del reporte.
     </td>
     <td>
-      El equipo creó un ambiente de colaboración donde se valoró el papel, los plazos y las obligaciones de cada miembro. Fijamos metas realistas, mantuvimos una comunicación fluida y, gracias a un esfuerzo coordinado y de apoyo mutuo, completamos con éxito los objetivos de la primera entrega.
+      Como equipo, fuimos capaces de producir documentos escritos claros y adaptados al público objetivo, asegurando la coherencia y calidad de la información entregada. Esto facilitó la comprensión del proyecto tanto para el equipo como para los revisores externos. El trabajo colaborativo en los entregables escritos fue clave para mantener una línea de comunicación efectiva en todo el desarrollo del proyecto.
     </td>
   </tr>
 </table>
@@ -365,17 +385,68 @@ Facilitar el cuidado de plantas en el hogar mediante soluciones tecnológicas in
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
-| **Foto del Integrantes**                                                           | **Nombres y Apellidos**            | **Código de estudiante** | **Conocimientos técnicos y habilidades**                                                                                                                                                                                                                                                                                                                                                                                         |
-| ---------------------------------------------------------------------------------- | ---------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Imagen de Integrante Erick Palomino](/images/fotointegrante-erick-palomino.jpeg) | Erick Leonardo Palomino Fiestas    | U20231A500               | Hola, Soy Erick Leonardo Palomino Fiestas, un estudiante entusiasta de quinto ciclo en Ingeniería de Software. Mi conjunto de habilidades técnicas incluye C++, HTML, CSS, fundamentos de JavaScript y experiencia con bases de datos SQL y MongoDB. Me considero una persona responsable, con sólidas habilidades de comunicación para trabajar en equipo y una perspectiva optimista. También tengo un nivel básico de inglés. |
-| 2                                                                                  | Javier Sebastian Gonzales Alvarado | Código de estudiante     | Conocimientos técnicos y habilidades                                                                                                                                                                                                                                                                                                                                                                                             |
-| 3                                                                                  | Sean Farith Palomares Andrade      | Código de estudiante     | Conocimientos técnicos y habilidades                                                                                                                                                                                                                                                                                                                                                                                             |
-| 4                                                                                  | Renzo Sebastian Rivera Ratachi     | Código de estudiante     | Conocimientos técnicos y habilidades                                                                                                                                                                                                                                                                                                                                                                                             |
-| ![Imagen de Integrante Giovany Torres](/images/fotointegrante-giovany.jpeg)        | Giovany Smith Torres Apolinario    | U202311601               | Estoy cursando el quinto ciclo de mi carrera Ingeniería de Software, soy una persona responsable que le gusta resolver desafíos a la par con el trabajo responsable y en equipo tengo la capacidad de líder y me gusta aprender nuevas cosas dia a dia.                                                                                                                                                                          |
+| **Foto del Integrantes** | **Nombres y Apellidos**            | **Código de estudiante** | **Conocimientos técnicos y habilidades** |
+| ------------------------ | ---------------------------------- | ------------------------ | ---------------------------------------- |
+| ![Imagen de Integrante Erick Palomino](/images/fotointegrante-erick-palomino.jpeg)                       | Erick Leonardo Palomino Fiestas    | U20231A500               | Hola, Soy Erick Leonardo Palomino Fiestas, un estudiante entusiasta de quinto ciclo en Ingeniería de Software. Mi conjunto de habilidades técnicas incluye C++, HTML, CSS, fundamentos de JavaScript y experiencia con bases de datos SQL y MongoDB. Me considero una persona responsable, con sólidas habilidades de comunicación para trabajar en equipo y una perspectiva optimista. También tengo un nivel básico de inglés.    |
+|![Imagen de Integrante Javier Gonzales](/images/fotointegrante-javier.jpg)| Javier Sebastian Gonzales Alvarado | U202312966| Mi nombre es Javier Gonzales, soy estudiante de la carrera Ingeniería de Software. Mi código es U202312966. Tengo conocimientos en los lenguajes C++ y Java. Además me considero una persona responsable y disponible para ayudar a los demás si presentan dificultades.|
+|![Imagen de Integrante Sean Palomares](/images/fotointegrante-sean.jpg)| Sean Farith Palomares Andrade|U202121947| Soy Sean Palomares, estudiante de sexto ciclo de la carrera de Ciencias de la Computación. Me interesan los temas de desarrollo de software y machine learning. Tengo conocimiento en Python, C++ y C#. Estoy emocionado por colaborar con el grupo para lograr completar nuestro proyecto.|
+|![Imagen de Integrante Renzo Rivera](/images/fotointegrante-renzo.jpg)| Renzo Sebastian Rivera Ratachi|U20231D974|Soy Renzo Sebastian Rivera Ratachi y soy estudiante de la carrera de Ingeniería de Software. Actualmente estoy cursando el 5to ciclo de mi carrera y tengo conocimientos intermedios de HTML, CSS, JavaScript y C++. Me considero una persona responsable y puntual.|
+| ![Imagen de Integrante Giovany Torres](/images/fotointegrante-giovany.jpeg) | Giovany Smith Torres Apolinario    | U202311601 | Estoy cursando el quinto ciclo de mi carrera Ingeniería de Software, soy una persona responsable que le gusta resolver desafíos a la par con el trabajo  responsable y en equipo tengo la capacidad de líder y me gusta aprender nuevas cosas dia a dia.     |
+
 
 ### 1.2. Solution Profile
 
+En esta sección se detalla el perfil de nuestra solución, desarrollada de manera progresiva bajo el enfoque Lean UX y respaldada por fundamentos sólidos. PlantSync es una aplicación creada para facilitar el cuidado responsable de las plantas, utilizando como herramienta central un chatbot inteligente.
+
+A través de la plataforma, los usuarios pueden registrar sus plantas y recibir asistencia personalizada. El chatbot ha sido entrenado con una base de datos construida por nuestro equipo, la cual reúne información confiable extraída de libros y fuentes científicas especializadas en botánica. Gracias a este conocimiento, el chatbot es capaz de identificar las necesidades específicas de cada planta en función de los datos proporcionados por el usuario —como fotos y detalles del entorno— y ofrecer recomendaciones prácticas para su cuidado. Además, puede detectar señales comunes de deterioro y proponer soluciones adecuadas de forma clara y accesible. PlantSync también incluye un sistema de recordatorios automáticos enviados por correo electrónico, que notifica al usuario sobre los cuidados pendientes o recurrentes de cada planta, asegurando un seguimiento constante y personalizado. De esta forma, promovemos una experiencia más organizada, intuitiva y efectiva para el manejo diario de las plantas.
+
+
 #### 1.2.1. Antecedentes y problemática
+
+Según un artículo de AGRONEGOCIOS (Gutiérrez, A. 2021), uno de los errores más comunes entre quienes recién empiezan a cuidar plantas es el riego excesivo. Los expertos advierten que usar demasiada agua es una de las formas más rápidas de dañar o incluso matar una planta de interior. Otro error frecuente es olvidar que las plantas también necesitan nutrientes, ya que muchas personas creen que solo el agua basta, cuando en realidad es importante fertilizarlas adecuadamente.
+
+Por eso, desde BioPafi queremos apoyar a quienes desean mejorar el cuidado de sus plantas. Nuestra plataforma web permite a los usuarios registrar las plantas que tienen en casa y recibir una guía de cuidados personalizada según el tipo de planta. Además, generamos recordatorios para tareas clave como riego, fertilización y poda, y contamos con un chatbot que ofrece consejos específicos para cada planta registrada, ayudando así a mantenerlas sanas y bien cuidadas.
+
+Who? (¿Quién?)
+La solución está dirigida a personas que desean cuidar plantas de forma responsable, especialmente principiantes, aficionados, familias, adultos mayores, estudiantes y profesionales que buscan una guía confiable sin complicaciones técnicas. También es útil para emprendedores de viveros, tiendas de jardinería o diseñadores de interiores con proyectos verdes.
+
+What? (¿Qué?)
+PlantSync es una aplicación web con un chatbot inteligente entrenado en botánica, que ofrece asistencia personalizada, recomendaciones prácticas y recordatorios automáticos para el cuidado de plantas, ayudando a prevenir errores comunes y promoviendo una jardinería consciente y sostenible.
+
+Where? (¿Dónde?)
+El proyecto se implementará inicialmente en Perú, con foco en áreas urbanas como Lima Metropolitana, donde existe una alta concentración de usuarios digitales interesados en el cuidado del hogar. A mediano plazo, se contempla su expansión a otros países de América Latina, comenzando por México, Colombia y Chile, donde hay un mercado emergente con características similares.
+
+When? (¿Cuándo?)
+El diseño conceptual y la validación inicial comenzaron en abril de 2025. Actualmente nos encontramos en fase de desarrollo del prototipo funcional (MVP). Se espera una versión beta para julio de 2025, la cual será sometida a pruebas con usuarios reales. El lanzamiento oficial está previsto para noviembre de 2025, con actualizaciones progresivas durante 2026 para incorporar nuevas funciones.
+
+Why? (¿Por qué?)
+Porque muchas personas desean cuidar mejor sus plantas, pero carecen del conocimiento, del tiempo o de una guía adecuada para hacerlo, lo que lleva al deterioro de sus plantas, frustración y abandono del hábito. PlantSync responde a esta necesidad con una propuesta innovadora, educativa y automatizada, que convierte el proceso de cuidado en una experiencia agradable, accesible y sostenible.
+
+How? (¿Cómo?)
+La solución se desarrolla aplicando el enfoque Lean UX y metodologías ágiles. Se basa en tecnologías como React para el frontend, Firebase para la gestión de usuarios y base de datos en tiempo real, y un sistema de Machine Learning entrenado con TensorFlow para el análisis de imágenes de las plantas. Además, se ha integrado un modelo de procesamiento de lenguaje natural (NLP) que permite al chatbot entender las preguntas de los usuarios y responder con claridad y empatía.
+
+How much? (¿Cuánto?)
+A continuación, se detalla el presupuesto estimado para el desarrollo y lanzamiento de PlantSync:
+
+Fase 1 – Prototipo funcional (UX/UI, MVP):
+■ Diseño de experiencia de usuario, mockups y desarrollo básico de la app: $5,000
+
+Fase 2 – Desarrollo completo e integración IA:
+■ Entrenamiento del chatbot, integración de la base de datos botánica y análisis de imágenes: $12,000
+
+Fase 3 – Infraestructura, despliegue y marketing inicial:
+■ Hosting, dominio, correos automáticos, campañas de lanzamiento: $3,000
+
+Mantenimiento y soporte anual estimado:
+■ Actualizaciones, feedback de usuarios, escalabilidad: $2,000
+
+Total estimado: $22,000 USD
+
+Resumen: 
+
+Existe una brecha significativa entre el deseo de las personas por tener plantas sanas y su conocimiento real sobre cómo cuidarlas. Errores comunes como el riego inadecuado, la falta de nutrientes o la escasa exposición a la luz natural provocan que muchas plantas mueran innecesariamente. Esta situación genera frustración y desmotiva a quienes buscan un estilo de vida más natural y saludable. PlantSync nace como respuesta a esta problemática, ofreciendo una herramienta digital intuitiva y confiable que guía al usuario en cada paso del proceso de cuidado, con el objetivo de reducir la tasa de muerte de plantas, fomentar el aprendizaje botánico y promover una cultura de sostenibilidad desde el hogar.
+
+
 
 #### 1.2.2. Lean UX Process
 
@@ -1134,15 +1205,15 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td><strong>Entrevistado</strong></td>
-    <td>...</td></td>
+    <td>Andrea Elizabeth Santur Tello</td></td>
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>... años</td>
+    <td>18 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
-    <td>...</td></td>
+    <td>Los Olivos</td></td>
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
@@ -1154,8 +1225,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
-      Resumen: 
-<br>
+      Resumen: Andrea ha cuidado plantas anteriormente, aunque con algunas dificultades. Su primera planta murió por no recibir el cuidado necesario, pero decidió intentarlo nuevamente con otras plantas pero esta vez siendo mas cuidadoso. Identifica como principales problemas como lo es el olvido de regarlas, la confusión sobre la cantidad de luz necesaria y la falta de información clara y sencilla para los cuidados. Actualmente no usa apps ni comunidades para ayudarle. Le interesa una app que le brinde recordatorios de riego, consejos paso a paso y recomendaciones basadas en el clima local, siempre que sean simples de entender.Además, valora mucho funcionalidades como identificación de plantas por foto, guias o formularios visuales. Estaría dispuesto a pagar por funciones premium siempre que la app sea útil, fácil de usar y no demasiado costosa que cumpla sus expectativas en su uso. Busca principalmente sentirse apoyado en el proceso de cuidado de plantas.
     </td>
   </tr>
   <tr>
@@ -1169,7 +1239,11 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 ## _Analisis de entrevista para Expertos cuidadores de plantas:_
 
+El 100% de los entrevistados tiene una experiencia prolongada en el cuidado de plantas, con edades que oscilan entre los 23 y 60 años, habiendo comenzado principalmente por influencia familiar (66%) o como resultado de un interés desarrollado durante la pandemia (33%). Todos integran el cuidado de sus plantas en su rutina diaria, aunque el 100% reconoce que no utilizan aplicaciones especializadas, recurriendo a fuentes como YouTube, Google o el conocimiento heredado. Entre los principales desafíos, el 100% señala la personalización de cuidados según el tipo de planta y la dificultad de mantener la constancia en los cuidados cuando la cantidad de plantas es amplia (66%). Todos manifiestan interés en una aplicación que ofrezca recomendaciones personalizadas, registro de actividades de cuidado y recordatorios automáticos, mientras que el 66% considera esencial incluir una función de identificación de plantas mediante fotos y recomendaciones basadas en condiciones climáticas locales. Aunque actualmente no utilizan apps, el 100% expresó disposición a pagar una suscripción si perciben un valor real en la optimización de sus rutinas y el mejoramiento de la salud de sus plantas. Finalmente, el segmento evidencia una necesidad clara de organización y asistencia continua, valorando soluciones que respeten su autonomía y experiencia previa.
+
 ## _Analisis de entrevista para Principiantes cuidadores de plantas:_
+
+El 100% de los entrevistados se encuentra en una etapa inicial en el cuidado de plantas, con edades que oscilan entre los 18 y 20 años, habiendo comenzado por iniciativa personal y enfrentado dificultades como la pérdida de su primera planta por exceso de riego (66%) o falta de información (33%). Todos reconocen la carencia de conocimientos técnicos específicos y la necesidad de guías simples y claras para afrontar tareas básicas como riego, exposición solar y trasplante. Ninguno utiliza actualmente aplicaciones o comunidades digitales especializadas, confiando en búsquedas en Google que consideran dispersas o confusas. El 100% mostró gran interés por una aplicación que brinde recordatorios de riego, recomendaciones personalizadas basadas en clima local, guías paso a paso y la opción de identificar plantas mediante fotos, mientras que el 66% resalta la importancia de recibir sugerencias adaptadas a su entorno doméstico. En cuanto a la disposición de pago, el 100% se mostró favorable siempre que la herramienta sea clara, útil y ayude a evitar errores comunes. Finalmente, todos expresaron su deseo de sentirse acompañados en el proceso de aprendizaje, valorando especialmente la simplicidad y la facilidad de uso como factores clave para adoptar una solución digital.
 
 ### 2.3. Needfinding
 
@@ -1177,13 +1251,173 @@ Luego de realizar las entrevistas e identificar los problemas, necesidades y des
 
 #### 2.3.1. User Personas
 
+Para la elaboración de los siguientes artefactos se ha tomado en cuenta la edad, ocupaciones, ubicaciones, intereses y frustraciones de los entrevistados. Estos perfiles representan a usuarios reales que buscan integrar plantas en su vida diaria, pero necesitan orientación clara y soluciones adaptadas a su estilo de vida. A continuación, se presentarán los User Persona elaborados.
+
+- #### User Persona: Interesados en comenzar a cuidar plantas
+
+[![Mauricio-Alcantara.png](https://i.postimg.cc/rw7TNLT2/Mauricio-Alcantara.png)](https://postimg.cc/RW12vyqg)
+
+
+- #### User Persona: Personas con experiencia en el cuidado de plantas
+[![Roxana-Madero.png](https://i.postimg.cc/7Yswb2Q6/Roxana-Madero.png)](https://postimg.cc/VdC3VdwQ)
+
+
+
 #### 2.3.2. User Task Matrix
+
+
+  En este apartado se realizará la User Task Matrix tomando en cuenta los dos segmentos definidos y relacionados a nuestras User Persona, estudiantes univeristarios deseosos de experiencia laboral y gerentes que buscan contratar talento joven para el desarrollo de proyectos.
+
+
+<table border ="1"><thead>
+  <tr>
+    <th></th>
+    <th colspan="2">Experto</th>
+    <th colspan="2">Persona sin experiencia</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>TASK</td>
+    <td>FREQUENCY (Experto)</td>
+    <td>IMPORTANCE (Experto)</td>
+    <td>FREQUENCY (Persona sin experiencia)</td>
+    <td>IMPORTANCE (Persona sin experiencia)</td>
+  </tr>
+
+ <tr>
+    <td>Comprar nuevas plantas</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Rarely</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Ajustar los cuidados segun clima</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Never</td>
+    <td>Low</td>
+  </tr>
+   <tr>
+    <td>Registrar sus actividades de cuidado</td>
+    <td>Sometimes</td>
+    <td>High</td>
+    <td>Never</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Evaluar el estado de salud de sus plantas</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Rarely</td>
+    <td>Medium</td>
+  </tr>
+ <tr>
+    <td>Comprar insumos para el cuidado</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Rarely</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Consultar guías o videos sobre plantas</td>
+    <td>Rarely</td>
+    <td>Medium</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+<tr>
+    <td>Decorar su habitación con plantas</td>
+    <td>Rarely</td>
+    <td>Low</td>
+    <td>Medium</td>
+    <td>High</td>
+</tr>
+<tr>
+    <td>Preguntar por consejos a conocidos</td>
+    <td>Rarely</td>
+    <td>Low</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+ <tr>
+    <td>Buscar soluciones digitales de apoyo</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+    <td>Sometimes</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Tomar fotos para seguimiento del crecimiento</td>
+    <td>Sometimes</td>
+    <td>Low</td>
+    <td>Sometimes</td>
+    <td>Medium</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+<br>
+
+Tomando en cuenta este recuadro podemos hacer afirmaciones sobre las actividades de nuestros User Persona:
+
+- Los tasks de mayor importancia para el usuario experto son evaluar el estado de salud de sus plantas y registrar sus actividades, en cambio, el usuario novato prioriza el aprendizaje y busqueda de herramientas digitales.
+
+
+- Entre las principales coincidencias se encuentra el interes de ambos por tomar fotos de sus planta para ver su progreso y tambien la busqueda de soluciones digitales para apoyarse en su cuidado.
+
+- Las diferencias entre ambos se ven relfejadas en la experiencia que ellos poseen. Mientras el usuario experto pasa su tiempo evaluando el estado de cada de planta y manteniendo un plan constante, el usuario novato tiende a mostrarse mas interesado por aprender y darle más importancia al factor estético de las plantas.
+
+  
+
+
+
+
+
+
 
 #### 2.3.3. User Journey Mapping
 
+Esta sección incluye los User Journey Map relacionado a nuestras dos User Persona previamente elaboradas en la herramienta UXPressia, estos artefactos consistirán en las experiencias que nuestros usuarios enfrentan sus dificultades antes de usar nuestra solución.
+
+
+- #### User Journey Map Mauricio Alcantara:
+
+Este Journey Map describe las experiencias que vive Mauricio luego de comprar su primera planta hasta la eventual frustración por no conocer muy bien las necesidades de su planta.
+
+[![User-Journey-Map-Mauricio.png](https://i.postimg.cc/J43YH1jX/User-Journey-Map-Mauricio.png)](https://postimg.cc/LnX3rFC4)
+
+
+- #### User Journey Map Roxana Madero:
+
+
+Este Journey Map describe las experiencias que vive Roxana, desde que adquiere un planta que le gusta hasta que termina descuidandola por culpa de la gran carga laboral de su trabajo.
+
+
+[![User-Journey-Map.png](https://i.postimg.cc/P5ryL1XG/User-Journey-Map.png)](https://postimg.cc/GHVGV8Tz)
+
+
+
+
 #### 2.3.4. Empathy Mapping
+Emphaty Map Segmento 1: Interesados en comenzar a cuidar plantas
+![EM Segmento 1](https://imgur.com/mdShA6x.jpg)
+
+<br>
+<br>
+
+Emphaty Map Segmento 2: Personas con experiencia en el cuidado de plantas
+
+![EM Segmento 2](https://imgur.com/A9JyFHe.jpg)
 
 #### 2.3.5. As-is Scenario Mapping
+
+Segmento 1: Mauricio Alcantara
+![AS IS SEGMENTO 1](https://imgur.com/6FZnUb2.jpg)
+
+Segmento 2: Roxana Madero
+![AS IS SEGMENTO 2](https://imgur.com/c7CyxiD.jpg)
 
 ### 2.4. Ubiquitous Language
 
@@ -1680,7 +1914,7 @@ El encabezado de la pagina web tendra el logo de nuestro proyecto en la posicion
 En el pie de página se incluirán los distintos medios de contacto disponibles, como teléfonos de atención al cliente, redes sociales y correos electrónicos. Además, se integrarán los diferentes apartados del encabezado para facilitar la navegación desde cualquier sección del sitio.
 
 <p align="center">
-  <img src="images/landingpage-styleguidelines.png" alt="Screenshot landing page" >
+  <img src="images/LandingPageUpdated.png" alt="Screenshot landing page" >
 </p>
 
 ### 4.2. Information Architecture
@@ -1903,7 +2137,7 @@ La página web ha sido diseñada con un enfoque minimalista e intuitivo, evitand
 En este apartado se observara nuestra landing page de desktop web browser en una version basica. En este se podra observar apartados importantes para una primera impresion para el usuario tal que, una presentacion rapida de que se trata nuestro proyecto, luego se podra observar rapidamente en 3 pasos el funcionamiento de nuestro producto, ademas se podra ver los diferentes planes para nuestro usuario y por ultimo una pequeña presentación de nuestra startup.
 
 <p align="center">
-  <img src="images/wireframes/ladingpage-wireframe.png" alt="Landing Page Wireframe" width="500">
+  <img src="images/wireframelandingpage.png" alt="Landing Page Wireframe" width="500">
 </p>
 
 #### 4.3.2. Landing Page Mock-up
@@ -1911,7 +2145,7 @@ En este apartado se observara nuestra landing page de desktop web browser en una
 Apartir de nuestro wireframe que es una version basica de nuestro lading page, se realizo nuestra version final de nuestro landing page. Esta cuenta con los mismos aparados realizados anteriormente. En este se podra observar los colores elegidos y lenguaje utilizado, siendo este amigable para el usuario.
 
 <p align="center">
-  <img src="images/landingpage-mockup.png" alt="Landing Page Mockup" width="500">
+  <img src="images/LandingPageUpdated.png" alt="Landing Page Mockup" width="500">
 </p>
 
 ### 4.4. Web Applications UX/UI Design
@@ -1921,6 +2155,7 @@ Apartir de nuestro wireframe que es una version basica de nuestro lading page, s
 Los wireframes desarrollados para la aplicación web de BioPafi evidencian una planificación centrada en el usuario, aplicando principios de diseño como claridad visual, jerarquía informativa, consistencia e inclusividad. Cada pantalla presenta una estructura limpia y ordenada, con encabezados visibles, elementos distribuidos por nivel de prioridad y navegación lateral constante, lo que facilita la orientación del usuario. Se prioriza el uso de etiquetas claras y botones de acción con alto contraste para favorecer la accesibilidad. El diseño considera a usuarios con distintos niveles de experiencia, ofreciendo formularios guiados para principiantes y paneles de información detallada para expertos. Además, se observa la correcta aplicación de la arquitectura de información en la categorización por módulos (Plantas, Guías, Tareas, ChatBot, Configuración), permitiendo al usuario encontrar lo que necesita sin esfuerzo. Cada vista refleja un entendimiento funcional y estético que responde a las necesidades específicas del público objetivo.
 
 [Enlace del figma](https://www.figma.com/design/5cSEKvg4XXUzsXTpOPJySb/PlantSync?node-id=42-2&t=aclI2b5Cp9Y2pn5i-1)
+
 
 - Mis Planta:
 
@@ -2015,6 +2250,8 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 **User Goal:** Como usuario principiante, quiero registrar mi nueva planta para empezar a cuidarla con ayuda de la aplicación.
 
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
 **Flujo:** Este flujo comienza cuando el usuario ingresa a la sección "Mis Plantas" y hace clic en el botón “Agregar Planta”. Se abre un formulario donde debe completar campos como nombre personalizado, especie, fecha de adquisición, subir una foto opcional, y seleccionar si desea recibir recordatorios. Además, puede indicar su nivel de experiencia y activar el monitoreo manual asistido. Una vez completado, pulsa “Añadir” y es redirigido al dashboard con la planta registrada y visible. Este flujo está pensado especialmente para usuarios principiantes que requieren orientación paso a paso.
 
 <p align="center">
@@ -2026,6 +2263,8 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 - **Wireflow 2: Consultar guía de cuidado**
 
 **User Goal:** Como usuario experto, quiero consultar una guía específica para verificar recomendaciones de cuidado avanzado.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
 
 **Flujo:** El flujo inicia desde la sección “Guías”, donde el usuario visualiza un catálogo de recomendaciones. Filtra por categoría o especie y selecciona una guía específica. Al hacer clic en “Ver guía”, accede a una vista con información detallada, pasos visuales, imágenes y consejos según el tipo de planta. Desde ahí, el usuario puede regresar al catálogo o asociar la guía a una planta registrada. Este flujo está enfocado tanto en principiantes como en expertos que buscan información puntual.
 
@@ -2039,6 +2278,8 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 **User Goal:** Como usuario frecuente, quiero revisar el historial de mi planta para entender cómo ha evolucionado su estado.
 
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
 **Flujo:** Desde “Mis Plantas”, el usuario selecciona una planta específica y accede a su vista detallada. Allí, hace clic en “Ver Historial”, lo que lo dirige a una pantalla donde puede visualizar los registros de cuidado (riego, fertilización, observaciones) ordenados cronológicamente. También accede a un gráfico de humedad que le permite analizar el estado de la planta a lo largo del tiempo. Este flujo está pensado para usuarios que buscan tomar decisiones basadas en datos.
 
 <p align="center">
@@ -2050,6 +2291,8 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 - **Wireflow 4: Consultar recomendaciones por clima**
 
 **User Goal:** Como usuario con poco tiempo, quiero saber si hoy debo regar o proteger mis plantas, según el clima actual.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
 
 **Flujo:** En el apartado de "Mis Plantas", cuando el usuario desea consultar recomendaciones basadas en el clima, debe hacer clic sobre una de sus plantas previamente registradas. Luego, en la parte inferior izquierda de la pantalla, se mostrará la temperatura actual junto con sugerencias específicas según las condiciones climáticas del día.
 
@@ -2063,6 +2306,8 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 **User Goal:** Como usuario PRO, quiero actualizar mis datos y gestionar mi suscripción.
 
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
 **Flujo:** Desde el ícono de perfil o el menú lateral, el usuario accede a “Configuración personal”. Aquí puede modificar sus datos (nombre, email), activar o desactivar notificaciones, y gestionar su plan de suscripción. Si decide cambiar de plan, selecciona uno nuevo y confirma. Al guardar los cambios, recibe una notificación y es redirigido a su perfil actualizado. Este flujo aplica tanto a usuarios nuevos como recurrentes.
 
 <p align="center">
@@ -2073,7 +2318,9 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 - **Wireflow 6: Chatear con el bot**
 
-**User Goal:** Como usuario de BioPafi, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
+**User Goal:** Como usuario de PlantSync, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
 
 **Flujo:** Este flujo comienza cuando el usuario accede a la opción “Chatbot” desde el menú lateral o directamente desde una tarjeta destacada en el dashboard. Al ingresar, se presenta una interfaz de mensajería con un campo de texto inferior y mensajes de bienvenida del bot. El usuario escribe su consulta, por ejemplo: “¿Cada cuánto debo regar una lavanda?” o “¿Dónde puedo conseguir plantas para interior?”. El bot procesa la pregunta y responde con un mensaje textual y, si corresponde, con enlaces a guías, recomendaciones o catálogos. El usuario puede continuar haciendo más preguntas o cerrar el chat. En caso de ser un usuario PRO o Premium, también podrá acceder a respuestas más detalladas o enlaces externos. Este flujo está pensado para ofrecer una experiencia conversacional ágil que complemente la navegación tradicional, ideal para usuarios que prefieren resolver dudas en tiempo real.
 
@@ -2085,17 +2332,267 @@ Registro cronológico de las acciones realizadas sobre una planta (riego, fertil
 
 #### 4.4.3. Web Applications Mock-ups
 
+Lo siguientes mockups se elaboraron tomando como base los wireframes previamente hechos y demuestran fielmente las funcionalidades que puede realizar el usuario al momento de usar la aplicación.
+
+[Enlace del Figma](https://www.figma.com/design/5cSEKvg4XXUzsXTpOPJySb/PlantSync?node-id=44-4&t=UOYHjiQEz5g3pkpn-1 )
+
++ Mis Plantas
+
+Vista principal del usuario con el listado de todas sus plantas registradas. Desde aquí puede visualizar el estado general de cada planta, acceder a sus detalles, editarla o añadir una nueva.
+
+<p align="center">
+  <img src="images/mockups/DashBoard Plantas.png" alt="MisPlantas" width="1000">
+</p>
+
+
++ Guías:
+
+Catálogo de recomendaciones organizadas por tema (riego, luz, fertilizante, plagas). Permite a los usuarios consultar guías según sus necesidades o tipo de planta.
+
+<p align="center">
+  <img src="images/mockups/Guias Dashboard MockUp.png" alt="Guías" width="1000">
+</p>
+
++ Tareas:
+
+Sección tipo calendario que muestra los recordatorios programados para cada planta, incluyendo riegos, fertilización u otras tareas. Ayuda al usuario a organizar su rutina de cuidado permitiendole informar que planta ya cuidó o no.
+
+<p align="center">
+  <img src="images/mockups/Tareas.png" alt="Tareas" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/mockups/Tareas Recordatorio.png" alt="TareasRecordatorio" width="1000">
+</p>
+
+
++ Chatbot:
+
+Vista principal del asistente virtual (RootBot), que permite al usuario iniciar una conversación para resolver dudas rápidas sobre el cuidado de plantas.
+
+<p align="center">
+  <img src="images/mockups/chatbot1.png" alt="ChatBot" width="1000">
+</p>
+
+
++ Configuración personal
+
+Panel donde el usuario puede actualizar su información personal, configurar notificaciones y gestionar su tipo de suscripción (básico, PRO o premium).
+
+<p align="center">
+  <img src="images/mockups/profile config.png" alt="Configuraciones" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/mockups/Eleccion de plan.png" alt="ConfiguracionPLan" width="1000">
+</p>
+
++ Añadir Planta:
+
+Formulario guiado para registrar una nueva planta. Incluye campos como nombre personalizado, especie, fecha de adquisición y opción para activar notificaciones.
+
+<p align="center">
+  <img src="images/mockups/añadirplanta.png" alt="AddPlanta" width="1000">
+</p>
+
++ Ver Guía:
+
+Pantalla con el contenido detallado de una guía específica, incluyendo instrucciones paso a paso, imágenes ilustrativas y recomendaciones prácticas.
+
+<p align="center">
+  <img src="images/mockups/guia.png" alt="ViewGuide" width="1000">
+</p>
+
+
+
++ Chateando con ChatBot:
+
+Vista activa de la conversación con el bot. El usuario realiza preguntas relacionadas al cuidado o adquisición de plantas y recibe respuestas contextualizadas.
+
+
+<p align="center">
+  <img src="images/mockups/chatbot2.png" alt="ChatBotConversation" width="1000">
+</p>
++ Ver Planta:
+
+Pantalla detallada con toda la información de una planta específica, incluyendo foto, especie, historial de cuidado y recomendaciones por clima.
+
+<p align="center">
+  <img src="images/mockups/perfilplanta.png" alt="VerPlanta" width="1000">
+</p>
+
++ Ver historial de planta:
+
+Registro cronológico de las acciones realizadas sobre una planta (riego, fertilización, cambios de estado), acompañado de gráficas simples de humedad y evolución.
+
+<p align="center">
+  <img src="images/mockups/historialPlanta.png" alt="Historial" width="1000">
+</p>
+
+<br><br>
+
+
+
 #### 4.4.4. Web Applications User Flow Diagrams
+
+Se elaboraron User Flow Diagrams en base a los Wireflows anteriormente hechos. El objetivo de estos diagramas es mostrar los pasos que seguirán los usuarios de nuestra aplicación al momento de alcanzar sus objetivos.
+
+
+[Enlace para acceder al Overflow](https://overflow.io/s/YN9XV7BV)
+
+
++ **User Flow Diagram 1: Registrar una nueva planta**
+
+**User Goal:** Como usuario principiante, quiero registrar mi nueva planta para empezar a cuidarla con ayuda de la aplicación.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
+**Flujo:** Este flujo comienza cuando el usuario ingresa a la sección "Mis Plantas" y hace clic en el botón “Agregar Planta”. Se abre un formulario donde debe completar campos como nombre personalizado, especie, fecha de adquisición, subir una foto opcional, y seleccionar si desea recibir recordatorios. Además, puede indicar su nivel de experiencia y activar el monitoreo manual asistido. Una vez completado, pulsa “Añadir” y es redirigido al dashboard con la planta registrada y visible. Este flujo está pensado especialmente para usuarios principiantes que requieren orientación paso a paso.
+
+<p align="center">
+  <img src="images/mockups/addplant.png" alt="User Flow Diagram 1" width="1000">
+</p>
+
+<br><br>
+
++ **User Flow Diagram 2: Consultar guía de cuidado**
+
+**User Goal:** Como usuario experto, quiero consultar una guía específica para verificar recomendaciones de cuidado avanzado.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
+**Flujo:** El flujo inicia desde la sección “Guías”, donde el usuario visualiza un catálogo de recomendaciones. Filtra por categoría o especie y selecciona una guía específica. Al hacer clic en “Ver guía”, accede a una vista con información detallada, pasos visuales, imágenes y consejos según el tipo de planta. Desde ahí, el usuario puede regresar al catálogo o asociar la guía a una planta registrada. Este flujo está enfocado tanto en principiantes como en expertos que buscan información puntual.
+
+<p align="center">
+  <img src="images/mockups/consultarguias.png" alt="User Flow Diagram 2" width="1000">
+</p>
+
+<br><br>
+
++ **User Flow Diagram 3: Ver historial de cuidado**
+
+**User Goal:** Como usuario frecuente, quiero revisar el historial de mi planta para entender cómo ha evolucionado su estado.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
+
+**Flujo:** Desde “Mis Plantas”, el usuario selecciona una planta específica y accede a su vista detallada. Allí, hace clic en “Ver Historial”, lo que lo dirige a una pantalla donde puede visualizar los registros de cuidado (riego, fertilización, observaciones) ordenados cronológicamente. También accede a un gráfico de humedad que le permite analizar el estado de la planta a lo largo del tiempo. Este flujo está pensado para usuarios que buscan tomar decisiones basadas en datos.
+
+<p align="center">
+  <img src="images/mockups/verhistorial.png" alt="User Flow Diagram 3" width="1000">
+</p>
+
+<br><br>
+
++ **User Flow Diagram 4: Consultar recomendaciones por clima**
+
+**User Goal:** Como usuario con poco tiempo, quiero saber si hoy debo regar o proteger mis plantas, según el clima actual.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
+
+**Flujo:** En el apartado de "Mis Plantas", cuando el usuario desea consultar recomendaciones basadas en el clima, debe hacer clic sobre una de sus plantas previamente registradas. Luego, en la parte inferior izquierda de la pantalla, se mostrará la temperatura actual junto con sugerencias específicas según las condiciones climáticas del día.
+
+<p align="center">
+  <img src="images/mockups/consultarclima.png" alt="User Flow Diagram 4" width="1000">
+</p>
+
+<br><br>
+
++ **User Flow Diagram 5: Configurar mis preferencias y cuenta**
+
+**User Goal:** Como usuario PRO, quiero actualizar mis datos y gestionar mi suscripción.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
+
+**Flujo:** Desde el ícono de perfil o el menú lateral, el usuario accede a “Configuración personal”. Aquí puede modificar sus datos (nombre, email), activar o desactivar notificaciones, y gestionar su plan de suscripción. Si decide cambiar de plan, selecciona uno nuevo y confirma. Al guardar los cambios, recibe una notificación y es redirigido a su perfil actualizado. Este flujo aplica tanto a usuarios nuevos como recurrentes.
+
+<p align="center">
+  <img src="images/mockups/cambiarconfig.png" alt="User Flow Diagram 5" width="1000">
+</p>
+
+<br><br>
+
++ **User Flow Diagram 6: Chatear con el bot**
+
+**User Goal:** Como usuario de PlantSync, quiero hacer preguntas rápidas sobre el cuidado o adquisición de mis plantas para obtener respuestas inmediatas sin tener que navegar por todo el sitio.
+
+**User Persona:**  Personas con poca y mucha experiencia en el cuidado de plantas
+
+
+**Flujo:** Este flujo comienza cuando el usuario accede a la opción “Chatbot” desde el menú lateral o directamente desde una tarjeta destacada en el dashboard. Al ingresar, se presenta una interfaz de mensajería con un campo de texto inferior y mensajes de bienvenida del bot. El usuario escribe su consulta, por ejemplo: “¿Cada cuánto debo regar una lavanda?” o “¿Dónde puedo conseguir plantas para interior?”. El bot procesa la pregunta y responde con un mensaje textual y, si corresponde, con enlaces a guías, recomendaciones o catálogos. El usuario puede continuar haciendo más preguntas o cerrar el chat. En caso de ser un usuario PRO o Premium, también podrá acceder a respuestas más detalladas o enlaces externos. Este flujo está pensado para ofrecer una experiencia conversacional ágil que complemente la navegación tradicional, ideal para usuarios que prefieren resolver dudas en tiempo real.
+
+<p align="center">
+  <img src="images/mockups/consultarchatbot.png" alt="User Flow Diagram 6" width="1000">
+</p>
+
+<br><br>
+
+
+
 
 ### 4.5. Web Applications Prototyping
 
 ### 4.6. Domain-Driven Software Architecture
 
+El Domain Driven Design (DDD) busca lograr una comprensión común del dominio relacionado al problema que se desea resolver. Este enfoque facilita una mejor colaboración entre desarrolladores y expertos del dominio. DDD no se limita únicamente al uso de un lenguaje común, sino que también incluye un conjunto de patrones, prácticas y diagramas arquitectónicos que ayudan a alinear el software con el dominio, fortaleciendo así la visión compartida que propone este enfoque.
+
 #### 4.6.1. Software Architecture Context Diagram
+
+El esquema de contexto ofrece una perspectiva general de las interacciones entre el sistema de software PlantSync, los usuarios y sistemas externos
+
+![C4 CONTEXT](https://imgur.com/mjU7Myv.jpg)
+ Fuente: Elaborado con structurizr
+
+
+
 
 #### 4.6.2. Software Architecture Container Diagrams
 
+El diagrama de contenedores ofrece una visión general de las conexiones entre aplicaciones y fuentes de datos en el sistema PlantSync. Muestra cómo interactúan y dependen entre sí para su funcionamiento.
+
+![C4 COMTAINER](https://imgur.com/mSzG2RS.jpg)
+Fuente: Elaborado con structurizr
+
+
+
 #### 4.6.3. Software Architecture Components Diagrams
+Los diagramas de componentes proporcionan una perspectiva sobre las interrelaciones de los elementos principales del sistema de software, describiendo cómo se implementan los módulos respectivos en el programa. <br>
+
+Component user registration
+
+![C4 COMPONENT](https://imgur.com/H06Et9W.jpg)
+
+Fuente: Elaborado con structurizr
+
+Component plant registration
+
+![C4 COMPONENT](https://imgur.com/Mg3pEog.jpg)
+
+Fuente: Elaborado con structurizr
+
+Component IA & Recomendaciones
+
+![C4 COMPONENT](https://imgur.com/UyIkExn.jpg)
+
+Fuente: Elaborado con structurizr
+
+Component Chatbot & Guías
+
+![C4 COMPONENT](https://imgur.com/nOJC2Pq.jpg)
+
+Fuente: Elaborado con structurizr
+
+Component Notification Service
+
+![C4 COMPONENT](https://imgur.com/b8F9CM1.jpg)
+
+Fuente: Elaborado con structurizr
+
+Component Payment method
+![C4 COMPONENT](https://imgur.com/z2fH6HJ.jpg)
+Fuente: Elaborado con structurizr
 
 ### 4.7. Software Object-Oriented Design
 
@@ -2493,19 +2990,289 @@ Se eligió utilizar Vertabelo para modelar el diagrama de base de datos por su f
 
 ##### 5.2.1.1. Sprint Planning 1
 
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>Sprint 1</b></td>
+      <td>implementacion de la parte estatica de la landing page</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Planning Background</b></td>
+    </tr>
+    <tr>
+      <td><b>Date</b></td>
+      <td>25/04/2025</td>
+    </tr>
+    <tr>
+      <td><b>Time</b></td>
+      <td>20:50 PM</td>
+    </tr>
+    <tr>
+      <td><b>Location</b></td>
+      <td>Reunión realizada mediante Discord</td>
+    </tr>
+    <tr>
+      <td><b>Prepared By</b></td>
+      <td>Palomino Fiestas, Erick Leonardo</td>
+    </tr>
+    <tr>
+      <td><b>Attendees (to planning meeting)</b></td>
+      <td>
+          Gonzales Alvarado, Javier Sebastian <br>
+          Palomares Andrade, Sean Farith <br>
+          Rivera Ratachi, Renzo Sebastian <br>
+          Torres Apolinario, Giovany Smith <br>
+          
+  </td>
+    </tr>
+    <tr>
+      <td><b>Sprint n – 1 Review</b></td>
+      <td>Se creará la organización de PlantSync en Github, se crea las ramas, 
+          se separa los trabajos a realizar como entrevistas, wireframe y mock-up.
+      </td>
+    </tr>
+    <tr>
+      <td><b>Sprint n – 1 Retrospective</b></td>
+      <td>Para la implementación para el landing page se ha realizado mediante html, css y js</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+    </tr>
+    <tr>
+      <td><b>Sprint 1 Goal</b></td>
+      <td>Elaborar y diseñar una landing page atractiva e informativa para la aplicación de PlantSync</td>
+    </tr>
+    <tr>
+      <td><b>Sprint 1 Velocity</b></td>
+      <td>20 Points</td>
+    </tr>
+    <tr>
+      <td><b>Sum of Story Points</b></td>
+      <td>20 Points
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
+
 
 ##### 5.2.1.3. Sprint Backlog 1
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
+<table align="center">
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-LandingPage</td>
+    <td>main</td>
+    <td>f178de7</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>24/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>0f56aa1</td>
+    <td>feat: added the header and 2 sections</td>
+    <td>added the header and 2 sections</td>
+    <td>24/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>3327631</td>
+    <td>feat: add plans section </td>
+    <td>Added a plans section to Landing Page</td>
+    <td>25/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>64e8c00</td>
+    <td>docs: add plan hover effects</td>
+    <td>Added a visual effect to plans section</td>
+    <td>25/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>dacf2b0</td>
+    <td>feat: added about us part</td>
+    <td>Added about us part in html and css</td>
+    <td>25/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>81fdf8b</td>
+    <td>feat: add footer</td>
+    <td>Added footer structure and style</td>
+    <td>25/04/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>ef1a590</td>
+    <td>feat: add the terms and conditions </td>
+    <td>The terms and conditions of the landing page were added</td>
+    <td>25/04/25</td>
+  </tr>
+</table>
+
+<br>
+
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+
+Durante la primera fase de desarrollo se logró implementar correctamente la página principal. Esta contiene varias áreas que permiten a los visitantes obtener información completa sobre nuestro producto y conocer sus funcionalidades más importantes.
+
++ Header:
+
+Barra superior fija con el logo de PlantSync, menú de navegación por anclas (Cómo funciona, Planes, Integrantes y Acceder).
+
+<p align="center">
+  <img src="images/landingPage/header.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Sección principal:
+
+Sección principal impactante con un mensaje claro y directo, complementada por una imagen que identifica a la AppWeb. Contiene un botón de acción inmediata con texto tipo "Empeiza ahora" para dirigirse al formulario de "Registrarse".
+
+<p align="center">
+  <img src="images/landingPage/hero.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Sección ¿Cómo funciona?:
+
+Explicación sencilla en 3 pasos de como funciona nuestra plataforma.
+
+<p align="center">
+  <img src="images/landingPage/how-it-works.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Seccion Planes:
+
+Explicación de los diferentes planes con sus beneficios y montos de pago
+<p align="center">
+  <img src="images/landingPage/planes-landingpage.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Seccion ¿Quíenes somos?:
+
+Explicación breve del el startup BioPafi y una frase representativa.
+<p align="center">
+  <img src="images/landingPage/aboutus-landingpage.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Seccion Footer:
+
+Barra inferior fija con el logo de PlantSync, donde se encuentran Ayuda, Politicas , Redes Sociales y, Terminos y Condiciones , con su respectivo derechos de autor.
+<p align="center">
+  <img src="images/landingPage/footer-landingpage.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
++ Seccion Terminos y Condiciones:
+
+Explicación de los terminos y condiciones del producto
+<p align="center">
+  <img src="images/landingPage/terms-landingpage.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+Para este primer sprint no se vio una ejecutación de servicios.
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+En la primera fase de desarrollo de PlantSync, se ejecutaron las tareas preliminares de implementación centradas principalmente en el lanzamiento de la Landing Page estática. A continuación los pasos que utilizamos para desplegar la Landing:
+
++ Creación del repositorio
+
+Se creó el repositorio de la Landing page en la misma organización que el reporte en GitHub. Tambien a este repositorio se integraron las ramas (main) para ver la version final, (develop) para ir subiendo los commits. Además de crear el *index.html* y el *sytle.css*.
+
++ Configuración del entorno de despliegue:
+
+Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Esto es principalmente a su facilidad para configurar y desplegar desde la rama Main. Y actualizamos constantemente la Landing Page con los commits desde Develop. 
+
+  + Activación de GitHub Pages en el repositorio:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Confirmación del enlace del repositorio con entorno de publicación:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+  + Visualización de la Landing Page:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+[Link de la Landing Page](https://biopafi-opensource.github.io/plantSync-LandingPage/)
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>Alumno</b></td>
+      <td><b>Actividad</b></td>
+    </tr>
+    <tr>
+      <td>Palomino Fiestas, Erick Leonardo</td>
+      <td>Implementación de la sección del apartado ¿Quíenes Somos?</td>
+    </tr>
+    <tr>
+      <td>Gonzales Alvarado, Javier Sebastian</td>
+      <td>Implementación de el header, apartado principal y el apartado ¿Comó funciona?</td>
+    </tr>
+    <tr>
+      <td>Rivera Ratachi, Renzo Sebastian </td>
+      <td>Implementación del apartado de planes</td>
+    </tr>
+    <tr>
+      <td>Palomares Andrade, Sean Farith</td>
+      <td>Implementación de el footer</td>
+    </tr>
+    <tr>
+      <td>Torres Apolinario, Giovany Smith</td>
+      <td>Imprementación de el apartado de Terminos y Condiciones</td>
+    </tr>    
+  </tbody>
+</table>
+
+<p align="center">
+  <img src="images/insight-landingpage/evidencia1-sprint1.png" alt="evidencia-sprint" width="800">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/insight-landingpage/evidencia2-sprint1.png" alt="evidencia-sprint" width="800">
+</p>
+<br><br>
 
 ### 5.3. Validation Interviews
 
