@@ -3589,6 +3589,61 @@ Pasos para el despliegue de la Landing Page en GitHub Pages:
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
+<table border="1">
+  <thead>
+    <tr>
+      <th>Team Member<br>(Last Name, First Name)</th>
+      <th>Github Username</th>
+      <th>Contenido y Mensaje<br>Leader (L) / Collaborator (C)</th>
+      <th>Funcionalidades<br>(L) / (C)</th>
+      <th>Navegaion en el sistema<br>(L) / (C)</th>
+      <th>Deployment and optimización<br>(L) / (C)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Palomino Fiestas, Erick Leonardo</td>
+      <td>erickLeo13</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Gonzales Alvarado, Javier Sebastian</td>
+      <td>WoodsDos</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Palomares Andrade, Sean Farith</td>
+      <td>SeanPalomares</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Rivera Ratachi, Renzo Sebastian</td>
+      <td>renzor11</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Torres Apolinario, Giovany Smith</td>
+      <td>Giovany7x</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
 ##### 5.2.1.3. Sprint Backlog 1
 
 <table border="1">
