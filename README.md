@@ -303,7 +303,15 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-
+    - [5.2.2. Sprint 2](#522-sprint-2)  
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)  
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)  
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)  
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)  
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)  
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) 
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -3959,7 +3967,252 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
 </p>
 <br><br>
 
+---
 
+#### 5.2.2. Sprint 2
+
+##### 5.2.2.1. Sprint Planning 2
+
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 05 - 05</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>9:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Erik Palomino</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Javier Gonzales, Renzo Rivera, Giovany Smith, Sean Farith</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Review Summary</strong></td>
+    <td> En el Sprint 1 se finalizó con éxito la landing page estática, incorporando una navegación fluida, un encabezado fijo, secciones informativas, testimonios y un apartado de preguntas frecuentes.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Retorspective Summary</strong></td>
+    <td>El equipo destacó una adecuada coordinación y el cumplimiento de las tareas programadas, y sugirió como mejora una distribución más equitativa de las tareas técnicas entre los integrantes.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Goal</strong></td>
+    <td>Implementar el frontend funcional para las secciones de inicio de sesión, registro, perfil, oportunidades y gestión de proyectos, adaptado al rol de cada usuario.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Velocity</strong></td>
+    <td></td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.2.2. Aspect Leaders and Collaborators
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Autenticación (Login/Register)</strong></td>
+    <td><strong>Funcionalidad <br>Mis plantas <br>(Añadir, visualizar y editar)</strong></td>
+    <td><strong>Funcionalidad<br>Mis plantas <br>(Historial, ver clima y borrar)</strong></td>
+    <td><strong>Funcionalidad<br> Guias</strong></td>
+    <td><strong>Funcionalidad<br> Tareas y Chatbot</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>rezor11</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Torres Apolinario, Giovany Smith</td>
+    <td>Giovany7x</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Palomares Andrade, Sean Farith</td>
+    <td>SeanPalomares</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.2.3. Sprint Backlog 2
+
+Durante el primer sprint backlog, el equipo tuvo la tarea de realizar y completar la landing page. La herramienta empleada para la organización y gestión a los miembros del equipo fue Trello. Ya que esta herramienta permitió que se pueda dividir todas las user stories
+en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era
+construir en su totalidad la landing page, logrando que sea atractiva y funcional.
+
+<img src="images/SprintBacklogTrello.png" alt="wireflows" width="1000">
+
+link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03b44403b8b5969a8a70d46cf329895CDBE/1asi0730-2510-4376-unittalents
+
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="8">Sprint 2</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="7">WorkItem-Task</th>
+        </tr>
+        <tr>
+            <th>US-ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Acceptance Criteria</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+
+##### 5.2.2.4. Development Evidence for Sprint Review 
+
+<table align="center">
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>develop</td>
+    <td>38b3314</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>09/05/25</td>
+  </tr>
+</table>
+
+<br>
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+
+
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+<br>
+
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Torres Apolinario, Giovany Smith</td>
+    <td>Giovany7x</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Palomares Andrade, Sean Farith</td>
+    <td>SeanPalomares</td>
+    <td></td>
+  </tr>
+</table>
+<br><br>
 ---
 
 ## Conclusiones
