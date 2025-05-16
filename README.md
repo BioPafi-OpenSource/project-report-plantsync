@@ -3874,9 +3874,9 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
 
 Este Sprint se enfocó en desarrollar las funcionalidades esenciales para que los usuarios puedan registrar y gestionar el cuidado de sus plantas. Se trabajó en la visualización de tareas, acceso a perfiles de planta, edición y eliminación de registros, sincronización con el clima local y la integración del asistente RootBot. Además, se implementaron los módulos de autenticación (registro e inicio de sesión) y la visualización de guías personalizadas según el tipo de planta.
 
-<img src="" alt="sprint-backlog" width="1000">
+<img src="images/evidencia-sprint2/sprint-backlog2.png" alt="sprint-backlog2" width="1000">
 
-link al trello: 
+link al trello: https://trello.com/b/Cd1t98Sr/sprint-2-backlog
 
 <br><br>
 
@@ -4367,6 +4367,26 @@ Se certifica la exitosa implementación de la aplicación web frontend en Azure 
 </table>
 <br><br>
 
+Repositorio Aplicacion Web:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia2-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia1-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+Repositorio Landing Page:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia4-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia3-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
@@ -4418,3 +4438,6 @@ https://www.serpar.gob.pe/noticias/10-cosas-que-debes-aprender-sobre-el-cuidado-
 **Videos de Exposiciones**
 
 + **TB1:** [Link Exposición TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EQXTJiEwaBVMtM0ZB7FqT48BHhLEJHhZxA3HTmbBOQK8Kg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DgFxBb)
+
+
++ **TP1:** [Link Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ERme61BdAqRPhoKR7Ql5b2UB3ykeXWxgqbxTaeFgv0tVpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=pwUKmL)
