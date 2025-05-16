@@ -317,7 +317,15 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-
+    - [5.2.2. Sprint 2](#522-sprint-2)  
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)  
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)  
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)  
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)  
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)  
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) 
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -3755,12 +3763,616 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
 </p>
 <br><br>
 
-
 ---
+
+#### 5.2.2. Sprint 2
+
+##### 5.2.2.1. Sprint Planning 2
+
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 05 - 05</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>9:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Erik Palomino</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Javier Gonzales, Renzo Rivera, Giovany Smith, Sean Farith</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Review Summary</strong></td>
+    <td> En el Sprint 1 se finalizó con éxito la landing page estática, incorporando una navegación fluida, un encabezado fijo, secciones informativas, testimonios y un apartado de preguntas frecuentes.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Retorspective Summary</strong></td>
+    <td>El equipo destacó una adecuada coordinación y el cumplimiento de las tareas programadas, y sugirió como mejora una distribución más equitativa de las tareas técnicas entre los integrantes.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Goal</strong></td>
+    <td>Implementar el frontend funcional para las secciones de inicio de sesión, registro, perfil, oportunidades y gestión de proyectos, adaptado al rol de cada usuario.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Velocity</strong></td>
+    <td>50</td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.2.2. Aspect Leaders and Collaborators
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Autenticación (Login/Register)</strong></td>
+    <td><strong>Funcionalidad <br>Mis plantas <br>(Añadir, visualizar y editar)</strong></td>
+    <td><strong>Funcionalidad<br>Mis plantas <br>(Historial, ver clima y borrar)</strong></td>
+    <td><strong>Funcionalidad<br> Guias</strong></td>
+    <td><strong>Funcionalidad<br> Tareas y Chatbot</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>rezor11</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Torres Apolinario, Giovany Smith</td>
+    <td>Giovany7x</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.2.3. Sprint Backlog 2
+
+Este Sprint se enfocó en desarrollar las funcionalidades esenciales para que los usuarios puedan registrar y gestionar el cuidado de sus plantas. Se trabajó en la visualización de tareas, acceso a perfiles de planta, edición y eliminación de registros, sincronización con el clima local y la integración del asistente RootBot. Además, se implementaron los módulos de autenticación (registro e inicio de sesión) y la visualización de guías personalizadas según el tipo de planta.
+
+<img src="" alt="sprint-backlog" width="1000">
+
+link al trello: 
+
+<br><br>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint #</th>
+      <th colspan="7">Sprint 2</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="7">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimated (Hours)</th>
+      <th>Assigned to</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US01</td>
+      <td>Registro de una nueva planta</td>
+      <td>T01</td>
+      <td>Formulario y backend de registro</td>
+      <td>Como usuario que cuida plantas, quiero registrar una nueva planta con nombre, tipo y foto, para llevar el control de su cuidado.</td>
+      <td>5</td>
+      <td>Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Visualización de tareas de cuidado</td>
+      <td>T02</td>
+      <td>Listado de tareas en dashboard</td>
+      <td>Como usuario con plantas registradas, quiero ver las tareas pendientes de cuidado, para saber qué debo hacer cada día.</td>
+      <td>3</td>
+      <td>Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Acceder a perfil de planta</td>
+      <td>T03</td>
+      <td>Vista detallada de planta</td>
+      <td>Como usuario, quiero acceder a los perfiles de las plantas que poseo para ver su información actual.</td>
+      <td>4</td>
+      <td>Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US08</td>
+      <td>Guía de cuidado personalizada</td>
+      <td>T04</td>
+      <td>Sección de recomendaciones en ficha</td>
+      <td>Como usuario con plantas registradas, quiero recibir recomendaciones de cuidado personalizadas, para mantenerlas saludables según su tipo.</td>
+      <td>3</td>
+      <td>Giovany Torres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Visualización de tareas con fechas</td>
+      <td>T05</td>
+      <td>Agenda de tareas con calendario</td>
+      <td>Como usuario, quiero ver mis tareas del día por fechas para poder organizarme mejor en el cuidado de las mismas.</td>
+      <td>3</td>
+      <td>Renzo Rivera</td>
+      <td>In Proccess</td>
+    </tr>
+    <tr>
+      <td>US10</td>
+      <td>Sincronización con clima local</td>
+      <td>T06</td>
+      <td>Integración con API del clima</td>
+      <td>Como usuario, quiero que el sistema considere el clima local al sugerir cuidados, para no regar innecesariamente si ha llovido.</td>
+      <td>4</td>
+      <td>Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US11</td>
+      <td>Consultas al asistente RootBot</td>
+      <td>T07</td>
+      <td>Integración del chatbot RootBot</td>
+      <td>Como usuario que tiene preguntas rápidas sobre el cuidado de mis plantas, quiero poder escribir mis consultas al chatbot dentro de la app, para recibir respuestas inmediatas y recomendaciones útiles.</td>
+      <td>6</td>
+      <td>Renzo Rivera</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US13</td>
+      <td>Edición de datos de planta</td>
+      <td>T08</td>
+      <td>Formulario para editar planta</td>
+      <td>Como usuario que cuida plantas, quiero editar la información de una planta registrada, para actualizar datos como su nombre, tipo o imagen.</td>
+      <td>3</td>
+      <td>Erick Palomino</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US14</td>
+      <td>Eliminación de planta</td>
+      <td>T09</td>
+      <td>Botón y confirmación para eliminar</td>
+      <td>Como usuario, quiero eliminar una planta de mi lista, para quitar aquellas que ya no tengo o que se han perdido.</td>
+      <td>3</td>
+      <td>Giovany Torres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US18</td>
+      <td>Inicio sesión de usuario</td>
+      <td>T10</td>
+      <td>Login y validación</td>
+      <td>Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta y mis plantas monitoreadas.</td>
+      <td>4</td>
+      <td>Erick Palomino</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US19</td>
+      <td>Registrarse en la app</td>
+      <td>T11</td>
+      <td>Formulario de registro</td>
+      <td>Como usuario quiero registrarme en la app para crear mi cuenta y acceder a sus funcionalidades.</td>
+      <td>4</td>
+      <td>Erick Palomino</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br>
+
+
+##### 5.2.2.4. Development Evidence for Sprint Review 
+
+<table align="center">
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+    <td>main</td>
+    <td>20ed84b</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>08/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>b4eb88e</td>
+    <td>add plant-form, plant-detail and mis plantas</td>
+    <td>add plant-form, plant-detail and mis plantas</td>
+    <td>13/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>548995e</td>
+    <td>fix: fixed the api connections</td>
+    <td>fixed the api connections</td>
+    <td>13/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>feat: add tasks dashboard</td>
+    <td>Added a dashboard that shows todays tasks and upcoming tasks, allows deletion</td>
+    <td>6a01e3f</td>
+    <td>14/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>docs: add routing for chatbot</td>
+    <td>added routing for chatbot page and a chatbot view template</td>
+    <td>753747b</td>
+    <td>14/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>feature: add guides</td>
+    <td>add guides</td>
+    <td>76f40ca</td>
+    <td>14/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>feat: added the login and register form</td>
+    <td>added the login, register form and the logout form</td>
+    <td>ecbfb81</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>feature: add  chatbot feature</td>
+    <td>Added chatbot feature, answers basic questions about registered plants, supports routing</td>
+    <td>05cb9a1</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>fix: fixed base.service.spec.ts error</td>
+    <td>fixed a bug  related to template type in base service</td>
+    <td>59468f2</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>fix: fixed faulty imports</td>
+    <td>Fixed imports on my-plants component</td>
+    <td>b7febc8</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>fix: fixed task date logic</td>
+    <td>upcoming tasks shows only future tasks and not tasks with a different date than today</td>
+    <td>bbd5ca0</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>feat: added view history and weather api</td>
+    <td>added view history and weather api</td>
+    <td>2bfda69</td>
+    <td>15/05/25</td>
+  </tr>
+</table>
+
+<br>
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+
+
+En este Sprint 2 se realizo la version 2.0 de nuestro landing page, Tambien se realizo el desarrollo parcial de la aplicacion web de nuestro proyecto. Este permite al usuario navegar por ciertas funcionalidades. En las siguientes imagenes se evidenciara lo realizado:
+
+- US18: Inicio sesión de usuario
+
+<p align="center">
+  <img src="images/evidencia-sprint2/login-sprint2.png" alt="login-sprint2" width="800">
+</p>
+
+- US19: Registrarse en la app
+
+<p align="center">
+  <img src="images/evidencia-sprint2/register-sprint2.png" alt="register-sprint2" width="800">
+</p>
+
+- US01: Registro de una nueva planta
+
+<p align="center">
+  <img src="images/evidencia-sprint2/agregarPlanta-sprint2.png" alt="agregarPlanta-sprint2" width="800">
+</p>
+
+- US05: Acceder a perfil de planta
+
+<p align="center">
+  <img src="images/evidencia-sprint2/perfilPlanta-sprint2.png" alt="perfilPlanta-sprint2" width="800">
+</p>
+
+- US13: Edición de datos de plantas
+
+<p align="center">
+  <img src="images/evidencia-sprint2/editarPlanta-sprint2.png" alt="editarPlanta-sprint2" width="800">
+</p>
+
+- US14: Eliminación de planta
+
+<p align="center">
+  <img src="images/evidencia-sprint2/eliminarPlanta-sprint2.png" alt="eliminarPlanta-sprint2" width="800">
+</p>
+
+- US10: Sincronizacion con clima local
+
+<p align="center">
+  <img src="images/evidencia-sprint2/clima-sprint2.png" alt="clima-sprint2" width="800">
+</p>
+
+- US11: Consultas al asistente RootBot
+
+<p align="center">
+  <img src="images/evidencia-sprint2/rootbot-sprint2.png" alt="rootbot2-sprint2" width="800">
+</p>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/rootbot2-sprint2.png" alt="rootbot2-sprint2" width="800">
+</p>
+
+- US03: Visualizacion de tareas de cuidado
+
+<p align="center">
+  <img src="images/evidencia-sprint2/tareas-sprint2.png" alt="tareas-sprint2" width="800">
+</p>
+
+- US09: Visualizacion de tareas con fecha
+
+<p align="center">
+  <img src="images/evidencia-sprint2/tareas2-sprint2.png" alt="tareas2-sprint2" width="800">
+</p>
+
+- US08: Guia de cuidado personalizada
+
+<p align="center">
+  <img src="images/evidencia-sprint2/guias-sprint2.png" alt="guia-sprint2" width="800">
+</p>
+
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+<br><br>
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Acciones soportadas</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Request</th>
+      <th>Ejemplo de Response</th>
+      <th>Documentación (URL)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/plants</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>id (path), userId, name, species, humidity, imageUrl</td>
+      <td><code>POST /plants</code><br>{ "name": "Cactus", "species": "Suculenta", "userId": 1 }</td>
+      <td>{ "id": 10, "name": "Cactus", "userId": 1 }</td>
+      <td>http://localhost:3000/api-docs</td>
+    </tr>
+    <tr>
+      <td>/tasks</td>
+      <td>GET, POST, PUT</td>
+      <td>userId, plantId, date, action</td>
+      <td><code>GET /tasks?userId=1</code></td>
+      <td>[{ "id": 3, "action": "Fertilizar", "date": "2025-05-17" }]</td>
+      <td>http://localhost:3000/api-docs</td>
+    </tr>
+    <tr>
+      <td>/users</td>
+      <td>GET, POST, PUT</td>
+      <td>id (path), email, password, name</td>
+      <td><code>POST /users</code><br>{ "email": "javier@example.com", "password": "123456" }</td>
+      <td>{ "id": 1, "name": "Javier", "email": "javier@example.com" }</td>
+      <td>http://localhost:3000/api-docs</td>
+    </tr>
+    <tr>
+      <td>/weatherTips</td>
+      <td>GET</td>
+      <td>humidity (query param)</td>
+      <td><code>GET /weatherTips?humidity=Alta</code></td>
+      <td>{ "tip": "Evita regar si ha llovido recientemente" }</td>
+      <td>http://localhost:3000/api-docs</td>
+    </tr>
+    <tr>
+      <td>/weatherStatus</td>
+      <td>GET</td>
+      <td>lat, lon (query)</td>
+      <td><code>GET /weatherStatus?lat=-12.1&lon=-77.03</code></td>
+      <td>{ "weather": "Rain", "temp": 19 }</td>
+      <td>http://localhost:3000/api-docs</td>
+    </tr>
+    <tr>
+      <td>/guides</td>
+      <td>GET</td>
+      <td>plantType (query)</td>
+      <td><code>GET /guides?plantType=Suculenta</code></td>
+      <td>{ "type": "Suculenta", "recommendations": ["Riego semanal", "Mucho sol"] }</td>
+      <td>http://localhost:3000/api-docs</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<br><br>
+
+
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Landing page:
+
+- Configuración del entorno de despliegue:
+
+Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Esto es principalmente a su facilidad para configurar y desplegar desde la rama Main. Y actualizamos constantemente la Landing Page con los commits desde Develop.
+
+- Activación de GitHub Pages en el repositorio:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Confirmación del enlace del repositorio con entorno de publicación:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización de la Landing Page:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+[Link de la Landing Page](https://biopafi-opensource.github.io/plantSync-LandingPage/)
+
+Web App:
+Se certifica la exitosa implementación de la aplicación web frontend en Azure App Service, utilizando la rama "chore" del repositorio. El despliegue se realizó a partir del directorio generado con el comando de construcción ng build --configuration production, el cual produce la carpeta dist/plant-sync. Esta fue configurada como directorio de publicación estática en Azure, completando satisfactoriamente el proceso de despliegue de la aplicación mediante el entorno de ejecución Node.js provisto por la plataforma.
+
+- Visualización Actions desde el Github:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización del recurso de Azure:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización de la Static WebApp:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+<br>
+
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>Implementación del login y register</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>Implementación de la sección mis plantas</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>Implementación del chatBot y mis tareas</td>
+  </tr>
+  <tr>
+    <td>Torres Apolinario, Giovany Smith</td>
+    <td>Giovany7x</td>
+    <td>Implementación de la sección guías y el router</td>
+  </tr>
+</table>
+<br><br>
 
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
+
+*TB1*
+---
 
 - Se puede concluir que existe una gran cantidad de personas que no tiene mucha experiencia en el cuidado de plantas, lo cual conlleva a que sus plantas sufran enfermedades o en el peor de los casos se mueran por la falta de cuidado.
 
@@ -3779,7 +4391,17 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
 - El trabajo por sprints es fundamental para avanzar de manera constante y organizada. Definir un límite de user story points evita la sobrecarga de tareas, permitiendo un desarrollo adecuado del Landing Page.
 
 - El Sprint 1 resultó ser una excelente estrategia para integrar los User Stories priorizados en el primer entregable. Cada integrante del equipo participó activamente en el desarrollo colaborativo del Landing Page en el repositorio, complementado con reuniones de retroalimentación grupal.
+
+
+*TP*
 ---
+- Además, se corrigieron los errores identificados en el primer entregable, lo que permitió mejorar tanto la estructura como la funcionalidad inicial del proyecto. Estos ajustes se realizaron en base a las observaciones recibidas, lo que reflejó una actitud proactiva del equipo frente a la mejora continua del producto.
+
+- Durante el Sprint 2 se logró desarrollar de manera satisfactoria el front-end de la aplicación web, utilizando Angular Material para asegurar una interfaz moderna, accesible y consistente. Esta tecnología permitió integrar componentes reutilizables que mejoraron la experiencia de usuario y optimizaron los tiempos de desarrollo.
+
+- Asimismo, se implementó un entorno en la nube con Azure para desplegar la aplicación web, lo que facilitó la visualización remota del proyecto, fortaleciendo su disponibilidad y permitiendo una mayor visibilidad del avance frente a los stakeholders.
+
+- Finalmente, se utilizó una Mock API para simular la carga de datos desde la red, lo que permitió validar el funcionamiento dinámico de los componentes desarrollados, asegurando la integración adecuada del front-end con una futura API real. Esto proporcionó una base sólida para continuar con las siguientes etapas del desarrollo.
 
 ## Bibliografía
 
