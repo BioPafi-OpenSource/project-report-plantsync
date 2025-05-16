@@ -1506,17 +1506,6 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
     </tr>
     <tr>
       <td>US06</td>
-      <td>Visualización de tareas de cuidado</td>
-      <td>Como usuario con plantas registradas, quiero ver las tareas pendientes de cuidado, para saber qué debo hacer cada día.</td>
-      <td>
-        <p><strong>Escenario 1:</strong> Tareas del día visibles</p>
-        <p>Dado que el usuario tiene tareas programadas, cuando entra al panel principal o calendario, entonces se muestra la lista de tareas del día.</p>
-        <p><strong>Escenario 2:</strong> Sin tareas pendientes</p>
-        <p>Dado que no hay tareas para hoy, cuando entra al panel, entonces se muestra: "No hay tareas para hoy".</p>
-      </td>
-      <td>EP02</td>
-    </tr>
-      <td>US07</td>
       <td>Registro manual de tarea completada</td>
       <td>Como usuario que sigue un calendario de cuidado, quiero marcar una tarea como realizada, para llevar un registro actualizado del estado de mis plantas.</td>
       <td>
@@ -1526,7 +1515,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP02</td>
     </tr>
     <tr>
-      <td>US08</td>
+      <td>US07</td>
       <td>Guía de cuidado personalizada</td>
       <td>Como usuario con plantas registradas, quiero recibir recomendaciones de cuidado personalizadas, para mantenerlas saludables según su tipo.</td>
       <td>
@@ -1538,7 +1527,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP03</td>
     </tr>
     <tr>
-      <td>US09</td>
+      <td>US08</td>
       <td>Visualización de tareas con fechas</td>
       <td>Como usuario, quiero ver mis tareas del dia por fechas para poder organizarme mejor en el cuidado de las mismas</td>
       <td>
@@ -1550,7 +1539,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP02</td>
     </tr>
     <tr>
-      <td>US10</td>
+      <td>US09</td>
       <td>Sincronización con clima local</td>
       <td>Como usuario, quiero que el sistema considere el clima local al sugerir cuidados, para no regar innecesariamente si ha llovido.</td>
       <td>
@@ -1562,7 +1551,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP03</td>
     </tr>
     <tr>
-      <td>US11</td>
+      <td>US10</td>
       <td>Consultas sobre cuidado al asistente RootBot</td>
       <td>Como usuario que tiene preguntas rápidas sobre el cuidado de mis plantas, quiero poder escribir mis consultas al chatbot dentro de la app, para recibir respuestas inmediatas y recomendaciones útiles sin salir del flujo de uso.</td>
       <td>
@@ -1572,7 +1561,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP03</td>
     </tr>
     <tr>
-      <td>US12</td>
+      <td>US11</td>
       <td>Subir fotos de una planta</td>
       <td>Como usuario, quiero subir una imágenen de una planta a lo largo del tiempo, para ver su evolución.</td>
       <td>
@@ -1582,7 +1571,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP02</td>
     </tr>
     <tr>
-      <td>US13</td>
+      <td>US12</td>
       <td>Edición de datos de planta</td>
       <td>Como usuario que cuida plantas, quiero editar la información de una planta registrada, para actualizar datos como su nombre, tipo o imagen.</td>
       <td>
@@ -1594,7 +1583,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP01</td>
     </tr>
     <tr>
-      <td>US14</td>
+      <td>US13</td>
       <td>Eliminación de planta</td>
       <td>Como usuario, quiero eliminar una planta de mi lista, para quitar aquellas que ya no tengo o que se han perdido.</td>
       <td>
@@ -1606,7 +1595,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP01</td>
     </tr>
     <tr>
-      <td>US15</td>
+      <td>US14</td>
       <td>Reconocimiento de plantas por imagen</td>
       <td>Como usuario, quiero tomar una foto de una planta y que el sistema la reconozca, para saber su nombre y cuidados recomendados.</td>
       <td>
@@ -1618,7 +1607,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP03</td>
     </tr>
     <tr>
-      <td>US16</td>
+      <td>US15</td>
       <td>Filtrar plantas por estado</td>
       <td>Como usuario, quiero filtrar mis plantas según su estado (saludable, en riesgo, requiere atención), para priorizar acciones de cuidado.</td>
       <td>
@@ -1630,7 +1619,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP01</td>
     </tr>
     <tr>
-      <td>US17</td>
+      <td>US16</td>
       <td>Establecer objetivos de cuidado</td>
       <td>Como usuario, quiero fijar metas como mantener vivas mis plantas por un número determinado de días, para motivarme a cumplir mis tareas de cuidado.</td>
       <td>
@@ -1642,7 +1631,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP05</td>
     </tr>
     <tr>
-      <td>US18</td>
+      <td>US17</td>
       <td>Inicio sesión de usuario</td>
       <td>Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta y mis plantas monitoreadas.</td>
       <td>
@@ -1656,7 +1645,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP04</td>
     </tr>
     <tr>
-      <td>US19</td>
+      <td>US18</td>
       <td>Registrarse en la app</td>
       <td>Como usuario quiero registrarme en la app para crear mi cuenta y acceder a sus funcionalidades</td>
       <td>
@@ -1666,7 +1655,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP04</td>
     </tr>
     <tr>
-      <td>US20</td>
+      <td>US19</td>
       <td>Visualización de perfil de usuario</td>
       <td>Como usuario, quiero ver mi perfil con estadísticas sobre mis plantas, para tener una visión general de mis actividades de cuidado.</td>
       <td>
@@ -1678,7 +1667,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP04</td>
     </tr>
     <tr>
-      <td>US21</td>
+      <td>US20</td>
       <td>Edición del perfil del usuario</td>
       <td>Como usuario que inició sesión, quiero editar mi nombre, imagen, correo y contraseña de mi perfil, para mantener mi información actualizada.</td>
       <td>
@@ -1688,7 +1677,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP04</td>
     </tr>
     <tr>
-      <td>US22</td>
+      <td>US21</td>
       <td>Recuperación de contraseña</td>
       <td>Como usuario registrado, quiero poder recuperar mi contraseña si la olvido, para acceder nuevamente a mi cuenta.</td>
       <td>
@@ -1700,7 +1689,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP05</td>
     </tr>
     <tr>
-      <td>US23</td>
+      <td>US22</td>
       <td>Acceso a soporte técnico</td>
       <td>Como usuario, quiero contactar con soporte en caso de problemas, para recibir ayuda de forma rápida.</td>
       <td>
@@ -1712,7 +1701,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP05</td>
     </tr>
     <tr>
-      <td>US24</td>
+      <td>US23</td>
       <td>Acceder desde múltiples dispositivos</td>
       <td>Como usuario, quiero acceder a mi cuenta desde diferentes dispositivos, para gestionar mis plantas desde donde me encuentre.</td>
       <td>
@@ -1724,7 +1713,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP04</td>
     </tr>
     <tr>
-      <td>US25</td>
+      <td>US24</td>
       <td>Modo oscuro en la interfaz</td>
       <td>Como usuario, quiero activar el modo oscuro, para usar la aplicación en ambientes con poca luz.</td>
       <td>
@@ -1736,7 +1725,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP04</td>
     </tr>
     <tr>
-      <td>US26</td>
+      <td>US25</td>
       <td>Recibir boletines con novedades</td>
       <td>Como usuario, quiero recibir correos o notificaciones con novedades sobre plantas, para mantenerme informado y aprender más.</td>
       <td>
@@ -1748,7 +1737,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP05</td>
     </tr>
     <tr>
-      <td>US27</td>
+      <td>US26</td>
       <td>Sección principal con mensaje claro</td>
       <td>Como visitante de la landing page, quiero ver de inmediato el mensaje principal del sitio al ingresar, para así saber de qué trata la página sin tener que desplazarme.</td>
       <td>
@@ -1758,7 +1747,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP06</td>
     </tr>
     <tr>
-      <td>US28</td>
+      <td>US27</td>
       <td>Comparar planes de suscripción</td>
       <td>Como visitante de la landing page, quiero comparar fácilmente los planes de suscripción para elegir el que mejor se ajuste a mis necesidades</td>
       <td>
@@ -1768,7 +1757,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP06</td>
     </tr>
     <tr>
-      <td>US29</td>
+      <td>US28</td>
       <td>Visualizar información sobre la empresa</td>
       <td>Como visitante de la landing page, quiero conocer más sobre la empresa detrás del servicio, para confiar en el producto antes de suscribirme.</td>
       <td>
@@ -1778,7 +1767,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP06</td>
     </tr>
     <tr>
-      <td>US30</td>
+      <td>US29</td>
       <td>Visualización del botón "Acceder" en la parte superior</td>
       <td>Como visitante de la landing page, quiero ver un botón de "Acceder" en la parte superior de la landing, para saber que más adelante podré ingresar a mi cuenta.</td>
       <td>
@@ -1788,7 +1777,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP06</td>
     </tr>
     <tr>
-      <td>US31</td>
+      <td>US30</td>
       <td>Botón llamativo "Empieza ahora" visible</td>
       <td>Como visitante de la landing page, quiero ver un botón llamativo de "Empieza ahora" en la landing, para sentirme invitado a comenzar con el servicio.</td>
       <td>
@@ -1798,7 +1787,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>EP06</td>
     </tr>
     <tr>
-      <td>US32</td>
+      <td>US31</td>
       <td>Selección de idioma</td>
       <td>Como usuario, quiero elegir el idioma de la pagina web para usarla cómodamente	</td>
       <td>
@@ -1831,56 +1820,56 @@ Enlace: [Impact Map en UXPRESSIA]()
     </tr>
     <tr>
       <td>1</td>
-      <td>US29</td>
+      <td>US26</td>
       <td>Sección principal con mensaje claro</td>
       <td>Como visitante de la landing page, quiero ver de inmediato el mensaje principal del sitio al ingresar, para así saber de qué trata la página sin tener que desplazarme.	</td>
       <td>2</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>US30</td>
+        <td>US27</td>
         <td>Comparar planes de suscripción</td>
         <td>Como visitante de la landing page, quiero comparar fácilmente los planes de suscripción para elegir el que mejor se ajuste a mis necesidades</td>
         <td>3</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>US31</td>
+        <td>US28</td>
         <td>Visualizar información sobre la empresa</td>
         <td>Como visitante de la landing page, quiero conocer más sobre la empresa detrás del servicio, para confiar en el producto antes de suscribirme.	</td>
         <td>2</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>US32</td>
+        <td>US29</td>
         <td>Visualización de botón "Acceder" en la cabecera</td>
         <td>Como visitante de la landing page, quiero ver un botón de "Acceder" en la parte superior de la landing, para saber que más adelante podré ingresar a mi cuenta.	</td>
         <td>1</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>US33</td>
+        <td>US30</td>
         <td>Visualización del botón "Empieza ahora" en la landing</td>
         <td>Como visitante de la landing page, quiero ver un botón llamativo de "Empieza ahora" en la landing, para sentirme invitado a comenzar con el servicio.</td>
         <td>1</td>
     </tr>
       <tr>
         <td>6</td>
-        <td>US21</td>
+        <td>US18</td>
         <td>Registrarse en la app</td>
         <td>Como usuario quiero registrarme en la app para crear mi cuenta y acceder a sus funcionalidades	</td>
         <td>3</td>
       </tr>
     <tr>
         <td>7</td>
-        <td>US20</td>
+        <td>US17</td>
         <td>Inicio sesión de usuario</td>
         <td>Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta y mis plantas monitoreadas.	</td>
         <td>3</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>US23</td>
+      <td>US20</td>
       <td>Edición del perfil del usuario</td>
       <td>Como usuario que inicio sesión, quiero editar mi nombre, imagen, correo y contraseña de mi perfil, para mantener mi información actualizada.</td>
       <td>2</td>
@@ -1901,38 +1890,31 @@ Enlace: [Impact Map en UXPRESSIA]()
     </tr>
     <tr>
         <td>11</td>
-        <td>US34</td>
+        <td>US31</td>
         <td>Selección de idioma</td>
         <td>Como usuario, quiero elegir el idioma de la pagina web para usarla cómodamente	</td>
         <td>2</td>
     </tr>
     <tr>
         <td>12</td>
-        <td>US07</td>
+        <td>US06</td>
         <td>Registro manual de tarea completada</td>
         <td>Como usuario que sigue un calendario de cuidado, quiero marcar una tarea como realizada, para llevar un registro actualizado del estado de mis plantas.	</td>
         <td>5</td>
     </tr>
     <tr>
         <td>13</td>
-        <td>US08</td>
+        <td>US07</td>
         <td>Guía de cuidado personalizada</td>
         <td>Como usuario con plantas registradas, quiero recibir recomendaciones de cuidado personalizadas, para mantenerlas saludables según su tipo.</td>
         <td>5</td>
     </tr>
     <tr>
         <td>14</td>
-        <td>US11</td>
+        <td>US10</td>
         <td>Consultas sobre cuidado al asistente RootBot</td>
         <td>Como usuario que tiene preguntas rápidas sobre el cuidado de mis plantas, quiero poder escribir mis consultas al chatbot dentro de la app, para recibir respuestas inmediatas y recomendaciones útiles sin salir del flujo de uso.	</td>
         <td>8</td>
-    </tr>
-    <tr>
-        <td>15</td>
-        <td>US06</td>
-        <td>Visualización de tareas de cuidado</td>
-        <td>Como usuario con plantas registradas, quiero ver las tareas pendientes de cuidado, para saber qué debo hacer cada día</td>
-        <td>2</td>
     </tr>
     <tr>
         <td>16</td>
@@ -1957,98 +1939,98 @@ Enlace: [Impact Map en UXPRESSIA]()
     </tr>
     <tr>
         <td>19</td>
-        <td>US09</td>
+        <td>US08</td>
         <td>Visualización de tareas con fechas</td>
         <td>Como usuario, quiero ver mis tareas del dia por fechas para poder organizarme mejor en el cuidado de las mismas</td>
         <td>5</td>
     </tr>
     <tr>
         <td>20</td>
-        <td>US10</td>
+        <td>US09</td>
         <td>Sincronización con clima local</td>
         <td>Como usuario, quiero que el sistema considere el clima local al sugerir cuidados, para no regar innecesariamente si ha llovido.</td>
         <td>5</td>
     </tr>
     <tr>
         <td>21</td>
-        <td>US12</td>
+        <td>US11</td>
         <td>Subir fotos de una planta</td>
         <td>Como usuario, quiero subir una imágenen de una planta a lo largo del tiempo, para ver su evolución.</td>
         <td>3</td>
     </tr>
     <tr>
         <td>22</td>
-        <td>US13</td>
+        <td>US12</td>
         <td>Edición de datos de planta</td>
         <td>Como usuario que cuida plantas, quiero editar la información de una planta registrada, para actualizar datos como su nombre, tipo o imagen.</td>
         <td>3</td>
     </tr>
     <tr>
         <td>23</td>
-        <td>US14</td>
+        <td>US13</td>
         <td>Eliminación de planta</td>
         <td>Como usuario, quiero eliminar una planta de mi lista, para quitar aquellas que ya no tengo o que se han perdido.</td>
         <td>3</td>
     </tr>
     <tr>
         <td>24</td>
-        <td>US16</td>
+        <td>US15</td>
         <td>Filtrar plantas por estado</td>
         <td>Como usuario, quiero filtrar mis plantas según su estado (saludable, en riesgo, requiere atención), para priorizar acciones de cuidado.</td>
         <td>2</td>
     </tr>
     <tr>
         <td>25</td>
-        <td>US15</td>
+        <td>US14</td>
         <td>Reconocimiento de plantas por imagen</td>
         <td>Como usuario, quiero tomar una foto de una planta y que el sistema la reconozca, para saber su nombre y cuidados recomendados.</td>
         <td>3</td>
     </tr>
     <tr>
         <td>26</td>
-        <td>US17</td>
+        <td>US16</td>
         <td>Establecer objetivos de cuidado</td>
         <td>Como usuario, quiero fijar metas como mantener vivas mis plantas por un número determinado de días, para motivarme a cumplir mis tareas de cuidado.</td>
         <td>2</td>
     </tr>
     <tr>
         <td>27</td>
-        <td>US22</td>
+        <td>US19</td>
         <td>Visualización de perfil de usuario</td>
         <td>Como usuario, quiero ver mi perfil con estadísticas sobre mis plantas, para tener una visión general de mis actividades de cuidado.</td>
         <td>3</td>
     </tr>
     <tr>
         <td>28</td>
-        <td>US24</td>
+        <td>US21</td>
         <td>Recuperación de contraseña</td>
         <td>Como usuario registrado, quiero poder recuperar mi contraseña si la olvido, para acceder nuevamente a mi cuenta.</td>
         <td>3</td>
     </tr>
     <tr>
         <td>29</td>
-        <td>US25</td>
+        <td>US22</td>
         <td>Acceso a soporte técnico</td>
         <td>Como usuario, quiero contactar con soporte en caso de problemas, para recibir ayuda de forma rápida.</td>
         <td>2</td>
     </tr>
     <tr>
         <td>30</td>
-        <td>US26</td>
+        <td>US23</td>
         <td>Acceder desde múltiples dispositivos</td>
         <td>Como usuario, quiero acceder a mi cuenta desde diferentes dispositivos, para gestionar mis plantas desde donde me encuentre.</td>
         <td>3</td>
     </tr>
     <tr>
         <td>31</td>
-        <td>US27</td>
+        <td>US24</td>
         <td>Modo oscuro en la interfaz</td>
         <td>Como usuario, quiero activar el modo oscuro, para usar la aplicación en ambientes con poca luz.</td>
         <td>1</td>
     </tr>
     <tr>
         <td>32</td>
-        <td>US28</td>
+        <td>US25</td>
         <td>Recibir boletines con novedades</td>
         <td>Como usuario, quiero recibir correos o notificaciones con novedades sobre plantas, para mantenerme informado y aprender más.</td>
         <td>1</td>
