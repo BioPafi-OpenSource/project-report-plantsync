@@ -4018,7 +4018,7 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
   </tr>
   <tr>
     <td><strong>Sprint 2 Velocity</strong></td>
-    <td></td>
+    <td>50</td>
   </tr>
 </table>
 <br>
