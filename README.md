@@ -4078,9 +4078,9 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
 
 Este Sprint se enfocó en desarrollar las funcionalidades esenciales para que los usuarios puedan registrar y gestionar el cuidado de sus plantas. Se trabajó en la visualización de tareas, acceso a perfiles de planta, edición y eliminación de registros, sincronización con el clima local y la integración del asistente RootBot. Además, se implementaron los módulos de autenticación (registro e inicio de sesión) y la visualización de guías personalizadas según el tipo de planta.
 
-<img src="" alt="sprint-backlog" width="1000">
+<img src="images/evidencia-sprint2/sprint-backlog2.png" alt="sprint-backlog" width="1000">
 
-link al trello: 
+link al trello: https://trello.com/b/Cd1t98Sr/sprint-2-backlog 
 
 <br><br>
 
@@ -4336,13 +4336,85 @@ link al trello:
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
+En este Sprint 2 se realizo la version 2.0 de nuestro landing page, Tambien se realizo el desarrollo parcial de la aplicacion web de nuestro proyecto. Este permite al usuario navegar por ciertas funcionalidades. En las siguientes imagenes se evidenciara lo realizado:
 
+US18: Inicio sesión de usuario
+
+<p align="center">
+  <img src="images/evidencia-sprint2/login-sprint2.png" alt="login-sprint2" width="800">
+</p>
+
+US19: Registrarse en la app
+
+<p align="center">
+  <img src="images/evidencia-sprint2/register-sprint2.png" alt="register-sprint2" width="800">
+</p>
+
+US01: Registro de una nueva planta
+
+<p align="center">
+  <img src="images/evidencia-sprint2/agregarPlanta-sprint2.png" alt="agregarPlanta-sprint2" width="800">
+</p>
+
+US05: Acceder a perfil de planta
+
+<p align="center">
+  <img src="images/evidencia-sprint2/perfilPlanta-sprint2.png" alt="perfilPlanta-sprint2" width="800">
+</p>
+
+US13: Edición de datos de plantas
+
+<p align="center">
+  <img src="images/evidencia-sprint2/editarPlanta-sprint2.png" alt="editarPlanta-sprint2" width="800">
+</p>
+
+US14: Eliminación de planta
+
+<p align="center">
+  <img src="images/evidencia-sprint2/eliminarPlanta-sprint2.png" alt="eliminarPlanta-sprint2" width="800">
+</p>
+
+US10: Sincronizacion con clima local
+
+<p align="center">
+  <img src="images/evidencia-sprint2/clima-sprint2.png" alt="clima-sprint2" width="800">
+</p>
+
+US11: Consultas al asistente RootBot
+
+<p align="center">
+  <img src="images/evidencia-sprint2/rootbot-sprint2.png" alt="rootbot2-sprint2" width="800">
+</p>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/rootbot2-sprint2.png" alt="rootbot2-sprint2" width="800">
+</p>
+
+US03: Visualizacion de tareas de cuidado
+
+<p align="center">
+  <img src="images/evidencia-sprint2/tareas-sprint2.png" alt="tareas-sprint2" width="800">
+</p>
+
+US09: Visualizacion de tareas con fecha
+
+<p align="center">
+  <img src="images/evidencia-sprint2/tareas2-sprint2.png" alt="tareas2-sprint2" width="800">
+</p>
+
+US08: Guia de cuidado personalizada
+
+<p align="center">
+  <img src="images/evidencia-sprint2/guias-sprint2.png" alt="guia-sprint2" width="800">
+</p>
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 <br>
@@ -4375,6 +4447,27 @@ link al trello:
   </tr>
 </table>
 <br><br>
+
+Repositorio Web Application:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia2-team-sprint2.png" alt="guia-sprint2" width="800">
+</p>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia1-team-sprint2.png" alt="guia-sprint2" width="800">
+</p>
+
+Repositorio Landing Page:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia4-team-sprint2.png" alt="guia-sprint2" width="800">
+</p>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia3-team-sprint2.png" alt="guia-sprint2" width="800">
+</p>
+
 ---
 
 ## Conclusiones
