@@ -4078,9 +4078,9 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
 
 Este Sprint se enfocó en desarrollar las funcionalidades esenciales para que los usuarios puedan registrar y gestionar el cuidado de sus plantas. Se trabajó en la visualización de tareas, acceso a perfiles de planta, edición y eliminación de registros, sincronización con el clima local y la integración del asistente RootBot. Además, se implementaron los módulos de autenticación (registro e inicio de sesión) y la visualización de guías personalizadas según el tipo de planta.
 
-<img src="images/evidencia-sprint2/sprint-backlog2.png" alt="sprint-backlog" width="1000">
+<img src="" alt="sprint-backlog" width="1000">
 
-link al trello: https://trello.com/b/Cd1t98Sr/sprint-2-backlog 
+link al trello: 
 
 <br><br>
 
@@ -4336,84 +4336,135 @@ link al trello: https://trello.com/b/Cd1t98Sr/sprint-2-backlog
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
-En este Sprint 2 se realizo la version 2.0 de nuestro landing page, Tambien se realizo el desarrollo parcial de la aplicacion web de nuestro proyecto. Este permite al usuario navegar por ciertas funcionalidades. En las siguientes imagenes se evidenciara lo realizado:
 
-US18: Inicio sesión de usuario
-
-<p align="center">
-  <img src="images/evidencia-sprint2/login-sprint2.png" alt="login-sprint2" width="800">
-</p>
-
-US19: Registrarse en la app
-
-<p align="center">
-  <img src="images/evidencia-sprint2/register-sprint2.png" alt="register-sprint2" width="800">
-</p>
-
-US01: Registro de una nueva planta
-
-<p align="center">
-  <img src="images/evidencia-sprint2/agregarPlanta-sprint2.png" alt="agregarPlanta-sprint2" width="800">
-</p>
-
-US05: Acceder a perfil de planta
-
-<p align="center">
-  <img src="images/evidencia-sprint2/perfilPlanta-sprint2.png" alt="perfilPlanta-sprint2" width="800">
-</p>
-
-US13: Edición de datos de plantas
-
-<p align="center">
-  <img src="images/evidencia-sprint2/editarPlanta-sprint2.png" alt="editarPlanta-sprint2" width="800">
-</p>
-
-US14: Eliminación de planta
-
-<p align="center">
-  <img src="images/evidencia-sprint2/eliminarPlanta-sprint2.png" alt="eliminarPlanta-sprint2" width="800">
-</p>
-
-US10: Sincronizacion con clima local
-
-<p align="center">
-  <img src="images/evidencia-sprint2/clima-sprint2.png" alt="clima-sprint2" width="800">
-</p>
-
-US11: Consultas al asistente RootBot
-
-<p align="center">
-  <img src="images/evidencia-sprint2/rootbot-sprint2.png" alt="rootbot2-sprint2" width="800">
-</p>
-
-<p align="center">
-  <img src="images/evidencia-sprint2/rootbot2-sprint2.png" alt="rootbot2-sprint2" width="800">
-</p>
-
-US03: Visualizacion de tareas de cuidado
-
-<p align="center">
-  <img src="images/evidencia-sprint2/tareas-sprint2.png" alt="tareas-sprint2" width="800">
-</p>
-
-US09: Visualizacion de tareas con fecha
-
-<p align="center">
-  <img src="images/evidencia-sprint2/tareas2-sprint2.png" alt="tareas2-sprint2" width="800">
-</p>
-
-US08: Guia de cuidado personalizada
-
-<p align="center">
-  <img src="images/evidencia-sprint2/guias-sprint2.png" alt="guia-sprint2" width="800">
-</p>
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+<br><br>
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Acciones soportadas</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Request</th>
+      <th>Ejemplo de Response</th>
+      <th>Documentación (URL)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/plants</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>id (path), userId, name, species, humidity, imageUrl</td>
+      <td><code>POST /plants</code><br>{ "name": "Cactus", "species": "Suculenta", "userId": 1 }</td>
+      <td>{ "id": 10, "name": "Cactus", "userId": 1 }</td>
+      <td>http://localhost:3000/api-docs</td>
+    </tr>
+    <tr>
+      <td>/tasks</td>
+      <td>GET, POST, PUT</td>
+      <td>userId, plantId, date, action</td>
+      <td><code>GET /tasks?userId=1</code></td>
+      <td>[{ "id": 3, "action": "Fertilizar", "date": "2025-05-17" }]</td>
+      <td>http://localhost:3000/api-docs</td>
+    </tr>
+    <tr>
+      <td>/users</td>
+      <td>GET, POST, PUT</td>
+      <td>id (path), email, password, name</td>
+      <td><code>POST /users</code><br>{ "email": "javier@example.com", "password": "123456" }</td>
+      <td>{ "id": 1, "name": "Javier", "email": "javier@example.com" }</td>
+      <td>http://localhost:3000/api-docs</td>
+    </tr>
+    <tr>
+      <td>/weatherTips</td>
+      <td>GET</td>
+      <td>humidity (query param)</td>
+      <td><code>GET /weatherTips?humidity=Alta</code></td>
+      <td>{ "tip": "Evita regar si ha llovido recientemente" }</td>
+      <td>http://localhost:3000/api-docs</td>
+    </tr>
+    <tr>
+      <td>/weatherStatus</td>
+      <td>GET</td>
+      <td>lat, lon (query)</td>
+      <td><code>GET /weatherStatus?lat=-12.1&lon=-77.03</code></td>
+      <td>{ "weather": "Rain", "temp": 19 }</td>
+      <td>http://localhost:3000/api-docs</td>
+    </tr>
+    <tr>
+      <td>/guides</td>
+      <td>GET</td>
+      <td>plantType (query)</td>
+      <td><code>GET /guides?plantType=Suculenta</code></td>
+      <td>{ "type": "Suculenta", "recommendations": ["Riego semanal", "Mucho sol"] }</td>
+      <td>http://localhost:3000/api-docs</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<br><br>
 
 
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Landing page:
+
+- Configuración del entorno de despliegue:
+
+Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Esto es principalmente a su facilidad para configurar y desplegar desde la rama Main. Y actualizamos constantemente la Landing Page con los commits desde Develop.
+
+- Activación de GitHub Pages en el repositorio:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Confirmación del enlace del repositorio con entorno de publicación:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización de la Landing Page:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+[Link de la Landing Page](https://biopafi-opensource.github.io/plantSync-LandingPage/)
+
+Web App:
+Se certifica la exitosa implementación de la aplicación web frontend en Azure App Service, utilizando la rama "chore" del repositorio. El despliegue se realizó a partir del directorio generado con el comando de construcción ng build --configuration production, el cual produce la carpeta dist/plant-sync. Esta fue configurada como directorio de publicación estática en Azure, completando satisfactoriamente el proceso de despliegue de la aplicación mediante el entorno de ejecución Node.js provisto por la plataforma.
+
+- Visualización Actions desde el Github:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización del recurso de Azure:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización de la Static WebApp:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
 
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
@@ -4448,31 +4499,12 @@ US08: Guia de cuidado personalizada
 </table>
 <br><br>
 
-Repositorio Web Application:
-
-<p align="center">
-  <img src="images/evidencia-sprint2/evidencia2-team-sprint2.png" alt="guia-sprint2" width="800">
-</p>
-
-<p align="center">
-  <img src="images/evidencia-sprint2/evidencia1-team-sprint2.png" alt="guia-sprint2" width="800">
-</p>
-
-Repositorio Landing Page:
-
-<p align="center">
-  <img src="images/evidencia-sprint2/evidencia4-team-sprint2.png" alt="guia-sprint2" width="800">
-</p>
-
-<p align="center">
-  <img src="images/evidencia-sprint2/evidencia3-team-sprint2.png" alt="guia-sprint2" width="800">
-</p>
-
----
-
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
+
+*TB1*
+---
 
 - Se puede concluir que existe una gran cantidad de personas que no tiene mucha experiencia en el cuidado de plantas, lo cual conlleva a que sus plantas sufran enfermedades o en el peor de los casos se mueran por la falta de cuidado.
 
@@ -4491,7 +4523,17 @@ Repositorio Landing Page:
 - El trabajo por sprints es fundamental para avanzar de manera constante y organizada. Definir un límite de user story points evita la sobrecarga de tareas, permitiendo un desarrollo adecuado del Landing Page.
 
 - El Sprint 1 resultó ser una excelente estrategia para integrar los User Stories priorizados en el primer entregable. Cada integrante del equipo participó activamente en el desarrollo colaborativo del Landing Page en el repositorio, complementado con reuniones de retroalimentación grupal.
+
+
+*TP*
 ---
+- Además, se corrigieron los errores identificados en el primer entregable, lo que permitió mejorar tanto la estructura como la funcionalidad inicial del proyecto. Estos ajustes se realizaron en base a las observaciones recibidas, lo que reflejó una actitud proactiva del equipo frente a la mejora continua del producto.
+
+- Durante el Sprint 2 se logró desarrollar de manera satisfactoria el front-end de la aplicación web, utilizando Angular Material para asegurar una interfaz moderna, accesible y consistente. Esta tecnología permitió integrar componentes reutilizables que mejoraron la experiencia de usuario y optimizaron los tiempos de desarrollo.
+
+- Asimismo, se implementó un entorno en la nube con Azure para desplegar la aplicación web, lo que facilitó la visualización remota del proyecto, fortaleciendo su disponibilidad y permitiendo una mayor visibilidad del avance frente a los stakeholders.
+
+- Finalmente, se utilizó una Mock API para simular la carga de datos desde la red, lo que permitió validar el funcionamiento dinámico de los componentes desarrollados, asegurando la integración adecuada del front-end con una futura API real. Esto proporcionó una base sólida para continuar con las siguientes etapas del desarrollo.
 
 ## Bibliografía
 
