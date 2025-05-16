@@ -2816,9 +2816,9 @@ Fuente: Elaborado con structurizr
 
 #### 4.7.1. Class Diagrams
 
-<img src="images/plantsync-class-diagram.png" alt="class-diagram" width="1000">
+<img src="images/BioPafi-PlantSync-Class Diagram.png" alt="class-diagram" width="1000">
 
-[Enlace al diagrama de clases en Lucidchart](https://lucid.app/lucidchart/71aae26d-573f-4be7-82fe-42fed6ec6e8d/view)
+[Enlace al diagrama de clases en Lucidchart](https://lucid.app/lucidchart/7c54dd1b-95df-4695-b9fd-662c620b0ea1/edit?viewport_loc=3516%2C-29%2C6259%2C2960%2CHWEp-vi-RSFO&invitationId=inv_1351b1e5-61e1-490e-ba8b-fd92b6661710)
 
 #### 4.7.2. Class Dictionary
 
