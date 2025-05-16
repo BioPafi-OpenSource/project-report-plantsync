@@ -2975,7 +2975,7 @@ Fuente: Elaborado con structurizr
 
 El diagrama de contenedores ofrece una visión general de las conexiones entre aplicaciones y fuentes de datos en el sistema PlantSync. Muestra cómo interactúan y dependen entre sí para su funcionamiento.
 
-![C4 COMTAINER](https://imgur.com/mSzG2RS.jpg)
+![C4 COMTAINER](https://imgur.com/zpsx1M6.jpg)
 Fuente: Elaborado con structurizr
 
 #### 4.6.3. Software Architecture Components Diagrams
