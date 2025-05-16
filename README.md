@@ -4049,7 +4049,7 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
     <td>WoodsDos</td>
     <td>C</td>
     <td>L</td>
-    <td>C</td>
+    <td>L</td>
     <td>C</td>
     <td>C</td>
   </tr>
@@ -4071,75 +4071,154 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
     <td>L</td>
     <td>C</td>
   </tr>
-  <tr>
-    <td>Palomares Andrade, Sean Farith</td>
-    <td>SeanPalomares</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
 </table>
 <br>
 
 ##### 5.2.2.3. Sprint Backlog 2
 
-Durante el primer sprint backlog, el equipo tuvo la tarea de realizar y completar la landing page. La herramienta empleada para la organización y gestión a los miembros del equipo fue Trello. Ya que esta herramienta permitió que se pueda dividir todas las user stories
-en tareas manejables, para luego asi asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era
-construir en su totalidad la landing page, logrando que sea atractiva y funcional.
+Este Sprint se enfocó en desarrollar las funcionalidades esenciales para que los usuarios puedan registrar y gestionar el cuidado de sus plantas. Se trabajó en la visualización de tareas, acceso a perfiles de planta, edición y eliminación de registros, sincronización con el clima local y la integración del asistente RootBot. Además, se implementaron los módulos de autenticación (registro e inicio de sesión) y la visualización de guías personalizadas según el tipo de planta.
 
-<img src="images/SprintBacklogTrello.png" alt="wireflows" width="1000">
+<img src="" alt="sprint-backlog" width="1000">
 
-link al trello: https://trello.com/invite/b/680c67136f8b25dc0a5f3435/ATTIba8ec03b44403b8b5969a8a70d46cf329895CDBE/1asi0730-2510-4376-unittalents
+link al trello: 
 
-<table border="1" cellspacing="0" cellpadding="5">
-    <thead>
-        <tr>
-            <th>Sprint #</th>
-            <th colspan="8">Sprint 2</th>
-        </tr>
-        <tr>
-            <th colspan="2">User Story</th>
-            <th colspan="7">WorkItem-Task</th>
-        </tr>
-        <tr>
-            <th>US-ID</th>
-            <th>Title</th>
-            <th>ID</th>
-            <th>Title</th>
-            <th>Description</th>
-            <th>Acceptance Criteria</th>
-            <th>Estimation (Hours)</th>
-            <th>Assigned To</th>
-            <th>Status</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
+<br><br>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint #</th>
+      <th colspan="7">Sprint 2</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="7">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimated (Hours)</th>
+      <th>Assigned to</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US01</td>
+      <td>Registro de una nueva planta</td>
+      <td>T01</td>
+      <td>Formulario y backend de registro</td>
+      <td>Como usuario que cuida plantas, quiero registrar una nueva planta con nombre, tipo y foto, para llevar el control de su cuidado.</td>
+      <td>5</td>
+      <td>Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Visualización de tareas de cuidado</td>
+      <td>T02</td>
+      <td>Listado de tareas en dashboard</td>
+      <td>Como usuario con plantas registradas, quiero ver las tareas pendientes de cuidado, para saber qué debo hacer cada día.</td>
+      <td>3</td>
+      <td>Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Acceder a perfil de planta</td>
+      <td>T03</td>
+      <td>Vista detallada de planta</td>
+      <td>Como usuario, quiero acceder a los perfiles de las plantas que poseo para ver su información actual.</td>
+      <td>4</td>
+      <td>Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US08</td>
+      <td>Guía de cuidado personalizada</td>
+      <td>T04</td>
+      <td>Sección de recomendaciones en ficha</td>
+      <td>Como usuario con plantas registradas, quiero recibir recomendaciones de cuidado personalizadas, para mantenerlas saludables según su tipo.</td>
+      <td>3</td>
+      <td>Giovany Torres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Visualización de tareas con fechas</td>
+      <td>T05</td>
+      <td>Agenda de tareas con calendario</td>
+      <td>Como usuario, quiero ver mis tareas del día por fechas para poder organizarme mejor en el cuidado de las mismas.</td>
+      <td>3</td>
+      <td>Renzo Rivera</td>
+      <td>In Proccess</td>
+    </tr>
+    <tr>
+      <td>US10</td>
+      <td>Sincronización con clima local</td>
+      <td>T06</td>
+      <td>Integración con API del clima</td>
+      <td>Como usuario, quiero que el sistema considere el clima local al sugerir cuidados, para no regar innecesariamente si ha llovido.</td>
+      <td>4</td>
+      <td>Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US11</td>
+      <td>Consultas al asistente RootBot</td>
+      <td>T07</td>
+      <td>Integración del chatbot RootBot</td>
+      <td>Como usuario que tiene preguntas rápidas sobre el cuidado de mis plantas, quiero poder escribir mis consultas al chatbot dentro de la app, para recibir respuestas inmediatas y recomendaciones útiles.</td>
+      <td>6</td>
+      <td>Renzo Rivera</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US13</td>
+      <td>Edición de datos de planta</td>
+      <td>T08</td>
+      <td>Formulario para editar planta</td>
+      <td>Como usuario que cuida plantas, quiero editar la información de una planta registrada, para actualizar datos como su nombre, tipo o imagen.</td>
+      <td>3</td>
+      <td>Erick Palomino</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US14</td>
+      <td>Eliminación de planta</td>
+      <td>T09</td>
+      <td>Botón y confirmación para eliminar</td>
+      <td>Como usuario, quiero eliminar una planta de mi lista, para quitar aquellas que ya no tengo o que se han perdido.</td>
+      <td>3</td>
+      <td>Giovany Torres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US18</td>
+      <td>Inicio sesión de usuario</td>
+      <td>T10</td>
+      <td>Login y validación</td>
+      <td>Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta y mis plantas monitoreadas.</td>
+      <td>4</td>
+      <td>Erick Palomino</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US19</td>
+      <td>Registrarse en la app</td>
+      <td>T11</td>
+      <td>Formulario de registro</td>
+      <td>Como usuario quiero registrarme en la app para crear mi cuenta y acceder a sus funcionalidades.</td>
+      <td>4</td>
+      <td>Erick Palomino</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
 </table>
+
 
 <br>
 
