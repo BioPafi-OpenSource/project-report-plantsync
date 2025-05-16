@@ -4235,12 +4235,100 @@ link al trello:
     <td><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td>https://github.com/UniTalents-project-G2/UniTalents-FrontEnd</td>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+    <td>main</td>
+    <td>20ed84b</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>08/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
     <td>develop</td>
-    <td>38b3314</td>
-    <td>Initial commit</td>
-    <td>Initial commit</td>
-    <td>09/05/25</td>
+    <td>b4eb88e</td>
+    <td>add plant-form, plant-detail and mis plantas</td>
+    <td>add plant-form, plant-detail and mis plantas</td>
+    <td>13/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>548995e</td>
+    <td>fix: fixed the api connections</td>
+    <td>fixed the api connections</td>
+    <td>13/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>feat: add tasks dashboard</td>
+    <td>Added a dashboard that shows todays tasks and upcoming tasks, allows deletion</td>
+    <td>6a01e3f</td>
+    <td>14/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>docs: add routing for chatbot</td>
+    <td>added routing for chatbot page and a chatbot view template</td>
+    <td>753747b</td>
+    <td>14/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>feature: add guides</td>
+    <td>add guides</td>
+    <td>76f40ca</td>
+    <td>14/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>feat: added the login and register form</td>
+    <td>added the login, register form and the logout form</td>
+    <td>ecbfb81</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>feature: add  chatbot feature</td>
+    <td>Added chatbot feature, answers basic questions about registered plants, supports routing</td>
+    <td>05cb9a1</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>fix: fixed base.service.spec.ts error</td>
+    <td>fixed a bug  related to template type in base service</td>
+    <td>59468f2</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>fix: fixed faulty imports</td>
+    <td>Fixed imports on my-plants component</td>
+    <td>b7febc8</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>fix: fixed task date logic</td>
+    <td>upcoming tasks shows only future tasks and not tasks with a different date than today</td>
+    <td>bbd5ca0</td>
+    <td>15/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>feat: added view history and weather api</td>
+    <td>added view history and weather api</td>
+    <td>2bfda69</td>
+    <td>15/05/25</td>
   </tr>
 </table>
 
@@ -4268,27 +4356,22 @@ link al trello:
   <tr>
     <td>Palomino Fiestas, Erik Leonardo</td>
     <td>ErickLeo13</td>
-    <td></td>
+    <td>Implementación del login y register</td>
   </tr>
   <tr>
     <td>Gonzales Alvarado, Javier Sebastian</td>
     <td>WoodsDos</td>
-    <td></td>
+    <td>Implementación de la sección mis plantas</td>
   </tr>
   <tr>
     <td>Rivera Ratachi, Renzo Sebastian</td>
     <td>renzor11</td>
-    <td></td>
+    <td>Implementación del chatBot y mis tareas</td>
   </tr>
   <tr>
     <td>Torres Apolinario, Giovany Smith</td>
     <td>Giovany7x</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Palomares Andrade, Sean Farith</td>
-    <td>SeanPalomares</td>
-    <td></td>
+    <td>Implementación de la sección guías y el router</td>
   </tr>
 </table>
 <br><br>
