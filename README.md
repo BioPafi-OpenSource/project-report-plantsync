@@ -2061,7 +2061,7 @@ Enlace: [Impact Map en UXPRESSIA]()
         <td>US07</td>
         <td>Guía de cuidado personalizada</td>
         <td>Como usuario con plantas registradas, quiero recibir recomendaciones de cuidado personalizadas, para mantenerlas saludables según su tipo.</td>
-        <td>5</td>
+        <td>8</td>
     </tr>
     <tr>
         <td>14</td>
