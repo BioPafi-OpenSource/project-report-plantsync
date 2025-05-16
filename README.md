@@ -146,6 +146,43 @@
     </td>
     <td>Realización del Software Configuration Managmente, Landing Page, Service & Application Implementation, Sprint 1 y Conclusiones</td>
   </tr>
+  <tr>
+    <td>2.1</td>
+    <td>05/05/25</td>
+    <td>
+    Palomino
+    </td>
+    <td>Mejora continua, correcion de user stories, product backlog, cambio de errores de formato</td>
+  </tr>
+  <tr>
+    <td>2.2</td>
+    <td>07/05/25</td>
+    <td>
+    Torres
+    </td>
+    <td>Mejora continua, correccion del diagrama de clases y diagrama DDD</td>
+  </tr>
+  <tr>
+    <td>2.3</td>
+    <td>15/05/25</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Torres
+    </td>
+    <td>Realización de todo el Sprint 2</td>
+  </tr>
+  <tr>
+    <td>2.4</td>
+    <td>16/05/25</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Torres
+    </td>
+    <td>Conclusiones, Link del exposicion TP1, studen outcome TP1 y Report Collaboration Insight, mejora continua, conversion a PDF</td>
 </table>
 
 ---
@@ -201,6 +238,47 @@
   </tr>
 </table>
 
+## **TP1**
+
+<table align="center">
+  <tr>
+    <td><strong>Integrante</strong></td>
+    <td><strong>Tareas Asignadas</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Erick Palomino
+    </td>
+    <td>
+      Implementación de la sección login y register, levantamiento de errores del informe, Student Outcome, project Collaboration Insight, landing Page V2 y Sprint 2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Javier Gonzales
+    </td>
+    <td>
+      Implementación de la sección de mis plantas, ver historial, recomendaciones del clima y deployment del front end y Sprint 2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Renzo Rivera
+    </td>
+    <td>
+      Implementacion del FrontEnd de Chatbot, FrontEnd de Tareas y Sprint 2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Giovany Torres
+    </td>
+    <td>
+      FrontEnd de Guías, corrección del diagrama de clases, realización de conclusiones del entregable TP1 y Sprint 2
+    </td>
+  </tr>
+</table>
+
 **GitHub Collaboration Insights**
 
 **Integrantes:**
@@ -209,6 +287,13 @@
 + Renzo Rivera (renzor11)
 + Giovany Torres (Giovany7x)
 + Sean Palomares (SeanPalomares)
+
+## **TB1**
+
+<p align="center">
+  <img src="images/insight-github/branch1-plantsync.png" alt="evidencia-sprint" width="800">
+</p>
+<br><br>
 
 <p align="center">
   <img src="images/insight-github/contributors1-plantsync.png" alt="evidencia-sprint" width="800">
@@ -220,10 +305,51 @@
 </p>
 <br><br>
 
+## **TP1**
+
+Repositorio Aplicacion Web:
+
 <p align="center">
-  <img src="images/insight-github/branch1-plantsync.png" alt="evidencia-sprint" width="800">
+  <img src="images/insight-github/branch-appweb-plantsync.png" alt="evidencia-sprint" width="800">
 </p>
 <br><br>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia2-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia1-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+Repositorio Landing Page:
+
+<p align="center">
+  <img src="images/insight-github/branch-landingpage-plantsync.png" alt="evidencia-sprint" width="800">
+</p>
+<br><br>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia4-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia3-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+Repositorio Informe:
+
+<p align="center">
+  <img src="images/insight-github/branch2-plantsync.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/insight-github/contributors2-plantsync.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/insight-github/overview2-plantsync.png" alt="evidencia-sprint" width="1000">
+</p>
 
 ---
 
@@ -348,20 +474,30 @@
       <strong>Erick Palomino:</strong>
       TB1 - Participación en la presentación oral de la propuesta inicial del proyecto, explicación de Startup Profile y Lineamientos de Estilo.
       <br><br>
+      TP1 - Presentó avances técnicos relacionados a la autenticación del sistema (login y register), además de explicar el funcionamiento de la Landing Page V2 y el módulo de colaboración.
+      <br><br>
       <strong>Javier Gonzales:</strong>
       TB1 - Presentación oral de los resultados de entrevistas y de la estructura de la Landing Page.
       <br><br>
+      TP1- Comunicó de forma clara las funcionalidades desarrolladas en la sección "Mis Plantas", el historial y recomendaciones climáticas en reuniones grupales.
+      <br><br>
       <strong>Renzo Rivera:</strong>
       TB1 – Exposición de análisis competitivo y explicación de los User Flow Diagrams durante la reunión grupal.
+      <br><br>
+      TP1- Expuso el diseño y lógica del FrontEnd del Chatbot y la sección de tareas, explicando su integración y mejoras.
       <br><br>
       <strong>Sean Palomares:</strong>
       TB1 - Explicación oral de los mapas de impacto y segmentación de objetivos en reuniones grupales.
       <br><br>
       <strong>Giovany Torres</strong>
       TB1 –  Presentación oral de los antecedentes, problemática y mapeos de escenarios en el desarrollo inicial del proyecto.
+      <br><br>
+      TP1 - Participó en la presentación oral del FrontEnd de Guías, así como en la explicación de cambios en la arquitectura de clases y conclusiones del entregable.
     </td>
     <td>
-      Como grupo, logramos una comunicación oral efectiva que facilitó la comprensión de las distintas etapas del proyecto. La coordinación de presentaciones y la exposición clara de ideas fortalecieron nuestro trabajo en equipo y permitieron que cada integrante aportara de forma precisa en su área asignada.
+      TB1:Como grupo, logramos una comunicación oral efectiva que facilitó la comprensión de las distintas etapas del proyecto. La coordinación de presentaciones y la exposición clara de ideas fortalecieron nuestro trabajo en equipo y permitieron que cada integrante aportara de forma precisa en su área asignada.
+      <br><br>
+      TP1:La comunicación oral fue fundamental para coordinar las tareas del proyecto y asegurar una comprensión común. Cada integrante presentó con claridad sus avances y propuestas, lo que permitió una integración efectiva del trabajo. Se logró una interacción fluida y profesional dentro del equipo.
     </td>
   </tr>
   <tr>
@@ -372,20 +508,30 @@
       <strong>Erick Palomino:</strong>
       TB1 – Redacción del Startup Profile, Style Guidelines, User Stories y contenido de la Landing Page.
       <br><br>
+      TP1 - Documentó los procesos implementados para login/register, colaboró en la redacción del Student Outcome y el informe técnico del Sprint 2.
+      <br><br>
       <strong>Javier Gonzales:</strong>
       TB1 –  Redacción del Lean UX Problem Statement, Assumptions y desarrollo de wireframes documentados.
       <br><br>
+      TP1 - Describió por escrito las funcionalidades del historial, recomendaciones y deployment del sistema, contribuyendo a la documentación del TP1.
+      <br><br>
       <strong>Renzo Rivera:</strong>
       TB1 –  Documentación escrita de análisis competitivo, User Personas, User Journey Mapping y Task Matrix.
+      <br><br>
+      TP1 - Elaboró descripciones técnicas del Chatbot y la sección de tareas, detallando los retos y soluciones en el informe parcial.
       <br><br>
       <strong>Sean Palomares:</strong>
       TB1 – Elaboración escrita de Hypothesis Statements, Product Backlog y base de diseño orientado a objetos.
       <br><br>
       <strong>Giovany Torres:</strong>
       TB1 –  Redacción de antecedentes, problemática, Empathy Mapping y documentos de arquitectura de software, incluyendo la conclusión escrita del reporte.
+      <br><br>
+      TP1 - Redactó el contenido del FrontEnd de Guías, corrigió el diagrama de clases y formuló las conclusiones del informe TP1.
     </td>
     <td>
-      Como equipo, fuimos capaces de producir documentos escritos claros y adaptados al público objetivo, asegurando la coherencia y calidad de la información entregada. Esto facilitó la comprensión del proyecto tanto para el equipo como para los revisores externos. El trabajo colaborativo en los entregables escritos fue clave para mantener una línea de comunicación efectiva en todo el desarrollo del proyecto.
+      TB1:Como equipo, fuimos capaces de producir documentos escritos claros y adaptados al público objetivo, asegurando la coherencia y calidad de la información entregada. Esto facilitó la comprensión del proyecto tanto para el equipo como para los revisores externos. El trabajo colaborativo en los entregables escritos fue clave para mantener una línea de comunicación efectiva en todo el desarrollo del proyecto.
+      <br><br>
+      TP1: La documentación escrita del trabajo parcial fue clara, precisa y permitió dejar registro estructurado de cada avance. Se cuidó el lenguaje técnico y la redacción, haciendo posible una comprensión adecuada tanto para el equipo como para evaluadores externos. La distribución de redacción fue equilibrada y colaborativa.
     </td>
   </tr>
 </table>
