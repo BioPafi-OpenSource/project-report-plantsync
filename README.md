@@ -4885,12 +4885,12 @@ link al trello:
   <tr>
     <td colspan="2" style="text-align:justify">
       Resumen:<br>
-      a
+      Pedro Vargas valoró especialmente la funcionalidad del calendario de riego, ya que le permite recordar cuándo atender sus plantas. Consideró fácil registrar las plantas, aunque notó la falta de una animación de carga. Encontró útil el historial para llevar seguimiento y cree que las guías pueden ser valiosas si se amplían a más especies. El sistema de tareas le pareció práctico y adaptable a sus rutinas. Sobre el asistente Rootbot, sugirió incluir diagnósticos y recomendaciones personalizadas ante problemas visibles en las plantas. Le sorprendió la capacidad de visualizar análisis y manejar muchas plantas a la vez, y ve con buenos ojos centralizar toda la información en un panel único. Sugirió añadir herramientas que permitan registrar síntomas y recibir orientación sobre problemas específicos. Finalmente, recomendaría la plataforma a otros cuidadores experimentados, especialmente si gestionan muchas plantas, por su utilidad para organizar y no olvidar tareas.
     </td>
   </tr>
   <tr>
 <td colspan="2">
-  <img src="#" alt="Screenshot Entrevista 2" width="1000">
+  <img src="images/evidencia-sprint3/entrevistavalidacion1-pedro.jpg" alt="Screenshot Entrevista 2" width="1000">
     </td>
   </tr>
 </table>
@@ -5005,13 +5005,13 @@ link al trello:
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
-      Resumen: a
+      Resumen: Estefano Solis expresó que la función principal de la app fue clara desde el inicio y que el proceso de registrar plantas fue sencillo, destacando la utilidad de identificar plantas con fotos. Consideró muy útil el historial para evitar errores de riego y valoró positivamente la sección de guías, ya que le evita buscar en Google. Las tareas y recordatorios fueron lo más útil para él como principiante, pues lo ayudaron a establecer hábitos de cuidado. Le sorprendió gratamente Rootbot, al permitirle resolver dudas rápidamente, y opinó que el dashboard está bien diseñado y es fácil de navegar. La app le dio confianza y alivio al facilitar el cuidado de plantas, motivándolo a tener más. Como sugerencia, propuso una función de diagnóstico por foto para detectar problemas visuales en las plantas, aunque en general considera que la app ya está bastante completa.
 <br>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="#" alt="screenshot entrevista estefano" width="1000">
+      <img src="images/evidencia-sprint3/entrevistavalidacion2-estefano.jpg" alt="screenshot entrevista estefano" width="1000">
     </td>
   </tr>
 </table>
@@ -5062,22 +5062,25 @@ link al trello:
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1. 
-2.
-3.
-4. 
-5.
-6.
-7.
-8.
+1. Login
+2. Visualizacion de Mis plantas
+3. Visualización de descripción de las plantas
+4. Agregar plantas 
+5. Eliminar planta
+6. Visualizar Tareas
+7. Ver Historial
+7. Crear Tareas
+8. Visualizar las guias
+9. Visualizar las descripciones de las guias
+10. Rootbot (chatbot)
+11. Visualización de configuración (perfil)
+12. Cerrar sesión
 
 No están incluidas en esta version de la evaluación las siguientes tareas:
 
-1.
-2.
-3.
-4.
-5.
+1. Internacionalización
+2. Registro de usuario
+3. Responsive de la aplicación
 
 **ESCALA DE SEVERIDAD**
 
