@@ -5123,27 +5123,27 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
     </tr>
     <tr>
       <td>1</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>Boton de retorno al landing page ausente</td>
+      <td>2</td>
+      <td>Control y libertad del usuario</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>No se aprecia bien el botón de "Ver Historial"</td>
+      <td>2</td>
+      <td>Visibilidad del estado del sistema / Estética y diseño minimalista</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>Pocas Preguntas en el apartado de Rootbot(chatbot)</td>
+      <td>1</td>
+      <td>Flexibilidad y eficiencia de uso</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>Pocas guias presentes en el apartado de Guias</td>
+      <td>2</td>
+      <td>Ayuda y documentación / Contenido relevante y útil</td>
     </tr>
         <tr>
       <td>5</td>
@@ -5168,51 +5168,100 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
-Problema #1: a
+Problema #1: Boton de retorno al landing page ausente
 
-Severidad: 3 - a
+Severidad: 2 - Moderada
 
-Problema: a
+Heurística violada: Control y libertad del usuario
 
-<img src="#" alt="screenshot heuristica 1" width="1000">
+Problema:  No se puede apreciar un botón o enlace visible que permita al usuario regresar al landing page desde el login, lo que puede generar confusión y dificultar la navegación general.
 
-Recomendación: a
+<img src="images/evidencia-sprint3/heuristica 1.jpg" alt="screenshot heuristica 1" width="1000">
 
----
-
-Problema #2: a
-
-Severidad: 3 - a
-
-Problema: a
-
-<img src="#" alt="screenshot heuristica 1" width="1000">
-
-Recomendación: a
+Recomendación: Incluir un botón o enlace claro y accesible en el login o register el cual permita regresar al landing page con un solo clic. Esto mejora la navegación general y respeta el principio de control y libertad del usuario.
 
 ---
 
-Problema #3: a
+Problema #2: No se aprecia bien el botón de "Ver Historial"
 
-Severidad: 3 - a
+Severidad:  2 - Moderada
 
-Problema: a
+Heurística violada: Visibilidad del estado del sistema / Estética y diseño minimalista
 
-<img src="#" alt="screenshot heuristica 1" width="1000">
+Problema: El botón de "Ver Historial" no es claramente visible o no destaca lo suficiente dentro de la interfaz, lo que puede provocar que los usuarios no lo encuentren fácilmente o ignoren su funcionalidad. Esto afecta la eficiencia al momento de acceder a información importante.
 
-Recomendación: a
+<img src="images/evidencia-sprint3/heuristica 2.jpg" alt="screenshot heuristica 2" width="1000">
+
+Recomendación: Mejorar la visibilidad del botón mediante un diseño más contrastante, posicionarlo en un lugar estratégico y considerar el uso de iconografía o etiquetas más destacadas. Asegurar que mantenga coherencia con el diseño general, pero que tenga suficiente peso visual para ser identificado rápidamente.
 
 ---
 
-Problema #4: a
+Problema #3: Pocas Preguntas en el apartado de Rootbot(chatbot)
 
-Severidad: 3 - a
+Severidad: 1 - Leve
 
-Problema: a
+Heurística violada: Flexibilidad y eficiencia de uso
 
-<img src="#" alt="screenshot heuristica 1" width="1000">
+Problema: El apartado del chatbot Rootbot presenta un número limitado de preguntas predefinidas, lo que reduce su utilidad y capacidad para resolver dudas frecuentes. Los usuarios pueden sentirse limitados en cuanto a las opciones disponibles, especialmente si no saben cómo formular sus propias consultas.
 
-Recomendación: a
+<img src="images/evidencia-sprint3/heuristica 3.jpg" alt="screenshot heuristica 3" width="1000">
+
+Recomendación: Ampliar el repertorio de preguntas frecuentes disponibles en el chatbot, priorizando aquellas relacionadas con las funcionalidades principales de la aplicación. Además, se podría categorizar las preguntas por temas para facilitar su exploración.
+---
+
+Problema #4: Pocas guias presentes en el apartado de Guias
+
+Severidad:  2 - Moderada
+
+Heurística violada: Ayuda y documentación / Contenido relevante y útil
+
+Problema: El apartado de Guías contiene muy pocos recursos sobre el cuidado de plantas, lo cual limita el valor informativo que ofrece la aplicación a los usuarios, especialmente a aquellos principiantes que buscan orientación clara y detallada sobre diferentes tipos de plantas o situaciones comunes.
+
+<img src="images/evidencia-sprint3/heuristica 4.jpg" alt="screenshot heuristica 4" width="1000">
+
+Recomendación: Ampliar la cantidad de guías disponibles, cubriendo una mayor variedad de plantas, climas y problemas frecuentes. Las guías deben estar organizadas de manera clara y accesible, con títulos descriptivos y, de ser posible, imágenes o infografías que faciliten la comprensión visual.
+
+---
+
+Problema #5:
+
+Severidad: 
+
+Heurística violada: 
+
+Problema: 
+
+<img src="#" alt="screenshot heuristica 5" width="1000">
+
+Recomendación:
+
+---
+
+Problema #6:
+
+Severidad: 
+
+Heurística violada: 
+
+Problema: 
+
+<img src="#" alt="screenshot heuristica 5" width="1000">
+
+Recomendación:
+
+---
+
+Problema #7:
+
+Severidad: 
+
+Heurística violada: 
+
+Problema: 
+
+<img src="#" alt="screenshot heuristica 5" width="1000">
+
+Recomendación:
 
 ---
 
