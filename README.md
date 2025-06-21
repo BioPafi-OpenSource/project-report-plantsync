@@ -4576,19 +4576,19 @@ Repositorio Landing Page:
   </tr>
   <tr>
     <td><strong>Prepared by</strong></td>
-    <td>Erik Palomino</td>
+    <td>Erick Palomino</td>
   </tr>
   <tr>
     <td><strong>Attendes (to planning meeting)</strong></td>
-    <td>Javier Gonzales, Renzo Rivera, Giovany Smith, Sean Farith</td>
+    <td>Javier Gonzales, Renzo Rivera, Giovany Smith</td>
   </tr>
   <tr>
-    <td><strong>Sprint 2 Review Summary</strong></td>
-    <td> a</td>
+    <td><strong>Sprint 3 Review Summary</strong></td>
+    <td> En el anterior sprint se pudo cumplir exitosamente con las User Stories relacionadas a la aplicación web.</td>
   </tr>
   <tr>
-    <td><strong>Sprint 2 Retorspective Summary</strong></td>
-    <td>a</td>
+    <td><strong>Sprint 3 Retrospective Summary</strong></td>
+    <td>En el anterior sprint, se pudo reestructurar la logica de las funcionalidades en el frontend, de modo que será más sencillo implementar servicios del Backend en futuras entregas.</td>
   </tr>
   <tr>
     <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
@@ -4657,7 +4657,7 @@ Repositorio Landing Page:
 
 ##### 5.2.3.3. Sprint Backlog 3
 
-Este Sprint se enfocó en ...
+Este Sprint se enfocó en crear parcialmente los endpoints en el back end y mejorar componentes del front end. Se utilizó Trello para asignar tareas a los miembros del equipo.
 
 <img src="#" alt="sprint-backlog3" width="1000">
 
