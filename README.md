@@ -4806,11 +4806,415 @@ link al trello:
 
 #### 5.3.1 Diseño de Entrevistas
 
+**Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):**
+
+**1.-** ¿Qué funcionalidades del dashboard consideras más valiosas para alguien con experiencia?
+
+
+**2.-** ¿Se te resulto facil registrar tus plantas y gestionar sus cuidados en “Mis Plantas”?
+
+**3.-** ¿La sección de historial te resulta útil para mantener un seguimiento avanzado?
+
+**4.-** ¿Qué opinión tienes sobre la calidad y nivel de profundidad de las guías disponibles?
+
+**5.-** ¿El sistema de tareas se adapta bien a tus rutinas de cuidado?
+
+
+**6.-** Al probar Rootbot ¿Consideras útil su asistencia para alguien con experiencia?
+
+**7.-** ¿Hay alguna función que te haya sorprendido o que no hayas visto en otras herramientas similares?
+
+**8.-** ¿Qué opinas de la posibilidad de centralizar todas las plantas y tareas en un solo panel?
+
+**9.-** ¿Qué herramientas adicionales crees que podrían aportar valor a usuarios avanzados?
+
+**10.-** ¿Recomendarías esta plataforma a otros cuidadores con experiencia? ¿Qué los motivaría a usarla?
+
+**Entrevista para personas con poca experiencia en el cuidado de plantas:**
+
+**1.-** ¿Te resultó clara la función principal de la app cuando entraste por primera vez?
+
+**2.-** ¿Qué te pareció el proceso de registrar una planta en “Mis Plantas”? ¿Fue fácil de seguir?
+
+**3.-** ¿El historial de cuidados te pareció útil para llevar un seguimiento?
+
+**4.-** ¿Te ayudó la sección de guías a entender mejor cómo cuidar tus plantas?
+
+**5.-** ¿La sección de tareas te ayudó a organizarte con el riego, la fertilización u otros cuidados?
+
+**6.-** ¿Que te parecio Rootbot, siendo una chatbot que te ayuda a resolver preguntas sobre tus plantas?
+
+**7.-** ¿Crees que el diseño del dashboard te permitió encontrar lo que necesitabas rápidamente?
+
+**8.-** ¿Qué sensación tuviste al usar la app? ¿Te dio confianza para empezar con tus plantas?
+
+**9.-** ¿Qué función te pareció más útil como principiante? ¿Por qué?
+
+**10.-** ¿Qué agregarías o cambiarías para que esta app ayude mejor a quienes recién empiezan?
+
 #### 5.3.2 Registro de Entrevistas
+
+## _Expertos cuidadores de plantas_
+
+<br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Pedro vargas</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>23 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href=# target="_blank"> upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      a
+    </td>
+  </tr>
+  <tr>
+<td colspan="2">
+  <img src="#" alt="Screenshot Entrevista 2" width="1000">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistada</strong></td>
+    <td>Leonor Gonzales</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>60 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="#" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      a
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="#" alt="Screenshot Entrevista 2" width="1000">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 3</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistada</strong></td>
+    <td>Guadalupe Alvarado</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>52 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="#" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      a
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="#" alt="Screenshot Entrevista 3" width="1000">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## _Principiantes cuidadores de plantas:_
+
+<br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Estefano Solis</td></td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Cercado de Lima</td></td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="#" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: a
+<br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="#" alt="screenshot entrevista estefano" width="1000">
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Andrea Elizabeth Santur Tello</td></td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>18 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Los Olivos</td></td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="#" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: a
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="#" alt="screenshot andrea santur" width="1000">
+    </td>
+  </tr>
+</table>
 
 #### 5.3.3 Evaluaciones según heurísticas
 
+**SITE o APP A EVALUAR:**
+
+*PlantSync*
+
+**TAREAS A EVALUAR**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. 
+2.
+3.
+4. 
+5.
+6.
+7.
+8.
+
+No están incluidas en esta version de la evaluación las siguientes tareas:
+
+1.
+2.
+3.
+4.
+5.
+
+**ESCALA DE SEVERIDAD**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>Nivel</b></td>
+      <td><b>Descripción</b></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+    </tr>
+    <tr>
+      <td>3 </td>
+      <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+    </tr>   
+  </tbody>
+</table>
+
+**TABLA RESUMEN**
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>#</b></td>
+      <td><b>Problema</b></td>
+      <td><b>Escala de severidad</b></td>
+      <td><b>Heurística/Principio violada(o)</b></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+        <tr>
+      <td>5</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>  
+  </tbody>
+</table>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+Problema #1: a
+
+Severidad: 3 - a
+
+Problema: a
+
+<img src="#" alt="screenshot heuristica 1" width="1000">
+
+Recomendación: a
+
+---
+
+Problema #2: a
+
+Severidad: 3 - a
+
+Problema: a
+
+<img src="#" alt="screenshot heuristica 1" width="1000">
+
+Recomendación: a
+
+---
+
+Problema #3: a
+
+Severidad: 3 - a
+
+Problema: a
+
+<img src="#" alt="screenshot heuristica 1" width="1000">
+
+Recomendación: a
+
+---
+
+Problema #4: a
+
+Severidad: 3 - a
+
+Problema: a
+
+<img src="#" alt="screenshot heuristica 1" width="1000">
+
+Recomendación: a
+
+---
+
 ### 5.4 Video About-the-Product
+
 
 
 ## Conclusiones
