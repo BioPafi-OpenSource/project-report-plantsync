@@ -451,7 +451,22 @@ Repositorio Informe:
       - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)  
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
-      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) 
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)  
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)  
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)  
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)  
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)  
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)  
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)  
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)  
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint) 
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
+    - [5.3.1. Registro de Entrevistas](#532-registro-de-entrevistas) 
+    - [5.3.1. Evaluaciones según heurísticas](#533-evaluacion-según-heurísticas) 
+  - [5.4. Video About-the-Product](#54-validation-interviews) 
+
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -4532,6 +4547,271 @@ Repositorio Landing Page:
 <p align="center">
   <img src="images/evidencia-sprint2/evidencia3-team-sprint2.png" alt="evidencia-sprint" width="1000">
 </p>
+
+---
+
+#### 5.2.3. Sprint 3
+
+##### 5.2.3.1. Sprint Planning 3
+
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 08 - 06</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>9:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Erik Palomino</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Javier Gonzales, Renzo Rivera, Giovany Smith, Sean Farith</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Review Summary</strong></td>
+    <td> a</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Retorspective Summary</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Goal</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Velocity</strong></td>
+    <td>a</td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.3.2. Aspect Leaders and Collaborators
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>a</strong></td>
+    <td><strong>a</strong></td>
+    <td><strong>a</strong></td>
+    <td><strong>a</strong></td>
+    <td><strong>a</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>rezor11</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Torres Apolinario, Giovany Smith</td>
+    <td>Giovany7x</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.3.3. Sprint Backlog 3
+
+Este Sprint se enfocó en ...
+
+<img src="#" alt="sprint-backlog3" width="1000">
+
+link al trello: 
+
+<br><br>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint #</th>
+      <th colspan="7">Sprint 3</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="7">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimated (Hours)</th>
+      <th>Assigned to</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US01</td>
+      <td>Registro de una nueva planta</td>
+      <td>T01</td>
+      <td>Formulario y backend de registro</td>
+      <td>Como usuario que cuida plantas, quiero registrar una nueva planta con nombre, tipo y foto, para llevar el control de su cuidado.</td>
+      <td>5</td>
+      <td>Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br>
+
+##### 5.2.3.4. Development Evidence for Sprint Review 
+
+<table align="center">
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+    <td>main</td>
+    <td>20ed84b</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>08/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>b4eb88e</td>
+    <td>add plant-form, plant-detail and mis plantas</td>
+    <td>add plant-form, plant-detail and mis plantas</td>
+    <td>13/05/25</td>
+  </tr>
+</table>
+
+<br>
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Acciones soportadas</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Request</th>
+      <th>Ejemplo de Response</th>
+      <th>Documentación (URL)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/plants</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>id (path), userId, name, species, humidity, imageUrl</td>
+      <td><code>POST /plants</code><br>{ "name": "Cactus", "species": "Suculenta", "userId": 1 }</td>
+      <td>{ "id": 10, "name": "Cactus", "userId": 1 }</td>
+      <td>http://localhost:3000/api-docs</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<br><br>
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+<br>
+
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>Torres Apolinario, Giovany Smith</td>
+    <td>Giovany7x</td>
+    <td>a</td>
+  </tr>
+</table>
+<br><br>
+
+---
+
+### 5.3 Validation Interviews
+
+#### 5.3.1 Diseño de Entrevistas
+
+#### 5.3.2 Registro de Entrevistas
+
+#### 5.3.3 Evaluaciones según heurísticas
+
+### 5.4 Video About-the-Product
+
 
 ## Conclusiones
 
