@@ -183,6 +183,65 @@
     Torres
     </td>
     <td>Conclusiones, Link del exposicion TP1, studen outcome TP1 y Report Collaboration Insight, mejora continua, conversion a PDF</td>
+  </tr>
+  <tr>
+    <td>3.1</td>
+    <td>05/06/25</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Torres
+    </td>
+    <td>a</td>
+  </tr>
+  </tr>
+  <tr>
+    <td>3.2</td>
+    <td>09/06/25</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Torres
+    </td>
+    <td>a</td>
+  </tr>
+  </tr>
+  <tr>
+    <td>3.3</td>
+    <td>19/06/25</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Torres
+    </td>
+    <td>a</td>
+  </tr>
+  </tr>
+  <tr>
+    <td>3.4</td>
+    <td>21/06/25</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Torres
+    </td>
+    <td>Realización de todo el Sprint 3</td>
+  </tr>
+  <tr>
+    <td>3.5</td>
+    <td>21/06/25</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Torres
+    </td>
+    <td>a</td>
+  </tr>
 </table>
 
 ---
@@ -275,6 +334,47 @@
     </td>
     <td>
       FrontEnd de Guías, corrección del diagrama de clases, realización de conclusiones del entregable TP1 y Sprint 2
+    </td>
+  </tr>
+</table>
+
+## **TB2**
+
+<table align="center">
+  <tr>
+    <td><strong>Integrante</strong></td>
+    <td><strong>Tareas Asignadas</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Erick Palomino
+    </td>
+    <td>
+      a
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Javier Gonzales
+    </td>
+    <td>
+      a
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Renzo Rivera
+    </td>
+    <td>
+      a
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Giovany Torres
+    </td>
+    <td>
+      a
     </td>
   </tr>
 </table>
@@ -476,15 +576,21 @@ Repositorio Informe:
       <br><br>
       TP1 - Presentó avances técnicos relacionados a la autenticación del sistema (login y register), además de explicar el funcionamiento de la Landing Page V2 y el módulo de colaboración.
       <br><br>
+      TB2 - a
+      <br><br>
       <strong>Javier Gonzales:</strong>
       TB1 - Presentación oral de los resultados de entrevistas y de la estructura de la Landing Page.
       <br><br>
       TP1- Comunicó de forma clara las funcionalidades desarrolladas en la sección "Mis Plantas", el historial y recomendaciones climáticas en reuniones grupales.
       <br><br>
+      TB2 - a
+      <br><br>
       <strong>Renzo Rivera:</strong>
       TB1 – Exposición de análisis competitivo y explicación de los User Flow Diagrams durante la reunión grupal.
       <br><br>
       TP1- Expuso el diseño y lógica del FrontEnd del Chatbot y la sección de tareas, explicando su integración y mejoras.
+      <br><br>
+      TB2 - a
       <br><br>
       <strong>Sean Palomares:</strong>
       TB1 - Explicación oral de los mapas de impacto y segmentación de objetivos en reuniones grupales.
@@ -493,6 +599,9 @@ Repositorio Informe:
       TB1 –  Presentación oral de los antecedentes, problemática y mapeos de escenarios en el desarrollo inicial del proyecto.
       <br><br>
       TP1 - Participó en la presentación oral del FrontEnd de Guías, así como en la explicación de cambios en la arquitectura de clases y conclusiones del entregable.
+      <br><br>
+      TB2 - a
+      <br><br>
     </td>
     <td>
       TB1:Como grupo, logramos una comunicación oral efectiva que facilitó la comprensión de las distintas etapas del proyecto. La coordinación de presentaciones y la exposición clara de ideas fortalecieron nuestro trabajo en equipo y permitieron que cada integrante aportara de forma precisa en su área asignada.
