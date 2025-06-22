@@ -4924,12 +4924,12 @@ link al trello:
   <tr>
     <td colspan="2" style="text-align:justify">
       Resumen:<br>
-      a
+      Leonor González, una usuaria previamente entrevistada para identificar necesidades en el cuidado de plantas, participó en la prueba de la primera versión de PlantSync. Destacó la facilidad para registrar plantas, agregar fotos y editar información, así como la utilidad del historial de cuidados para no perder el seguimiento de cada planta. Le pareció interesante la función de clima y valoró la sección de tareas por permitirle marcar actividades como completadas. En la sección de guías sugirió ampliar el número de opciones, ya que solo se habían desarrollado tres. Aunque el chatbot le resultó innovador, lo consideró complicado de usar, sobre todo al gestionar fechas. Señaló algunas dificultades para visualizar botones y encabezados debido al tamaño del texto, pero en general encontró la aplicación sencilla, útil y con opciones flexibles en la sección de planes.
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="#" alt="Screenshot Entrevista 2" width="1000">
+      <img src="/images/validation-interview-leonor.png" alt="Screenshot Entrevista 2" width="1000">
     </td>
   </tr>
 </table>
@@ -5147,15 +5147,15 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
     </tr>
         <tr>
       <td>5</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>Dificultad para visualizar botones y encabezados debido al tamaño del texto.</td>
+      <td>3</td>
+      <td>Visibilidad del estado del sistema</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>Complejidad al usar el chatbot, especialmente para manejar fechas</td>
+      <td>3</td>
+      <td>Flexibilidad y eficiencia de uso / Prevención de errores.</td>
     </tr>
     <tr>
       <td>7</td>
@@ -5163,6 +5163,18 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
       <td>a</td>
       <td>a</td>
     </tr>  
+    <tr>
+      <td>8</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
   </tbody>
 </table>
 
@@ -5223,35 +5235,63 @@ Recomendación: Ampliar la cantidad de guías disponibles, cubriendo una mayor v
 
 ---
 
-Problema #5:
+Problema #5: Dificultad para visualizar botones y encabezados debido al tamaño del texto.
 
-Severidad: 
+Severidad: 3
 
-Heurística violada: 
+Heurística violada: Visibilidad del estado del sistema
 
-Problema: 
+Problema: Los botones y encabezados tienen textos demasiado pequeños para usuarios mayores, dificultando la lectura y localización rápida de opciones en la interfaz.
 
-<img src="#" alt="screenshot heuristica 5" width="1000">
+<img src="/images/heuristica5.png" alt="screenshot heuristica 5" width="1000">
 
-Recomendación:
+Recomendación: Aumentar el tamaño mínimo de fuente, implementar opciones de accesibilidad para ajustar el tamaño del texto y probar el contraste para asegurar buena visibilidad.
 
 ---
 
-Problema #6:
+Problema #6: Complejidad al usar el chatbot, especialmente para manejar fechas.
 
-Severidad: 
+Severidad: 3
 
-Heurística violada: 
+Heurística violada: Flexibilidad y eficiencia de uso / Prevención de errores.
 
-Problema: 
+Problema: El chatbot tiene una interfaz que resulta confusa para usuarios con menor experiencia digital, y el manejo de fechas no es intuitivo, lo que genera errores o frustración.
 
-<img src="#" alt="screenshot heuristica 5" width="1000">
+<img src="/images/heuristica6.png" alt="screenshot heuristica 5" width="1000">
 
-Recomendación:
+Recomendación: Simplificar los flujos del chatbot con mensajes guiados paso a paso, incluir un selector visual de fechas y ofrecer ejemplos o plantillas rápidas de comandos.
 
 ---
 
 Problema #7:
+
+Severidad: 
+
+Heurística violada: 
+
+Problema: 
+
+<img src="#" alt="screenshot heuristica 5" width="1000">
+
+Recomendación:
+
+---
+
+Problema #8:
+
+Severidad: 
+
+Heurística violada: 
+
+Problema: 
+
+<img src="#" alt="screenshot heuristica 5" width="1000">
+
+Recomendación:
+
+---
+
+Problema #9:
 
 Severidad: 
 
