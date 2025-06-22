@@ -4976,11 +4976,11 @@ Repositorio Landing Page:
     <td>Javier Gonzales, Renzo Rivera, Giovany Smith</td>
   </tr>
   <tr>
-    <td><strong>Sprint 3 Review Summary</strong></td>
+    <td><strong>Sprint 2 Review Summary</strong></td>
     <td> En el anterior sprint se pudo cumplir exitosamente con las User Stories relacionadas a la aplicación web.</td>
   </tr>
   <tr>
-    <td><strong>Sprint 3 Retrospective Summary</strong></td>
+    <td><strong>Sprint 2 Retrospective Summary</strong></td>
     <td>En el anterior sprint, se pudo reestructurar la logica de las funcionalidades en el frontend, de modo que será más sencillo implementar servicios del Backend en futuras entregas.</td>
   </tr>
   <tr>
@@ -4988,7 +4988,7 @@ Repositorio Landing Page:
   </tr>
   <tr>
     <td><strong>Sprint 3 Goal</strong></td>
-    <td>a</td>
+    <td>En este sprint, el objetivo fue crear los bounded context core de la aplicación y sus respectivos endpoints, y mejorar los diagramas previamente presentados</td>
   </tr>
   <tr>
     <td><strong>Sprint 3 Velocity</strong></td>
@@ -5003,11 +5003,10 @@ Repositorio Landing Page:
   <tr>
     <td><strong>Team Member</strong></td>
     <td><strong>GitHub Username</strong></td>
-    <td><strong>a</strong></td>
-    <td><strong>a</strong></td>
-    <td><strong>a</strong></td>
-    <td><strong>a</strong></td>
-    <td><strong>a</strong></td>
+    <td><strong>Profiles Bounded Context</strong></td>
+    <td><strong>Migración a base de datos</strong></td>
+    <td><strong>Plant Profiles and Tasks Bounded Context</strong></td>
+    <td><strong>Mejora de Diagramas y Guides Bounded Context</strong></td>
   </tr>
   <tr>
     <td>Palomino Fiestas, Erick Leonardo</td>
@@ -5016,25 +5015,25 @@ Repositorio Landing Page:
     <td>C</td>
     <td>C</td>
     <td>C</td>
-    <td>C</td>
+
   </tr>
   <tr>
     <td>Gonzales Alvarado, Javier Sebastian</td>
     <td>WoodsDos</td>
     <td>C</td>
     <td>L</td>
-    <td>L</td>
     <td>C</td>
     <td>C</td>
+
   </tr>
   <tr>
     <td>Rivera Ratachi, Renzo Sebastian</td>
-    <td>rezor11</td>
-    <td>C</td>
-    <td>C</td>
+    <td>renzor11</td>
     <td>C</td>
     <td>C</td>
     <td>L</td>
+    <td>C</td>
+
   </tr>
   <tr>
     <td>Torres Apolinario, Giovany Smith</td>
@@ -5043,7 +5042,6 @@ Repositorio Landing Page:
     <td>C</td>
     <td>C</td>
     <td>L</td>
-    <td>C</td>
   </tr>
 </table>
 <br>
@@ -5052,9 +5050,9 @@ Repositorio Landing Page:
 
 Este Sprint se enfocó en crear parcialmente los endpoints en el back end y mejorar componentes del front end. Se utilizó Trello para asignar tareas a los miembros del equipo.
 
-<img src="#" alt="sprint-backlog3" width="1000">
+<img src="images/trello-3.jpg" alt="sprint-backlog3" width="1000">
 
-link al trello: 
+link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb2d308d51d7f68f386d7305891A8D87098/sprint-backlog-3
 
 <br><br>
 
@@ -5081,13 +5079,179 @@ link al trello:
   </thead>
   <tbody>
     <tr>
-      <td>US01</td>
-      <td>Registro de una nueva planta</td>
-      <td>T01</td>
-      <td>Formulario y backend de registro</td>
-      <td>Como usuario que cuida plantas, quiero registrar una nueva planta con nombre, tipo y foto, para llevar el control de su cuidado.</td>
-      <td>5</td>
-      <td>Javier Gonzales</td>
+      <td rowspan="3">TS01</td>
+      <td rowspan="3">Registrar un nuevo historial para una planta</td>
+      <td>TK01</td>
+      <td>a</td>
+      <td>a</td>
+      <td>4</td>
+      <td>a</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK02</td>
+      <td>a</td>
+      <td>a</td>
+      <td>3</td>
+      <td>a</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK03</td>
+      <td>a</td>
+      <td>a</td>
+      <td>2</td>
+      <td>a</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Obtener los historiales de una planta</td>
+      <td>TK01</td>
+      <td>A</td>
+      <td>A.</td>
+      <td>A</td>
+      <td>A</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Obtener todos los perfiles</td>
+      <td>TK01</td>
+      <td>A</td>
+      <td>A.</td>
+      <td>A</td>
+      <td>A</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS04</td>
+      <td>Registrar un nuevo perfil</td>
+      <td>TK01</td>
+      <td>A</td>
+      <td>A.</td>
+      <td>A</td>
+      <td>A</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS05</td>
+      <td>Obtener los detalles de mi perfil</td>
+      <td>TK01</td>
+      <td>A</td>
+      <td>A.</td>
+      <td>A</td>
+      <td>A</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS06</td>
+      <td>Acceder a todas las guías</td>
+      <td>TK01</td>
+      <td>A</td>
+      <td>A.</td>
+      <td>A</td>
+      <td>A</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS07</td>
+      <td>Crear una nueva guía</td>
+      <td>TK01</td>
+      <td>A</td>
+      <td>A.</td>
+      <td>A</td>
+      <td>A</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS08</td>
+      <td>Ver el contenido detallado de una guía</td>
+      <td>TK01</td>
+      <td>A</td>
+      <td>A.</td>
+      <td>A</td>
+      <td>A</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS09</td>
+      <td>Ver todas mis tareas registradas</td>
+      <td>TK01</td>
+      <td>A</td>
+      <td>A.</td>
+      <td>A</td>
+      <td>A</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS10</td>
+      <td>Registrar una nueva tarea</td>
+      <td>TK01</td>
+      <td>A</td>
+      <td>A.</td>
+      <td>A</td>
+      <td>A</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS11</td>
+      <td>Eliminar una tarea</td>
+      <td>TK01</td>
+      <td>A</td>
+      <td>A.</td>
+      <td>A</td>
+      <td>A</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS12</td>
+      <td>Registrar una nueva planta</td>
+      <td>TK01</td>
+      <td>A</td>
+      <td>A.</td>
+      <td>A</td>
+      <td>A</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS13</td>
+      <td>Ver todas mis plantas</td>
+      <td>TK01</td>
+      <td>A</td>
+      <td>A.</td>
+      <td>A</td>
+      <td>A</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS14</td>
+      <td>Ver la información detallada de la planta</td>
+      <td>TK01</td>
+      <td>A</td>
+      <td>A.</td>
+      <td>A</td>
+      <td>A</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS15</td>
+      <td>Actualizar los datos de una planta</td>
+      <td>TK01</td>
+      <td>A</td>
+      <td>A.</td>
+      <td>A</td>
+      <td>A</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS16</td>
+      <td>Eliminar registro de planta</td>
+      <td>TK01</td>
+      <td>A</td>
+      <td>A.</td>
+      <td>A</td>
+      <td>A</td>
       <td>Done</td>
     </tr>
   </tbody>
