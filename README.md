@@ -456,6 +456,26 @@ Repositorio Informe:
 
 ## **TB2**
 
++ Informe:
+
+<br>
+
+<p align="center">
+  <img src="images/evidenciareporte1.jpg" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidenciareporte2.jpg" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/evidenciareporte3.jpg" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
 + Backend:
 
 <br>
@@ -467,14 +487,18 @@ Repositorio Informe:
 <br>
 
 <p align="center">
-  <img src="images/evidencia-sprint3/evidence-github-backend2.jpg" alt="evidencia-sprint-3" width="1000">
+  <img src="images/evidenciabackend2.jpg" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/evidenciabackend3.jpg" alt="evidencia-sprint-3" width="1000">
 </p>
 
 <br><br>
 
- + Frontend:
++ Frontend:
 
- <br>
+<br>
 
 <p align="center">
   <img src="images/evidencia-sprint2/evidencia2-team-sprint2.png" alt="evidencia-sprint" width="1000">
@@ -6078,7 +6102,7 @@ Visualización Backend Desplegado:
 <br>
 
 <p align="center">
-  <img src="images/evidencia-sprint3/evidence-github-backend2.jpg" alt="evidencia-sprint-3" width="1000">
+  <img src="images/evidenciabackend2.jpg" alt="evidencia-sprint-3" width="1000">
 </p>
 
 <br><br>
@@ -6529,6 +6553,7 @@ Problema: El apartado del chatbot Rootbot presenta un número limitado de pregun
 <img src="images/evidencia-sprint3/heuristica 3.jpg" alt="screenshot heuristica 3" width="1000">
 
 Recomendación: Ampliar el repertorio de preguntas frecuentes disponibles en el chatbot, priorizando aquellas relacionadas con las funcionalidades principales de la aplicación. Además, se podría categorizar las preguntas por temas para facilitar su exploración.
+
 ---
 
 Problema #4: Pocas guias presentes en el apartado de Guias
