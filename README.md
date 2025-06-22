@@ -5394,7 +5394,7 @@ Se certifica la exitosa implementación de la aplicación web frontend en Azure 
 
 Backend :
 
-Para esta entrega el despliegue del Backend y base de datos fue posible mediante los servicios de la nube de Azure. Se desplegó utilizando una imagen en Docker Desktop.
+Para esta entrega el despliegue del Backend y base de datos fue posible mediante los servicios de la nube de Azure. Se desplegó creando una imagen y su contenedor en Docker Desktop. Luego, se subió la imagen a Azure en una Web App.
 
 
 Servidor de base de datos:
@@ -5406,11 +5406,24 @@ Servidor de base de datos:
 
 Visualización en Docker Desktop:
 
+<p align="center">
+  <img src="images/evidencia-sprint3/evidenciadockercontenedor.png" alt="evidencia-sprint" width="1000">
+</p>
 
+<p align="center">
+  <img src="images/evidencia-sprint3/evidenciadockerimagenes.png" alt="evidencia-sprint" width="1000">
+</p>
 
+Aplicación en Azure:
 
+<p align="center">
+  <img src="images/evidencia-sprint3/webappazurebackend.png" alt="evidencia-sprint" width="1000">
+</p>
+Visualización Backend Desplegado:
 
-
+<p align="center">
+  <img src="images/evidencia-sprint3/swaggerdeployed.png" alt="evidencia-sprint" width="1000">
+</p>
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
