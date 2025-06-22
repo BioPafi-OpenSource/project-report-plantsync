@@ -5700,7 +5700,7 @@ link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-<table>
+<table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
       <th>Endpoint URL</th>
@@ -5718,16 +5718,17 @@ link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb
       <td>GET</td>
       <td>Get all profiles</td>
       <td>Ninguno</td>
-      <td>{ 
-        "name": "Monstera Deliciosa",
-      "species": "Planta Trepadora",
-      "acquisitionDate": "2024-04-01",
-      "humidity": "Media",
-      "nextWateringDate": "2024-05-14",
-      "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
-      "notificationsEnabled": true,
-      "profileId": 1,
-      "id": 1}</td>
+      <td><pre><code>{
+  "name": "Monstera Deliciosa",
+  "species": "Planta Trepadora",
+  "acquisitionDate": "2024-04-01",
+  "humidity": "Media",
+  "nextWateringDate": "2024-05-14",
+  "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
+  "notificationsEnabled": true,
+  "profileId": 1,
+  "id": 1
+}</code></pre></td>
     </tr>
     <tr>
       <td>/api/v1/profiles</td>
@@ -5735,13 +5736,12 @@ link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb
       <td>POST</td>
       <td>Create a new profile</td>
       <td>Body: profile data</td>
-      <td>{ "id": 1,
-
+      <td><pre><code>{
+  "id": 1,
   "personName": "javier",
-
   "subscriptionPLan": "PREMIUM",
-
-  "UserId": 1 }</td>
+  "UserId": 1
+}</code></pre></td>
     </tr>
     <tr>
       <td>/api/v1/profiles/{profileId}</td>
@@ -5749,15 +5749,12 @@ link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb
       <td>GET</td>
       <td>Get a profile by ID</td>
       <td>Path: profileId</td>
-      <td>{
+      <td><pre><code>{
   "id": 1,
-
   "personName": "javier",
-
   "subscriptionPLan": "PREMIUM",
-
   "UserId": 1
-}</td>
+}</code></pre></td>
     </tr>
     <tr>
       <td>/api/v1/guides</td>
@@ -5765,13 +5762,15 @@ link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb
       <td>GET</td>
       <td>Get all guides</td>
       <td>Ninguno</td>
-      <td>{ "id": 1,
-      "title": "Cómo cuidar un cactus",
-      "name": "Cactus",
-      "description": "Consejos para mantener tu cactus saludable.",
-      "topic": "Cuidado",
-      "type": "Cactus",
-      "imageUrl": "https:/www.jacksonandperkins.com/images/xxl/29377.webp?v=0-"}</td>
+      <td><pre><code>{
+  "id": 1,
+  "title": "Cómo cuidar un cactus",
+  "name": "Cactus",
+  "description": "Consejos para mantener tu cactus saludable.",
+  "topic": "Cuidado",
+  "type": "Cactus",
+  "imageUrl": "https://www.jacksonandperkins.com/images/xxl/29377.webp?v=0-"
+}</code></pre></td>
     </tr>
     <tr>
       <td>/api/v1/guides</td>
@@ -5779,13 +5778,15 @@ link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb
       <td>POST</td>
       <td>Create a new guide</td>
       <td>Body: guide data</td>
-      <td>{  "id": 1,
-      "title": "Cómo cuidar un cactus",
-      "name": "Cactus",
-      "description": "Consejos para mantener tu cactus saludable.",
-      "topic": "Cuidado",
-      "type": "Cactus",
-      "imageUrl": "https://www.jacksonandperkins.com/images/xxl/29377.webp?v=0-1" }</td>
+      <td><pre><code>{
+  "id": 1,
+  "title": "Cómo cuidar un cactus",
+  "name": "Cactus",
+  "description": "Consejos para mantener tu cactus saludable.",
+  "topic": "Cuidado",
+  "type": "Cactus",
+  "imageUrl": "https://www.jacksonandperkins.com/images/xxl/29377.webp?v=0-1"
+}</code></pre></td>
     </tr>
     <tr>
       <td>/api/v1/guides/{guideId}</td>
@@ -5793,13 +5794,15 @@ link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb
       <td>GET</td>
       <td>Get guide by ID</td>
       <td>Path: guideId</td>
-      <td>{  "id": 1,
-      "title": "Cómo cuidar un cactus",
-      "name": "Cactus",
-      "description": "Consejos para mantener tu cactus saludable.",
-      "topic": "Cuidado",
-      "type": "Cactus",
-      "imageUrl": "https://www.jacksonandperkins.com/images/xxl/29377.webp?v=0-1" }</td>
+      <td><pre><code>{
+  "id": 1,
+  "title": "Cómo cuidar un cactus",
+  "name": "Cactus",
+  "description": "Consejos para mantener tu cactus saludable.",
+  "topic": "Cuidado",
+  "type": "Cactus",
+  "imageUrl": "https://www.jacksonandperkins.com/images/xxl/29377.webp?v=0-1"
+}</code></pre></td>
     </tr>
     <tr>
       <td>/api/v1/plantHistories</td>
@@ -5807,12 +5810,14 @@ link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb
       <td>POST</td>
       <td>Create a new plant history</td>
       <td>Body: plant history data</td>
-      <td>{ "id": 1,
-      "plantId": 1,
-      "type": "Riego",
-      "date": "2025-05-13",
-      "time": "08:10",
-      "humidity": 30 }</td>
+      <td><pre><code>{
+  "id": 1,
+  "plantId": 1,
+  "type": "Riego",
+  "date": "2025-05-13",
+  "time": "08:10",
+  "humidity": 30
+}</code></pre></td>
     </tr>
     <tr>
       <td>/api/v1/plantHistories/plantId</td>
@@ -5820,26 +5825,14 @@ link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb
       <td>GET</td>
       <td>Get plant histories by plant ID</td>
       <td>Query: plantId</td>
-      <td>
-        {"id": 1,         
-      "plantId": 1,
-      "type": "Riego",
-      "date": "2025-05-13",
-      "time": "08:10",
-      "humidity": 30}</td>
-    </tr>
-    <tr>
-      <td>/api/v1/plantHistories/by-plant/plantId</td>
-      <td>Plant Histories</td>
-      <td>GET</td>
-      <td>Get plant history by Plant ID</td>
-      <td>Path: plantId</td>
-      <td>{ "id": 1,
-      "plantId": 1,
-      "type": "Riego",
-      "date": "2025-05-13",
-      "time": "08:10",
-      "humidity": 30 }</td>
+      <td><pre><code>{
+  "id": 1,
+  "plantId": 1,
+  "type": "Riego",
+  "date": "2025-05-13",
+  "time": "08:10",
+  "humidity": 30
+}</code></pre></td>
     </tr>
     <tr>
       <td>/api/v1/tasks</td>
@@ -5847,11 +5840,15 @@ link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb
       <td>GET</td>
       <td>Get all tasks</td>
       <td>Ninguno</td>
-      <td>[ {"id": 1,
-      "date": "2025-06-16",
-      "action": "Regar planta",
-      "completed": false,
-      "plantId": 2}]</td>
+      <td><pre><code>[
+  {
+    "id": 1,
+    "date": "2025-06-16",
+    "action": "Regar planta",
+    "completed": false,
+    "plantId": 2
+  }
+]</code></pre></td>
     </tr>
     <tr>
       <td>/api/v1/tasks</td>
@@ -5859,11 +5856,13 @@ link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb
       <td>POST</td>
       <td>Create a new task</td>
       <td>Body: task data</td>
-      <td>{"id": 1,
-      "date": "2025-06-16",
-      "action": "Regar planta",
-      "completed": false,
-      "plantId": 2 }</td>
+      <td><pre><code>{
+  "id": 1,
+  "date": "2025-06-16",
+  "action": "Regar planta",
+  "completed": false,
+  "plantId": 2
+}</code></pre></td>
     </tr>
     <tr>
       <td>/api/v1/tasks/{taskId}</td>
@@ -5871,49 +5870,7 @@ link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb
       <td>DELETE</td>
       <td>Delete task</td>
       <td>Path: taskId</td>
-      <td>{ Raw result:
-Task with id successfully deleted  }</td>
-    </tr>
-    <tr>
-      <td>/api/v1/plants/{plantId}</td>
-      <td>Plants</td>
-      <td>PUT</td>
-      <td>Update a plant</td>
-      <td>Path: plantId, Body: plant</td>
-      <td>{ "name": "Monstera Deliciosa",
-      "species": "Planta Trepadora",
-      "acquisitionDate": "2024-04-01",
-      "humidity": "Media",
-      "nextWateringDate": "2024-05-14",
-      "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
-      "notificationsEnabled": true,
-      "profileId": 1,
-      "id": 1 }</td>
-    </tr>
-    <tr>
-      <td>/api/v1/plants/{plantId}</td>
-      <td>Plants</td>
-      <td>DELETE</td>
-      <td>Delete plant</td>
-      <td>Path: plantId</td>
-      <td>{  Raw result:
-Plant with id successfully deleted }</td>
-    </tr>
-    <tr>
-      <td>/api/v1/plants</td>
-      <td>Plants</td>
-      <td>GET</td>
-      <td>Get all plants</td>
-      <td>Ninguno</td>
-      <td>[ {"name": "Monstera Deliciosa",
-      "species": "Planta Trepadora",
-      "acquisitionDate": "2024-04-01",
-      "humidity": "Media",
-      "nextWateringDate": "2024-05-14",
-      "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
-      "notificationsEnabled": true,
-      "profileId": 1,
-      "id": 1}]</td>
+      <td><pre><code>Task with id successfully deleted</code></pre></td>
     </tr>
     <tr>
       <td>/api/v1/plants</td>
@@ -5921,50 +5878,67 @@ Plant with id successfully deleted }</td>
       <td>POST</td>
       <td>Create a new plant</td>
       <td>Body: plant data</td>
-      <td>{ "name": "Monstera Deliciosa",
-      "species": "Planta Trepadora",
-      "acquisitionDate": "2024-04-01",
-      "humidity": "Media",
-      "nextWateringDate": "2024-05-14",
-      "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
-      "notificationsEnabled": true,
-      "profileId": 1,
-      "id": 1 }</td>
+      <td><pre><code>{
+  "name": "Monstera Deliciosa",
+  "species": "Planta Trepadora",
+  "acquisitionDate": "2024-04-01",
+  "humidity": "Media",
+  "nextWateringDate": "2024-05-14",
+  "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
+  "notificationsEnabled": true,
+  "profileId": 1,
+  "id": 1
+}</code></pre></td>
     </tr>
     <tr>
-      <td>/api/v1/plants/profileId</td>
+      <td>/api/v1/plants/{plantId}</td>
       <td>Plants</td>
-      <td>GET</td>
-      <td>Get plants by profile ID</td>
-      <td>Query: profileId</td>
-      <td>[ {"name": "Monstera Deliciosa",
-      "species": "Planta Trepadora",
-      "acquisitionDate": "2024-04-01",
-      "humidity": "Media",
-      "nextWateringDate": "2024-05-14",
-      "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
-      "notificationsEnabled": true,
-      "profileId": 1,
-      "id": 1}]</td>
+      <td>PUT</td>
+      <td>Update a plant</td>
+      <td>Path: plantId, Body: plant</td>
+      <td><pre><code>{
+  "name": "Monstera Deliciosa",
+  "species": "Planta Trepadora",
+  "acquisitionDate": "2024-04-01",
+  "humidity": "Media",
+  "nextWateringDate": "2024-05-14",
+  "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
+  "notificationsEnabled": true,
+  "profileId": 1,
+  "id": 1
+}</code></pre></td>
     </tr>
     <tr>
-      <td>/api/v1/plants/plantId</td>
+      <td>/api/v1/plants/{plantId}</td>
       <td>Plants</td>
-      <td>GET</td>
-      <td>Get plant by ID</td>
+      <td>DELETE</td>
+      <td>Delete plant</td>
       <td>Path: plantId</td>
-      <td>{ "name": "Monstera Deliciosa",
-      "species": "Planta Trepadora",
-      "acquisitionDate": "2024-04-01",
-      "humidity": "Media",
-      "nextWateringDate": "2024-05-14",
-      "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
-      "notificationsEnabled": true,
-      "profileId": 1,
-      "id": 1 }</td>
+      <td><pre><code>Plant with id successfully deleted</code></pre></td>
+    </tr>
+    <tr>
+      <td>/api/v1/plants</td>
+      <td>Plants</td>
+      <td>GET</td>
+      <td>Get all plants</td>
+      <td>Ninguno</td>
+      <td><pre><code>[
+  {
+    "name": "Monstera Deliciosa",
+    "species": "Planta Trepadora",
+    "acquisitionDate": "2024-04-01",
+    "humidity": "Media",
+    "nextWateringDate": "2024-05-14",
+    "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
+    "notificationsEnabled": true,
+    "profileId": 1,
+    "id": 1
+  }
+]</code></pre></td>
     </tr>
   </tbody>
 </table>
+
 
 <br><br>
 
