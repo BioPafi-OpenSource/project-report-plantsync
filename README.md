@@ -249,6 +249,8 @@
 
 ## Project Report Collaboration Insights
 
+Link del documento en GitHub: https://github.com/BioPafi-OpenSource/project-report-plantsync
+
 ## **TB1**
 
 <table align="center">
@@ -351,7 +353,7 @@
       Erick Palomino
     </td>
     <td>
-      a
+      Realización del Profiles Bounded Context en el backend, entrevista de validación, añadio heuristicas, video about the product , video about the team , Sprint 3 y conclusiones.
     </td>
   </tr>
   <tr>
@@ -359,7 +361,7 @@
       Javier Gonzales
     </td>
     <td>
-      a
+      Realización de la Migración a base de datos en el backend, entrevista de validación, añadio heuristicas, video about the team, Sprint 3, mejora del frontend y conclusiones.
     </td>
   </tr>
   <tr>
@@ -367,7 +369,7 @@
       Renzo Rivera
     </td>
     <td>
-      a
+      Realización del Plant Profiles y Tasks Bounded Context en el backend, realizo el deploy del backend , realización del diagrama del backend,video about the team, mejora del frontend y Sprint 3.
     </td>
   </tr>
   <tr>
@@ -375,7 +377,7 @@
       Giovany Torres
     </td>
     <td>
-      a
+      Realización de Guides Bounded Context en el backend, entrevista de validación, realización del diagrama del frontend, añadio heuristicas, video about the team, Sprint 3 y conclusiones.
     </td>
   </tr>
 </table>
@@ -597,21 +599,21 @@ Repositorio Informe:
       <br><br>
       TP1 - Presentó avances técnicos relacionados a la autenticación del sistema (login y register), además de explicar el funcionamiento de la Landing Page V2 y el módulo de colaboración.
       <br><br>
-      TB2 - a
+      TB2 - Participó en la entrevista de validación del sistema y presentó el video “About the Product” y “About the Team”, explicando funcionalidades y roles.
       <br><br>
       <strong>Javier Gonzales:</strong>
       TB1 - Presentación oral de los resultados de entrevistas y de la estructura de la Landing Page.
       <br><br>
       TP1- Comunicó de forma clara las funcionalidades desarrolladas en la sección "Mis Plantas", el historial y recomendaciones climáticas en reuniones grupales.
       <br><br>
-      TB2 - a
+      TB2 - Expuso durante la entrevista de validación y en el video grupal, mostrando mejoras del frontend e integración con base de datos.
       <br><br>
       <strong>Renzo Rivera:</strong>
       TB1 – Exposición de análisis competitivo y explicación de los User Flow Diagrams durante la reunión grupal.
       <br><br>
       TP1- Expuso el diseño y lógica del FrontEnd del Chatbot y la sección de tareas, explicando su integración y mejoras.
       <br><br>
-      TB2 - a
+      TB2 - Contribuyó en la presentación del video “About the Team” y explicó los cambios realizados en el backend y en el proceso de despliegue.
       <br><br>
       <strong>Sean Palomares:</strong>
       TB1 - Explicación oral de los mapas de impacto y segmentación de objetivos en reuniones grupales.
@@ -621,13 +623,15 @@ Repositorio Informe:
       <br><br>
       TP1 - Participó en la presentación oral del FrontEnd de Guías, así como en la explicación de cambios en la arquitectura de clases y conclusiones del entregable.
       <br><br>
-      TB2 - a
+      TB2 - Comunicó verbalmente el diseño del frontend y del módulo de guías en entrevistas y en el video del equipo.
       <br><br>
     </td>
     <td>
       TB1:Como grupo, logramos una comunicación oral efectiva que facilitó la comprensión de las distintas etapas del proyecto. La coordinación de presentaciones y la exposición clara de ideas fortalecieron nuestro trabajo en equipo y permitieron que cada integrante aportara de forma precisa en su área asignada.
       <br><br>
       TP1:La comunicación oral fue fundamental para coordinar las tareas del proyecto y asegurar una comprensión común. Cada integrante presentó con claridad sus avances y propuestas, lo que permitió una integración efectiva del trabajo. Se logró una interacción fluida y profesional dentro del equipo.
+      <br><br>
+      TB2: La comunicación oral del equipo se fortaleció mediante entrevistas y videos explicativos donde se expresaron con claridad las funciones desarrolladas, lo que facilitó la validación del producto y la comprensión del progreso por parte de los usuarios. Las presentaciones mostraron cohesión, claridad y un dominio del trabajo individual y colectivo.
     </td>
   </tr>
   <tr>
@@ -640,15 +644,21 @@ Repositorio Informe:
       <br><br>
       TP1 - Documentó los procesos implementados para login/register, colaboró en la redacción del Student Outcome y el informe técnico del Sprint 2.
       <br><br>
+      TB2 - Documentó el Profiles Bounded Context del backend, agregó contenido escrito en heurísticas y elaboró las conclusiones del entregable.
+      <br><br>
       <strong>Javier Gonzales:</strong>
       TB1 –  Redacción del Lean UX Problem Statement, Assumptions y desarrollo de wireframes documentados.
       <br><br>
       TP1 - Describió por escrito las funcionalidades del historial, recomendaciones y deployment del sistema, contribuyendo a la documentación del TP1.
       <br><br>
+      TB2 - Redactó los cambios realizados en la migración a base de datos y en la mejora del frontend, contribuyendo también en las heurísticas y conclusiones.
+      <br><br>
       <strong>Renzo Rivera:</strong>
       TB1 –  Documentación escrita de análisis competitivo, User Personas, User Journey Mapping y Task Matrix.
       <br><br>
       TP1 - Elaboró descripciones técnicas del Chatbot y la sección de tareas, detallando los retos y soluciones en el informe parcial.
+      <br><br>
+      TB2 - Escribió la documentación técnica del Plant Profiles, Tasks Bounded Context y el diagrama del backend.
       <br><br>
       <strong>Sean Palomares:</strong>
       TB1 – Elaboración escrita de Hypothesis Statements, Product Backlog y base de diseño orientado a objetos.
@@ -657,11 +667,16 @@ Repositorio Informe:
       TB1 –  Redacción de antecedentes, problemática, Empathy Mapping y documentos de arquitectura de software, incluyendo la conclusión escrita del reporte.
       <br><br>
       TP1 - Redactó el contenido del FrontEnd de Guías, corrigió el diagrama de clases y formuló las conclusiones del informe TP1.
+      <br><br>
+      TB2 - Documentó el Guides Bounded Context, redactó la estructura del frontend, las heurísticas y las conclusiones del informe.
+      <br><br>
     </td>
     <td>
       TB1:Como equipo, fuimos capaces de producir documentos escritos claros y adaptados al público objetivo, asegurando la coherencia y calidad de la información entregada. Esto facilitó la comprensión del proyecto tanto para el equipo como para los revisores externos. El trabajo colaborativo en los entregables escritos fue clave para mantener una línea de comunicación efectiva en todo el desarrollo del proyecto.
       <br><br>
       TP1: La documentación escrita del trabajo parcial fue clara, precisa y permitió dejar registro estructurado de cada avance. Se cuidó el lenguaje técnico y la redacción, haciendo posible una comprensión adecuada tanto para el equipo como para evaluadores externos. La distribución de redacción fue equilibrada y colaborativa.
+      <br><br>
+      TB2: La producción escrita durante esta etapa del proyecto reflejó claridad técnica, estructuración adecuada de los avances y coherencia con los objetivos planteados. Todos los integrantes aportaron en la documentación técnica y reflexiva del proyecto, generando entregables de calidad con contenido relevante y bien argumentado.
     </td>
   </tr>
 </table>
@@ -5412,11 +5427,9 @@ A continuación se muestra el video "Acerca del producto", el cual expone el obj
 
 Duración: 1:44 min
 
-Enlace en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EShR7gJEGgJMm4jF_jg-Ni8B0HCTbWFB_yz4i1iLny9aIw?e=bOy90v&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+Enlace en Microsoft Stream: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EShR7gJEGgJMm4jF_jg-Ni8B0HCTbWFB_yz4i1iLny9aIw?e=bOy90v&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-aboutthe-product-sprint-3</a>
 
-Enlace en Youtube: https://youtu.be/6dQiL5Xb8GU 
-
-
+Enlace en Youtube: <a href="https://youtu.be/6dQiL5Xb8GU" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-aboutthe-product-sprint-3</a>
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
@@ -5513,6 +5526,24 @@ SERPAR (2021, 8 de marzo), 10 cosas que debes aprender sobre el cuidado de plant
 https://www.serpar.gob.pe/noticias/10-cosas-que-debes-aprender-sobre-el-cuidado-de-plantas/
 
 ## Anexos
+
+**Repositorio de Github**
+
++ **Respositorio de la startup:** [Link Repositorio BioPafi](https://github.com/BioPafi-OpenSource)
+
++ **Repositorio de la landing page:** [Link Repositorio Landing Page](https://github.com/BioPafi-OpenSource/plantSync-LandingPage)
+
++ **Repositorio del frontend:** [Link Repositorio Frontend](https://github.com/BioPafi-OpenSource/PlantSync_Frontend)
+
++ **Repositorio del backend:** [Link Repositorio Backend](https://github.com/BioPafi-OpenSource/PlantSync_Platform)
+
+**Deploy de la aplicación**
+
++ **Landing Page Deployado:** [Link Landing Page](https://biopafi-opensource.github.io/plantSync-LandingPage/)
+
++ **Frontend Deployado:** [Link Frontend](https://yellow-ocean-0e2fe8a10.6.azurestaticapps.net/login)
+
++ **Backend Deployado:** [Link Backend](https://plantsync-platform.azurewebsites.net/swagger-ui/index.html#/)
 
 **Videos de Exposiciones**
 
