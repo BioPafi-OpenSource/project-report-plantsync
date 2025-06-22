@@ -188,37 +188,30 @@
     <td>3.1</td>
     <td>05/06/25</td>
     <td>
-    Palomino,<br>
-    Gonzales,<br>
     Rivera,<br>
     Torres
     </td>
-    <td>a</td>
+    <td>Mejora Continua. Mejoras en el diagrama del frontend</td>
   </tr>
   </tr>
   <tr>
     <td>3.2</td>
     <td>09/06/25</td>
     <td>
-    Palomino,<br>
-    Gonzales,<br>
     Rivera,<br>
     Torres
     </td>
-    <td>a</td>
+    <td>Mejora continua. Mejoras en el diagrama de base de datos</td>
   </tr>
   </tr>
   <tr>
     <td>3.3</td>
     <td>19/06/25</td>
     <td>
-    Palomino,<br>
-    Gonzales,<br>
     Rivera,<br>
     Torres
     </td>
-    <td>a</td>
-  </tr>
+    <td>Realización del diagrama del backend</td>
   </tr>
   <tr>
     <td>3.4</td>
@@ -226,21 +219,29 @@
     <td>
     Palomino,<br>
     Gonzales,<br>
-    Rivera,<br>
     Torres
     </td>
-    <td>Realización de todo el Sprint 3</td>
+    <td>Realizacion de las entrevistas de validación, más las heuristicas</td>
   </tr>
   <tr>
     <td>3.5</td>
-    <td>21/06/25</td>
+    <td>22/06/25</td>
     <td>
     Palomino,<br>
     Gonzales,<br>
     Rivera,<br>
     Torres
     </td>
-    <td>a</td>
+    <td>Realización del Sprint 3, con todos sus apartados</td>
+  </tr>
+  <tr>
+    <td>3.6</td>
+    <td>22/06/25</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    </td>
+    <td>Se añadieron los videos de About The Product y About the Team, más las conclusiones y recomendaciones</td>
   </tr>
 </table>
 
@@ -450,6 +451,10 @@ Repositorio Informe:
 <p align="center">
   <img src="images/insight-github/overview2-plantsync.png" alt="evidencia-sprint" width="1000">
 </p>
+
+## **TB2**
+
+
 
 ---
 
@@ -5447,6 +5452,20 @@ Enlace en Youtube: https://youtu.be/6dQiL5Xb8GU
 - Asimismo, se implementó un entorno en la nube con Azure para desplegar la aplicación web, lo que facilitó la visualización remota del proyecto, fortaleciendo su disponibilidad y permitiendo una mayor visibilidad del avance frente a los stakeholders.
 
 - Finalmente, se utilizó una Mock API para simular la carga de datos desde la red, lo que permitió validar el funcionamiento dinámico de los componentes desarrollados, asegurando la integración adecuada del front-end con una futura API real. Esto proporcionó una base sólida para continuar con las siguientes etapas del desarrollo.
+
+
+*TB2*
+---
+- El desarrollo del Sprint 3 permitió consolidar la estructura base del sistema web, con la primera versión del backend RESTful API implementado con Spring Boot.
+
+- La publicación del Landing Page actualizado, ha mejorado la visibilidad del proyecto y su alineación con los objetivos del modelo de negocio. Esto facilita que los stakeholders puedan acceder fácilmente a los avances del producto.
+
+- La creación del Video About-The-Product y el Video About-The-Team sirvieron como evidencia audiovisual del proceso de desarrollo, resaltando no solo las funcionalidades implementadas, sino también el compromiso y colaboración efectiva del equipo.
+
+- Las entrevistas de validación permitieron contrastar nuestras hipótesis de diseño e interacción frente al comportamiento real de los usuarios. Estas sesiones fueron fundamentales para identificar aspectos de mejora en la usabilidad, accesibilidad e interacción general de la solución.
+
+- La evaluación heurística aplicada a los flujos de usuario y vistas clave de la aplicación evidenció aspectos que deben ser priorizados en el siguiente sprint, relacionados con la claridad de los botones, el flujo de navegación, y la inclusión de más contenido útil en secciones como Rootbot y guías.
+
 
 ## Video about the Team
 
