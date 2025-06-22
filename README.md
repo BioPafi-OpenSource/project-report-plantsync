@@ -4817,179 +4817,163 @@ link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3">TS01</td>
-      <td rowspan="3">Registrar un nuevo historial para una planta</td>
+      <td>TS01</td>
+      <td>Registrar un nuevo historial para una planta</td>
       <td>TK01</td>
-      <td>a</td>
-      <td>a</td>
+      <td>Crear historial de planta</td>
+      <td>Crear endpoint que permite ejecutar POST plantHistory</td>
       <td>4</td>
-      <td>a</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TK02</td>
-      <td>a</td>
-      <td>a</td>
-      <td>3</td>
-      <td>a</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TK03</td>
-      <td>a</td>
-      <td>a</td>
-      <td>2</td>
-      <td>a</td>
+      <td>Renzo Rivera</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TS02</td>
       <td>Obtener los historiales de una planta</td>
-      <td>TK01</td>
-      <td>A</td>
-      <td>A.</td>
-      <td>A</td>
-      <td>A</td>
+      <td>TK02</td>
+      <td>Obtener los historiales de una determinada planta</td>
+      <td>Utilizando una solicitud GET y un parametro plantId se muestran los historiales de la planta</td>
+      <td>3</td>
+      <td>Renzo Rivera</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TS03</td>
       <td>Obtener todos los perfiles</td>
-      <td>TK01</td>
-      <td>A</td>
-      <td>A.</td>
-      <td>A</td>
-      <td>A</td>
+      <td>TK03</td>
+      <td>Obtener todos los perfiles</td>
+      <td>Utilizando una solicitud GET se obtienen todas los perfiles registrados</td>
+      <td>2</td>
+      <td>Erick Palomino, Javier Gonzales</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TS04</td>
       <td>Registrar un nuevo perfil</td>
-      <td>TK01</td>
-      <td>A</td>
-      <td>A.</td>
-      <td>A</td>
-      <td>A</td>
+      <td>TK04</td>
+      <td>Crear un nuevo profile</td>
+      <td>Crear endpoint que permita ejecutar una solicitud POST profile</td>
+      <td>2</td>
+      <td>Erick Palomino</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TS05</td>
       <td>Obtener los detalles de mi perfil</td>
-      <td>TK01</td>
-      <td>A</td>
-      <td>A.</td>
-      <td>A</td>
-      <td>A</td>
+      <td>TK05</td>
+      <td>Obtener información de un perfil</td>
+      <td>Utilizando una solicitud GET y un parametro profileId se muestran los detalles del perfil.</td>
+      <td>2</td>
+      <td>Erick Palomino</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TS06</td>
       <td>Acceder a todas las guías</td>
-      <td>TK01</td>
-      <td>A</td>
-      <td>A.</td>
-      <td>A</td>
-      <td>A</td>
+      <td>TK06</td>
+      <td>Obtener guias</td>
+      <td>Utilizando una solicitud GET se obtienen todas las guias registradas</td>
+      <td>3</td>
+      <td>Giovany Torres, Javier Gonzales</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TS07</td>
       <td>Crear una nueva guía</td>
-      <td>TK01</td>
-      <td>A</td>
-      <td>A.</td>
-      <td>A</td>
-      <td>A</td>
+      <td>TK07</td>
+      <td>Crear guia</td>
+      <td>Crear endpoint que permite ejecutar POST guide</td>
+      <td>4</td>
+      <td>Giovany Torres</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TS08</td>
       <td>Ver el contenido detallado de una guía</td>
-      <td>TK01</td>
-      <td>A</td>
-      <td>A.</td>
-      <td>A</td>
-      <td>A</td>
+      <td>TK08</td>
+      <td>Obtener informacion de una determinada guia</td>
+      <td>Utilizando una solicitud GET y un parametro guideId se muestran la informacion de la guia</td>
+      <td>3</td>
+      <td>Giovany Torres</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TS09</td>
       <td>Ver todas mis tareas registradas</td>
-      <td>TK01</td>
-      <td>A</td>
-      <td>A.</td>
-      <td>A</td>
-      <td>A</td>
+      <td>TK09</td>
+      <td>Obtener informacion de todas las tareas</td>
+      <td>Utilizando una solicitud GET se obtienen todas las plantas registradas</td>
+      <td>2</td>
+      <td>Renzo Rivera</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TS10</td>
       <td>Registrar una nueva tarea</td>
       <td>TK01</td>
-      <td>A</td>
-      <td>A.</td>
-      <td>A</td>
-      <td>A</td>
+      <td>Crear task</td>
+      <td>Crear endpoint que permite ejecutar POST task.</td>
+      <td>4</td>
+      <td>Renzo Rivera</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TS11</td>
       <td>Eliminar una tarea</td>
-      <td>TK01</td>
-      <td>A</td>
-      <td>A.</td>
-      <td>A</td>
-      <td>A</td>
+      <td>TK11</td>
+      <td>Eliminar tarea registrada</td>
+      <td>Utilizando una solicitud DELETE y un parametro taskId se elimina la tarea registrada</td>
+      <td>2</td>
+      <td>Renzo Rivera</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TS12</td>
       <td>Registrar una nueva planta</td>
-      <td>TK01</td>
-      <td>A</td>
-      <td>A.</td>
-      <td>A</td>
-      <td>A</td>
+      <td>TK12</td>
+      <td>Crear planta</td>
+      <td>Crear endpoint que permite ejecutar POST plant.</td>
+      <td>4</td>
+      <td>Renzo Rivera</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TS13</td>
       <td>Ver todas mis plantas</td>
-      <td>TK01</td>
-      <td>A</td>
-      <td>A.</td>
-      <td>A</td>
-      <td>A</td>
+      <td>TK13</td>
+      <td>Obtener todas las plantas registradas</td>
+      <td>Utilizando un solicitud GET en el endpoint de plantas se obtendran todas las plantas registradas</td>
+      <td>2</td>
+      <td>Renzo Rivera, Javier Gonzales</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TS14</td>
-      <td>Ver la información detallada de la planta</td>
-      <td>TK01</td>
-      <td>A</td>
-      <td>A.</td>
-      <td>A</td>
-      <td>A</td>
+      <td>Ver la información detallada de una planta</td>
+      <td>TK14</td>
+      <td>Obtener informacion de una planta</td>
+      <td>Utilizando una solicitud GET y un parametro plantId, se obtendrá la información de dicha planta</td>
+      <td>3</td>
+      <td>Renzo Rivera, Javier Gonzales</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TS15</td>
       <td>Actualizar los datos de una planta</td>
-      <td>TK01</td>
-      <td>A</td>
-      <td>A.</td>
-      <td>A</td>
-      <td>A</td>
+      <td>TK15</td>
+      <td>Actualizar datos de una planta determinada</td>
+      <td>Utilizando una solicitud PUT y un parametro plantId se actualizara la informacion de la planta con el recurso enviado</td>
+      <td>4</td>
+      <td>Renzo Rivera, Javier Gonzales</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TS16</td>
       <td>Eliminar registro de planta</td>
       <td>TK01</td>
-      <td>A</td>
-      <td>A.</td>
-      <td>A</td>
-      <td>A</td>
+      <td>Eliminar planta registrada</td>
+      <td>Utilizando una solicitud DELETE y un parametro taskId se elimina la tarea registrada</td>
+      <td>3</td>
+      <td>Renzo Rivera, Javier Gonzales</td>
       <td>Done</td>
     </tr>
   </tbody>
