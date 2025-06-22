@@ -4826,28 +4826,188 @@ link al trello:
 
 <table align="center">
   <tr>
-    <td><strong>Repository</strong></td>
-    <td><strong>Branch</strong></td>
-    <td><strong>Commit Id</strong></td>
-    <td><strong>Commit Message</strong></td>
-    <td><strong>Commit Message Body</strong></td>
-    <td><strong>Commited on (Date)</strong></td>
-  </tr>
-  <tr>
-    <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
     <td>main</td>
-    <td>20ed84b</td>
-    <td>Initial commit</td>
-    <td>Initial commit</td>
-    <td>08/05/25</td>
+    <td>520795a</td>
+    <td>Initial commit: Created Spring Project</td>
+    <td>Initial commit: Created Spring Project</td>
+    <td>10/06/25</td>
   </tr>
   <tr>
-    <td></td>
-    <td>develop</td>
-    <td>b4eb88e</td>
-    <td>add plant-form, plant-detail and mis plantas</td>
-    <td>add plant-form, plant-detail and mis plantas</td>
-    <td>13/05/25</td>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>a96aa5b</td>
+    <td>feat: add shared bounded context</td>
+    <td>feat: add shared bounded context</td>
+    <td>18/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>c50fbc2</td>
+    <td>feat: add plantguides bounded context</td>
+    <td>feat: add plantguides bounded context</td>
+    <td>19/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>6defaed</td>
+    <td>fix: fixed controller query</td>
+    <td>fix: fixed controller query</td>
+    <td>19/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>b9bf335</td>
+    <td>feat: add Plant Profiles Bounded Context</td>
+    <td>feat: add Plant Profiles Bounded Context</td>
+    <td>19/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>002f74e</td>
+    <td>feat: add create plant command</td>
+    <td>feat: add create plant command</td>
+    <td>19/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>8ae2e8d</td>
+    <td>feat: added plant profile creation</td>
+    <td>feat: added plant profile creation</td>
+    <td>19/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>89bac1a</td>
+    <td>feat: add Delete Plant Command</td>
+    <td>feat: add Delete Plant Command</td>
+    <td>19/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>4b9108c</td>
+    <td>feat: add update plant command</td>
+    <td>feat: add update plant command</td>
+    <td>19/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>6ce8c6a</td>
+    <td>chore: add database migration v1</td>
+    <td>chore: add database migration v1</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>522f11a</td>
+    <td>feat: add comands to Task bounded context</td>
+    <td>feat: add comands to Task bounded context</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>8d05255</td>
+    <td>feat: add iam bounded context</td>
+    <td>feat: add iam bounded context</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>5ebbe3e</td>
+    <td>fix: updated Task aggregate</td>
+    <td>fix: updated Task aggregate</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>116fe0c</td>
+    <td>feat: add get all tasks query</td>
+    <td>feat: add get all tasks query</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>bccd515</td>
+    <td>feat: added Task aggregate</td>
+    <td>feat: added Task aggregate</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>cc28ff1</td>
+    <td>fix: fixed profile id references</td>
+    <td>fix: fixed profile id references</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>9951358</td>
+    <td>feat: completed profile bounded context</td>
+    <td>feat: completed profile bounded context</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>da967ac</td>
+    <td>fix: fixed exception handling</td>
+    <td>fix: fixed exception handling</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>512f07f</td>
+    <td>feat: add user bounded context endpoints</td>
+    <td>feat: add user bounded context endpoints</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>6c80cbb</td>
+    <td>feat: add plant history post</td>
+    <td>feat: add plant history post</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>bad426d</td>
+    <td>fix: assembler types</td>
+    <td>fix: assembler types</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>3ab918a</td>
+    <td>fix: fixed all plant histories endpoint</td>
+    <td>fix: fixed all plant histories endpoint</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>edfb85a</td>
+    <td>chore: add deployment config</td>
+    <td>chore: add deployment config</td>
+    <td>22/06/25</td>
   </tr>
 </table>
 
@@ -4855,32 +5015,329 @@ link al trello:
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 
++ TS01
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts01.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS02
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts02.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS03
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts03.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS04
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts04.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS05
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts05.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS06
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts06.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS07
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts07.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS08
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts08.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS09
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts09.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS10
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts10.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS11
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts11.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS12
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts12.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS13
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts13.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS14
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts14.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS15
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts15.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS16
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts16.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
+
+
+
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 <table>
   <thead>
     <tr>
-      <th>Endpoint</th>
-      <th>Acciones soportadas</th>
+      <th>Endpoint URL</th>
+      <th>Recurso</th>
+      <th>Verbo HTTP</th>
+      <th>Acción / Sintaxis</th>
       <th>Parámetros</th>
-      <th>Ejemplo de Request</th>
       <th>Ejemplo de Response</th>
-      <th>Documentación (URL)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>/plants</td>
-      <td>GET, POST, PUT, DELETE</td>
-      <td>id (path), userId, name, species, humidity, imageUrl</td>
-      <td><code>POST /plants</code><br>{ "name": "Cactus", "species": "Suculenta", "userId": 1 }</td>
-      <td>{ "id": 10, "name": "Cactus", "userId": 1 }</td>
-      <td>http://localhost:3000/api-docs</td>
+      <td>/api/v1/profiles</td>
+      <td>Profiles</td>
+      <td>GET</td>
+      <td>Get all profiles</td>
+      <td>Ninguno</td>
+      <td>[ ]</td>
+    </tr>
+    <tr>
+      <td>/api/v1/profiles</td>
+      <td>Profiles</td>
+      <td>POST</td>
+      <td>Create a new profile</td>
+      <td>Body: profile data</td>
+      <td>{ ... }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/profiles/{profileId}</td>
+      <td>Profiles</td>
+      <td>GET</td>
+      <td>Get a profile by ID</td>
+      <td>Path: profileId</td>
+      <td>{ ... }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/guides</td>
+      <td>Guides</td>
+      <td>GET</td>
+      <td>Get all guides</td>
+      <td>Ninguno</td>
+      <td>[ ]</td>
+    </tr>
+    <tr>
+      <td>/api/v1/guides</td>
+      <td>Guides</td>
+      <td>POST</td>
+      <td>Create a new guide</td>
+      <td>Body: guide data</td>
+      <td>{ ... }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/guides/{guideId}</td>
+      <td>Guides</td>
+      <td>GET</td>
+      <td>Get guide by ID</td>
+      <td>Path: guideId</td>
+      <td>{ ... }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plantHistories</td>
+      <td>Plant Histories</td>
+      <td>POST</td>
+      <td>Create a new plant history</td>
+      <td>Body: plant history data</td>
+      <td>{ ... }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plantHistories/plantId</td>
+      <td>Plant Histories</td>
+      <td>GET</td>
+      <td>Get plant histories by plant ID</td>
+      <td>Query: plantId</td>
+      <td>[ ]</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plantHistories/by-plant/plantId</td>
+      <td>Plant Histories</td>
+      <td>GET</td>
+      <td>Get plant history by Plant ID</td>
+      <td>Path: plantId</td>
+      <td>{ ... }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/tasks</td>
+      <td>Tasks</td>
+      <td>GET</td>
+      <td>Get all tasks</td>
+      <td>Ninguno</td>
+      <td>[ ]</td>
+    </tr>
+    <tr>
+      <td>/api/v1/tasks</td>
+      <td>Tasks</td>
+      <td>POST</td>
+      <td>Create a new task</td>
+      <td>Body: task data</td>
+      <td>{ ... }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/tasks/{taskId}</td>
+      <td>Tasks</td>
+      <td>DELETE</td>
+      <td>Delete task</td>
+      <td>Path: taskId</td>
+      <td>{ ... }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plants/{plantId}</td>
+      <td>Plants</td>
+      <td>PUT</td>
+      <td>Update a plant</td>
+      <td>Path: plantId, Body: plant</td>
+      <td>{ ... }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plants/{plantId}</td>
+      <td>Plants</td>
+      <td>DELETE</td>
+      <td>Delete plant</td>
+      <td>Path: plantId</td>
+      <td>{ ... }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plants</td>
+      <td>Plants</td>
+      <td>GET</td>
+      <td>Get all plants</td>
+      <td>Ninguno</td>
+      <td>[ ]</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plants</td>
+      <td>Plants</td>
+      <td>POST</td>
+      <td>Create a new plant</td>
+      <td>Body: plant data</td>
+      <td>{ ... }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plants/profileId</td>
+      <td>Plants</td>
+      <td>GET</td>
+      <td>Get plants by profile ID</td>
+      <td>Query: profileId</td>
+      <td>[ ]</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plants/plantId</td>
+      <td>Plants</td>
+      <td>GET</td>
+      <td>Get plant by ID</td>
+      <td>Path: plantId</td>
+      <td>{ ... }</td>
     </tr>
   </tbody>
 </table>
-
-
 
 <br><br>
 
@@ -4899,25 +5356,75 @@ link al trello:
   <tr>
     <td>Palomino Fiestas, Erik Leonardo</td>
     <td>ErickLeo13</td>
-    <td>a</td>
+    <td>Módulo Profile</td>
   </tr>
   <tr>
     <td>Gonzales Alvarado, Javier Sebastian</td>
     <td>WoodsDos</td>
-    <td>a</td>
+    <td>Módulo Guides, Implementacion de API del clima en el FrontEnd</td>
   </tr>
   <tr>
     <td>Rivera Ratachi, Renzo Sebastian</td>
     <td>renzor11</td>
-    <td>a</td>
+    <td>Módulo Plants, Tasks, Correción de errores previos en el FrontEnd, Conexión con la base de datos</td>
   </tr>
   <tr>
     <td>Torres Apolinario, Giovany Smith</td>
     <td>Giovany7x</td>
-    <td>a</td>
+    <td>Módulo PlantHistories</td>
   </tr>
 </table>
 <br><br>
+
+
++ PlantSync_Platform:
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ins01.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ins02.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
+ + PlantSync_Frontend:
+
+ <br>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia2-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia1-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br><br>
+
++ plantSync-LandingPage:
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia4-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia3-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br><br>
+
 
 ---
 
