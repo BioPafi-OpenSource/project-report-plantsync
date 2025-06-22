@@ -5338,6 +5338,80 @@ link al trello:
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Landing page:
+
+- Configuración del entorno de despliegue:
+
+Como equipo decidimos usar Github Pages como hosting de nuestro Landing Page. Esto es principalmente a su facilidad para configurar y desplegar desde la rama Main. Y actualizamos constantemente la Landing Page con los commits desde Develop.
+
+- Activación de GitHub Pages en el repositorio:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Confirmación del enlace del repositorio con entorno de publicación:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización de la Landing Page:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/landingsprint3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+[Link de la Landing Page](https://biopafi-opensource.github.io/plantSync-LandingPage/)
+
+Web App: 
+
+Se certifica la exitosa implementación de la aplicación web frontend en Azure App Service, utilizando la rama "chore" del repositorio. El despliegue se realizó a partir del directorio generado con el comando de construcción ng build --configuration production, el cual produce la carpeta dist/plant-sync. Esta fue configurada como directorio de publicación estática en Azure, completando satisfactoriamente el proceso de despliegue de la aplicación mediante el entorno de ejecución Node.js provisto por la plataforma.
+
+- Visualización Actions desde el Github:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización del recurso de Azure:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización de la Static WebApp:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+Backend :
+
+Para esta entrega el despliegue del Backend y base de datos fue posible mediante los servicios de la nube de Azure. Se desplegó utilizando una imagen en Docker Desktop.
+
+
+Servidor de base de datos:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/databasedeploymentazure.png" alt="evidencia-sprint" width="1000">
+</p>
+
+
+Visualización en Docker Desktop:
+
+
+
+
+
+
+
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
 <br>
