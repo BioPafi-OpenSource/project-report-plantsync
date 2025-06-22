@@ -551,7 +551,22 @@ Repositorio Informe:
       - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)  
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
-      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) 
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)  
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)  
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)  
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)  
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)  
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)  
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)  
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)  
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint) 
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
+    - [5.3.1. Registro de Entrevistas](#532-registro-de-entrevistas) 
+    - [5.3.1. Evaluaciones según heurísticas](#533-evaluacion-según-heurísticas) 
+  - [5.4. Video About-the-Product](#54-validation-interviews) 
+
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -4645,6 +4660,747 @@ Repositorio Landing Page:
 <p align="center">
   <img src="images/evidencia-sprint2/evidencia3-team-sprint2.png" alt="evidencia-sprint" width="1000">
 </p>
+
+---
+
+#### 5.2.3. Sprint 3
+
+##### 5.2.3.1. Sprint Planning 3
+
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 08 - 06</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>9:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Erik Palomino</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Javier Gonzales, Renzo Rivera, Giovany Smith, Sean Farith</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Review Summary</strong></td>
+    <td> a</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Retorspective Summary</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Goal</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Velocity</strong></td>
+    <td>a</td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.3.2. Aspect Leaders and Collaborators
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>a</strong></td>
+    <td><strong>a</strong></td>
+    <td><strong>a</strong></td>
+    <td><strong>a</strong></td>
+    <td><strong>a</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>rezor11</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Torres Apolinario, Giovany Smith</td>
+    <td>Giovany7x</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.3.3. Sprint Backlog 3
+
+Este Sprint se enfocó en ...
+
+<img src="#" alt="sprint-backlog3" width="1000">
+
+link al trello: 
+
+<br><br>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint #</th>
+      <th colspan="7">Sprint 3</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="7">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimated (Hours)</th>
+      <th>Assigned to</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US01</td>
+      <td>Registro de una nueva planta</td>
+      <td>T01</td>
+      <td>Formulario y backend de registro</td>
+      <td>Como usuario que cuida plantas, quiero registrar una nueva planta con nombre, tipo y foto, para llevar el control de su cuidado.</td>
+      <td>5</td>
+      <td>Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br>
+
+##### 5.2.3.4. Development Evidence for Sprint Review 
+
+<table align="center">
+  <tr>
+    <td><strong>Repository</strong></td>
+    <td><strong>Branch</strong></td>
+    <td><strong>Commit Id</strong></td>
+    <td><strong>Commit Message</strong></td>
+    <td><strong>Commit Message Body</strong></td>
+    <td><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+    <td>main</td>
+    <td>20ed84b</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>08/05/25</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>develop</td>
+    <td>b4eb88e</td>
+    <td>add plant-form, plant-detail and mis plantas</td>
+    <td>add plant-form, plant-detail and mis plantas</td>
+    <td>13/05/25</td>
+  </tr>
+</table>
+
+<br>
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Acciones soportadas</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Request</th>
+      <th>Ejemplo de Response</th>
+      <th>Documentación (URL)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/plants</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>id (path), userId, name, species, humidity, imageUrl</td>
+      <td><code>POST /plants</code><br>{ "name": "Cactus", "species": "Suculenta", "userId": 1 }</td>
+      <td>{ "id": 10, "name": "Cactus", "userId": 1 }</td>
+      <td>http://localhost:3000/api-docs</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<br><br>
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+<br>
+
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>Torres Apolinario, Giovany Smith</td>
+    <td>Giovany7x</td>
+    <td>a</td>
+  </tr>
+</table>
+<br><br>
+
+---
+
+### 5.3 Validation Interviews
+
+#### 5.3.1 Diseño de Entrevistas
+
+**Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):**
+
+**1.-** ¿Qué funcionalidades del dashboard consideras más valiosas para alguien con experiencia?
+
+
+**2.-** ¿Se te resulto facil registrar tus plantas y gestionar sus cuidados en “Mis Plantas”?
+
+**3.-** ¿La sección de historial te resulta útil para mantener un seguimiento avanzado?
+
+**4.-** ¿Qué opinión tienes sobre la calidad y nivel de profundidad de las guías disponibles?
+
+**5.-** ¿El sistema de tareas se adapta bien a tus rutinas de cuidado?
+
+
+**6.-** Al probar Rootbot ¿Consideras útil su asistencia para alguien con experiencia?
+
+**7.-** ¿Hay alguna función que te haya sorprendido o que no hayas visto en otras herramientas similares?
+
+**8.-** ¿Qué opinas de la posibilidad de centralizar todas las plantas y tareas en un solo panel?
+
+**9.-** ¿Qué herramientas adicionales crees que podrían aportar valor a usuarios avanzados?
+
+**10.-** ¿Recomendarías esta plataforma a otros cuidadores con experiencia? ¿Qué los motivaría a usarla?
+
+**Entrevista para personas con poca experiencia en el cuidado de plantas:**
+
+**1.-** ¿Te resultó clara la función principal de la app cuando entraste por primera vez?
+
+**2.-** ¿Qué te pareció el proceso de registrar una planta en “Mis Plantas”? ¿Fue fácil de seguir?
+
+**3.-** ¿El historial de cuidados te pareció útil para llevar un seguimiento?
+
+**4.-** ¿Te ayudó la sección de guías a entender mejor cómo cuidar tus plantas?
+
+**5.-** ¿La sección de tareas te ayudó a organizarte con el riego, la fertilización u otros cuidados?
+
+**6.-** ¿Que te parecio Rootbot, siendo una chatbot que te ayuda a resolver preguntas sobre tus plantas?
+
+**7.-** ¿Crees que el diseño del dashboard te permitió encontrar lo que necesitabas rápidamente?
+
+**8.-** ¿Qué sensación tuviste al usar la app? ¿Te dio confianza para empezar con tus plantas?
+
+**9.-** ¿Qué función te pareció más útil como principiante? ¿Por qué?
+
+**10.-** ¿Qué agregarías o cambiarías para que esta app ayude mejor a quienes recién empiezan?
+
+#### 5.3.2 Registro de Entrevistas
+
+## _Expertos cuidadores de plantas_
+
+<br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Pedro vargas</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>23 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>00:00 - 20:39</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ESo5zHrrdaJGoCemsZ-n9rAB7GbfhQukPN2nsoXDKGw34A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=y1EqSk" target="_blank"> upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      Pedro Vargas valoró especialmente la funcionalidad del calendario de riego, ya que le permite recordar cuándo atender sus plantas. Consideró fácil registrar las plantas, aunque notó la falta de una animación de carga. Encontró útil el historial para llevar seguimiento y cree que las guías pueden ser valiosas si se amplían a más especies. El sistema de tareas le pareció práctico y adaptable a sus rutinas. Sobre el asistente Rootbot, sugirió incluir diagnósticos y recomendaciones personalizadas ante problemas visibles en las plantas. Le sorprendió la capacidad de visualizar análisis y manejar muchas plantas a la vez, y ve con buenos ojos centralizar toda la información en un panel único. Sugirió añadir herramientas que permitan registrar síntomas y recibir orientación sobre problemas específicos. Finalmente, recomendaría la plataforma a otros cuidadores experimentados, especialmente si gestionan muchas plantas, por su utilidad para organizar y no olvidar tareas.
+    </td>
+  </tr>
+  <tr>
+<td colspan="2">
+  <img src="images/evidencia-sprint3/entrevistavalidacion1-pedro.jpg" alt="Screenshot Entrevista 2" width="1000">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistada</strong></td>
+    <td>Leonor Gonzales</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>60 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>20:39 - 30:15</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ESo5zHrrdaJGoCemsZ-n9rAB7GbfhQukPN2nsoXDKGw34A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMjM5LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=nBsgUC" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      Leonor González, una usuaria previamente entrevistada para identificar necesidades en el cuidado de plantas, participó en la prueba de la primera versión de PlantSync. Destacó la facilidad para registrar plantas, agregar fotos y editar información, así como la utilidad del historial de cuidados para no perder el seguimiento de cada planta. Le pareció interesante la función de clima y valoró la sección de tareas por permitirle marcar actividades como completadas. En la sección de guías sugirió ampliar el número de opciones, ya que solo se habían desarrollado tres. Aunque el chatbot le resultó innovador, lo consideró complicado de usar, sobre todo al gestionar fechas. Señaló algunas dificultades para visualizar botones y encabezados debido al tamaño del texto, pero en general encontró la aplicación sencilla, útil y con opciones flexibles en la sección de planes.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/validation-interview-leonor.png" alt="Screenshot Entrevista 2" width="1000">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 3</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistada</strong></td>
+    <td>Guadalupe Alvarado</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>52 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>30:15 - 38:57</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ESo5zHrrdaJGoCemsZ-n9rAB7GbfhQukPN2nsoXDKGw34A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxODE1LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=I0rgoM" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      Guadalupe Alvarado Ramos es una usuaria previamente entrevistada como parte del segmento con experiencia en el cuidado de plantas. Durante la prueba de la aplicación PlantSync, pudo navegar de forma correcta por todas las secciones y no presentó conflictos significativos con la interfaz ni con el flujo general de la aplicación. Consideró especialmente útil el acceso a las características principales de las plantas, como la humedad y la temperatura, y destacó la facilidad para registrar nuevas plantas en su perfil. Le agradó el apartado de tareas, aunque observó que no resulta cómodo tener que ingresar manualmente los eventos como riego, poda o fertilización, y sugirió mejorar esa funcionalidad. Respecto a las guías, mencionó que deberían enriquecerse con información más relevante para personas con experiencia, ya que las existentes le resultaron limitadas para su nivel. Guadalupe valoró de forma positiva el uso del RootBot y consideró que su utilidad aplica para usuarios de todos los niveles. Finalmente, aunque reconoció las funciones útiles de la aplicación, expresó que le gustaría que los cuidados se adaptaran automáticamente a las estaciones del año para hacerlos más precisos y personalizados.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/validation-interview-guadalupe.png" alt="Screenshot Entrevista 3" width="1000">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## _Principiantes cuidadores de plantas:_
+
+<br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Estefano Solis</td></td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Cercado de Lima</td></td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>38:57 - 51:10</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ESo5zHrrdaJGoCemsZ-n9rAB7GbfhQukPN2nsoXDKGw34A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoyMzM3LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=UvgcXa" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: Estefano Solis expresó que la función principal de la app fue clara desde el inicio y que el proceso de registrar plantas fue sencillo, destacando la utilidad de identificar plantas con fotos. Consideró muy útil el historial para evitar errores de riego y valoró positivamente la sección de guías, ya que le evita buscar en Google. Las tareas y recordatorios fueron lo más útil para él como principiante, pues lo ayudaron a establecer hábitos de cuidado. Le sorprendió gratamente Rootbot, al permitirle resolver dudas rápidamente, y opinó que el dashboard está bien diseñado y es fácil de navegar. La app le dio confianza y alivio al facilitar el cuidado de plantas, motivándolo a tener más. Como sugerencia, propuso una función de diagnóstico por foto para detectar problemas visuales en las plantas, aunque en general considera que la app ya está bastante completa.
+<br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/evidencia-sprint3/entrevistavalidacion2-estefano.jpg" alt="screenshot entrevista estefano" width="1000">
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Andrea Elizabeth Santur Tello</td></td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>18 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Los Olivos</td></td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>51:10 - 56:44</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ESo5zHrrdaJGoCemsZ-n9rAB7GbfhQukPN2nsoXDKGw34A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjozMDcwLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=XJ5P7X" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: Elizabeth Santur dijo que la función principal de la app fue clara desde el inicio y que el proceso de registrar plantas fue sencillo, como tambien el proceso de registro como nuevo usuario fue rapido y facil de entender, ella destacp la utilidad de identificar plantas con fotos. Consideró muy útil el historial para evitar errores de riego y ayudarse con ello para crear como una rutina de cuidado para sus plantas y valoró positivamente la sección de guías. Las tareas y recordatorios fueron lo más útil para él como principiante. Le sorprendió gratamente Rootbot, al permitirle resolver dudas rápidamente, mostrando gran sorpresa con al interactuar con este, y opinó que el dashboard está bien diseñado y es fácil de navegar entre los distintos apartados de la App Web. La app le dio confianza y alivio al facilitar el cuidado de plantas, motivándolo a tener más. Como sugerencia, propuso una función de personalizacion para el diseño como lo son los colores o el color de fondo, aunque en general considera que la app ya está bastante completa.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/evidencia-sprint3/entrevistavalidacion-andrea.jpg" alt="screenshot andrea santur" width="1000">
+    </td>
+  </tr>
+</table>
+
+#### 5.3.3 Evaluaciones según heurísticas
+
+**SITE o APP A EVALUAR:**
+
+*PlantSync*
+
+**TAREAS A EVALUAR**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Login
+2. Visualizacion de Mis plantas
+3. Visualización de descripción de las plantas
+4. Agregar plantas 
+5. Eliminar planta
+6. Visualizar Tareas
+7. Ver Historial
+7. Crear Tareas
+8. Visualizar las guias
+9. Visualizar las descripciones de las guias
+10. Rootbot (chatbot)
+11. Visualización de configuración (perfil)
+12. Cerrar sesión
+
+No están incluidas en esta version de la evaluación las siguientes tareas:
+
+1. Internacionalización
+2. Registro de usuario
+3. Responsive de la aplicación
+
+**ESCALA DE SEVERIDAD**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>Nivel</b></td>
+      <td><b>Descripción</b></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+    </tr>
+    <tr>
+      <td>3 </td>
+      <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+    </tr>   
+  </tbody>
+</table>
+
+**TABLA RESUMEN**
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>#</b></td>
+      <td><b>Problema</b></td>
+      <td><b>Escala de severidad</b></td>
+      <td><b>Heurística/Principio violada(o)</b></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Boton de retorno al landing page ausente</td>
+      <td>2</td>
+      <td>Control y libertad del usuario</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>No se aprecia bien el botón de "Ver Historial"</td>
+      <td>2</td>
+      <td>Visibilidad del estado del sistema / Estética y diseño minimalista</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Pocas Preguntas en el apartado de Rootbot(chatbot)</td>
+      <td>1</td>
+      <td>Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Pocas guias presentes en el apartado de Guias</td>
+      <td>2</td>
+      <td>Ayuda y documentación / Contenido relevante y útil</td>
+    </tr>
+        <tr>
+      <td>5</td>
+      <td>Dificultad para visualizar botones y encabezados debido al tamaño del texto.</td>
+      <td>3</td>
+      <td>Visibilidad del estado del sistema</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Complejidad al usar el chatbot, especialmente para manejar fechas</td>
+      <td>3</td>
+      <td>Flexibilidad y eficiencia de uso / Prevención de errores.</td>
+    </tr>  
+    <tr>
+      <td>7</td>
+      <td>El usuario debe ingresar manualmente el tipo de evento (Riego, Poda, Fertilización) en el apartado de tareas.</td>
+      <td>2</td>
+      <td>Prevención de errores / Flexibilidad y eficiencia de uso.</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Las guías no contienen información suficiente para usuarios con experiencia.</td>
+      <td>2</td>
+      <td>Correspondencia entre el sistema y el mundo real</td>
+    </tr>
+  </tbody>
+</table>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+Problema #1: Boton de retorno al landing page ausente
+
+Severidad: 2 - Moderada
+
+Heurística violada: Control y libertad del usuario
+
+Problema:  No se puede apreciar un botón o enlace visible que permita al usuario regresar al landing page desde el login, lo que puede generar confusión y dificultar la navegación general.
+
+<img src="images/evidencia-sprint3/heuristica 1.jpg" alt="screenshot heuristica 1" width="1000">
+
+Recomendación: Incluir un botón o enlace claro y accesible en el login o register el cual permita regresar al landing page con un solo clic. Esto mejora la navegación general y respeta el principio de control y libertad del usuario.
+
+---
+
+Problema #2: No se aprecia bien el botón de "Ver Historial"
+
+Severidad:  2 - Moderada
+
+Heurística violada: Visibilidad del estado del sistema / Estética y diseño minimalista
+
+Problema: El botón de "Ver Historial" no es claramente visible o no destaca lo suficiente dentro de la interfaz, lo que puede provocar que los usuarios no lo encuentren fácilmente o ignoren su funcionalidad. Esto afecta la eficiencia al momento de acceder a información importante.
+
+<img src="images/evidencia-sprint3/heuristica 2.jpg" alt="screenshot heuristica 2" width="1000">
+
+Recomendación: Mejorar la visibilidad del botón mediante un diseño más contrastante, posicionarlo en un lugar estratégico y considerar el uso de iconografía o etiquetas más destacadas. Asegurar que mantenga coherencia con el diseño general, pero que tenga suficiente peso visual para ser identificado rápidamente.
+
+---
+
+Problema #3: Pocas Preguntas en el apartado de Rootbot(chatbot)
+
+Severidad: 1 - Leve
+
+Heurística violada: Flexibilidad y eficiencia de uso
+
+Problema: El apartado del chatbot Rootbot presenta un número limitado de preguntas predefinidas, lo que reduce su utilidad y capacidad para resolver dudas frecuentes. Los usuarios pueden sentirse limitados en cuanto a las opciones disponibles, especialmente si no saben cómo formular sus propias consultas.
+
+<img src="images/evidencia-sprint3/heuristica 3.jpg" alt="screenshot heuristica 3" width="1000">
+
+Recomendación: Ampliar el repertorio de preguntas frecuentes disponibles en el chatbot, priorizando aquellas relacionadas con las funcionalidades principales de la aplicación. Además, se podría categorizar las preguntas por temas para facilitar su exploración.
+---
+
+Problema #4: Pocas guias presentes en el apartado de Guias
+
+Severidad:  2 - Moderada
+
+Heurística violada: Ayuda y documentación / Contenido relevante y útil
+
+Problema: El apartado de Guías contiene muy pocos recursos sobre el cuidado de plantas, lo cual limita el valor informativo que ofrece la aplicación a los usuarios, especialmente a aquellos principiantes que buscan orientación clara y detallada sobre diferentes tipos de plantas o situaciones comunes.
+
+<img src="images/evidencia-sprint3/heuristica 4.jpg" alt="screenshot heuristica 4" width="1000">
+
+Recomendación: Ampliar la cantidad de guías disponibles, cubriendo una mayor variedad de plantas, climas y problemas frecuentes. Las guías deben estar organizadas de manera clara y accesible, con títulos descriptivos y, de ser posible, imágenes o infografías que faciliten la comprensión visual.
+
+---
+
+Problema #5: Dificultad para visualizar botones y encabezados debido al tamaño del texto.
+
+Severidad: 3
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema: Los botones y encabezados tienen textos demasiado pequeños para usuarios mayores, dificultando la lectura y localización rápida de opciones en la interfaz.
+
+<img src="images/heuristica5.png" alt="screenshot heuristica 5" width="1000">
+
+Recomendación: Aumentar el tamaño mínimo de fuente, implementar opciones de accesibilidad para ajustar el tamaño del texto y probar el contraste para asegurar buena visibilidad.
+
+---
+
+Problema #6: Complejidad al usar el chatbot, especialmente para manejar fechas.
+
+Severidad: 3
+
+Heurística violada: Flexibilidad y eficiencia de uso / Prevención de errores.
+
+Problema: El chatbot tiene una interfaz que resulta confusa para usuarios con menor experiencia digital, y el manejo de fechas no es intuitivo, lo que genera errores o frustración.
+
+<img src="images/heuristica6.png" alt="screenshot heuristica 5" width="1000">
+
+Recomendación: Simplificar los flujos del chatbot con mensajes guiados paso a paso, incluir un selector visual de fechas y ofrecer ejemplos o plantillas rápidas de comandos.
+
+---
+
+Problema #7: El usuario debe ingresar manualmente el tipo de evento (Riego, Poda, Fertilización) en el apartado de tareas.
+
+Severidad: 2
+
+Heurística violada: Prevención de errores / Flexibilidad y eficiencia de uso
+
+Problema: Tener que escribir manualmente los eventos incrementa el riesgo de errores de tipeo, consume tiempo y reduce la eficiencia, sobre todo en tareas repetitivas.
+
+<img src="images/heuristica8.png" alt="screenshot heuristica 5" width="1000">
+
+Recomendación: Implementar un menú desplegable o botones rápidos con los tipos de eventos más comunes para facilitar el registro y reducir errores.
+
+---
+
+Problema #8: Las guías no contienen información suficiente para usuarios con experiencia.
+
+Severidad: 2 
+
+Heurística violada: Correspondencia entre el sistema y el mundo real
+
+Problema: Las guías actuales están pensadas para principiantes, lo que limita el valor para usuarios avanzados que esperan contenido más detallado y especializado.
+
+<img src="images/heuristica9.png" alt="screenshot heuristica 5" width="1000">
+
+Recomendación: Ampliar las guías con contenido avanzado (por ejemplo, cuidados específicos por especie, técnicas de cultivo, recomendaciones para plagas) y permitir filtros por nivel de experiencia.
+
+---
+
+### 5.4 Video About-the-Product
+
+
 
 ## Conclusiones
 
