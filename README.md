@@ -3101,9 +3101,15 @@ Fuente: Elaborado con structurizr
 
 [Enlace al diagrama de clases en Lucidchart](https://lucid.app/lucidchart/7c54dd1b-95df-4695-b9fd-662c620b0ea1/edit?viewport_loc=3516%2C-29%2C6259%2C2960%2CHWEp-vi-RSFO&invitationId=inv_1351b1e5-61e1-490e-ba8b-fd92b6661710)
 
+Class Diagram Frontend:
 <img src="images/BioPafi- Class Diagram Frontend.png" alt="class-diagram-frontend" width="1000">
 
 [Enlace al diagrama de clases del frontend de Lucidchart](https://lucid.app/lucidchart/1dd994f8-b130-47d2-8519-eb30b841b5f7/edit?viewport_loc=3868%2C515%2C4781%2C2069%2CHWEp-vi-RSFO&invitationId=inv_235d0cb5-3b41-431a-a605-df914107ec24)
+
+Class Diagram Backend:
+<img src="images/diagram-DDD_Bounded_Context_Backend.png" alt="class-diagram-backend" width="1000">
+
+[Enlace al diagrama de clases del backend](https://i.imgur.com/oxP5tce.png)
 
 #### 4.7.2. Class Dictionary
 
