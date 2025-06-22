@@ -183,11 +183,73 @@
     Torres
     </td>
     <td>Conclusiones, Link del exposicion TP1, studen outcome TP1 y Report Collaboration Insight, mejora continua, conversion a PDF</td>
+  </tr>
+  <tr>
+    <td>3.1</td>
+    <td>05/06/25</td>
+    <td>
+    Rivera,<br>
+    Torres
+    </td>
+    <td>Mejora Continua. Mejoras en el diagrama del frontend</td>
+  </tr>
+  </tr>
+  <tr>
+    <td>3.2</td>
+    <td>09/06/25</td>
+    <td>
+    Rivera,<br>
+    Torres
+    </td>
+    <td>Mejora continua. Mejoras en el diagrama de base de datos</td>
+  </tr>
+  </tr>
+  <tr>
+    <td>3.3</td>
+    <td>19/06/25</td>
+    <td>
+    Rivera,<br>
+    Torres
+    </td>
+    <td>Realización del diagrama del backend</td>
+  </tr>
+  <tr>
+    <td>3.4</td>
+    <td>21/06/25</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Torres
+    </td>
+    <td>Realizacion de las entrevistas de validación, más las heuristicas</td>
+  </tr>
+  <tr>
+    <td>3.5</td>
+    <td>22/06/25</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    Rivera,<br>
+    Torres
+    </td>
+    <td>Realización del Sprint 3, con todos sus apartados</td>
+  </tr>
+  <tr>
+    <td>3.6</td>
+    <td>22/06/25</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    </td>
+    <td>Se añadieron los videos de About The Product y About the Team, más las conclusiones y recomendaciones</td>
+  </tr>
 </table>
 
 ---
 
 ## Project Report Collaboration Insights
+
+Link del documento en GitHub: https://github.com/BioPafi-OpenSource/project-report-plantsync
 
 ## **TB1**
 
@@ -279,6 +341,47 @@
   </tr>
 </table>
 
+## **TB2**
+
+<table align="center">
+  <tr>
+    <td><strong>Integrante</strong></td>
+    <td><strong>Tareas Asignadas</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Erick Palomino
+    </td>
+    <td>
+      Realización del Profiles Bounded Context en el backend, entrevista de validación, añadio heuristicas, video about the product , video about the team , Sprint 3 y conclusiones.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Javier Gonzales
+    </td>
+    <td>
+      Realización de la Migración a base de datos en el backend, entrevista de validación, añadio heuristicas, video about the team, Sprint 3, mejora del frontend y conclusiones.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Renzo Rivera
+    </td>
+    <td>
+      Realización del Plant Profiles y Tasks Bounded Context en el backend, realizo el deploy del backend , realización del diagrama del backend,video about the team, mejora del frontend y Sprint 3.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Giovany Torres
+    </td>
+    <td>
+      Realización de Guides Bounded Context en el backend, entrevista de validación, realización del diagrama del frontend, añadio heuristicas, video about the team, Sprint 3 y conclusiones.
+    </td>
+  </tr>
+</table>
+
 **GitHub Collaboration Insights**
 
 **Integrantes:**
@@ -350,6 +453,56 @@ Repositorio Informe:
 <p align="center">
   <img src="images/insight-github/overview2-plantsync.png" alt="evidencia-sprint" width="1000">
 </p>
+
+## **TB2**
+
++ Backend:
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidence-github-backend1.jpg" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidence-github-backend2.jpg" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
+ + Frontend:
+
+ <br>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia2-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia1-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br><br>
+
++ LandingPage:
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidencia-github-landing1.jpg" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidencia-github-landing2.jpg" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
 
 ---
 
@@ -451,8 +604,24 @@ Repositorio Informe:
       - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)  
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
-      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) 
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)  
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)  
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)  
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)  
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)  
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)  
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)  
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)  
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint) 
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
+    - [5.3.1. Registro de Entrevistas](#532-registro-de-entrevistas) 
+    - [5.3.1. Evaluaciones según heurísticas](#533-evaluacion-según-heurísticas) 
+  - [5.4. Video About-the-Product](#54-validation-interviews) 
+
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+- [Video about the Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -476,15 +645,21 @@ Repositorio Informe:
       <br><br>
       TP1 - Presentó avances técnicos relacionados a la autenticación del sistema (login y register), además de explicar el funcionamiento de la Landing Page V2 y el módulo de colaboración.
       <br><br>
+      TB2 - Participó en la entrevista de validación del sistema y presentó el video “About the Product” y “About the Team”, explicando funcionalidades y roles.
+      <br><br>
       <strong>Javier Gonzales:</strong>
       TB1 - Presentación oral de los resultados de entrevistas y de la estructura de la Landing Page.
       <br><br>
       TP1- Comunicó de forma clara las funcionalidades desarrolladas en la sección "Mis Plantas", el historial y recomendaciones climáticas en reuniones grupales.
       <br><br>
+      TB2 - Expuso durante la entrevista de validación y en el video grupal, mostrando mejoras del frontend e integración con base de datos.
+      <br><br>
       <strong>Renzo Rivera:</strong>
       TB1 – Exposición de análisis competitivo y explicación de los User Flow Diagrams durante la reunión grupal.
       <br><br>
       TP1- Expuso el diseño y lógica del FrontEnd del Chatbot y la sección de tareas, explicando su integración y mejoras.
+      <br><br>
+      TB2 - Contribuyó en la presentación del video “About the Team” y explicó los cambios realizados en el backend y en el proceso de despliegue.
       <br><br>
       <strong>Sean Palomares:</strong>
       TB1 - Explicación oral de los mapas de impacto y segmentación de objetivos en reuniones grupales.
@@ -493,11 +668,16 @@ Repositorio Informe:
       TB1 –  Presentación oral de los antecedentes, problemática y mapeos de escenarios en el desarrollo inicial del proyecto.
       <br><br>
       TP1 - Participó en la presentación oral del FrontEnd de Guías, así como en la explicación de cambios en la arquitectura de clases y conclusiones del entregable.
+      <br><br>
+      TB2 - Comunicó verbalmente el diseño del frontend y del módulo de guías en entrevistas y en el video del equipo.
+      <br><br>
     </td>
     <td>
       TB1:Como grupo, logramos una comunicación oral efectiva que facilitó la comprensión de las distintas etapas del proyecto. La coordinación de presentaciones y la exposición clara de ideas fortalecieron nuestro trabajo en equipo y permitieron que cada integrante aportara de forma precisa en su área asignada.
       <br><br>
       TP1:La comunicación oral fue fundamental para coordinar las tareas del proyecto y asegurar una comprensión común. Cada integrante presentó con claridad sus avances y propuestas, lo que permitió una integración efectiva del trabajo. Se logró una interacción fluida y profesional dentro del equipo.
+      <br><br>
+      TB2: La comunicación oral del equipo se fortaleció mediante entrevistas y videos explicativos donde se expresaron con claridad las funciones desarrolladas, lo que facilitó la validación del producto y la comprensión del progreso por parte de los usuarios. Las presentaciones mostraron cohesión, claridad y un dominio del trabajo individual y colectivo.
     </td>
   </tr>
   <tr>
@@ -510,15 +690,21 @@ Repositorio Informe:
       <br><br>
       TP1 - Documentó los procesos implementados para login/register, colaboró en la redacción del Student Outcome y el informe técnico del Sprint 2.
       <br><br>
+      TB2 - Documentó el Profiles Bounded Context del backend, agregó contenido escrito en heurísticas y elaboró las conclusiones del entregable.
+      <br><br>
       <strong>Javier Gonzales:</strong>
       TB1 –  Redacción del Lean UX Problem Statement, Assumptions y desarrollo de wireframes documentados.
       <br><br>
       TP1 - Describió por escrito las funcionalidades del historial, recomendaciones y deployment del sistema, contribuyendo a la documentación del TP1.
       <br><br>
+      TB2 - Redactó los cambios realizados en la migración a base de datos y en la mejora del frontend, contribuyendo también en las heurísticas y conclusiones.
+      <br><br>
       <strong>Renzo Rivera:</strong>
       TB1 –  Documentación escrita de análisis competitivo, User Personas, User Journey Mapping y Task Matrix.
       <br><br>
       TP1 - Elaboró descripciones técnicas del Chatbot y la sección de tareas, detallando los retos y soluciones en el informe parcial.
+      <br><br>
+      TB2 - Escribió la documentación técnica del Plant Profiles, Tasks Bounded Context y el diagrama del backend.
       <br><br>
       <strong>Sean Palomares:</strong>
       TB1 – Elaboración escrita de Hypothesis Statements, Product Backlog y base de diseño orientado a objetos.
@@ -527,11 +713,16 @@ Repositorio Informe:
       TB1 –  Redacción de antecedentes, problemática, Empathy Mapping y documentos de arquitectura de software, incluyendo la conclusión escrita del reporte.
       <br><br>
       TP1 - Redactó el contenido del FrontEnd de Guías, corrigió el diagrama de clases y formuló las conclusiones del informe TP1.
+      <br><br>
+      TB2 - Documentó el Guides Bounded Context, redactó la estructura del frontend, las heurísticas y las conclusiones del informe.
+      <br><br>
     </td>
     <td>
       TB1:Como equipo, fuimos capaces de producir documentos escritos claros y adaptados al público objetivo, asegurando la coherencia y calidad de la información entregada. Esto facilitó la comprensión del proyecto tanto para el equipo como para los revisores externos. El trabajo colaborativo en los entregables escritos fue clave para mantener una línea de comunicación efectiva en todo el desarrollo del proyecto.
       <br><br>
       TP1: La documentación escrita del trabajo parcial fue clara, precisa y permitió dejar registro estructurado de cada avance. Se cuidó el lenguaje técnico y la redacción, haciendo posible una comprensión adecuada tanto para el equipo como para evaluadores externos. La distribución de redacción fue equilibrada y colaborativa.
+      <br><br>
+      TB2: La producción escrita durante esta etapa del proyecto reflejó claridad técnica, estructuración adecuada de los avances y coherencia con los objetivos planteados. Todos los integrantes aportaron en la documentación técnica y reflexiva del proyecto, generando entregables de calidad con contenido relevante y bien argumentado.
     </td>
   </tr>
 </table>
@@ -1950,6 +2141,178 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       </td>
       <td>EP05</td>
     </tr>
+    <tr>
+      <td>TS01</td>
+      <td>Registrar un nuevo historial para una planta</td>
+      <td>Como desarrollador que trabaja en la aplicación PlantSync Quiero registrar un nuevo historial para una planta mediante una API Para tener un registro de los cambios o eventos relevantes en la vida de la planta</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que tengo acceso a la API de registro de historial de plantas Cuando envío una solicitud con datos válidos del historial de una planta Entonces el historial se registra exitosamente en la base de datos y recibo una confirmación</p>
+      </td>
+      <td>
+        <p><strong>Escenario 2:</strong></p>
+        <p>Dado que tengo acceso a la API de registro de historial de plantas Cuando envío una solicitud con datos inválidos Entonces la solicitud es rechazada y recibo un mensaje de error adecuado</p>
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Obtener los historiales de una planta</td>
+      <td>Como usuario de PlantSync Quiero obtener los historiales de una planta específica Para revisar su evolución y eventos pasados</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que tengo el ID de una planta válida Cuando realizo la solicitud GET Entonces recibo una lista de historiales asociados a esa planta</p>
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td> Obtener todos los perfiles</td>
+      <td>Como administrador del sistema Quiero obtener todos los perfiles registrados Para gestionar y visualizar los usuarios activos de la app</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que tengo permisos de administrador Cuando hago la solicitud GET a la API de perfiles Entonces obtengo una lista completa de perfiles existentes</p>
+      </td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td>TS04</td>
+      <td> Registrar un nuevo perfil</td>
+      <td>Como nuevo usuario de PlantSync Quiero registrar un nuevo perfil en la aplicación Para comenzar a gestionar mis plantas</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío datos válidos del perfil Cuando hago la solicitud POST Entonces el perfil se registra exitosamente</p>
+      </td>
+      <td>
+        <p><strong>Escenario 2:</strong></p>
+        <p>Dado que envío datos inválidos o incompletos Cuando hago la solicitud POST Entonces el sistema rechaza el registro y devuelve un mensaje de error</p>
+      </td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td>TS05</td>
+      <td> Obtener los detalles de mi perfil</td>
+      <td>Como usuario registrado Quiero obtener los detalles de mi perfil Para verificar mi información registrada en la app</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que proporciono un ID de perfil válido Cuando hago la solicitud GET Entonces recibo la información detallada del perfil</p>
+      </td>
+      <td>
+        <p><strong>Escenario 2:</strong></p>
+        <p>Dado que envío datos inválidos o incompletos Cuando hago la solicitud POST Entonces el sistema rechaza el registro y devuelve un mensaje de error</p>
+      </td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td>TS06</td>
+      <td> Acceder a todas las guías</td>
+      <td>Como usuario interesado en cuidar plantas Quiero acceder a todas las guías disponibles Para aprender sobre el cuidado adecuado de mis plantas</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que estoy autenticado Cuando hago la solicitud GET Entonces recibo una lista de guías disponibles en el sistema</p>
+      </td>
+      <td>EP03</td>
+    </tr>
+    <tr>
+      <td>TS07</td>
+      <td> Crear una nueva guía</td>
+      <td>Como administrador o experto en plantas Quiero crear una nueva guía desde la API Para brindar información útil a los usuarios sobre el cuidado de plantas</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío una solicitud con datos válidos de la guía Cuando hago la solicitud POST Entonces la guía se crea exitosamente y está disponible para los usuarios</p>
+      </td>
+      <td>EP03</td>
+    </tr>
+    <tr>
+      <td>TS08</td>
+      <td> Ver el contenido detallado de una guía</td>
+      <td>Como usuario interesado en una guía específica Quiero ver el contenido detallado de una guía Para seguir las instrucciones paso a paso</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que tengo el ID de la guía Cuando hago la solicitud GET Entonces obtengo los detalles completos de la guía</p>
+      </td>
+      <td>EP03</td>
+    </tr>
+    <tr>
+      <td>TS09</td>
+      <td> Ver todas mis tareas registradas</td>
+      <td>Como usuario que gestiona sus plantas Quiero ver todas mis tareas registradas Para realizar las actividades de cuidado a tiempo</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que estoy autenticado y tengo tareas asignadas Cuando hago la solicitud GET Entonces recibo la lista completa de mis tareas</p>
+      </td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>TS10</td>
+      <td> Registrar una nueva tarea</td>
+      <td>Como usuario de PlantSync Quiero registrar una nueva tarea de cuidado para una planta Para no olvidar actividades importantes como riego o fertilización</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío datos válidos de la tarea Cuando hago la solicitud POST Entonces la tarea se guarda exitosamente</p>
+      </td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>TS11</td>
+      <td> Eliminar una tarea</td>
+      <td>Como usuario que desea cancelar una tarea Quiero eliminar una tarea específica Para mantener actualizada mi lista de actividades</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que proporciono el ID de una tarea válida Cuando hago la solicitud DELETE Entonces la tarea es eliminada correctamente del sistema</p>
+      </td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>TS12</td>
+      <td> Registrar una nueva planta</td>
+      <td>Como usuario de PlantSync Quiero registrar una nueva planta Para comenzar a hacerle seguimiento y recibir recomendaciones</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío los datos correctos de la planta Cuando hago la solicitud POST Entonces la planta se registra exitosamente en el sistema</p>
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS13</td>
+      <td> Ver todas mis plantas</td>
+      <td>Como usuario con varias plantas registradas Quiero ver todas mis plantas asociadas a mi perfil Para gestionarlas fácilmente desde un solo lugar</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío un ID de perfil válido Cuando realizo la solicitud GET Entonces obtengo una lista de todas mis plantas registradas</p>
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS14</td>
+      <td> Ver la información detallada de la planta</td>
+      <td>Como usuario que cuida una planta específica Quiero ver la información detallada de esa planta Para verificar sus características y necesidades</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío un ID de planta válido Cuando realizo la solicitud GET Entonces recibo todos los detalles registrados de esa planta</p>
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS15</td>
+      <td> Actualizar los datos de una planta</td>
+      <td>Como usuario de PlantSync Quiero actualizar los datos de una planta registrada Para corregir o mejorar la información sobre su cuidado</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío un ID de planta válido y nueva información Cuando hago la solicitud PUT Entonces los datos se actualizan correctamente en la base de datos</p>
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS16</td>
+      <td> Eliminar registro de planta</td>
+      <td>Como usuario que ya no cuida una planta Quiero eliminar su registro Para mantener mi lista de plantas actualizada y ordenada</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío un ID válido de planta Cuando hago la solicitud DELETE Entonces la planta se elimina del sistema</p>
+      </td>
+      <td>EP01</td>
+    </tr>
   </tbody>
 </table>
 
@@ -2188,6 +2551,118 @@ Enlace: [Impact Map en UXPRESSIA]()
         <td>Recibir boletines con novedades</td>
         <td>Como usuario, quiero recibir correos o notificaciones con novedades sobre plantas, para mantenerme informado y aprender más.</td>
         <td>1</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>TS01</td>
+        <td>Registrar un nuevo historial para una planta</td>
+        <td>Como desarrollador que trabaja en la aplicación PlantSync Quiero registrar un nuevo historial para una planta mediante una API Para tener un registro de los cambios o eventos relevantes en la vida de la planta</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>TS02</td>
+        <td>Obtener los historiales de una planta</td>
+        <td>Como usuario de PlantSync Quiero obtener los historiales de una planta específica Para revisar su evolución y eventos pasados</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>TS03</td>
+        <td>Obtener todos los perfiles</td>
+        <td>Como administrador del sistema Quiero obtener todos los perfiles registrados Para gestionar y visualizar los usuarios activos de la app</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>TS04</td>
+        <td>Registrar un nuevo perfil</td>
+        <td>Como nuevo usuario de PlantSync Quiero registrar un nuevo perfil en la aplicación Para comenzar a gestionar mis plantas</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>TS05</td>
+        <td>Obtener los detalles de mi perfil</td>
+        <td>Como usuario registrado Quiero obtener los detalles de mi perfil Para verificar mi información registrada en la app</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>TS06</td>
+        <td>Acceder a todas las guías</td>
+        <td>Como usuario interesado en cuidar plantas Quiero acceder a todas las guías disponibles Para aprender sobre el cuidado adecuado de mis plantas</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>39</td>
+        <td>TS07</td>
+        <td>Crear una nueva guía</td>
+        <td>Como administrador o experto en plantas Quiero crear una nueva guía desde la API Para brindar información útil a los usuarios sobre el cuidado de plantas</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>TS08</td>
+        <td>Ver el contenido detallado de una guía</td>
+        <td>Como usuario interesado en una guía específica Quiero ver el contenido detallado de una guía Para seguir las instrucciones paso a paso</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>41</td>
+        <td>TS09</td>
+        <td>Ver todas mis tareas registradas</td>
+        <td>Como usuario que gestiona sus plantas Quiero ver todas mis tareas registradas Para realizar las actividades de cuidado a tiempo</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>42</td>
+        <td>TS10</td>
+        <td>Registrar una nueva tarea</td>
+        <td>Como usuario de PlantSync Quiero registrar una nueva tarea de cuidado para una planta Para no olvidar actividades importantes como riego o fertilización</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>43</td>
+        <td>TS11</td>
+        <td>Eliminar una tarea</td>
+        <td>Como usuario que desea cancelar una tarea Quiero eliminar una tarea específica Para mantener actualizada mi lista de actividades</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>44</td>
+        <td>TS12</td>
+        <td>Registrar una nueva planta</td>
+        <td>Como usuario de PlantSync Quiero registrar una nueva planta Para comenzar a hacerle seguimiento y recibir recomendaciones</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>45</td>
+        <td>TS13</td>
+        <td>Ver todas mis plantas</td>
+        <td>Como usuario con varias plantas registradas Quiero ver todas mis plantas asociadas a mi perfil Para gestionarlas fácilmente desde un solo lugar</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>46</td>
+        <td>TS14</td>
+        <td>Ver la información detallada de la planta</td>
+        <td>Como usuario que cuida una planta específica Quiero ver la información detallada de esa planta Para verificar sus características y necesidades</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>47</td>
+        <td>TS15</td>
+        <td>Actualizar los datos de una planta</td>
+        <td>Como usuario de PlantSync Quiero actualizar los datos de una planta registrada Para corregir o mejorar la información sobre su cuidado</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>48</td>
+        <td>TS16</td>
+        <td>Eliminar registro de planta</td>
+        <td>Como usuario que ya no cuida una planta Quiero eliminar su registro Para mantener mi lista de plantas actualizada y ordenada</td>
+        <td>3</td>
     </tr>
   </tbody>
 </table>
@@ -2956,6 +3431,16 @@ Fuente: Elaborado con structurizr
 
 [Enlace al diagrama de clases en Lucidchart](https://lucid.app/lucidchart/7c54dd1b-95df-4695-b9fd-662c620b0ea1/edit?viewport_loc=3516%2C-29%2C6259%2C2960%2CHWEp-vi-RSFO&invitationId=inv_1351b1e5-61e1-490e-ba8b-fd92b6661710)
 
+Class Diagram Frontend:
+<img src="images/BioPafi- Class Diagram Frontend.png" alt="class-diagram-frontend" width="1000">
+
+[Enlace al diagrama de clases del frontend de Lucidchart](https://lucid.app/lucidchart/1dd994f8-b130-47d2-8519-eb30b841b5f7/edit?viewport_loc=3868%2C515%2C4781%2C2069%2CHWEp-vi-RSFO&invitationId=inv_235d0cb5-3b41-431a-a605-df914107ec24)
+
+Class Diagram Backend:
+<img src="images/diagram-DDD_Bounded_Context_Backend.png" alt="class-diagram-backend" width="1000">
+
+[Enlace al diagrama de clases del backend](https://i.imgur.com/oxP5tce.png)
+
 #### 4.7.2. Class Dictionary
 
 Class User
@@ -3324,7 +3809,7 @@ Se eligió utilizar Vertabelo para modelar el diagrama de base de datos por su f
 
 #### 4.8.1. Database Diagram
 
-<img src="images/plantsync-database-diagram.png" alt="plantsync-database-diagram" width="1000">
+<img src="images/plantsync-BD.png" alt="plantsync-database-diagram" width="1000">
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
@@ -4533,6 +5018,1600 @@ Repositorio Landing Page:
   <img src="images/evidencia-sprint2/evidencia3-team-sprint2.png" alt="evidencia-sprint" width="1000">
 </p>
 
+---
+
+#### 5.2.3. Sprint 3
+
+##### 5.2.3.1. Sprint Planning 3
+
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 08 - 06</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>9:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Erik Palomino</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Javier Gonzales, Renzo Rivera, Giovany Smith, Sean Farith</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Review Summary</strong></td>
+    <td>En el anterior sprint se pudo cumplir exitosamente con las User Stories relacionadas a la aplicación web.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 2 Retorspective Summary</strong></td>
+    <td>En el anterior sprint, se pudo reestructurar la logica de las funcionalidades en el frontend, de modo que será más sencillo implementar servicios del Backend en futuras entregas.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Goal</strong></td>
+    <td>En este sprint, el objetivo fue crear los bounded context core de la aplicación y sus respectivos endpoints, y mejorar los diagramas previamente presentados</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Velocity</strong></td>
+    <td>47</td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.3.2. Aspect Leaders and Collaborators
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Profiles Bounded Context</strong></td>
+    <td><strong>Migración a base de datos</strong></td>
+    <td><strong>Plant Profiles and Tasks Bounded Context</strong></td>
+    <td><strong>Mejora de Diagramas y Guides Bounded Context</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>rezor11</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Torres Apolinario, Giovany Smith</td>
+    <td>Giovany7x</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.3.3. Sprint Backlog 3
+
+Este Sprint se enfocó en crear parcialmente los endpoints en el back end y mejorar componentes del front end. Se utilizó Trello para asignar tareas a los miembros del equipo.
+
+<img src="images/evidencia-sprint3/sprint-backlog3.jpg" alt="sprint-backlog3" width="1000">
+
+link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb2d308d51d7f68f386d7305891A8D87098/sprint-backlog-3
+
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint #</th>
+      <th colspan="7">Sprint 3</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="7">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimated (Hours)</th>
+      <th>Assigned to</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TS01</td>
+      <td>Registrar un nuevo historial para una planta</td>
+      <td>TK01</td>
+      <td>Crear historial de planta</td>
+      <td>Crear endpoint que permite ejecutar POST plantHistory</td>
+      <td>4</td>
+      <td>Renzo Rivera</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Obtener los historiales de una planta</td>
+      <td>TK02</td>
+      <td>Obtener los historiales de una determinada planta</td>
+      <td>Utilizando una solicitud GET y un parametro plantId se muestran los historiales de la planta</td>
+      <td>3</td>
+      <td>Renzo Rivera</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Obtener todos los perfiles</td>
+      <td>TK03</td>
+      <td>Obtener todos los perfiles</td>
+      <td>Utilizando una solicitud GET se obtienen todas los perfiles registrados</td>
+      <td>2</td>
+      <td>Erick Palomino, Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS04</td>
+      <td>Registrar un nuevo perfil</td>
+      <td>TK04</td>
+      <td>Crear un nuevo profile</td>
+      <td>Crear endpoint que permita ejecutar una solicitud POST profile</td>
+      <td>2</td>
+      <td>Erick Palomino</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS05</td>
+      <td>Obtener los detalles de mi perfil</td>
+      <td>TK05</td>
+      <td>Obtener información de un perfil</td>
+      <td>Utilizando una solicitud GET y un parametro profileId se muestran los detalles del perfil.</td>
+      <td>2</td>
+      <td>Erick Palomino</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS06</td>
+      <td>Acceder a todas las guías</td>
+      <td>TK06</td>
+      <td>Obtener guias</td>
+      <td>Utilizando una solicitud GET se obtienen todas las guias registradas</td>
+      <td>3</td>
+      <td>Giovany Torres, Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS07</td>
+      <td>Crear una nueva guía</td>
+      <td>TK07</td>
+      <td>Crear guia</td>
+      <td>Crear endpoint que permite ejecutar POST guide</td>
+      <td>4</td>
+      <td>Giovany Torres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS08</td>
+      <td>Ver el contenido detallado de una guía</td>
+      <td>TK08</td>
+      <td>Obtener informacion de una determinada guia</td>
+      <td>Utilizando una solicitud GET y un parametro guideId se muestran la informacion de la guia</td>
+      <td>3</td>
+      <td>Giovany Torres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS09</td>
+      <td>Ver todas mis tareas registradas</td>
+      <td>TK09</td>
+      <td>Obtener informacion de todas las tareas</td>
+      <td>Utilizando una solicitud GET se obtienen todas las plantas registradas</td>
+      <td>2</td>
+      <td>Renzo Rivera</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS10</td>
+      <td>Registrar una nueva tarea</td>
+      <td>TK01</td>
+      <td>Crear task</td>
+      <td>Crear endpoint que permite ejecutar POST task.</td>
+      <td>4</td>
+      <td>Renzo Rivera</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS11</td>
+      <td>Eliminar una tarea</td>
+      <td>TK11</td>
+      <td>Eliminar tarea registrada</td>
+      <td>Utilizando una solicitud DELETE y un parametro taskId se elimina la tarea registrada</td>
+      <td>2</td>
+      <td>Renzo Rivera</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS12</td>
+      <td>Registrar una nueva planta</td>
+      <td>TK12</td>
+      <td>Crear planta</td>
+      <td>Crear endpoint que permite ejecutar POST plant.</td>
+      <td>4</td>
+      <td>Renzo Rivera</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS13</td>
+      <td>Ver todas mis plantas</td>
+      <td>TK13</td>
+      <td>Obtener todas las plantas registradas</td>
+      <td>Utilizando un solicitud GET en el endpoint de plantas se obtendran todas las plantas registradas</td>
+      <td>2</td>
+      <td>Renzo Rivera, Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS14</td>
+      <td>Ver la información detallada de una planta</td>
+      <td>TK14</td>
+      <td>Obtener informacion de una planta</td>
+      <td>Utilizando una solicitud GET y un parametro plantId, se obtendrá la información de dicha planta</td>
+      <td>3</td>
+      <td>Renzo Rivera, Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS15</td>
+      <td>Actualizar los datos de una planta</td>
+      <td>TK15</td>
+      <td>Actualizar datos de una planta determinada</td>
+      <td>Utilizando una solicitud PUT y un parametro plantId se actualizara la informacion de la planta con el recurso enviado</td>
+      <td>4</td>
+      <td>Renzo Rivera, Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS16</td>
+      <td>Eliminar registro de planta</td>
+      <td>TK01</td>
+      <td>Eliminar planta registrada</td>
+      <td>Utilizando una solicitud DELETE y un parametro taskId se elimina la tarea registrada</td>
+      <td>3</td>
+      <td>Renzo Rivera, Javier Gonzales</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br>
+
+##### 5.2.3.4. Development Evidence for Sprint Review 
+
+<table align="center">
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>520795a</td>
+    <td>Initial commit: Created Spring Project</td>
+    <td>Initial commit: Created Spring Project</td>
+    <td>10/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>a96aa5b</td>
+    <td>feat: add shared bounded context</td>
+    <td>feat: add shared bounded context</td>
+    <td>18/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>c50fbc2</td>
+    <td>feat: add plantguides bounded context</td>
+    <td>feat: add plantguides bounded context</td>
+    <td>19/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>6defaed</td>
+    <td>fix: fixed controller query</td>
+    <td>fix: fixed controller query</td>
+    <td>19/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>b9bf335</td>
+    <td>feat: add Plant Profiles Bounded Context</td>
+    <td>feat: add Plant Profiles Bounded Context</td>
+    <td>19/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>002f74e</td>
+    <td>feat: add create plant command</td>
+    <td>feat: add create plant command</td>
+    <td>19/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>8ae2e8d</td>
+    <td>feat: added plant profile creation</td>
+    <td>feat: added plant profile creation</td>
+    <td>19/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>89bac1a</td>
+    <td>feat: add Delete Plant Command</td>
+    <td>feat: add Delete Plant Command</td>
+    <td>19/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>4b9108c</td>
+    <td>feat: add update plant command</td>
+    <td>feat: add update plant command</td>
+    <td>19/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>6ce8c6a</td>
+    <td>chore: add database migration v1</td>
+    <td>chore: add database migration v1</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>522f11a</td>
+    <td>feat: add comands to Task bounded context</td>
+    <td>feat: add comands to Task bounded context</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>8d05255</td>
+    <td>feat: add iam bounded context</td>
+    <td>feat: add iam bounded context</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>5ebbe3e</td>
+    <td>fix: updated Task aggregate</td>
+    <td>fix: updated Task aggregate</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>116fe0c</td>
+    <td>feat: add get all tasks query</td>
+    <td>feat: add get all tasks query</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>bccd515</td>
+    <td>feat: added Task aggregate</td>
+    <td>feat: added Task aggregate</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>cc28ff1</td>
+    <td>fix: fixed profile id references</td>
+    <td>fix: fixed profile id references</td>
+    <td>20/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>9951358</td>
+    <td>feat: completed profile bounded context</td>
+    <td>feat: completed profile bounded context</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>da967ac</td>
+    <td>fix: fixed exception handling</td>
+    <td>fix: fixed exception handling</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>512f07f</td>
+    <td>feat: add user bounded context endpoints</td>
+    <td>feat: add user bounded context endpoints</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>6c80cbb</td>
+    <td>feat: add plant history post</td>
+    <td>feat: add plant history post</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>bad426d</td>
+    <td>fix: assembler types</td>
+    <td>fix: assembler types</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>3ab918a</td>
+    <td>fix: fixed all plant histories endpoint</td>
+    <td>fix: fixed all plant histories endpoint</td>
+    <td>21/06/25</td>
+  </tr>
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>edfb85a</td>
+    <td>chore: add deployment config</td>
+    <td>chore: add deployment config</td>
+    <td>22/06/25</td>
+  </tr>
+</table>
+
+<br>
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+
++ TS01
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts01.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS02
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts02.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS03
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts03.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS04
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts04.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS05
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts05.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS06
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts06.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS07
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts07.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS08
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts08.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS09
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts09.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS10
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts10.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS11
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts11.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS12
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts12.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS13
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts13.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS14
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts14.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS15
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts15.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
++ TS16
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/ts16.png" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
+
+
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint URL</th>
+      <th>Recurso</th>
+      <th>Verbo HTTP</th>
+      <th>Acción / Sintaxis</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/profiles</td>
+      <td>Profiles</td>
+      <td>GET</td>
+      <td>Get all profiles</td>
+      <td>Ninguno</td>
+      <td>{ 
+        "name": "Monstera Deliciosa",
+      "species": "Planta Trepadora",
+      "acquisitionDate": "2024-04-01",
+      "humidity": "Media",
+      "nextWateringDate": "2024-05-14",
+      "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
+      "notificationsEnabled": true,
+      "profileId": 1,
+      "id": 1}</td>
+    </tr>
+    <tr>
+      <td>/api/v1/profiles</td>
+      <td>Profiles</td>
+      <td>POST</td>
+      <td>Create a new profile</td>
+      <td>Body: profile data</td>
+      <td>{ "id": 1,
+
+  "personName": "javier",
+
+  "subscriptionPLan": "PREMIUM",
+
+  "UserId": 1 }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/profiles/{profileId}</td>
+      <td>Profiles</td>
+      <td>GET</td>
+      <td>Get a profile by ID</td>
+      <td>Path: profileId</td>
+      <td>{
+  "id": 1,
+
+  "personName": "javier",
+
+  "subscriptionPLan": "PREMIUM",
+
+  "UserId": 1
+}</td>
+    </tr>
+    <tr>
+      <td>/api/v1/guides</td>
+      <td>Guides</td>
+      <td>GET</td>
+      <td>Get all guides</td>
+      <td>Ninguno</td>
+      <td>{ "id": 1,
+      "title": "Cómo cuidar un cactus",
+      "name": "Cactus",
+      "description": "Consejos para mantener tu cactus saludable.",
+      "topic": "Cuidado",
+      "type": "Cactus",
+      "imageUrl": "https:/www.jacksonandperkins.com/images/xxl/29377.webp?v=0-"}</td>
+    </tr>
+    <tr>
+      <td>/api/v1/guides</td>
+      <td>Guides</td>
+      <td>POST</td>
+      <td>Create a new guide</td>
+      <td>Body: guide data</td>
+      <td>{  "id": 1,
+      "title": "Cómo cuidar un cactus",
+      "name": "Cactus",
+      "description": "Consejos para mantener tu cactus saludable.",
+      "topic": "Cuidado",
+      "type": "Cactus",
+      "imageUrl": "https://www.jacksonandperkins.com/images/xxl/29377.webp?v=0-1" }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/guides/{guideId}</td>
+      <td>Guides</td>
+      <td>GET</td>
+      <td>Get guide by ID</td>
+      <td>Path: guideId</td>
+      <td>{  "id": 1,
+      "title": "Cómo cuidar un cactus",
+      "name": "Cactus",
+      "description": "Consejos para mantener tu cactus saludable.",
+      "topic": "Cuidado",
+      "type": "Cactus",
+      "imageUrl": "https://www.jacksonandperkins.com/images/xxl/29377.webp?v=0-1" }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plantHistories</td>
+      <td>Plant Histories</td>
+      <td>POST</td>
+      <td>Create a new plant history</td>
+      <td>Body: plant history data</td>
+      <td>{ "id": 1,
+      "plantId": 1,
+      "type": "Riego",
+      "date": "2025-05-13",
+      "time": "08:10",
+      "humidity": 30 }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plantHistories/plantId</td>
+      <td>Plant Histories</td>
+      <td>GET</td>
+      <td>Get plant histories by plant ID</td>
+      <td>Query: plantId</td>
+      <td>
+        {"id": 1,         
+      "plantId": 1,
+      "type": "Riego",
+      "date": "2025-05-13",
+      "time": "08:10",
+      "humidity": 30}</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plantHistories/by-plant/plantId</td>
+      <td>Plant Histories</td>
+      <td>GET</td>
+      <td>Get plant history by Plant ID</td>
+      <td>Path: plantId</td>
+      <td>{ "id": 1,
+      "plantId": 1,
+      "type": "Riego",
+      "date": "2025-05-13",
+      "time": "08:10",
+      "humidity": 30 }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/tasks</td>
+      <td>Tasks</td>
+      <td>GET</td>
+      <td>Get all tasks</td>
+      <td>Ninguno</td>
+      <td>[ {"id": 1,
+      "date": "2025-06-16",
+      "action": "Regar planta",
+      "completed": false,
+      "plantId": 2}]</td>
+    </tr>
+    <tr>
+      <td>/api/v1/tasks</td>
+      <td>Tasks</td>
+      <td>POST</td>
+      <td>Create a new task</td>
+      <td>Body: task data</td>
+      <td>{"id": 1,
+      "date": "2025-06-16",
+      "action": "Regar planta",
+      "completed": false,
+      "plantId": 2 }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/tasks/{taskId}</td>
+      <td>Tasks</td>
+      <td>DELETE</td>
+      <td>Delete task</td>
+      <td>Path: taskId</td>
+      <td>{ Raw result:
+Task with id successfully deleted  }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plants/{plantId}</td>
+      <td>Plants</td>
+      <td>PUT</td>
+      <td>Update a plant</td>
+      <td>Path: plantId, Body: plant</td>
+      <td>{ "name": "Monstera Deliciosa",
+      "species": "Planta Trepadora",
+      "acquisitionDate": "2024-04-01",
+      "humidity": "Media",
+      "nextWateringDate": "2024-05-14",
+      "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
+      "notificationsEnabled": true,
+      "profileId": 1,
+      "id": 1 }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plants/{plantId}</td>
+      <td>Plants</td>
+      <td>DELETE</td>
+      <td>Delete plant</td>
+      <td>Path: plantId</td>
+      <td>{  Raw result:
+Plant with id successfully deleted }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plants</td>
+      <td>Plants</td>
+      <td>GET</td>
+      <td>Get all plants</td>
+      <td>Ninguno</td>
+      <td>[ {"name": "Monstera Deliciosa",
+      "species": "Planta Trepadora",
+      "acquisitionDate": "2024-04-01",
+      "humidity": "Media",
+      "nextWateringDate": "2024-05-14",
+      "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
+      "notificationsEnabled": true,
+      "profileId": 1,
+      "id": 1}]</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plants</td>
+      <td>Plants</td>
+      <td>POST</td>
+      <td>Create a new plant</td>
+      <td>Body: plant data</td>
+      <td>{ "name": "Monstera Deliciosa",
+      "species": "Planta Trepadora",
+      "acquisitionDate": "2024-04-01",
+      "humidity": "Media",
+      "nextWateringDate": "2024-05-14",
+      "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
+      "notificationsEnabled": true,
+      "profileId": 1,
+      "id": 1 }</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plants/profileId</td>
+      <td>Plants</td>
+      <td>GET</td>
+      <td>Get plants by profile ID</td>
+      <td>Query: profileId</td>
+      <td>[ {"name": "Monstera Deliciosa",
+      "species": "Planta Trepadora",
+      "acquisitionDate": "2024-04-01",
+      "humidity": "Media",
+      "nextWateringDate": "2024-05-14",
+      "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
+      "notificationsEnabled": true,
+      "profileId": 1,
+      "id": 1}]</td>
+    </tr>
+    <tr>
+      <td>/api/v1/plants/plantId</td>
+      <td>Plants</td>
+      <td>GET</td>
+      <td>Get plant by ID</td>
+      <td>Path: plantId</td>
+      <td>{ "name": "Monstera Deliciosa",
+      "species": "Planta Trepadora",
+      "acquisitionDate": "2024-04-01",
+      "humidity": "Media",
+      "nextWateringDate": "2024-05-14",
+      "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
+      "notificationsEnabled": true,
+      "profileId": 1,
+      "id": 1 }</td>
+    </tr>
+  </tbody>
+</table>
+
+<br><br>
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Landing page:
+
+- Configuración del entorno de despliegue:
+
+Como equipo decidimos usar Github Pages como hosting de nuestro Landing Page. Esto es principalmente a su facilidad para configurar y desplegar desde la rama Main. Y actualizamos constantemente la Landing Page con los commits desde Develop.
+
+- Activación de GitHub Pages en el repositorio:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Confirmación del enlace del repositorio con entorno de publicación:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización de la Landing Page:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/landingsprint3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+[Link de la Landing Page](https://biopafi-opensource.github.io/plantSync-LandingPage/)
+
+Web App: 
+
+Se certifica la exitosa implementación de la aplicación web frontend en Azure App Service, utilizando la rama "chore" del repositorio. El despliegue se realizó a partir del directorio generado con el comando de construcción ng build --configuration production, el cual produce la carpeta dist/plant-sync. Esta fue configurada como directorio de publicación estática en Azure, completando satisfactoriamente el proceso de despliegue de la aplicación mediante el entorno de ejecución Node.js provisto por la plataforma.
+
+- Visualización Actions desde el Github:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización del recurso de Azure:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización de la Static WebApp:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+Backend :
+
+Para esta entrega el despliegue del Backend y base de datos fue posible mediante los servicios de la nube de Azure. Se desplegó creando una imagen y su contenedor en Docker Desktop. Luego, se subió la imagen a Azure en una Web App.
+
+
+Servidor de base de datos:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/databasedeploymentazure.png" alt="evidencia-sprint" width="1000">
+</p>
+
+
+Visualización en Docker Desktop:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidenciadockercontenedor.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidenciadockerimagenes.png" alt="evidencia-sprint" width="1000">
+</p>
+
+Aplicación en Azure:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/webappazurebackend.png" alt="evidencia-sprint" width="1000">
+</p>
+Visualización Backend Desplegado:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/swaggerdeployed.png" alt="evidencia-sprint" width="1000">
+</p>
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+<br>
+
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>Módulo Profile</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>Módulo Guides, Implementacion de API del clima en el FrontEnd</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>Módulo Plants, Tasks, Correción de errores previos en el FrontEnd, Conexión con la base de datos</td>
+  </tr>
+  <tr>
+    <td>Torres Apolinario, Giovany Smith</td>
+    <td>Giovany7x</td>
+    <td>Módulo PlantHistories</td>
+  </tr>
+</table>
+<br><br>
+
+
++ PlantSync_Platform:
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidence-github-backend1.jpg" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidence-github-backend2.jpg" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
+ + PlantSync_Frontend:
+
+ <br>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia2-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia1-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br><br>
+
++ plantSync-LandingPage:
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidencia-github-landing1.jpg" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidencia-github-landing2.jpg" alt="evidencia-sprint" width="1000">
+</p>
+
+<br><br>
+
+
+---
+
+### 5.3 Validation Interviews
+
+#### 5.3.1 Diseño de Entrevistas
+
+**Entrevista para personas con experiencia como hobbyistas (años cuidando plantas en casa):**
+
+**1.-** ¿Qué funcionalidades del dashboard consideras más valiosas para alguien con experiencia?
+
+
+**2.-** ¿Se te resulto facil registrar tus plantas y gestionar sus cuidados en “Mis Plantas”?
+
+**3.-** ¿La sección de historial te resulta útil para mantener un seguimiento avanzado?
+
+**4.-** ¿Qué opinión tienes sobre la calidad y nivel de profundidad de las guías disponibles?
+
+**5.-** ¿El sistema de tareas se adapta bien a tus rutinas de cuidado?
+
+
+**6.-** Al probar Rootbot ¿Consideras útil su asistencia para alguien con experiencia?
+
+**7.-** ¿Hay alguna función que te haya sorprendido o que no hayas visto en otras herramientas similares?
+
+**8.-** ¿Qué opinas de la posibilidad de centralizar todas las plantas y tareas en un solo panel?
+
+**9.-** ¿Qué herramientas adicionales crees que podrían aportar valor a usuarios avanzados?
+
+**10.-** ¿Recomendarías esta plataforma a otros cuidadores con experiencia? ¿Qué los motivaría a usarla?
+
+**Entrevista para personas con poca experiencia en el cuidado de plantas:**
+
+**1.-** ¿Te resultó clara la función principal de la app cuando entraste por primera vez?
+
+**2.-** ¿Qué te pareció el proceso de registrar una planta en “Mis Plantas”? ¿Fue fácil de seguir?
+
+**3.-** ¿El historial de cuidados te pareció útil para llevar un seguimiento?
+
+**4.-** ¿Te ayudó la sección de guías a entender mejor cómo cuidar tus plantas?
+
+**5.-** ¿La sección de tareas te ayudó a organizarte con el riego, la fertilización u otros cuidados?
+
+**6.-** ¿Que te parecio Rootbot, siendo una chatbot que te ayuda a resolver preguntas sobre tus plantas?
+
+**7.-** ¿Crees que el diseño del dashboard te permitió encontrar lo que necesitabas rápidamente?
+
+**8.-** ¿Qué sensación tuviste al usar la app? ¿Te dio confianza para empezar con tus plantas?
+
+**9.-** ¿Qué función te pareció más útil como principiante? ¿Por qué?
+
+**10.-** ¿Qué agregarías o cambiarías para que esta app ayude mejor a quienes recién empiezan?
+
+#### 5.3.2 Registro de Entrevistas
+
+## _Expertos cuidadores de plantas_
+
+<br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Pedro vargas</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>23 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>00:00 - 20:39</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ESo5zHrrdaJGoCemsZ-n9rAB7GbfhQukPN2nsoXDKGw34A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=y1EqSk" target="_blank"> upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      Pedro Vargas valoró especialmente la funcionalidad del calendario de riego, ya que le permite recordar cuándo atender sus plantas. Consideró fácil registrar las plantas, aunque notó la falta de una animación de carga. Encontró útil el historial para llevar seguimiento y cree que las guías pueden ser valiosas si se amplían a más especies. El sistema de tareas le pareció práctico y adaptable a sus rutinas. Sobre el asistente Rootbot, sugirió incluir diagnósticos y recomendaciones personalizadas ante problemas visibles en las plantas. Le sorprendió la capacidad de visualizar análisis y manejar muchas plantas a la vez, y ve con buenos ojos centralizar toda la información en un panel único. Sugirió añadir herramientas que permitan registrar síntomas y recibir orientación sobre problemas específicos. Finalmente, recomendaría la plataforma a otros cuidadores experimentados, especialmente si gestionan muchas plantas, por su utilidad para organizar y no olvidar tareas.
+    </td>
+  </tr>
+  <tr>
+<td colspan="2">
+  <img src="images/evidencia-sprint3/entrevistavalidacion1-pedro.jpg" alt="Screenshot Entrevista 2" width="1000">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistada</strong></td>
+    <td>Leonor Gonzales</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>60 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>20:39 - 30:15</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ESo5zHrrdaJGoCemsZ-n9rAB7GbfhQukPN2nsoXDKGw34A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMjM5LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=nBsgUC" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      Leonor González, una usuaria previamente entrevistada para identificar necesidades en el cuidado de plantas, participó en la prueba de la primera versión de PlantSync. Destacó la facilidad para registrar plantas, agregar fotos y editar información, así como la utilidad del historial de cuidados para no perder el seguimiento de cada planta. Le pareció interesante la función de clima y valoró la sección de tareas por permitirle marcar actividades como completadas. En la sección de guías sugirió ampliar el número de opciones, ya que solo se habían desarrollado tres. Aunque el chatbot le resultó innovador, lo consideró complicado de usar, sobre todo al gestionar fechas. Señaló algunas dificultades para visualizar botones y encabezados debido al tamaño del texto, pero en general encontró la aplicación sencilla, útil y con opciones flexibles en la sección de planes.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/validation-interview-leonor.png" alt="Screenshot Entrevista 2" width="1000">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 3</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistada</strong></td>
+    <td>Guadalupe Alvarado</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>52 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>30:15 - 38:57</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ESo5zHrrdaJGoCemsZ-n9rAB7GbfhQukPN2nsoXDKGw34A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxODE1LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=I0rgoM" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen:<br>
+      Guadalupe Alvarado Ramos es una usuaria previamente entrevistada como parte del segmento con experiencia en el cuidado de plantas. Durante la prueba de la aplicación PlantSync, pudo navegar de forma correcta por todas las secciones y no presentó conflictos significativos con la interfaz ni con el flujo general de la aplicación. Consideró especialmente útil el acceso a las características principales de las plantas, como la humedad y la temperatura, y destacó la facilidad para registrar nuevas plantas en su perfil. Le agradó el apartado de tareas, aunque observó que no resulta cómodo tener que ingresar manualmente los eventos como riego, poda o fertilización, y sugirió mejorar esa funcionalidad. Respecto a las guías, mencionó que deberían enriquecerse con información más relevante para personas con experiencia, ya que las existentes le resultaron limitadas para su nivel. Guadalupe valoró de forma positiva el uso del RootBot y consideró que su utilidad aplica para usuarios de todos los niveles. Finalmente, aunque reconoció las funciones útiles de la aplicación, expresó que le gustaría que los cuidados se adaptaran automáticamente a las estaciones del año para hacerlos más precisos y personalizados.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/validation-interview-guadalupe.png" alt="Screenshot Entrevista 3" width="1000">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## _Principiantes cuidadores de plantas:_
+
+<br>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 1</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Estefano Solis</td></td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Cercado de Lima</td></td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>38:57 - 51:10</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ESo5zHrrdaJGoCemsZ-n9rAB7GbfhQukPN2nsoXDKGw34A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoyMzM3LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=UvgcXa" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: Estefano Solis expresó que la función principal de la app fue clara desde el inicio y que el proceso de registrar plantas fue sencillo, destacando la utilidad de identificar plantas con fotos. Consideró muy útil el historial para evitar errores de riego y valoró positivamente la sección de guías, ya que le evita buscar en Google. Las tareas y recordatorios fueron lo más útil para él como principiante, pues lo ayudaron a establecer hábitos de cuidado. Le sorprendió gratamente Rootbot, al permitirle resolver dudas rápidamente, y opinó que el dashboard está bien diseñado y es fácil de navegar. La app le dio confianza y alivio al facilitar el cuidado de plantas, motivándolo a tener más. Como sugerencia, propuso una función de diagnóstico por foto para detectar problemas visuales en las plantas, aunque en general considera que la app ya está bastante completa.
+<br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/evidencia-sprint3/entrevistavalidacion2-estefano.jpg" alt="screenshot entrevista estefano" width="1000">
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="text-align:center">Entrevista 2</th>
+  </tr>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Andrea Elizabeth Santur Tello</td></td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>18 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Los Olivos</td></td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>51:10 - 56:44</td>
+  </tr>
+  <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ESo5zHrrdaJGoCemsZ-n9rAB7GbfhQukPN2nsoXDKGw34A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjozMDcwLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=XJ5P7X" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:justify">
+      Resumen: Elizabeth Santur dijo que la función principal de la app fue clara desde el inicio y que el proceso de registrar plantas fue sencillo, como tambien el proceso de registro como nuevo usuario fue rapido y facil de entender, ella destacp la utilidad de identificar plantas con fotos. Consideró muy útil el historial para evitar errores de riego y ayudarse con ello para crear como una rutina de cuidado para sus plantas y valoró positivamente la sección de guías. Las tareas y recordatorios fueron lo más útil para él como principiante. Le sorprendió gratamente Rootbot, al permitirle resolver dudas rápidamente, mostrando gran sorpresa con al interactuar con este, y opinó que el dashboard está bien diseñado y es fácil de navegar entre los distintos apartados de la App Web. La app le dio confianza y alivio al facilitar el cuidado de plantas, motivándolo a tener más. Como sugerencia, propuso una función de personalizacion para el diseño como lo son los colores o el color de fondo, aunque en general considera que la app ya está bastante completa.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="images/evidencia-sprint3/entrevistavalidacion-andrea.jpg" alt="screenshot andrea santur" width="1000">
+    </td>
+  </tr>
+</table>
+
+#### 5.3.3 Evaluaciones según heurísticas
+
+**SITE o APP A EVALUAR:**
+
+*PlantSync*
+
+**TAREAS A EVALUAR**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Login
+2. Visualizacion de Mis plantas
+3. Visualización de descripción de las plantas
+4. Agregar plantas 
+5. Eliminar planta
+6. Visualizar Tareas
+7. Ver Historial
+7. Crear Tareas
+8. Visualizar las guias
+9. Visualizar las descripciones de las guias
+10. Rootbot (chatbot)
+11. Visualización de configuración (perfil)
+12. Cerrar sesión
+
+No están incluidas en esta version de la evaluación las siguientes tareas:
+
+1. Internacionalización
+2. Registro de usuario
+3. Responsive de la aplicación
+
+**ESCALA DE SEVERIDAD**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>Nivel</b></td>
+      <td><b>Descripción</b></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+    </tr>
+    <tr>
+      <td>3 </td>
+      <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+    </tr>   
+  </tbody>
+</table>
+
+**TABLA RESUMEN**
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td><b>#</b></td>
+      <td><b>Problema</b></td>
+      <td><b>Escala de severidad</b></td>
+      <td><b>Heurística/Principio violada(o)</b></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Boton de retorno al landing page ausente</td>
+      <td>2</td>
+      <td>Control y libertad del usuario</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>No se aprecia bien el botón de "Ver Historial"</td>
+      <td>2</td>
+      <td>Visibilidad del estado del sistema / Estética y diseño minimalista</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Pocas Preguntas en el apartado de Rootbot(chatbot)</td>
+      <td>1</td>
+      <td>Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Pocas guias presentes en el apartado de Guias</td>
+      <td>2</td>
+      <td>Ayuda y documentación / Contenido relevante y útil</td>
+    </tr>
+        <tr>
+      <td>5</td>
+      <td>Dificultad para visualizar botones y encabezados debido al tamaño del texto.</td>
+      <td>3</td>
+      <td>Visibilidad del estado del sistema</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Complejidad al usar el chatbot, especialmente para manejar fechas</td>
+      <td>3</td>
+      <td>Flexibilidad y eficiencia de uso / Prevención de errores.</td>
+    </tr>  
+    <tr>
+      <td>7</td>
+      <td>El usuario debe ingresar manualmente el tipo de evento (Riego, Poda, Fertilización) en el apartado de tareas.</td>
+      <td>2</td>
+      <td>Prevención de errores / Flexibilidad y eficiencia de uso.</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Las guías no contienen información suficiente para usuarios con experiencia.</td>
+      <td>2</td>
+      <td>Correspondencia entre el sistema y el mundo real</td>
+    </tr>
+  </tbody>
+</table>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+Problema #1: Boton de retorno al landing page ausente
+
+Severidad: 2 - Moderada
+
+Heurística violada: Control y libertad del usuario
+
+Problema:  No se puede apreciar un botón o enlace visible que permita al usuario regresar al landing page desde el login, lo que puede generar confusión y dificultar la navegación general.
+
+<img src="images/evidencia-sprint3/heuristica 1.jpg" alt="screenshot heuristica 1" width="1000">
+
+Recomendación: Incluir un botón o enlace claro y accesible en el login o register el cual permita regresar al landing page con un solo clic. Esto mejora la navegación general y respeta el principio de control y libertad del usuario.
+
+---
+
+Problema #2: No se aprecia bien el botón de "Ver Historial"
+
+Severidad:  2 - Moderada
+
+Heurística violada: Visibilidad del estado del sistema / Estética y diseño minimalista
+
+Problema: El botón de "Ver Historial" no es claramente visible o no destaca lo suficiente dentro de la interfaz, lo que puede provocar que los usuarios no lo encuentren fácilmente o ignoren su funcionalidad. Esto afecta la eficiencia al momento de acceder a información importante.
+
+<img src="images/evidencia-sprint3/heuristica 2.jpg" alt="screenshot heuristica 2" width="1000">
+
+Recomendación: Mejorar la visibilidad del botón mediante un diseño más contrastante, posicionarlo en un lugar estratégico y considerar el uso de iconografía o etiquetas más destacadas. Asegurar que mantenga coherencia con el diseño general, pero que tenga suficiente peso visual para ser identificado rápidamente.
+
+---
+
+Problema #3: Pocas Preguntas en el apartado de Rootbot(chatbot)
+
+Severidad: 1 - Leve
+
+Heurística violada: Flexibilidad y eficiencia de uso
+
+Problema: El apartado del chatbot Rootbot presenta un número limitado de preguntas predefinidas, lo que reduce su utilidad y capacidad para resolver dudas frecuentes. Los usuarios pueden sentirse limitados en cuanto a las opciones disponibles, especialmente si no saben cómo formular sus propias consultas.
+
+<img src="images/evidencia-sprint3/heuristica 3.jpg" alt="screenshot heuristica 3" width="1000">
+
+Recomendación: Ampliar el repertorio de preguntas frecuentes disponibles en el chatbot, priorizando aquellas relacionadas con las funcionalidades principales de la aplicación. Además, se podría categorizar las preguntas por temas para facilitar su exploración.
+---
+
+Problema #4: Pocas guias presentes en el apartado de Guias
+
+Severidad:  2 - Moderada
+
+Heurística violada: Ayuda y documentación / Contenido relevante y útil
+
+Problema: El apartado de Guías contiene muy pocos recursos sobre el cuidado de plantas, lo cual limita el valor informativo que ofrece la aplicación a los usuarios, especialmente a aquellos principiantes que buscan orientación clara y detallada sobre diferentes tipos de plantas o situaciones comunes.
+
+<img src="images/evidencia-sprint3/heuristica 4.jpg" alt="screenshot heuristica 4" width="1000">
+
+Recomendación: Ampliar la cantidad de guías disponibles, cubriendo una mayor variedad de plantas, climas y problemas frecuentes. Las guías deben estar organizadas de manera clara y accesible, con títulos descriptivos y, de ser posible, imágenes o infografías que faciliten la comprensión visual.
+
+---
+
+Problema #5: Dificultad para visualizar botones y encabezados debido al tamaño del texto.
+
+Severidad: 3
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema: Los botones y encabezados tienen textos demasiado pequeños para usuarios mayores, dificultando la lectura y localización rápida de opciones en la interfaz.
+
+<img src="images/heuristica5.png" alt="screenshot heuristica 5" width="1000">
+
+Recomendación: Aumentar el tamaño mínimo de fuente, implementar opciones de accesibilidad para ajustar el tamaño del texto y probar el contraste para asegurar buena visibilidad.
+
+---
+
+Problema #6: Complejidad al usar el chatbot, especialmente para manejar fechas.
+
+Severidad: 3
+
+Heurística violada: Flexibilidad y eficiencia de uso / Prevención de errores.
+
+Problema: El chatbot tiene una interfaz que resulta confusa para usuarios con menor experiencia digital, y el manejo de fechas no es intuitivo, lo que genera errores o frustración.
+
+<img src="images/heuristica6.png" alt="screenshot heuristica 5" width="1000">
+
+Recomendación: Simplificar los flujos del chatbot con mensajes guiados paso a paso, incluir un selector visual de fechas y ofrecer ejemplos o plantillas rápidas de comandos.
+
+---
+
+Problema #7: El usuario debe ingresar manualmente el tipo de evento (Riego, Poda, Fertilización) en el apartado de tareas.
+
+Severidad: 2
+
+Heurística violada: Prevención de errores / Flexibilidad y eficiencia de uso
+
+Problema: Tener que escribir manualmente los eventos incrementa el riesgo de errores de tipeo, consume tiempo y reduce la eficiencia, sobre todo en tareas repetitivas.
+
+<img src="images/heuristica8.png" alt="screenshot heuristica 5" width="1000">
+
+Recomendación: Implementar un menú desplegable o botones rápidos con los tipos de eventos más comunes para facilitar el registro y reducir errores.
+
+---
+
+Problema #8: Las guías no contienen información suficiente para usuarios con experiencia.
+
+Severidad: 2 
+
+Heurística violada: Correspondencia entre el sistema y el mundo real
+
+Problema: Las guías actuales están pensadas para principiantes, lo que limita el valor para usuarios avanzados que esperan contenido más detallado y especializado.
+
+<img src="images/heuristica9.png" alt="screenshot heuristica 5" width="1000">
+
+Recomendación: Ampliar las guías con contenido avanzado (por ejemplo, cuidados específicos por especie, técnicas de cultivo, recomendaciones para plagas) y permitir filtros por nivel de experiencia.
+
+---
+
+### 5.4 Video About-the-Product
+
+A continuación se muestra el video "Acerca del producto", el cual expone el objetivo, las ventajas y las funciones más destacadas de la aplicación. Además, incorpora testimonios de los usuarios principales que respaldan la calidad del software desarrollado.
+
+<img src="images/videoabouttheproduct.jpg" alt="screenshot about the product" width="1000">
+
+Duración: 1:44 min
+
+Enlace en Microsoft Stream: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EShR7gJEGgJMm4jF_jg-Ni8B0HCTbWFB_yz4i1iLny9aIw?e=bOy90v&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-aboutthe-product-sprint-3</a>
+
+Enlace en Youtube: <a href="https://youtu.be/6dQiL5Xb8GU" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-aboutthe-product-sprint-3</a>
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
@@ -4569,6 +6648,55 @@ Repositorio Landing Page:
 
 - Finalmente, se utilizó una Mock API para simular la carga de datos desde la red, lo que permitió validar el funcionamiento dinámico de los componentes desarrollados, asegurando la integración adecuada del front-end con una futura API real. Esto proporcionó una base sólida para continuar con las siguientes etapas del desarrollo.
 
+
+*TB2*
+---
+- El desarrollo del Sprint 3 permitió consolidar la estructura base del sistema web, con la primera versión del backend RESTful API implementado con Spring Boot.
+
+- La publicación del Landing Page actualizado, ha mejorado la visibilidad del proyecto y su alineación con los objetivos del modelo de negocio. Esto facilita que los stakeholders puedan acceder fácilmente a los avances del producto.
+
+- La creación del Video About-The-Product y el Video About-The-Team sirvieron como evidencia audiovisual del proceso de desarrollo, resaltando no solo las funcionalidades implementadas, sino también el compromiso y colaboración efectiva del equipo.
+
+- Las entrevistas de validación permitieron contrastar nuestras hipótesis de diseño e interacción frente al comportamiento real de los usuarios. Estas sesiones fueron fundamentales para identificar aspectos de mejora en la usabilidad, accesibilidad e interacción general de la solución.
+
+- La evaluación heurística aplicada a los flujos de usuario y vistas clave de la aplicación evidenció aspectos que deben ser priorizados en el siguiente sprint, relacionados con la claridad de los botones, el flujo de navegación, y la inclusión de más contenido útil en secciones como Rootbot y guías.
+
+
+## Video about the Team
+
+El video presenta un resumen del trabajo desarrollado por el equipo, donde cada integrante describe las tareas que llevó a cabo para cumplir con los objetivos del curso. Además, se resalta la importancia de la comunicación oral y escrita como una herramienta clave para expresar ideas y reportar el progreso del proyecto.
+
+<table align="center">
+  <tr>
+    <td><strong>Duración</strong></td>
+    <td>7:30 min</td>
+  </tr>
+  <tr>
+    <td><strong>URL Microsoft</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBktfBO5WFoXjpceBP9nRZBg?e=PmeJq7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-aboutthe-team-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td><strong>URL Youtube</strong></td>
+    <td><a href="https://www.youtube.com/watch?v=UYvHTTrd7wI" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-aboutthe-team-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td><strong>Timings</strong></td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=q3ljvY">00:00 - 02:35: Resumen de lo trabajado </a><br>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTUsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=zhTcJy">02:35: Inicio de Testimonios de los integrantes</a><br>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTgsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=OkWwIM">02:38 - 03:51: Erick Leonardo Palomino Fiestas</a><br>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoyMzEsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=CPtq21">03:51 - 4:51: Renzo Sebastian Rivera Ratachi</a><br>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoyOTEsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=l6JFSa">04:51 - 6:18: Javier Sebastian Gonzales Alvarado</a><br>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjozNzgsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=XN42Hh">6:18 - 7:30: Giovany Smith Torres Apolinario</a>
+    </td>
+  </tr>
+  <tr>
+<td colspan="2">
+  <img src="images/abouttheteam 1.jpg" alt="screenshot about the team" width="1000">
+    </td>
+  </tr>
+</table>
+
 ## Bibliografía
 
 Gutiérrez, A (2021, 17 de agosto). Estos son los errores más comunes que se cometen en el cuidado de las plantas de interior. Agronegocios
@@ -4580,6 +6708,24 @@ SERPAR (2021, 8 de marzo), 10 cosas que debes aprender sobre el cuidado de plant
 https://www.serpar.gob.pe/noticias/10-cosas-que-debes-aprender-sobre-el-cuidado-de-plantas/
 
 ## Anexos
+
+**Repositorio de Github**
+
++ **Respositorio de la startup:** [Link Repositorio BioPafi](https://github.com/BioPafi-OpenSource)
+
++ **Repositorio de la landing page:** [Link Repositorio Landing Page](https://github.com/BioPafi-OpenSource/plantSync-LandingPage)
+
++ **Repositorio del frontend:** [Link Repositorio Frontend](https://github.com/BioPafi-OpenSource/PlantSync_Frontend)
+
++ **Repositorio del backend:** [Link Repositorio Backend](https://github.com/BioPafi-OpenSource/PlantSync_Platform)
+
+**Deploy de la aplicación**
+
++ **Landing Page Deployado:** [Link Landing Page](https://biopafi-opensource.github.io/plantSync-LandingPage/)
+
++ **Frontend Deployado:** [Link Frontend](https://yellow-ocean-0e2fe8a10.6.azurestaticapps.net/login)
+
++ **Backend Deployado:** [Link Backend](https://plantsync-platform.azurewebsites.net/swagger-ui/index.html#/)
 
 **Videos de Exposiciones**
 
