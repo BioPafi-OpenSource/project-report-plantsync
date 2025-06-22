@@ -568,6 +568,7 @@ Repositorio Informe:
   - [5.4. Video About-the-Product](#54-validation-interviews) 
 
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+- [Video about the Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -5400,6 +5401,15 @@ Recomendación: Ampliar las guías con contenido avanzado (por ejemplo, cuidados
 
 ### 5.4 Video About-the-Product
 
+A continuación se muestra el video "Acerca del producto", el cual expone el objetivo, las ventajas y las funciones más destacadas de la aplicación. Además, incorpora testimonios de los usuarios principales que respaldan la calidad del software desarrollado.
+
+<img src="images/videoabouttheproduct.jpg" alt="screenshot about the product" width="1000">
+
+Duración: 1:44 min
+
+Enlace en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EShR7gJEGgJMm4jF_jg-Ni8B0HCTbWFB_yz4i1iLny9aIw?e=bOy90v&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+Enlace en Youtube: https://youtu.be/6dQiL5Xb8GU 
 
 
 ## Conclusiones
@@ -5437,6 +5447,41 @@ Recomendación: Ampliar las guías con contenido avanzado (por ejemplo, cuidados
 - Asimismo, se implementó un entorno en la nube con Azure para desplegar la aplicación web, lo que facilitó la visualización remota del proyecto, fortaleciendo su disponibilidad y permitiendo una mayor visibilidad del avance frente a los stakeholders.
 
 - Finalmente, se utilizó una Mock API para simular la carga de datos desde la red, lo que permitió validar el funcionamiento dinámico de los componentes desarrollados, asegurando la integración adecuada del front-end con una futura API real. Esto proporcionó una base sólida para continuar con las siguientes etapas del desarrollo.
+
+## Video about the Team
+
+El video presenta un resumen del trabajo desarrollado por el equipo, donde cada integrante describe las tareas que llevó a cabo para cumplir con los objetivos del curso. Además, se resalta la importancia de la comunicación oral y escrita como una herramienta clave para expresar ideas y reportar el progreso del proyecto.
+
+<table align="center">
+  <tr>
+    <td><strong>Duración</strong></td>
+    <td>7:30 min</td>
+  </tr>
+  <tr>
+    <td><strong>URL Microsoft</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBktfBO5WFoXjpceBP9nRZBg?e=PmeJq7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-aboutthe-team-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td><strong>URL Youtube</strong></td>
+    <td><a href="https://www.youtube.com/watch?v=UYvHTTrd7wI" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-aboutthe-team-sprint-3</a></td>
+  </tr>
+  <tr>
+    <td><strong>Timings</strong></td>
+    <td>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=q3ljvY">00:00 - 02:35: Resumen de lo trabajado </a><br>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTUsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=zhTcJy">02:35: Inicio de Testimonios de los integrantes</a><br>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTgsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=OkWwIM">02:38 - 03:51: Erick Leonardo Palomino Fiestas</a><br>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoyMzEsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=CPtq21">03:51 - 4:51: Renzo Sebastian Rivera Ratachi</a><br>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoyOTEsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=l6JFSa">04:51 - 6:18: Javier Sebastian Gonzales Alvarado</a><br>
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjozNzgsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=XN42Hh">6:18 - 7:30: Giovany Smith Torres Apolinario</a>
+    </td>
+  </tr>
+  <tr>
+<td colspan="2">
+  <img src="images/abouttheteam 1.jpg" alt="screenshot about the team" width="1000">
+    </td>
+  </tr>
+</table>
 
 ## Bibliografía
 
