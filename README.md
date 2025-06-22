@@ -4963,12 +4963,12 @@ link al trello:
   <tr>
     <td colspan="2" style="text-align:justify">
       Resumen:<br>
-      a
+      Guadalupe Alvarado Ramos es una usuaria previamente entrevistada como parte del segmento con experiencia en el cuidado de plantas. Durante la prueba de la aplicación PlantSync, pudo navegar de forma correcta por todas las secciones y no presentó conflictos significativos con la interfaz ni con el flujo general de la aplicación. Consideró especialmente útil el acceso a las características principales de las plantas, como la humedad y la temperatura, y destacó la facilidad para registrar nuevas plantas en su perfil. Le agradó el apartado de tareas, aunque observó que no resulta cómodo tener que ingresar manualmente los eventos como riego, poda o fertilización, y sugirió mejorar esa funcionalidad. Respecto a las guías, mencionó que deberían enriquecerse con información más relevante para personas con experiencia, ya que las existentes le resultaron limitadas para su nivel. Guadalupe valoró de forma positiva el uso del RootBot y consideró que su utilidad aplica para usuarios de todos los niveles. Finalmente, aunque reconoció las funciones útiles de la aplicación, expresó que le gustaría que los cuidados se adaptaran automáticamente a las estaciones del año para hacerlos más precisos y personalizados.
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="#" alt="Screenshot Entrevista 3" width="1000">
+      <img src="/images/validation-interview-guadalupe.png" alt="Screenshot Entrevista 3" width="1000">
     </td>
   </tr>
 </table>
@@ -5047,7 +5047,7 @@ link al trello:
   </tr>
   <tr>
     <td colspan="2">
-      <img src="#" alt="screenshot andrea santur" width="1000">
+      <img src="/images/entrevista-andrea-santur.png" alt="screenshot andrea santur" width="1000">
     </td>
   </tr>
 </table>
@@ -5165,16 +5165,17 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
     </tr>  
     <tr>
       <td>8</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>El usuario debe ingresar manualmente el tipo de evento (Riego, Poda, Fertilización) en el apartado de tareas.</td>
+      <td>2</td>
+      <td>Prevención de errores / Flexibilidad y eficiencia de uso.</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>Las guías no contienen información suficiente para usuarios con experiencia.</td>
+      <td>2</td>
+      <td>Correspondencia entre el sistema y el mundo real</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -5277,31 +5278,31 @@ Recomendación:
 
 ---
 
-Problema #8:
+Problema #8: El usuario debe ingresar manualmente el tipo de evento (Riego, Poda, Fertilización) en el apartado de tareas.
 
-Severidad: 
+Severidad: 2
 
-Heurística violada: 
+Heurística violada: Prevención de errores / Flexibilidad y eficiencia de uso
 
-Problema: 
+Problema: Tener que escribir manualmente los eventos incrementa el riesgo de errores de tipeo, consume tiempo y reduce la eficiencia, sobre todo en tareas repetitivas.
 
-<img src="#" alt="screenshot heuristica 5" width="1000">
+<img src="/images/heuristica8.png" alt="screenshot heuristica 5" width="1000">
 
-Recomendación:
+Recomendación: Implementar un menú desplegable o botones rápidos con los tipos de eventos más comunes para facilitar el registro y reducir errores.
 
 ---
 
-Problema #9:
+Problema #9: Las guías no contienen información suficiente para usuarios con experiencia.
 
-Severidad: 
+Severidad: 2 
 
-Heurística violada: 
+Heurística violada: Correspondencia entre el sistema y el mundo real
 
-Problema: 
+Problema: Las guías actuales están pensadas para principiantes, lo que limita el valor para usuarios avanzados que esperan contenido más detallado y especializado.
 
-<img src="#" alt="screenshot heuristica 5" width="1000">
+<img src="/images/heuristica9.png" alt="screenshot heuristica 5" width="1000">
 
-Recomendación:
+Recomendación: Ampliar las guías con contenido avanzado (por ejemplo, cuidados específicos por especie, técnicas de cultivo, recomendaciones para plagas) y permitir filtros por nivel de experiencia.
 
 ---
 
