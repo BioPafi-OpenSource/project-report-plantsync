@@ -5034,7 +5034,7 @@ link al trello:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>a</td>
+    <td>5:31 min</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
@@ -5042,7 +5042,7 @@ link al trello:
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
-      Resumen: a
+      Resumen: Elizabeth Santur dijo que la función principal de la app fue clara desde el inicio y que el proceso de registrar plantas fue sencillo, como tambien el proceso de registro como nuevo usuario fue rapido y facil de entender, ella destacp la utilidad de identificar plantas con fotos. Consideró muy útil el historial para evitar errores de riego y ayudarse con ello para crear como una rutina de cuidado para sus plantas y valoró positivamente la sección de guías. Las tareas y recordatorios fueron lo más útil para él como principiante. Le sorprendió gratamente Rootbot, al permitirle resolver dudas rápidamente, mostrando gran sorpresa con al interactuar con este, y opinó que el dashboard está bien diseñado y es fácil de navegar entre los distintos apartados de la App Web. La app le dio confianza y alivio al facilitar el cuidado de plantas, motivándolo a tener más. Como sugerencia, propuso una función de personalizacion para el diseño como lo son los colores o el color de fondo, aunque en general considera que la app ya está bastante completa.
     </td>
   </tr>
   <tr>
@@ -5159,9 +5159,9 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
     </tr>
     <tr>
       <td>7</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>Dificultad en el apartado de configuracion del usuario</td>
+      <td>2</td>
+      <td>Visibilidad del estado del sistema/Diseño poco llamativo</td>
     </tr>  
     <tr>
       <td>8</td>
