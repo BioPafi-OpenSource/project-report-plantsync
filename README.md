@@ -4876,11 +4876,11 @@ link al trello:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>a</td>
+    <td>00:00 - 20:39</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td><a href=# target="_blank"> upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ESo5zHrrdaJGoCemsZ-n9rAB7GbfhQukPN2nsoXDKGw34A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=y1EqSk" target="_blank"> upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -4915,11 +4915,11 @@ link al trello:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>a</td>
+    <td>20:39 - 30:15</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td><a href="#" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ESo5zHrrdaJGoCemsZ-n9rAB7GbfhQukPN2nsoXDKGw34A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMjM5LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=nBsgUC" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -4929,7 +4929,7 @@ link al trello:
   </tr>
   <tr>
     <td colspan="2">
-      <img src="/images/validation-interview-leonor.png" alt="Screenshot Entrevista 2" width="1000">
+      <img src="images/validation-interview-leonor.png" alt="Screenshot Entrevista 2" width="1000">
     </td>
   </tr>
 </table>
@@ -4954,11 +4954,11 @@ link al trello:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>a</td>
+    <td>30:15 - 38:57</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td><a href="#" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ESo5zHrrdaJGoCemsZ-n9rAB7GbfhQukPN2nsoXDKGw34A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxODE1LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=I0rgoM" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -4968,7 +4968,7 @@ link al trello:
   </tr>
   <tr>
     <td colspan="2">
-      <img src="/images/validation-interview-guadalupe.png" alt="Screenshot Entrevista 3" width="1000">
+      <img src="images/validation-interview-guadalupe.png" alt="Screenshot Entrevista 3" width="1000">
     </td>
   </tr>
 </table>
@@ -4997,11 +4997,11 @@ link al trello:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>a</td>
+    <td>38:57 - 51:10</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td><a href="#" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ESo5zHrrdaJGoCemsZ-n9rAB7GbfhQukPN2nsoXDKGw34A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoyMzM3LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=UvgcXa" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -5034,11 +5034,11 @@ link al trello:
   </tr>
   <tr>
     <td><strong>Timing</strong></td>
-    <td>5:31 min</td>
+    <td>51:10 - 56:44</td>
   </tr>
   <tr>
     <td><strong>URL</strong></td>
-    <td><a href="#" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ESo5zHrrdaJGoCemsZ-n9rAB7GbfhQukPN2nsoXDKGw34A?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjozMDcwLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=XJ5P7X" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-validation-sprint-3</a></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:justify">
@@ -5047,7 +5047,7 @@ link al trello:
   </tr>
   <tr>
     <td colspan="2">
-      <img src="/images/entrevista-andrea-santur.png" alt="screenshot andrea santur" width="1000">
+      <img src="images/evidencia-sprint3/entrevistavalidacion-andrea.jpg" alt="screenshot andrea santur" width="1000">
     </td>
   </tr>
 </table>
@@ -5156,26 +5156,19 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
       <td>Complejidad al usar el chatbot, especialmente para manejar fechas</td>
       <td>3</td>
       <td>Flexibilidad y eficiencia de uso / Prevención de errores.</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Dificultad en el apartado de configuracion del usuario</td>
-      <td>2</td>
-      <td>Visibilidad del estado del sistema/Diseño poco llamativo</td>
     </tr>  
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>El usuario debe ingresar manualmente el tipo de evento (Riego, Poda, Fertilización) en el apartado de tareas.</td>
       <td>2</td>
       <td>Prevención de errores / Flexibilidad y eficiencia de uso.</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>Las guías no contienen información suficiente para usuarios con experiencia.</td>
       <td>2</td>
       <td>Correspondencia entre el sistema y el mundo real</td>
     </tr>
-
   </tbody>
 </table>
 
@@ -5244,7 +5237,7 @@ Heurística violada: Visibilidad del estado del sistema
 
 Problema: Los botones y encabezados tienen textos demasiado pequeños para usuarios mayores, dificultando la lectura y localización rápida de opciones en la interfaz.
 
-<img src="/images/heuristica5.png" alt="screenshot heuristica 5" width="1000">
+<img src="images/heuristica5.png" alt="screenshot heuristica 5" width="1000">
 
 Recomendación: Aumentar el tamaño mínimo de fuente, implementar opciones de accesibilidad para ajustar el tamaño del texto y probar el contraste para asegurar buena visibilidad.
 
@@ -5258,27 +5251,13 @@ Heurística violada: Flexibilidad y eficiencia de uso / Prevención de errores.
 
 Problema: El chatbot tiene una interfaz que resulta confusa para usuarios con menor experiencia digital, y el manejo de fechas no es intuitivo, lo que genera errores o frustración.
 
-<img src="/images/heuristica6.png" alt="screenshot heuristica 5" width="1000">
+<img src="images/heuristica6.png" alt="screenshot heuristica 5" width="1000">
 
 Recomendación: Simplificar los flujos del chatbot con mensajes guiados paso a paso, incluir un selector visual de fechas y ofrecer ejemplos o plantillas rápidas de comandos.
 
 ---
 
-Problema #7:
-
-Severidad: 
-
-Heurística violada: 
-
-Problema: 
-
-<img src="#" alt="screenshot heuristica 5" width="1000">
-
-Recomendación:
-
----
-
-Problema #8: El usuario debe ingresar manualmente el tipo de evento (Riego, Poda, Fertilización) en el apartado de tareas.
+Problema #7: El usuario debe ingresar manualmente el tipo de evento (Riego, Poda, Fertilización) en el apartado de tareas.
 
 Severidad: 2
 
@@ -5286,13 +5265,13 @@ Heurística violada: Prevención de errores / Flexibilidad y eficiencia de uso
 
 Problema: Tener que escribir manualmente los eventos incrementa el riesgo de errores de tipeo, consume tiempo y reduce la eficiencia, sobre todo en tareas repetitivas.
 
-<img src="/images/heuristica8.png" alt="screenshot heuristica 5" width="1000">
+<img src="images/heuristica8.png" alt="screenshot heuristica 5" width="1000">
 
 Recomendación: Implementar un menú desplegable o botones rápidos con los tipos de eventos más comunes para facilitar el registro y reducir errores.
 
 ---
 
-Problema #9: Las guías no contienen información suficiente para usuarios con experiencia.
+Problema #8: Las guías no contienen información suficiente para usuarios con experiencia.
 
 Severidad: 2 
 
@@ -5300,7 +5279,7 @@ Heurística violada: Correspondencia entre el sistema y el mundo real
 
 Problema: Las guías actuales están pensadas para principiantes, lo que limita el valor para usuarios avanzados que esperan contenido más detallado y especializado.
 
-<img src="/images/heuristica9.png" alt="screenshot heuristica 5" width="1000">
+<img src="images/heuristica9.png" alt="screenshot heuristica 5" width="1000">
 
 Recomendación: Ampliar las guías con contenido avanzado (por ejemplo, cuidados específicos por especie, técnicas de cultivo, recomendaciones para plagas) y permitir filtros por nivel de experiencia.
 
