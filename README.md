@@ -456,7 +456,53 @@ Repositorio Informe:
 
 ## **TB2**
 
++ Backend:
 
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidence-github-backend1.jpg" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidence-github-backend2.jpg" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
+ + Frontend:
+
+ <br>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia2-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia1-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br><br>
+
++ LandingPage:
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidencia-github-landing1.jpg" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidencia-github-landing2.jpg" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
 
 ---
 
@@ -2095,6 +2141,178 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       </td>
       <td>EP05</td>
     </tr>
+    <tr>
+      <td>TS01</td>
+      <td>Registrar un nuevo historial para una planta</td>
+      <td>Como desarrollador que trabaja en la aplicación PlantSync Quiero registrar un nuevo historial para una planta mediante una API Para tener un registro de los cambios o eventos relevantes en la vida de la planta</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que tengo acceso a la API de registro de historial de plantas Cuando envío una solicitud con datos válidos del historial de una planta Entonces el historial se registra exitosamente en la base de datos y recibo una confirmación</p>
+      </td>
+      <td>
+        <p><strong>Escenario 2:</strong></p>
+        <p>Dado que tengo acceso a la API de registro de historial de plantas Cuando envío una solicitud con datos inválidos Entonces la solicitud es rechazada y recibo un mensaje de error adecuado</p>
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Obtener los historiales de una planta</td>
+      <td>Como usuario de PlantSync Quiero obtener los historiales de una planta específica Para revisar su evolución y eventos pasados</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que tengo el ID de una planta válida Cuando realizo la solicitud GET Entonces recibo una lista de historiales asociados a esa planta</p>
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td> Obtener todos los perfiles</td>
+      <td>Como administrador del sistema Quiero obtener todos los perfiles registrados Para gestionar y visualizar los usuarios activos de la app</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que tengo permisos de administrador Cuando hago la solicitud GET a la API de perfiles Entonces obtengo una lista completa de perfiles existentes</p>
+      </td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td>TS04</td>
+      <td> Registrar un nuevo perfil</td>
+      <td>Como nuevo usuario de PlantSync Quiero registrar un nuevo perfil en la aplicación Para comenzar a gestionar mis plantas</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío datos válidos del perfil Cuando hago la solicitud POST Entonces el perfil se registra exitosamente</p>
+      </td>
+      <td>
+        <p><strong>Escenario 2:</strong></p>
+        <p>Dado que envío datos inválidos o incompletos Cuando hago la solicitud POST Entonces el sistema rechaza el registro y devuelve un mensaje de error</p>
+      </td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td>TS05</td>
+      <td> Obtener los detalles de mi perfil</td>
+      <td>Como usuario registrado Quiero obtener los detalles de mi perfil Para verificar mi información registrada en la app</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que proporciono un ID de perfil válido Cuando hago la solicitud GET Entonces recibo la información detallada del perfil</p>
+      </td>
+      <td>
+        <p><strong>Escenario 2:</strong></p>
+        <p>Dado que envío datos inválidos o incompletos Cuando hago la solicitud POST Entonces el sistema rechaza el registro y devuelve un mensaje de error</p>
+      </td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td>TS06</td>
+      <td> Acceder a todas las guías</td>
+      <td>Como usuario interesado en cuidar plantas Quiero acceder a todas las guías disponibles Para aprender sobre el cuidado adecuado de mis plantas</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que estoy autenticado Cuando hago la solicitud GET Entonces recibo una lista de guías disponibles en el sistema</p>
+      </td>
+      <td>EP03</td>
+    </tr>
+    <tr>
+      <td>TS07</td>
+      <td> Crear una nueva guía</td>
+      <td>Como administrador o experto en plantas Quiero crear una nueva guía desde la API Para brindar información útil a los usuarios sobre el cuidado de plantas</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío una solicitud con datos válidos de la guía Cuando hago la solicitud POST Entonces la guía se crea exitosamente y está disponible para los usuarios</p>
+      </td>
+      <td>EP03</td>
+    </tr>
+    <tr>
+      <td>TS08</td>
+      <td> Ver el contenido detallado de una guía</td>
+      <td>Como usuario interesado en una guía específica Quiero ver el contenido detallado de una guía Para seguir las instrucciones paso a paso</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que tengo el ID de la guía Cuando hago la solicitud GET Entonces obtengo los detalles completos de la guía</p>
+      </td>
+      <td>EP03</td>
+    </tr>
+    <tr>
+      <td>TS09</td>
+      <td> Ver todas mis tareas registradas</td>
+      <td>Como usuario que gestiona sus plantas Quiero ver todas mis tareas registradas Para realizar las actividades de cuidado a tiempo</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que estoy autenticado y tengo tareas asignadas Cuando hago la solicitud GET Entonces recibo la lista completa de mis tareas</p>
+      </td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>TS10</td>
+      <td> Registrar una nueva tarea</td>
+      <td>Como usuario de PlantSync Quiero registrar una nueva tarea de cuidado para una planta Para no olvidar actividades importantes como riego o fertilización</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío datos válidos de la tarea Cuando hago la solicitud POST Entonces la tarea se guarda exitosamente</p>
+      </td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>TS11</td>
+      <td> Eliminar una tarea</td>
+      <td>Como usuario que desea cancelar una tarea Quiero eliminar una tarea específica Para mantener actualizada mi lista de actividades</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que proporciono el ID de una tarea válida Cuando hago la solicitud DELETE Entonces la tarea es eliminada correctamente del sistema</p>
+      </td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>TS12</td>
+      <td> Registrar una nueva planta</td>
+      <td>Como usuario de PlantSync Quiero registrar una nueva planta Para comenzar a hacerle seguimiento y recibir recomendaciones</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío los datos correctos de la planta Cuando hago la solicitud POST Entonces la planta se registra exitosamente en el sistema</p>
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS13</td>
+      <td> Ver todas mis plantas</td>
+      <td>Como usuario con varias plantas registradas Quiero ver todas mis plantas asociadas a mi perfil Para gestionarlas fácilmente desde un solo lugar</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío un ID de perfil válido Cuando realizo la solicitud GET Entonces obtengo una lista de todas mis plantas registradas</p>
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS14</td>
+      <td> Ver la información detallada de la planta</td>
+      <td>Como usuario que cuida una planta específica Quiero ver la información detallada de esa planta Para verificar sus características y necesidades</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío un ID de planta válido Cuando realizo la solicitud GET Entonces recibo todos los detalles registrados de esa planta</p>
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS15</td>
+      <td> Actualizar los datos de una planta</td>
+      <td>Como usuario de PlantSync Quiero actualizar los datos de una planta registrada Para corregir o mejorar la información sobre su cuidado</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío un ID de planta válido y nueva información Cuando hago la solicitud PUT Entonces los datos se actualizan correctamente en la base de datos</p>
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>TS16</td>
+      <td> Eliminar registro de planta</td>
+      <td>Como usuario que ya no cuida una planta Quiero eliminar su registro Para mantener mi lista de plantas actualizada y ordenada</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que envío un ID válido de planta Cuando hago la solicitud DELETE Entonces la planta se elimina del sistema</p>
+      </td>
+      <td>EP01</td>
+    </tr>
   </tbody>
 </table>
 
@@ -2333,6 +2551,118 @@ Enlace: [Impact Map en UXPRESSIA]()
         <td>Recibir boletines con novedades</td>
         <td>Como usuario, quiero recibir correos o notificaciones con novedades sobre plantas, para mantenerme informado y aprender más.</td>
         <td>1</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>TS01</td>
+        <td>Registrar un nuevo historial para una planta</td>
+        <td>Como desarrollador que trabaja en la aplicación PlantSync Quiero registrar un nuevo historial para una planta mediante una API Para tener un registro de los cambios o eventos relevantes en la vida de la planta</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>TS02</td>
+        <td>Obtener los historiales de una planta</td>
+        <td>Como usuario de PlantSync Quiero obtener los historiales de una planta específica Para revisar su evolución y eventos pasados</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>TS03</td>
+        <td>Obtener todos los perfiles</td>
+        <td>Como administrador del sistema Quiero obtener todos los perfiles registrados Para gestionar y visualizar los usuarios activos de la app</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>TS04</td>
+        <td>Registrar un nuevo perfil</td>
+        <td>Como nuevo usuario de PlantSync Quiero registrar un nuevo perfil en la aplicación Para comenzar a gestionar mis plantas</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>TS05</td>
+        <td>Obtener los detalles de mi perfil</td>
+        <td>Como usuario registrado Quiero obtener los detalles de mi perfil Para verificar mi información registrada en la app</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>TS06</td>
+        <td>Acceder a todas las guías</td>
+        <td>Como usuario interesado en cuidar plantas Quiero acceder a todas las guías disponibles Para aprender sobre el cuidado adecuado de mis plantas</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>39</td>
+        <td>TS07</td>
+        <td>Crear una nueva guía</td>
+        <td>Como administrador o experto en plantas Quiero crear una nueva guía desde la API Para brindar información útil a los usuarios sobre el cuidado de plantas</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>TS08</td>
+        <td>Ver el contenido detallado de una guía</td>
+        <td>Como usuario interesado en una guía específica Quiero ver el contenido detallado de una guía Para seguir las instrucciones paso a paso</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>41</td>
+        <td>TS09</td>
+        <td>Ver todas mis tareas registradas</td>
+        <td>Como usuario que gestiona sus plantas Quiero ver todas mis tareas registradas Para realizar las actividades de cuidado a tiempo</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>42</td>
+        <td>TS10</td>
+        <td>Registrar una nueva tarea</td>
+        <td>Como usuario de PlantSync Quiero registrar una nueva tarea de cuidado para una planta Para no olvidar actividades importantes como riego o fertilización</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>43</td>
+        <td>TS11</td>
+        <td>Eliminar una tarea</td>
+        <td>Como usuario que desea cancelar una tarea Quiero eliminar una tarea específica Para mantener actualizada mi lista de actividades</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>44</td>
+        <td>TS12</td>
+        <td>Registrar una nueva planta</td>
+        <td>Como usuario de PlantSync Quiero registrar una nueva planta Para comenzar a hacerle seguimiento y recibir recomendaciones</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>45</td>
+        <td>TS13</td>
+        <td>Ver todas mis plantas</td>
+        <td>Como usuario con varias plantas registradas Quiero ver todas mis plantas asociadas a mi perfil Para gestionarlas fácilmente desde un solo lugar</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>46</td>
+        <td>TS14</td>
+        <td>Ver la información detallada de la planta</td>
+        <td>Como usuario que cuida una planta específica Quiero ver la información detallada de esa planta Para verificar sus características y necesidades</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>47</td>
+        <td>TS15</td>
+        <td>Actualizar los datos de una planta</td>
+        <td>Como usuario de PlantSync Quiero actualizar los datos de una planta registrada Para corregir o mejorar la información sobre su cuidado</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>48</td>
+        <td>TS16</td>
+        <td>Eliminar registro de planta</td>
+        <td>Como usuario que ya no cuida una planta Quiero eliminar su registro Para mantener mi lista de plantas actualizada y ordenada</td>
+        <td>3</td>
     </tr>
   </tbody>
 </table>
@@ -4739,7 +5069,7 @@ Repositorio Landing Page:
   </tr>
   <tr>
     <td><strong>Sprint 3 Velocity</strong></td>
-    <td>a</td>
+    <td>47</td>
   </tr>
 </table>
 <br>
@@ -5635,13 +5965,13 @@ Visualización Backend Desplegado:
 <br>
 
 <p align="center">
-  <img src="images/evidencia-sprint3/ins01.png" alt="evidencia-sprint-3" width="1000">
+  <img src="images/evidencia-sprint3/evidence-github-backend1.jpg" alt="evidencia-sprint-3" width="1000">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="images/evidencia-sprint3/ins02.png" alt="evidencia-sprint-3" width="1000">
+  <img src="images/evidencia-sprint3/evidence-github-backend2.jpg" alt="evidencia-sprint-3" width="1000">
 </p>
 
 <br><br>
@@ -5667,13 +5997,13 @@ Visualización Backend Desplegado:
 <br>
 
 <p align="center">
-  <img src="images/evidencia-sprint2/evidencia4-team-sprint2.png" alt="evidencia-sprint" width="1000">
+  <img src="images/evidencia-sprint3/evidencia-github-landing1.jpg" alt="evidencia-sprint" width="1000">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="images/evidencia-sprint2/evidencia3-team-sprint2.png" alt="evidencia-sprint" width="1000">
+  <img src="images/evidencia-sprint3/evidencia-github-landing2.jpg" alt="evidencia-sprint" width="1000">
 </p>
 
 <br><br>
