@@ -1816,13 +1816,13 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
     </tr>
     <tr>
       <td>US02</td>
-      <td>Configuración de recordatorios</td>
-      <td>Como usuario que cuida plantas, quiero configurar recordatorios para regar o fertilizar, para no olvidar sus cuidados.</td>
+      <td>Configuración de tareas</td>
+      <td>Como usuario que cuida plantas, quiero configurar tareas para regar o fertilizar, para no olvidar sus cuidados.</td>
       <td>
-        <p><strong>Escenario 1:</strong> Recordatorio creado</p>
-        <p>Dado que el usuario eligió la tarea, hora y frecuencia, cuando guarda el recordatorio, entonces el sistema confirma: "Recordatorio creado correctamente".</p>
+        <p><strong>Escenario 1:</strong> Tarea creada</p>
+        <p>Dado que el usuario eligió la tarea, hora y frecuencia, cuando guarda la tarea, entonces el sistema confirma: "Tarea creada correctamente".</p>
         <p><strong>Escenario 2:</strong> Notificación enviada</p>
-        <p>Dado que llega la hora del recordatorio, entonces el sistema muestra una notificación: "Es hora de regar tu planta [nombre]".</p>
+        <p>Dado que llega la hora de la tarea, entonces el sistema muestra una notificación: "Es hora de regar tu planta [nombre]".</p>
       </td>
       <td>EP02</td>
     </tr>
@@ -1841,10 +1841,10 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
     <tr>
       <td>US04</td>
       <td>Historial de cuidados</td>
-      <td>Como usuario, quiero ver un historial de riegos y fertilizaciones para cada planta.</td>
+      <td>Como usuario, quiero visualizar el historial de humedad de mi planta para entender mejor su estado y necesidades de riego.</td>
       <td>
-        <p><strong>Escenario 1:</strong>Usuario visualiza el historial de cuidados de una planta</p>
-        <p>Dado que el usuario ha iniciado sesión en la aplicación Y se encuentra en el perfil de una planta registrada Cuando el usuario accede a la sección "Historial de cuidados" Entonces debe visualizar una lista cronológica de los riegos y fertilizaciones realizados Y cada entrada debe mostrar la fecha, el tipo de cuidado (riego o fertilización) y cualquier observación registrada Y el usuario debe poder navegar fácilmente por el historial sin salir del perfil de la planta</p>
+        <p><strong>Escenario 1:</strong>Usuario visualiza el historial de humedad de la planta</p>
+        <p>Dado que el usuario ha iniciado sesión en la aplicación Y se encuentra en la página de detalle de una planta registrada. Cuando accede a la sección "Ver historial". Entonces debe visualizar una lista cronológica de los cuidados realizados en los últimos 3 días, incluyendo riegos y fertilizaciones Y cada entrada debe mostrar la fecha, el tipo de cuidado (riego o fertilización) y cualquier observación registrada</p>
       </td>
       <td>EP01</td>
     </tr>
@@ -1871,12 +1871,12 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
     <tr>
       <td>US07</td>
       <td>Guía de cuidado personalizada</td>
-      <td>Como usuario con plantas registradas, quiero recibir recomendaciones de cuidado personalizadas, para mantenerlas saludables según su tipo.</td>
+      <td>Como usuario con plantas registradas, quiero recibir guías de cuidado, para seguir buenas prácticas según su tipo y mantenerlas saludables.</td>
       <td>
-        <p><strong>Escenario 1:</strong> Recomendaciones visibles</p>
-        <p>Dado que la planta está registrada y evaluada, cuando el usuario entra a su ficha, entonces el sistema muestra una guía adaptada a sus necesidades (riego, luz, fertilización).</p>
-        <p><strong>Escenario 2:</strong> Información insuficiente</p>
-        <p>Dado que no se ha completado la evaluación de la planta, entonces el sistema muestra: "Por favor, completa la evaluación para generar recomendaciones".</p>
+        <p><strong>Escenario 1:</strong> Acceso a guías generales desde el menú</p>
+        <p>Dado que el usuario ha iniciado sesión en la aplicación Y tiene acceso al menú lateral (sidebar). Cuando hace clic en la sección "Guías de cuidado". Entonces el sistema debe mostrar una lista de guías generales organizadas por temas como riego, luz, fertilización, entre otros Y cada guía debe incluir una descripción clara, imágenes o íconos de apoyo, y consejos prácticos aplicables a distintas plantas</p>
+        <p><strong>Escenario 2:</strong> Visualización de guía seleccionada</p>
+        <p>Dado que el usuario se encuentra en la sección "Guías de cuidado". Cuando selecciona una guía de la lista. Entonces el sistema debe mostrar el contenido completo de esa guía, incluyendo recomendaciones generales aplicables a la mayoría de plantas domésticas</p>
       </td>
       <td>EP03</td>
     </tr>
@@ -1950,39 +1950,39 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
     </tr>
     <tr>
       <td>US14</td>
-      <td>Reconocimiento de plantas por imagen</td>
-      <td>Como usuario, quiero tomar una foto de una planta y que el sistema la reconozca, para saber su nombre y cuidados recomendados.</td>
+      <td>Edición de datos personales</td>
+      <td>Como usuario registrado, quiero poder actualizar mis datos personales (como nombre o teléfono), para mantener mi perfil al día con mi información actual.</td>
       <td>
-        <p><strong>Escenario 1:</strong> Planta reconocida</p>
-        <p>Dado que el usuario toma una foto clara, cuando el sistema procesa la imagen, entonces muestra el nombre de la planta y una ficha de cuidados básicos.</p>
-        <p><strong>Escenario 2:</strong> Planta no reconocida</p>
-        <p>Dado que la imagen no es clara o la planta no está en la base de datos, entonces el sistema muestra: "No pudimos reconocer esta planta. Intenta con otra foto".</p>
+        <p><strong>Escenario 1:</strong> Visualización de datos actuales</p>
+        <p>Dado que el usuario ha iniciado sesión. Cuando accede a la sección de configuración o perfil. Entonces el sistema debe mostrar los datos personales actuales (nombre, teléfono, etc.) en campos editables</p>
+        <p><strong>Escenario 2:</strong> Actualización exitosa de datos</p>
+        <p>Dado que el usuario ha editado su nombre y/o número de teléfono. Cuando hace clic en el botón "Guardar cambios". Entonces el sistema debe validar que los campos no estén vacíos y contengan un formato válido Y debe actualizar la información en la base de datos</p>
       </td>
-      <td>EP03</td>
+      <td>EP04</td>
     </tr>
     <tr>
       <td>US15</td>
-      <td>Filtrar plantas por estado</td>
-      <td>Como usuario, quiero filtrar mis plantas según su estado (saludable, en riesgo, requiere atención), para priorizar acciones de cuidado.</td>
+      <td>Cambio de correo electrónico asociado</td>
+      <td>Como usuario, quiero cambiar el correo electrónico asociado a mi cuenta, para asegurar que las notificaciones y comunicaciones lleguen a la dirección correcta.</td>
       <td>
-        <p><strong>Escenario 1:</strong> Filtro aplicado</p>
-        <p>Dado que el usuario selecciona un estado, entonces el sistema muestra solo las plantas que coinciden con ese estado.</p>
-        <p><strong>Escenario 2:</strong> Sin coincidencias</p>
-        <p>Dado que no hay plantas con ese estado, entonces el sistema muestra: "No se encontraron plantas con ese estado".</p>
+        <p><strong>Escenario 1:</strong> Visualización del correo actual</p>
+        <p>Dado que el usuario ha iniciado sesión. Cuando accede a la sección de configuración o perfil. Entonces el sistema debe mostrar el correo electrónico actual en un campo editable (con formato validado)</p>
+        <p><strong>Escenario 2:</strong> Cambio exitoso de correo electrónico</p>
+        <p>Dado que el usuario ha ingresado un nuevo correo válido. Cuando hace clic en "Guardar cambios". Entonces el sistema debe verificar el formato del correo Y actualizar el correo electrónico en la base de datos.</p>
       </td>
-      <td>EP01</td>
+      <td>EP04</td>
     </tr>
     <tr>
       <td>US16</td>
-      <td>Establecer objetivos de cuidado</td>
-      <td>Como usuario, quiero fijar metas como mantener vivas mis plantas por un número determinado de días, para motivarme a cumplir mis tareas de cuidado.</td>
+      <td>Gestión del plan de suscripción</td>
+      <td>Como usuario suscrito, quiero poder cambiar mi plan de suscripción desde la configuración, para ajustarlo a mis necesidades o presupuesto actuales.</td>
       <td>
-        <p><strong>Escenario 1:</strong> Objetivo establecido</p>
-        <p>Dado que el usuario define un objetivo, cuando lo guarda, entonces el sistema muestra una barra de progreso hacia el cumplimiento.</p>
-        <p><strong>Escenario 2:</strong> Sin metas definidas</p>
-        <p>Dado que el usuario no ha creado objetivos, entonces el sistema muestra: "No tienes metas activas. Crea una para comenzar tu reto de cuidado".</p>
+        <p><strong>Escenario 1:</strong> Visualización del plan actual y opciones disponibles</p>
+        <p>Dado que el usuario ha iniciado sesión Y accede a la sección de "Configuración" > "Suscripción". Entonces el sistema debe mostrar el nombre de su plan actual</p>
+        <p><strong>Escenario 2:</strong> Cambio exitoso de plan</p>
+        <p>Dado que el usuario ha seleccionado un nuevo plan de suscripción. Cuando confirma el cambio haciendo clic en "Cambiar plan". Entonces el sistema debe actualizar su suscripción</p>
       </td>
-      <td>EP05</td>
+      <td>EP04</td>
     </tr>
     <tr>
       <td>US17</td>
@@ -2022,13 +2022,14 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
     </tr>
     <tr>
       <td>US20</td>
-      <td>Edición del perfil del usuario</td>
-      <td>Como usuario que inició sesión, quiero editar mi nombre, imagen, correo y contraseña de mi perfil, para mantener mi información actualizada.</td>
+      <td>Tips de cuidado según clima y humedad</td>
+      <td>Como usuario, quiero recibir una recomendación automática para el cuidado de mi planta basada en la temperatura y humedad actuales, para saber si debo regarla, protegerla del sol u otros cuidados relevantes.</td>
       <td>
-        <p><strong>Escenario 1:</strong> Edición exitosa</p>
-        <p>Dado que el usuario está autenticado, cuando actualiza algún dato y guarda, entonces el sistema muestra "Perfil actualizado correctamente".</p>
+        <p><strong>Escenario 1:</strong> Generación de recomendación automática según clima y humedad</p>
+        <p>Dado que el sistema ha obtenido los datos de temperatura y humedad cuando se cargan los datos del clima en la ficha de la planta entonces la app debe mostrar una recomendación automática con un mensaje como: <br>
+        "Hoy la humedad está baja, considera regar tu planta."</p>
       </td>
-      <td>EP04</td>
+      <td>EP03</td>
     </tr>
     <tr>
       <td>US21</td>
@@ -2080,13 +2081,13 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
     </tr>
     <tr>
       <td>US25</td>
-      <td>Recibir boletines con novedades</td>
-      <td>Como usuario, quiero recibir correos o notificaciones con novedades sobre plantas, para mantenerme informado y aprender más.</td>
+      <td>Registro de método de pago inicial</td>
+      <td>Como nuevo usuario, quiero registrar un método de pago al momento de crear mi cuenta, para poder acceder al contenido y funcionalidades de la aplicación sin interrupciones.</td>
       <td>
-        <p><strong>Escenario 1:</strong> Boletín enviado</p>
-        <p>Dado que el usuario está suscrito, entonces el sistema envía el boletín mensual con consejos, nuevas funciones y noticias.</p>
-        <p><strong>Escenario 2:</strong> No suscrito</p>
-        <p>Dado que el usuario no ha aceptado recibir boletines, entonces el sistema no envía ningún correo.</p>
+        <p><strong>Escenario 1:</strong> Visualización del formulario de método de pago tras el registro</p>
+        <p>Dado que el usuario ha completado el formulario de registro cuando finaliza la creación de su cuenta entonces el sistema debe redirigirlo automáticamente a un formulario para registrar su método de pago (tarjeta, débito, etc.) Y debe mostrar campos como: número de tarjeta, fecha de vencimiento, CVV y nombre del titular</p>
+        <p><strong>Escenario 2:</strong> Registro exitoso del método de pago</p>
+        <p>Dado que el usuario ha ingresado correctamente los datos requeridos cuando hace clic en "Guardar método de pago" entonces el sistema debe validar la información y guardar de forma segura los datos en el sistema y permitir el ingreso a la pantalla principal de la aplicación</p>
       </td>
       <td>EP05</td>
     </tr>
@@ -2322,6 +2323,36 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       </td>
       <td>EP01</td>
     </tr>
+    <tr>
+      <td>TS17</td>
+      <td> Obtener lista de usuarios</td>
+      <td>Como administrador del sistema quiero obtener todos los usuarios registrados para poder gestionarlos o visualizarlos desde el backend</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que hago una solicitud GET al endpoint /users cuando el servidor recibe la solicitud entonces debe responder con un listado de usuarios registrados en formato JSON</p>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TS18</td>
+      <td> Registro de usuario (sign up)</td>
+      <td>Como visitante de la aplicación quiero poder registrarme con mis datos personales para acceder a las funcionalidades de la plataforma</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que el usuario llena el formulario de registro con datos válidos (nombre, correo, contraseña, etc.) cuando se envía la solicitud POST a /sign-up entonces el sistema debe crear un nuevo usuario y devolver una confirmación exitosa</p>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TS19</td>
+      <td> Inicio de sesión (sign in)</td>
+      <td>Como usuario registrado quiero iniciar sesión con mi correo y contraseña para acceder a mi perfil y funciones personalizadas</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que el usuario proporciona credenciales válidas cuando se envía una solicitud POST a /sign-in entonces el sistema debe autenticarlo y responder con un token o sesión activa</p>
+      </td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
@@ -2394,11 +2425,11 @@ Enlace: [Impact Map en UXPRESSIA]()
         <td>3</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>US20</td>
-      <td>Edición del perfil del usuario</td>
-      <td>Como usuario que inicio sesión, quiero editar mi nombre, imagen, correo y contraseña de mi perfil, para mantener mi información actualizada.</td>
-      <td>2</td>
+        <td>8</td>
+        <td>US20</td>
+        <td>Tips de cuidado según clima y humedad</td>
+        <td>Como usuario, quiero recibir una recomendación automática para el cuidado de mi planta basada en la temperatura y humedad actuales, para saber si debo regarla, protegerla del sol u otros cuidados relevantes.</td>
+        <td>2</td>
     </tr>
     <tr>
         <td>9</td>
@@ -2432,7 +2463,7 @@ Enlace: [Impact Map en UXPRESSIA]()
         <td>13</td>
         <td>US07</td>
         <td>Guía de cuidado personalizada</td>
-        <td>Como usuario con plantas registradas, quiero recibir recomendaciones de cuidado personalizadas, para mantenerlas saludables según su tipo.</td>
+        <td>Como usuario con plantas registradas, quiero recibir guías de cuidado, para seguir buenas prácticas según su tipo y mantenerlas saludables.</td>
         <td>5</td>
     </tr>
     <tr>
@@ -2446,14 +2477,14 @@ Enlace: [Impact Map en UXPRESSIA]()
         <td>16</td>
         <td>US04</td>
         <td>Historial de cuidados</td>
-        <td>Como usuario, quiero ver un historial de riegos y fertilizaciones para cada planta.</td>
+        <td>Como usuario, quiero visualizar el historial de humedad de mi planta para entender mejor su estado y necesidades de riego.</td>
         <td>3</td>
     </tr>
     <tr>
         <td>17</td>
         <td>US02</td>
-        <td>Configuración de recordatorios</td>
-        <td>Como usuario que cuida plantas, quiero configurar recordatorios para regar o fertilizar, para no olvidar sus cuidados.</td>
+        <td>Configuración de tareas</td>
+        <td>Como usuario que cuida plantas, quiero configurar tareas para regar o fertilizar, para no olvidar sus cuidados.</td>
         <td>5</td>
     </tr>
     <tr>
@@ -2501,22 +2532,22 @@ Enlace: [Impact Map en UXPRESSIA]()
     <tr>
         <td>24</td>
         <td>US15</td>
-        <td>Filtrar plantas por estado</td>
-        <td>Como usuario, quiero filtrar mis plantas según su estado (saludable, en riesgo, requiere atención), para priorizar acciones de cuidado.</td>
+        <td>Cambio de correo electrónico asociado</td>
+        <td>Como usuario, quiero cambiar el correo electrónico asociado a mi cuenta, para asegurar que las notificaciones y comunicaciones lleguen a la dirección correcta.</td>
         <td>2</td>
     </tr>
     <tr>
         <td>25</td>
         <td>US14</td>
-        <td>Reconocimiento de plantas por imagen</td>
-        <td>Como usuario, quiero tomar una foto de una planta y que el sistema la reconozca, para saber su nombre y cuidados recomendados.</td>
+        <td>Edición de datos personales</td>
+        <td>Como usuario registrado, quiero poder actualizar mis datos personales (como nombre o teléfono), para mantener mi perfil al día con mi información actual.</td>
         <td>3</td>
     </tr>
     <tr>
         <td>26</td>
         <td>US16</td>
-        <td>Establecer objetivos de cuidado</td>
-        <td>Como usuario, quiero fijar metas como mantener vivas mis plantas por un número determinado de días, para motivarme a cumplir mis tareas de cuidado.</td>
+        <td>Gestión del plan de suscripción</td>
+        <td>Como usuario suscrito, quiero poder cambiar mi plan de suscripción desde la configuración, para ajustarlo a mis necesidades o presupuesto actuales.</td>
         <td>2</td>
     </tr>
     <tr>
@@ -2557,8 +2588,8 @@ Enlace: [Impact Map en UXPRESSIA]()
     <tr>
         <td>32</td>
         <td>US25</td>
-        <td>Recibir boletines con novedades</td>
-        <td>Como usuario, quiero recibir correos o notificaciones con novedades sobre plantas, para mantenerme informado y aprender más.</td>
+        <td>Registro de método de pago inicial</td>
+        <td>Como nuevo usuario, quiero registrar un método de pago al momento de crear mi cuenta, para poder acceder al contenido y funcionalidades de la aplicación sin interrupciones.</td>
         <td>1</td>
     </tr>
     <tr>
@@ -2671,6 +2702,27 @@ Enlace: [Impact Map en UXPRESSIA]()
         <td>TS16</td>
         <td>Eliminar registro de planta</td>
         <td>Como usuario que ya no cuida una planta Quiero eliminar su registro Para mantener mi lista de plantas actualizada y ordenada</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>49</td>
+        <td>TS17</td>
+        <td>Obtener lista de usuarios</td>
+        <td>Como administrador del sistema quiero obtener todos los usuarios registrados para poder gestionarlos o visualizarlos desde el backend</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>50</td>
+        <td>TS18</td>
+        <td>Registro de usuario (sign up)</td>
+        <td>Como visitante de la aplicación quiero poder registrarme con mis datos personales para acceder a las funcionalidades de la plataforma</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>51</td>
+        <td>TS19</td>
+        <td>Inicio de sesión (sign in)</td>
+        <td>Como usuario registrado quiero iniciar sesión con mi correo y contraseña para acceder a mi perfil y funciones personalizadas</td>
         <td>3</td>
     </tr>
   </tbody>
