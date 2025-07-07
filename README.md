@@ -2001,13 +2001,11 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
     </tr>
     <tr>
       <td>US19</td>
-      <td>Visualización de perfil de usuario</td>
-      <td>Como usuario, quiero ver mi perfil con estadísticas sobre mis plantas, para tener una visión general de mis actividades de cuidado.</td>
+      <td>Visualización de configuración de usuario</td>
+      <td>Como usuario, quiero ver los datos de mi perfil en un apartado, para tener una visión general de la información de mi cuenta.</td>
       <td>
         <p><strong>Escenario 1:</strong> Perfil con datos</p>
-        <p>Dado que el usuario tiene varias plantas registradas y cuidados realizados, entonces el perfil muestra estadísticas como cantidad de plantas, tareas realizadas y consejos compartidos.</p>
-        <p><strong>Escenario 2:</strong> Perfil sin datos</p>
-        <p>Dado que el usuario es nuevo, entonces el sistema muestra: "Aún no has registrado plantas ni actividades. ¡Comienza ahora!".</p>
+        <p>Dado que el usuario ha creado su cuenta correctamente, el apartado de configuración mostrará su información actual.</p>
       </td>
       <td>EP04</td>
     </tr>
@@ -2017,7 +2015,7 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       <td>Como usuario que inició sesión, quiero editar mi nombre, imagen, correo y contraseña de mi perfil, para mantener mi información actualizada.</td>
       <td>
         <p><strong>Escenario 1:</strong> Edición exitosa</p>
-        <p>Dado que el usuario está autenticado, cuando actualiza algún dato y guarda, entonces el sistema muestra "Perfil actualizado correctamente".</p>
+        <p>Dado que el usuario está autenticado, cuando actualiza algún dato y guarda, entonces el sistema actualiza correctamente sus datos.</p>
       </td>
       <td>EP04</td>
     </tr>
@@ -2513,8 +2511,8 @@ Enlace: [Impact Map en UXPRESSIA]()
     <tr>
         <td>27</td>
         <td>US19</td>
-        <td>Visualización de perfil de usuario</td>
-        <td>Como usuario, quiero ver mi perfil con estadísticas sobre mis plantas, para tener una visión general de mis actividades de cuidado.</td>
+        <td>Visualización de configuración de usuario</td>
+        <td>Como usuario, quiero ver los datos de mi perfil en un apartado, para tener una visión general de la información de mi cuenta.</td>
         <td>3</td>
     </tr>
     <tr>
@@ -6115,8 +6113,15 @@ Visualización Backend Desplegado:
 
 <br><br>
 
+#### 5.2.4. Sprint 4
 
----
+##### 5.2.4.1. Sprint Planning 4
+
+
+
+
+
+
 
 ### 5.3 Validation Interviews
 
