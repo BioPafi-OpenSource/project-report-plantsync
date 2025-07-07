@@ -6130,19 +6130,230 @@ Visualización Backend Desplegado:
 
 ##### 5.2.4.1. Sprint Planning 4
 
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 02 - 07</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>3:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Erik Palomino</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Javier Gonzales, Renzo Rivera</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Review Summary</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Retorspective Summary</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Goal</strong></td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Velocity</strong></td>
+    <td>00</td>
+  </tr>
+</table>
+<br>
+
 ##### 5.2.4.2. Aspect Leaders and Collaborators
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>a</strong></td>
+    <td><strong>b</strong></td>
+    <td><strong>c</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>rezor11</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+</table>
+<br>
 
 ##### 5.2.4.3. Sprint Backlog 4
 
+Este Sprint se enfocó terminar todos los features faltantes de nuestra aplicación y darles los ultimos toques.
+
+<img src="#" alt="sprint-backlog3" width="1000">
+
+link al trello:
+
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint #</th>
+      <th colspan="7">Sprint 4</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="7">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimated (Hours)</th>
+      <th>Assigned to</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TS01</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+      <td>0</td>
+      <td>a</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br>
+
 ##### 5.2.4.4. Development Evidence for Sprint Review 
+
+<table align="center">
+  <tr>
+    <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+    <td>main</td>
+    <td>520795a</td>
+    <td>Initial commit: Created Spring Project</td>
+    <td>Initial commit: Created Spring Project</td>
+    <td>10/06/25</td>
+  </tr>
+</table>
+
+<br>
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review
 
++ TS01
+
+<br>
+
+<p align="center">
+  <img src="#" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint URL</th>
+      <th>Recurso</th>
+      <th>Verbo HTTP</th>
+      <th>Acción / Sintaxis</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/profiles</td>
+      <td>Profiles</td>
+      <td>GET</td>
+      <td>Get all profiles</td>
+      <td>Ninguno</td>
+      <td>{ 
+        "name": "Monstera Deliciosa",
+      "species": "Planta Trepadora",
+      "acquisitionDate": "2024-04-01",
+      "humidity": "Media",
+      "nextWateringDate": "2024-05-14",
+      "imageUrl": "https://static.wixstatic.com/media/b4df8d_29038c38771f4c67aa279995240d5717~mv2.jpg",
+      "notificationsEnabled": true,
+      "profileId": 1,
+      "id": 1}</td>
+    </tr>
+  </tbody>
+</table>
+
+<br><br>
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
+
+<br>
+
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>a</td>
+  </tr>
+</table>
+<br><br>
 
 ---
 
