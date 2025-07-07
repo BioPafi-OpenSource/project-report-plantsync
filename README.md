@@ -31,7 +31,7 @@
 | U20231D974 | Rivera Ratachi, Renzo Sebastian     |
 | U202311601 | Torres Apolinario, Giovany Smith    |
 
-**Abril 2025**
+**Julio 2025**
 
 ---
 
@@ -613,7 +613,16 @@ Repositorio Informe:
       - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)  
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)  
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)  
-      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint) 
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)  
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)  
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)  
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)  
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)  
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)  
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)  
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)  
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)  
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
     - [5.3.1. Registro de Entrevistas](#532-registro-de-entrevistas) 
@@ -6115,6 +6124,25 @@ Visualización Backend Desplegado:
 
 <br><br>
 
+---
+
+#### 5.2.4. Sprint 4
+
+##### 5.2.4.1. Sprint Planning 4
+
+##### 5.2.4.2. Aspect Leaders and Collaborators
+
+##### 5.2.4.3. Sprint Backlog 4
+
+##### 5.2.4.4. Development Evidence for Sprint Review 
+
+##### 5.2.4.5. Execution Evidence for Sprint Review
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint
 
 ---
 
@@ -6660,6 +6688,10 @@ Enlace en Youtube: <a href="https://youtu.be/6dQiL5Xb8GU" target="_blank">upc-pr
 - Las entrevistas de validación permitieron contrastar nuestras hipótesis de diseño e interacción frente al comportamiento real de los usuarios. Estas sesiones fueron fundamentales para identificar aspectos de mejora en la usabilidad, accesibilidad e interacción general de la solución.
 
 - La evaluación heurística aplicada a los flujos de usuario y vistas clave de la aplicación evidenció aspectos que deben ser priorizados en el siguiente sprint, relacionados con la claridad de los botones, el flujo de navegación, y la inclusión de más contenido útil en secciones como Rootbot y guías.
+
+*TF*
+---
+- a
 
 
 ## Video about the Team
