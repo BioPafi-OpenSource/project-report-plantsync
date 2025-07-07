@@ -14,7 +14,7 @@
 
 **Nombre del curso:** Desarrollo de aplicaciones Open Source
 
-**Sección:** 4289
+**NRC:** 4289
 
 **Nombre del profesor:** BAUTISTA UBILLÚS, EFRAIN RICARDO
 
@@ -29,9 +29,9 @@
 | U20231A500 | Palomino Fiestas, Erick Leonardo    |
 | U202312966 | Gonzales Alvarado, Javier Sebastian |
 | U20231D974 | Rivera Ratachi, Renzo Sebastian     |
-| U202311601 | Torres Apolinario, Giovany Smith    |
 
-**Abril 2025**
+
+**Julio 2025**
 
 ---
 
@@ -46,7 +46,7 @@
   </tr>
     <tr>
     <td>1.0</td>
-    <td>06/04/25</td>
+    <td>07/07/25</td>
     <td>
     Palomino,<br>
     Gonzales,<br>
@@ -5052,7 +5052,7 @@ Repositorio Landing Page:
   </tr>
   <tr>
     <td><strong>Sprint 2 Review Summary</strong></td>
-    <td>En el anterior sprint se pudo cumplir exitosamente con las User Stories relacionadas a la aplicación web.</td>
+    <td>En el anterior sprint se pudo cumplir con los features relacionados a gestion de perfiles de planta, tareas, chatbot y guias. Como equipo consideramos que lo realizado podrá ser conectado al backend de forma simple. Además, las entrevistas de validación confirmaron que las funcionalidades presentadas son aceptadas por nuestro cliente.</td>
   </tr>
   <tr>
     <td><strong>Sprint 2 Retorspective Summary</strong></td>
