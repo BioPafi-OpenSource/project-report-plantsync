@@ -567,13 +567,13 @@ Repositorio Informe:
 <br>
 
 <p align="center">
-  <img src="images/evidencia-sprint3/evidencia-github-landing1.jpg" alt="evidencia-sprint" width="1000">
+  <img src="images/insight-landingpage-tf.jpg" alt="evidencia-sprint" width="1000">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="images/evidencia-sprint3/evidencia-github-landing2.jpg" alt="evidencia-sprint" width="1000">
+  <img src="images/insight2-landingpage-tf.jpg" alt="evidencia-sprint" width="1000">
 </p>
 
 <br>
@@ -3828,7 +3828,7 @@ Se eligió utilizar Vertabelo para modelar el diagrama de base de datos por su f
 
 #### 4.8.1. Database Diagram
 
-<img src="images/plantsync-BD.png" alt="plantsync-database-diagram" width="1000">
+<img src="images/database.png" alt="plantsync-database-diagram" width="1000">
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
