@@ -14,7 +14,7 @@
 
 **Nombre del curso:** Desarrollo de aplicaciones Open Source
 
-**Sección:** 4289
+**NRC:** 4289
 
 **Nombre del profesor:** BAUTISTA UBILLÚS, EFRAIN RICARDO
 
@@ -29,9 +29,8 @@
 | U20231A500 | Palomino Fiestas, Erick Leonardo    |
 | U202312966 | Gonzales Alvarado, Javier Sebastian |
 | U20231D974 | Rivera Ratachi, Renzo Sebastian     |
-| U202311601 | Torres Apolinario, Giovany Smith    |
 
-**Abril 2025**
+**Julio 2025**
 
 ---
 
@@ -243,6 +242,31 @@
     </td>
     <td>Se añadieron los videos de About The Product y About the Team, más las conclusiones y recomendaciones</td>
   </tr>
+  <tr>
+    <td>4.1</td>
+    <td>01/07/25</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    </td>
+    <td>Inicio de la documentacion del sprint 4</td>
+  </tr>
+  <tr>
+    <td>4.2</td>
+    <td>01/07/25</td>
+    <td>
+    Palomino,<br>
+    </td>
+    <td>Mejora continua de diagramas de clases y c4</td>
+  </tr>
+  <tr>
+    <td>4.2</td>
+    <td>01/07/25</td>
+    <td>
+    Rivera<br>
+    </td>
+    <td>Elaboración de conclusiones</td>
+  </tr>
 </table>
 
 ---
@@ -378,6 +402,39 @@ Link del documento en GitHub: https://github.com/BioPafi-OpenSource/project-repo
     </td>
     <td>
       Realización de Guides Bounded Context en el backend, entrevista de validación, realización del diagrama del frontend, añadio heuristicas, video about the team, Sprint 3 y conclusiones.
+    </td>
+  </tr>
+</table>
+
+## **TP1**
+
+<table align="center">
+  <tr>
+    <td><strong>Integrante</strong></td>
+    <td><strong>Tareas Asignadas</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Erick Palomino
+    </td>
+    <td>
+      Reelaboración y perfeccionamiento de los diagramas C4 y de clases, como parte del proceso de mejora continua, con el fin de representar de manera más clara y precisa la arquitectura y los componentes del sistema.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Javier Gonzales
+    </td>
+    <td>
+      Verificación integral del cumplimiento de las funcionalidades definidas en las User Stories dentro del frontend de la aplicación web, complementado con la integración de un componente de inteligencia artificial orientado al asesoramiento en el cuidado de plantas.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Renzo Rivera
+    </td>
+    <td>
+      Implementación de las conexiones finales entre el backend y frontend, acompañada del despliegue completo de la aplicación, la creación de los endpoints de inicio de sesión y registro de usuario, así como la incorporación del registro de un método de pago al flujo inicial de uso.
     </td>
   </tr>
 </table>
@@ -637,7 +694,16 @@ Repositorio Informe:
       - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)  
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)  
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)  
-      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint) 
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)  
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)  
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)  
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)  
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)  
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)  
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)  
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)  
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)  
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
     - [5.3.1. Registro de Entrevistas](#532-registro-de-entrevistas) 
@@ -671,6 +737,8 @@ Repositorio Informe:
       <br><br>
       TB2 - Participó en la entrevista de validación del sistema y presentó el video “About the Product” y “About the Team”, explicando funcionalidades y roles.
       <br><br>
+      TF1 - Explicó en reuniones grupales la reestructuración propuesta de los diagramas C4 y de clases, detallando su impacto en la arquitectura del sistema.
+      <br><br>
       <strong>Javier Gonzales:</strong>
       TB1 - Presentación oral de los resultados de entrevistas y de la estructura de la Landing Page.
       <br><br>
@@ -678,12 +746,16 @@ Repositorio Informe:
       <br><br>
       TB2 - Expuso durante la entrevista de validación y en el video grupal, mostrando mejoras del frontend e integración con base de datos.
       <br><br>
+      TF1 - Expuso la integración de la inteligencia artificial y verificó el cumplimiento de funcionalidades frente al equipo.
+      <br><br>
       <strong>Renzo Rivera:</strong>
       TB1 – Exposición de análisis competitivo y explicación de los User Flow Diagrams durante la reunión grupal.
       <br><br>
       TP1- Expuso el diseño y lógica del FrontEnd del Chatbot y la sección de tareas, explicando su integración y mejoras.
       <br><br>
       TB2 - Contribuyó en la presentación del video “About the Team” y explicó los cambios realizados en el backend y en el proceso de despliegue.
+      <br><br>
+      TF1 - Presentó el flujo de conexión entre backend y frontend, así como las mejoras realizadas en el despliegue de la app, adaptando su comunicación al equipo técnico.
       <br><br>
       <strong>Sean Palomares:</strong>
       TB1 - Explicación oral de los mapas de impacto y segmentación de objetivos en reuniones grupales.
@@ -702,6 +774,8 @@ Repositorio Informe:
       TP1:La comunicación oral fue fundamental para coordinar las tareas del proyecto y asegurar una comprensión común. Cada integrante presentó con claridad sus avances y propuestas, lo que permitió una integración efectiva del trabajo. Se logró una interacción fluida y profesional dentro del equipo.
       <br><br>
       TB2: La comunicación oral del equipo se fortaleció mediante entrevistas y videos explicativos donde se expresaron con claridad las funciones desarrolladas, lo que facilitó la validación del producto y la comprensión del progreso por parte de los usuarios. Las presentaciones mostraron cohesión, claridad y un dominio del trabajo individual y colectivo.
+      <br><br>
+      TF1: Como equipo, demostramos una comunicación oral efectiva al presentar de manera clara y estructurada nuestras propuestas y avances técnicos durante las reuniones. Cada integrante adaptó su lenguaje a las necesidades del equipo, facilitando el entendimiento común y fomentando la toma de decisiones informadas para avanzar como grupo.
     </td>
   </tr>
   <tr>
@@ -716,6 +790,8 @@ Repositorio Informe:
       <br><br>
       TB2 - Documentó el Profiles Bounded Context del backend, agregó contenido escrito en heurísticas y elaboró las conclusiones del entregable.
       <br><br>
+      TF1 - Redactó los nuevos diagramas técnicos documentando claramente los elementos y relaciones del sistema para facilitar su comprensión.
+      <br><br>
       <strong>Javier Gonzales:</strong>
       TB1 –  Redacción del Lean UX Problem Statement, Assumptions y desarrollo de wireframes documentados.
       <br><br>
@@ -723,12 +799,16 @@ Repositorio Informe:
       <br><br>
       TB2 - Redactó los cambios realizados en la migración a base de datos y en la mejora del frontend, contribuyendo también en las heurísticas y conclusiones.
       <br><br>
+      TF1 - Elaboró reportes detallados de avance con base en las User Stories e incluyó la documentación del componente de inteligencia artificial.
+      <br><br>
       <strong>Renzo Rivera:</strong>
       TB1 –  Documentación escrita de análisis competitivo, User Personas, User Journey Mapping y Task Matrix.
       <br><br>
       TP1 - Elaboró descripciones técnicas del Chatbot y la sección de tareas, detallando los retos y soluciones en el informe parcial.
       <br><br>
       TB2 - Escribió la documentación técnica del Plant Profiles, Tasks Bounded Context y el diagrama del backend.
+      <br><br>
+      TF1 - Documentó los endpoints implementados, describiendo su funcionamiento y los pasos del despliegue final de la aplicación.
       <br><br>
       <strong>Sean Palomares:</strong>
       TB1 – Elaboración escrita de Hypothesis Statements, Product Backlog y base de diseño orientado a objetos.
@@ -747,6 +827,8 @@ Repositorio Informe:
       TP1: La documentación escrita del trabajo parcial fue clara, precisa y permitió dejar registro estructurado de cada avance. Se cuidó el lenguaje técnico y la redacción, haciendo posible una comprensión adecuada tanto para el equipo como para evaluadores externos. La distribución de redacción fue equilibrada y colaborativa.
       <br><br>
       TB2: La producción escrita durante esta etapa del proyecto reflejó claridad técnica, estructuración adecuada de los avances y coherencia con los objetivos planteados. Todos los integrantes aportaron en la documentación técnica y reflexiva del proyecto, generando entregables de calidad con contenido relevante y bien argumentado.
+      <br><br>
+      TF1: La documentación técnica generada por el equipo fue precisa, coherente y orientada tanto a públicos técnicos como académicos. La calidad de los diagramas, reportes funcionales y descripciones de endpoints refleja nuestra capacidad de comunicar por escrito de forma efectiva, asegurando trazabilidad y comprensión de los avances en el desarrollo del proyecto.
     </td>
   </tr>
 </table>
@@ -1831,13 +1913,13 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
     </tr>
     <tr>
       <td>US02</td>
-      <td>Configuración de recordatorios</td>
-      <td>Como usuario que cuida plantas, quiero configurar recordatorios para regar o fertilizar, para no olvidar sus cuidados.</td>
+      <td>Configuración de tareas</td>
+      <td>Como usuario que cuida plantas, quiero configurar tareas para regar o fertilizar, para no olvidar sus cuidados.</td>
       <td>
-        <p><strong>Escenario 1:</strong> Recordatorio creado</p>
-        <p>Dado que el usuario eligió la tarea, hora y frecuencia, cuando guarda el recordatorio, entonces el sistema confirma: "Recordatorio creado correctamente".</p>
+        <p><strong>Escenario 1:</strong> Tarea creada</p>
+        <p>Dado que el usuario eligió la tarea, hora y frecuencia, cuando guarda la tarea, entonces el sistema confirma: "Tarea creada correctamente".</p>
         <p><strong>Escenario 2:</strong> Notificación enviada</p>
-        <p>Dado que llega la hora del recordatorio, entonces el sistema muestra una notificación: "Es hora de regar tu planta [nombre]".</p>
+        <p>Dado que llega la hora de la tarea, entonces el sistema muestra una notificación: "Es hora de regar tu planta [nombre]".</p>
       </td>
       <td>EP02</td>
     </tr>
@@ -1856,10 +1938,10 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
     <tr>
       <td>US04</td>
       <td>Historial de cuidados</td>
-      <td>Como usuario, quiero ver un historial de riegos y fertilizaciones para cada planta.</td>
+      <td>Como usuario, quiero visualizar el historial de humedad de mi planta para entender mejor su estado y necesidades de riego.</td>
       <td>
-        <p><strong>Escenario 1:</strong>Usuario visualiza el historial de cuidados de una planta</p>
-        <p>Dado que el usuario ha iniciado sesión en la aplicación Y se encuentra en el perfil de una planta registrada Cuando el usuario accede a la sección "Historial de cuidados" Entonces debe visualizar una lista cronológica de los riegos y fertilizaciones realizados Y cada entrada debe mostrar la fecha, el tipo de cuidado (riego o fertilización) y cualquier observación registrada Y el usuario debe poder navegar fácilmente por el historial sin salir del perfil de la planta</p>
+        <p><strong>Escenario 1:</strong>Usuario visualiza el historial de humedad de la planta</p>
+        <p>Dado que el usuario ha iniciado sesión en la aplicación Y se encuentra en la página de detalle de una planta registrada. Cuando accede a la sección "Ver historial". Entonces debe visualizar una lista cronológica de los cuidados realizados en los últimos 3 días, incluyendo riegos y fertilizaciones Y cada entrada debe mostrar la fecha, el tipo de cuidado (riego o fertilización) y cualquier observación registrada</p>
       </td>
       <td>EP01</td>
     </tr>
@@ -1886,12 +1968,12 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
     <tr>
       <td>US07</td>
       <td>Guía de cuidado personalizada</td>
-      <td>Como usuario con plantas registradas, quiero recibir recomendaciones de cuidado personalizadas, para mantenerlas saludables según su tipo.</td>
+      <td>Como usuario con plantas registradas, quiero recibir guías de cuidado, para seguir buenas prácticas según su tipo y mantenerlas saludables.</td>
       <td>
-        <p><strong>Escenario 1:</strong> Recomendaciones visibles</p>
-        <p>Dado que la planta está registrada y evaluada, cuando el usuario entra a su ficha, entonces el sistema muestra una guía adaptada a sus necesidades (riego, luz, fertilización).</p>
-        <p><strong>Escenario 2:</strong> Información insuficiente</p>
-        <p>Dado que no se ha completado la evaluación de la planta, entonces el sistema muestra: "Por favor, completa la evaluación para generar recomendaciones".</p>
+        <p><strong>Escenario 1:</strong> Acceso a guías generales desde el menú</p>
+        <p>Dado que el usuario ha iniciado sesión en la aplicación Y tiene acceso al menú lateral (sidebar). Cuando hace clic en la sección "Guías de cuidado". Entonces el sistema debe mostrar una lista de guías generales organizadas por temas como riego, luz, fertilización, entre otros Y cada guía debe incluir una descripción clara, imágenes o íconos de apoyo, y consejos prácticos aplicables a distintas plantas</p>
+        <p><strong>Escenario 2:</strong> Visualización de guía seleccionada</p>
+        <p>Dado que el usuario se encuentra en la sección "Guías de cuidado". Cuando selecciona una guía de la lista. Entonces el sistema debe mostrar el contenido completo de esa guía, incluyendo recomendaciones generales aplicables a la mayoría de plantas domésticas</p>
       </td>
       <td>EP03</td>
     </tr>
@@ -1965,39 +2047,39 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
     </tr>
     <tr>
       <td>US14</td>
-      <td>Reconocimiento de plantas por imagen</td>
-      <td>Como usuario, quiero tomar una foto de una planta y que el sistema la reconozca, para saber su nombre y cuidados recomendados.</td>
+      <td>Edición de datos personales</td>
+      <td>Como usuario registrado, quiero poder actualizar mis datos personales (como nombre o teléfono), para mantener mi perfil al día con mi información actual.</td>
       <td>
-        <p><strong>Escenario 1:</strong> Planta reconocida</p>
-        <p>Dado que el usuario toma una foto clara, cuando el sistema procesa la imagen, entonces muestra el nombre de la planta y una ficha de cuidados básicos.</p>
-        <p><strong>Escenario 2:</strong> Planta no reconocida</p>
-        <p>Dado que la imagen no es clara o la planta no está en la base de datos, entonces el sistema muestra: "No pudimos reconocer esta planta. Intenta con otra foto".</p>
+        <p><strong>Escenario 1:</strong> Visualización de datos actuales</p>
+        <p>Dado que el usuario ha iniciado sesión. Cuando accede a la sección de configuración o perfil. Entonces el sistema debe mostrar los datos personales actuales (nombre, teléfono, etc.) en campos editables</p>
+        <p><strong>Escenario 2:</strong> Actualización exitosa de datos</p>
+        <p>Dado que el usuario ha editado su nombre y/o número de teléfono. Cuando hace clic en el botón "Guardar cambios". Entonces el sistema debe validar que los campos no estén vacíos y contengan un formato válido Y debe actualizar la información en la base de datos</p>
       </td>
-      <td>EP03</td>
+      <td>EP04</td>
     </tr>
     <tr>
       <td>US15</td>
-      <td>Filtrar plantas por estado</td>
-      <td>Como usuario, quiero filtrar mis plantas según su estado (saludable, en riesgo, requiere atención), para priorizar acciones de cuidado.</td>
+      <td>Cambio de correo electrónico asociado</td>
+      <td>Como usuario, quiero cambiar el correo electrónico asociado a mi cuenta, para asegurar que las notificaciones y comunicaciones lleguen a la dirección correcta.</td>
       <td>
-        <p><strong>Escenario 1:</strong> Filtro aplicado</p>
-        <p>Dado que el usuario selecciona un estado, entonces el sistema muestra solo las plantas que coinciden con ese estado.</p>
-        <p><strong>Escenario 2:</strong> Sin coincidencias</p>
-        <p>Dado que no hay plantas con ese estado, entonces el sistema muestra: "No se encontraron plantas con ese estado".</p>
+        <p><strong>Escenario 1:</strong> Visualización del correo actual</p>
+        <p>Dado que el usuario ha iniciado sesión. Cuando accede a la sección de configuración o perfil. Entonces el sistema debe mostrar el correo electrónico actual en un campo editable (con formato validado)</p>
+        <p><strong>Escenario 2:</strong> Cambio exitoso de correo electrónico</p>
+        <p>Dado que el usuario ha ingresado un nuevo correo válido. Cuando hace clic en "Guardar cambios". Entonces el sistema debe verificar el formato del correo Y actualizar el correo electrónico en la base de datos.</p>
       </td>
-      <td>EP01</td>
+      <td>EP04</td>
     </tr>
     <tr>
       <td>US16</td>
-      <td>Establecer objetivos de cuidado</td>
-      <td>Como usuario, quiero fijar metas como mantener vivas mis plantas por un número determinado de días, para motivarme a cumplir mis tareas de cuidado.</td>
+      <td>Gestión del plan de suscripción</td>
+      <td>Como usuario suscrito, quiero poder cambiar mi plan de suscripción desde la configuración, para ajustarlo a mis necesidades o presupuesto actuales.</td>
       <td>
-        <p><strong>Escenario 1:</strong> Objetivo establecido</p>
-        <p>Dado que el usuario define un objetivo, cuando lo guarda, entonces el sistema muestra una barra de progreso hacia el cumplimiento.</p>
-        <p><strong>Escenario 2:</strong> Sin metas definidas</p>
-        <p>Dado que el usuario no ha creado objetivos, entonces el sistema muestra: "No tienes metas activas. Crea una para comenzar tu reto de cuidado".</p>
+        <p><strong>Escenario 1:</strong> Visualización del plan actual y opciones disponibles</p>
+        <p>Dado que el usuario ha iniciado sesión Y accede a la sección de "Configuración" > "Suscripción". Entonces el sistema debe mostrar el nombre de su plan actual</p>
+        <p><strong>Escenario 2:</strong> Cambio exitoso de plan</p>
+        <p>Dado que el usuario ha seleccionado un nuevo plan de suscripción. Cuando confirma el cambio haciendo clic en "Cambiar plan". Entonces el sistema debe actualizar su suscripción</p>
       </td>
-      <td>EP05</td>
+      <td>EP04</td>
     </tr>
     <tr>
       <td>US17</td>
@@ -2037,13 +2119,14 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
     </tr>
     <tr>
       <td>US20</td>
-      <td>Edición del perfil del usuario</td>
-      <td>Como usuario que inició sesión, quiero editar mi nombre, imagen, correo y contraseña de mi perfil, para mantener mi información actualizada.</td>
+      <td>Tips de cuidado según clima y humedad</td>
+      <td>Como usuario, quiero recibir una recomendación automática para el cuidado de mi planta basada en la temperatura y humedad actuales, para saber si debo regarla, protegerla del sol u otros cuidados relevantes.</td>
       <td>
-        <p><strong>Escenario 1:</strong> Edición exitosa</p>
-        <p>Dado que el usuario está autenticado, cuando actualiza algún dato y guarda, entonces el sistema muestra "Perfil actualizado correctamente".</p>
+        <p><strong>Escenario 1:</strong> Generación de recomendación automática según clima y humedad</p>
+        <p>Dado que el sistema ha obtenido los datos de temperatura y humedad cuando se cargan los datos del clima en la ficha de la planta entonces la app debe mostrar una recomendación automática con un mensaje como: <br>
+        "Hoy la humedad está baja, considera regar tu planta."</p>
       </td>
-      <td>EP04</td>
+      <td>EP03</td>
     </tr>
     <tr>
       <td>US21</td>
@@ -2095,13 +2178,13 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
     </tr>
     <tr>
       <td>US25</td>
-      <td>Recibir boletines con novedades</td>
-      <td>Como usuario, quiero recibir correos o notificaciones con novedades sobre plantas, para mantenerme informado y aprender más.</td>
+      <td>Registro de método de pago inicial</td>
+      <td>Como nuevo usuario, quiero registrar un método de pago al momento de crear mi cuenta, para poder acceder al contenido y funcionalidades de la aplicación sin interrupciones.</td>
       <td>
-        <p><strong>Escenario 1:</strong> Boletín enviado</p>
-        <p>Dado que el usuario está suscrito, entonces el sistema envía el boletín mensual con consejos, nuevas funciones y noticias.</p>
-        <p><strong>Escenario 2:</strong> No suscrito</p>
-        <p>Dado que el usuario no ha aceptado recibir boletines, entonces el sistema no envía ningún correo.</p>
+        <p><strong>Escenario 1:</strong> Visualización del formulario de método de pago tras el registro</p>
+        <p>Dado que el usuario ha completado el formulario de registro cuando finaliza la creación de su cuenta entonces el sistema debe redirigirlo automáticamente a un formulario para registrar su método de pago (tarjeta, débito, etc.) Y debe mostrar campos como: número de tarjeta, fecha de vencimiento, CVV y nombre del titular</p>
+        <p><strong>Escenario 2:</strong> Registro exitoso del método de pago</p>
+        <p>Dado que el usuario ha ingresado correctamente los datos requeridos cuando hace clic en "Guardar método de pago" entonces el sistema debe validar la información y guardar de forma segura los datos en el sistema y permitir el ingreso a la pantalla principal de la aplicación</p>
       </td>
       <td>EP05</td>
     </tr>
@@ -2337,6 +2420,36 @@ Enlace: [To-Be Scenario Map en Miro](https://miro.com/app/board/uXjVI_gA5Fc=/?sh
       </td>
       <td>EP01</td>
     </tr>
+    <tr>
+      <td>TS17</td>
+      <td> Obtener lista de usuarios</td>
+      <td>Como administrador del sistema quiero obtener todos los usuarios registrados para poder gestionarlos o visualizarlos desde el backend</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que hago una solicitud GET al endpoint /users cuando el servidor recibe la solicitud entonces debe responder con un listado de usuarios registrados en formato JSON</p>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TS18</td>
+      <td> Registro de usuario (sign up)</td>
+      <td>Como visitante de la aplicación quiero poder registrarme con mis datos personales para acceder a las funcionalidades de la plataforma</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que el usuario llena el formulario de registro con datos válidos (nombre, correo, contraseña, etc.) cuando se envía la solicitud POST a /sign-up entonces el sistema debe crear un nuevo usuario y devolver una confirmación exitosa</p>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TS19</td>
+      <td> Inicio de sesión (sign in)</td>
+      <td>Como usuario registrado quiero iniciar sesión con mi correo y contraseña para acceder a mi perfil y funciones personalizadas</td>
+      <td>
+        <p><strong>Escenario 1:</strong></p>
+        <p>Dado que el usuario proporciona credenciales válidas cuando se envía una solicitud POST a /sign-in entonces el sistema debe autenticarlo y responder con un token o sesión activa</p>
+      </td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
@@ -2409,11 +2522,11 @@ Enlace: [Impact Map en UXPRESSIA]()
         <td>3</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>US20</td>
-      <td>Edición del perfil del usuario</td>
-      <td>Como usuario que inicio sesión, quiero editar mi nombre, imagen, correo y contraseña de mi perfil, para mantener mi información actualizada.</td>
-      <td>2</td>
+        <td>8</td>
+        <td>US20</td>
+        <td>Tips de cuidado según clima y humedad</td>
+        <td>Como usuario, quiero recibir una recomendación automática para el cuidado de mi planta basada en la temperatura y humedad actuales, para saber si debo regarla, protegerla del sol u otros cuidados relevantes.</td>
+        <td>2</td>
     </tr>
     <tr>
         <td>9</td>
@@ -2447,8 +2560,8 @@ Enlace: [Impact Map en UXPRESSIA]()
         <td>13</td>
         <td>US07</td>
         <td>Guía de cuidado personalizada</td>
-        <td>Como usuario con plantas registradas, quiero recibir recomendaciones de cuidado personalizadas, para mantenerlas saludables según su tipo.</td>
-        <td>8</td>
+        <td>Como usuario con plantas registradas, quiero recibir guías de cuidado, para seguir buenas prácticas según su tipo y mantenerlas saludables.</td>
+        <td>5</td>
     </tr>
     <tr>
         <td>14</td>
@@ -2461,14 +2574,14 @@ Enlace: [Impact Map en UXPRESSIA]()
         <td>16</td>
         <td>US04</td>
         <td>Historial de cuidados</td>
-        <td>Como usuario, quiero ver un historial de riegos y fertilizaciones para cada planta.</td>
+        <td>Como usuario, quiero visualizar el historial de humedad de mi planta para entender mejor su estado y necesidades de riego.</td>
         <td>3</td>
     </tr>
     <tr>
         <td>17</td>
         <td>US02</td>
-        <td>Configuración de recordatorios</td>
-        <td>Como usuario que cuida plantas, quiero configurar recordatorios para regar o fertilizar, para no olvidar sus cuidados.</td>
+        <td>Configuración de tareas</td>
+        <td>Como usuario que cuida plantas, quiero configurar tareas para regar o fertilizar, para no olvidar sus cuidados.</td>
         <td>5</td>
     </tr>
     <tr>
@@ -2516,22 +2629,22 @@ Enlace: [Impact Map en UXPRESSIA]()
     <tr>
         <td>24</td>
         <td>US15</td>
-        <td>Filtrar plantas por estado</td>
-        <td>Como usuario, quiero filtrar mis plantas según su estado (saludable, en riesgo, requiere atención), para priorizar acciones de cuidado.</td>
+        <td>Cambio de correo electrónico asociado</td>
+        <td>Como usuario, quiero cambiar el correo electrónico asociado a mi cuenta, para asegurar que las notificaciones y comunicaciones lleguen a la dirección correcta.</td>
         <td>2</td>
     </tr>
     <tr>
         <td>25</td>
         <td>US14</td>
-        <td>Reconocimiento de plantas por imagen</td>
-        <td>Como usuario, quiero tomar una foto de una planta y que el sistema la reconozca, para saber su nombre y cuidados recomendados.</td>
+        <td>Edición de datos personales</td>
+        <td>Como usuario registrado, quiero poder actualizar mis datos personales (como nombre o teléfono), para mantener mi perfil al día con mi información actual.</td>
         <td>3</td>
     </tr>
     <tr>
         <td>26</td>
         <td>US16</td>
-        <td>Establecer objetivos de cuidado</td>
-        <td>Como usuario, quiero fijar metas como mantener vivas mis plantas por un número determinado de días, para motivarme a cumplir mis tareas de cuidado.</td>
+        <td>Gestión del plan de suscripción</td>
+        <td>Como usuario suscrito, quiero poder cambiar mi plan de suscripción desde la configuración, para ajustarlo a mis necesidades o presupuesto actuales.</td>
         <td>2</td>
     </tr>
     <tr>
@@ -2572,8 +2685,8 @@ Enlace: [Impact Map en UXPRESSIA]()
     <tr>
         <td>32</td>
         <td>US25</td>
-        <td>Recibir boletines con novedades</td>
-        <td>Como usuario, quiero recibir correos o notificaciones con novedades sobre plantas, para mantenerme informado y aprender más.</td>
+        <td>Registro de método de pago inicial</td>
+        <td>Como nuevo usuario, quiero registrar un método de pago al momento de crear mi cuenta, para poder acceder al contenido y funcionalidades de la aplicación sin interrupciones.</td>
         <td>1</td>
     </tr>
     <tr>
@@ -2686,6 +2799,27 @@ Enlace: [Impact Map en UXPRESSIA]()
         <td>TS16</td>
         <td>Eliminar registro de planta</td>
         <td>Como usuario que ya no cuida una planta Quiero eliminar su registro Para mantener mi lista de plantas actualizada y ordenada</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>49</td>
+        <td>TS17</td>
+        <td>Obtener lista de usuarios</td>
+        <td>Como administrador del sistema quiero obtener todos los usuarios registrados para poder gestionarlos o visualizarlos desde el backend</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>50</td>
+        <td>TS18</td>
+        <td>Registro de usuario (sign up)</td>
+        <td>Como visitante de la aplicación quiero poder registrarme con mis datos personales para acceder a las funcionalidades de la plataforma</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>51</td>
+        <td>TS19</td>
+        <td>Inicio de sesión (sign in)</td>
+        <td>Como usuario registrado quiero iniciar sesión con mi correo y contraseña para acceder a mi perfil y funciones personalizadas</td>
         <td>3</td>
     </tr>
   </tbody>
@@ -3399,71 +3533,112 @@ El Domain Driven Design (DDD) busca lograr una comprensión común del dominio r
 
 El esquema de contexto ofrece una perspectiva general de las interacciones entre el sistema de software PlantSync, los usuarios y sistemas externos
 
-![C4 CONTEXT](https://imgur.com/mjU7Myv.jpg)
+<p align="center">
+  <img src="images/diagramas/c4contexto.png" alt="c4-context" width="600">
+</p>
 Fuente: Elaborado con structurizr
 
 #### 4.6.2. Software Architecture Container Diagrams
 
 El diagrama de contenedores ofrece una visión general de las conexiones entre aplicaciones y fuentes de datos en el sistema PlantSync. Muestra cómo interactúan y dependen entre sí para su funcionamiento.
 
-![C4 COMTAINER](https://imgur.com/zpsx1M6.jpg)
+
+<p align="center">
+  <img src="images/diagramas/c4contenedores.png" alt="c4-context" width="600">
+</p>
 Fuente: Elaborado con structurizr
 
 #### 4.6.3. Software Architecture Components Diagrams
 
 Los diagramas de componentes proporcionan una perspectiva sobre las interrelaciones de los elementos principales del sistema de software, describiendo cómo se implementan los módulos respectivos en el programa. <br>
 
-Component user registration
+Component Guides Bounded Context
 
-![C4 COMPONENT](https://imgur.com/H06Et9W.jpg)
-
-Fuente: Elaborado con structurizr
-
-Component plant registration
-
-![C4 COMPONENT](https://imgur.com/Mg3pEog.jpg)
+<p align="center">
+  <img src="images/diagramas/componenteguias.png" alt="c4-context" width="600">
+</p>
 
 Fuente: Elaborado con structurizr
 
-Component IA & Recomendaciones
+Component PlantProfile Bounded Context
 
-![C4 COMPONENT](https://imgur.com/UyIkExn.jpg)
-
-Fuente: Elaborado con structurizr
-
-Component Chatbot & Guías
-
-![C4 COMPONENT](https://imgur.com/nOJC2Pq.jpg)
+<p align="center">
+  <img src="images/diagramas/componenteperfilplanta.png" alt="c4-context" width="600">
+</p>
 
 Fuente: Elaborado con structurizr
 
-Component Notification Service
+Component Profile Bounded Context
 
-![C4 COMPONENT](https://imgur.com/b8F9CM1.jpg)
+<p align="center">
+  <img src="images/diagramas/componenteperfil.png" alt="c4-context" width="600">
+</p>
 
 Fuente: Elaborado con structurizr
 
-Component Payment method
-![C4 COMPONENT](https://imgur.com/z2fH6HJ.jpg)
+Component Tasks Bounded Context
+<p align="center">
+  <img src="images/diagramas/componentetarea.png" alt="c4-context" width="600">
+</p>
+
 Fuente: Elaborado con structurizr
+
+[Enlace al diagrama c4](https://structurizr.com/share/104283/8bf4b7ab-4c49-4b5f-97a7-9f4f9f2c43ec)
 
 ### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams
 
-<img src="images/BioPafi-PlantSync-Class Diagram.png" alt="class-diagram" width="1000">
+<img src="images/diagramas/diagramadeclases.jpg" alt="class-diagram" width="600">
 
-[Enlace al diagrama de clases en Lucidchart](https://lucid.app/lucidchart/7c54dd1b-95df-4695-b9fd-662c620b0ea1/edit?viewport_loc=3516%2C-29%2C6259%2C2960%2CHWEp-vi-RSFO&invitationId=inv_1351b1e5-61e1-490e-ba8b-fd92b6661710)
+[Enlace al diagrama de clases en Lucidchart](https://lucid.app/lucidchart/e7fb02ec-9680-4172-9774-310460758f37/edit?viewport_loc=-2543%2C823%2C3102%2C1453%2C0_0&invitationId=inv_f9051413-cd57-4931-85be-02830a270010)
 
 Class Diagram Frontend:
-<img src="images/BioPafi- Class Diagram Frontend.png" alt="class-diagram-frontend" width="1000">
 
-[Enlace al diagrama de clases del frontend de Lucidchart](https://lucid.app/lucidchart/1dd994f8-b130-47d2-8519-eb30b841b5f7/edit?viewport_loc=3868%2C515%2C4781%2C2069%2CHWEp-vi-RSFO&invitationId=inv_235d0cb5-3b41-431a-a605-df914107ec24)
+<p align="center">
+  <img src="images/diagramas/diagramafrontendcompleto.jpg" alt="c4-context" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/frontendguides.jpg" alt="c4-context" width="600">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/frontendtasks.jpg" alt="c4-context" width="600">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/frontendplantsyauth.jpg" alt="c4-context" width="600">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/frontendapp.jpg" alt="c4-context" width="600">
+</p>
 
 Class Diagram Backend:
 <img src="images/diagram-DDD_Bounded_Context_Backend.png" alt="class-diagram-backend" width="1000">
 
 [Enlace al diagrama de clases del backend](https://i.imgur.com/oxP5tce.png)
+
+<p align="center">
+  <img src="images/diagramas/guidesbackend.jpg" alt="c4-context" width="600">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/plantprofilebackend.jpg" alt="c4-context" width="600">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/profilebackend.jpg" alt="c4-context" width="600">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/sharedbackend.jpg" alt="c4-context" width="600">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/tasksbackend.jpg" alt="c4-context" width="600">
+</p>
 
 #### 4.7.2. Class Dictionary
 
@@ -4029,7 +4204,6 @@ Pasos para el despliegue de la Landing Page en GitHub Pages:
           Palomares Andrade, Sean Farith <br>
           Rivera Ratachi, Renzo Sebastian <br>
           Torres Apolinario, Giovany Smith <br>
-          
   </td>
     </tr>
     <tr>
@@ -4046,7 +4220,7 @@ Pasos para el despliegue de la Landing Page en GitHub Pages:
     </tr>
     <tr>
       <td><b>Sprint 1 Goal</b></td>
-      <td>Elaborar y diseñar una landing page atractiva e informativa para la aplicación de PlantSync</td>
+      <td>Our focus is on delivering an informative and visually appealing landing page for PlantSync. We believe it delivers a clear first impression and encourages user interest in the application. This will be confirmed when potential users can access the landing page and understand the app’s value proposition and core features.</td>
     </tr>
     <tr>
       <td><b>Sprint 1 Velocity</b></td>
@@ -4126,79 +4300,39 @@ Durante el Sprint backlog, el equipo tuvo la tarea de realizar y completar la la
 
 Link de Trello: https://trello.com/invite/b/680e415701f792ca595048d8/ATTI84e6897024d2315973c80adedcfa5d9745BADA07/plantsync  
 
-<table border="1">
+<table border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr>
-      <th>Sprint 1</th>
-      <th colspan="8">Sprint 1</th>
+      <th colspan="9">Sprint 1</th>
     </tr>
     <tr>
       <th colspan="2">User Story</th>
-      <th colspan="3">Work-Item / Task</th>
-      <tr>
-      <th>Id</th>
-      <th>Title</th>
-      <th>Id</th>
-      <th>Title</th>
+      <th colspan="2">WorkItem / Task</th>
       <th>Description</th>
       <th>Estimation (Hours)</th>
       <th>Assigned To</th>
-      <th>Status<br>(To-do / In-Process / To-Review / Done)</th>
+      <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+    <tr>
+      <th>Id</th><th>Title</th>
+      <th>Id</th><th>Title</th>
+      <th></th><th></th><th></th><th></th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>TS01</td>
-      <td>Seccion Principal</td>
-      <td>TK03</td>
-      <td>Sección principal con mensaje claro</td>
-      <td>Como visitante de la landing page, quiero ver de inmediato el mensaje principal del sitio al ingresar, para así saber de qué trata la página sin tener que desplazarme.</td>
-      <td>4</td>
-      <td>Palomino Fiestas, Erick Leonardo</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS02</td>
-      <td>Comparar planes de suscripción</td>
-      <td>TK04</td>
-      <td>Planes de suscripción</td>
-      <td>Como visitante de la landing page, quiero comparar fácilmente los planes de suscripción para elegir el que mejor se ajuste a mis necesidades</td>
-      <td>3</td>
-      <td>Rivera Ratachi, Renzo Sebastian</td>
-      <td>Done</td>
-    </tr>
-  <tr>
-      <td>TS03</td>
-      <td>	Visualización de botón "Acceder" en la cabecera</td>
-      <td>TK02</td>
-      <td>Acceso Landing Page</td>
-      <td>Como visitante de la landing page, quiero ver un botón de "Acceder" en la parte superior de la landing, para saber que más adelante podré ingresar a mi cuenta.</td>
-      <td>1</td>
-      <td>Rivera Ratachi, Renzo Sebastian</td>
-      <td>Done</td>
-  </tr>
-  <tr>
-      <td>TS04</td>
-      <td>	Visualización del botón "Empieza ahora" en la landing</td>
-      <td>TK02</td>
-      <td>Acceso Landing Page</td>
-      <td>Como visitante de la landing page, quiero ver un botón llamativo de "Empieza ahora" en la landing, para sentirme invitado a comenzar con el servicio.</td>
-      <td>2</td>
-      <td>Palomares Andrade, Sean Farith</td>
-      <td>Done</td>
-  </tr>
-  <tr>
-      <td>TS05</td>
-      <td>	Visualizar información sobre la empresa</td>
-      <td>TK02</td>
-      <td>Acceso Landing Page</td>
-      <td>Como visitante de la landing page, quiero conocer más sobre la empresa detrás del servicio, para confiar en el producto antes de suscribirme.</td>
-      <td>2</td>
-      <td>Gonzales Alvarado, Javier Sebastian</td>
-      <td>Done</td>
-  </tr>
+    <tr><td>TS01</td><td>Sección Principal</td><td>TK01</td><td>Diseño visual de sección principal</td><td>Diseñar visualmente la sección principal con mensaje claro y encabezado atractivo</td><td>2</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK02</td><td>Maquetación e implementación</td><td>Implementar HTML/CSS de la sección principal y validar visualización inmediata</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>TS02</td><td>Comparar planes de suscripción</td><td>TK03</td><td>Diseñar estructura comparativa</td><td>Crear la estructura HTML para mostrar visualmente los planes y sus beneficios</td><td>1.5</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK04</td><td>Estilizar e integrar contenido real</td><td>Aplicar estilos, íconos y textos para los distintos planes de suscripción</td><td>1.5</td><td>Sean Palomares</td><td>Done</td></tr>
+    <tr><td>TS03</td><td>Visualizar botón "Acceder"</td><td>TK05</td><td>Diseño y posicionamiento del botón</td><td>Agregar el botón "Acceder" en la cabecera del sitio, en parte superior derecha</td><td>0.5</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK06</td><td>Estilización y pruebas de visibilidad</td><td>Aplicar estilo visual y validar que el botón se mantenga visible al cargar la página</td><td>0.5</td><td>Sean Palomares</td><td>Done</td></tr>
+    <tr><td>TS04</td><td>Botón "Empieza ahora"</td><td>TK07</td><td>Diseño llamativo del botón</td><td>Diseñar un botón atractivo que incentive al usuario a empezar el registro</td><td>1</td><td>Sean Palomares</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK08</td><td>Integración y pruebas de CTA</td><td>Ubicarlo en una posición estratégica en la landing y probar su funcionalidad</td><td>1</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS05</td><td>Visualizar información de la empresa</td><td>TK09</td><td>Maquetar sección "Sobre nosotros"</td><td>Diseñar una sección clara que contenga la historia o misión de la empresa</td><td>1</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK10</td><td>Insertar texto e imágenes</td><td>Incluir contenido institucional e imágenes que reflejen la identidad de la empresa</td><td>1</td><td>Renzo Rivera</td><td>Done</td></tr>
   </tbody>
 </table>
+
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -4454,18 +4588,18 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
   </tr>
   <tr>
     <td><strong>Sprint 1 Review Summary</strong></td>
-    <td> En el Sprint 1 se finalizó con éxito la landing page estática, incorporando una navegación fluida, un encabezado fijo, secciones informativas, testimonios y un apartado de preguntas frecuentes.</td>
+    <td> Durante el Sprint 1 se completó exitosamente la landing page estática de PlantSync. Esta incluye una navegación fluida, encabezado fijo, secciones informativas sobre la aplicación, testimonios de usuarios y un bloque de preguntas frecuentes (FAQ). Los miembros del equipo cumplieron con los entregables planificados, y el Product Owner expresó satisfacción con el diseño inicial, destacando que comunica claramente el propósito de la solución.</td>
   </tr>
   <tr>
     <td><strong>Sprint 1 Retorspective Summary</strong></td>
-    <td>El equipo destacó una adecuada coordinación y el cumplimiento de las tareas programadas, y sugirió como mejora una distribución más equitativa de las tareas técnicas entre los integrantes.</td>
+    <td>El equipo resaltó como punto positivo la buena coordinación y comunicación entre sus integrantes, lo que permitió cumplir con los objetivos del sprint. Como aspecto de mejora, se propuso una distribución más equitativa de las tareas técnicas, para asegurar que todos los miembros participen de manera balanceada en los desarrollos futuros.</td>
   </tr>
   <tr>
     <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
   </tr>
   <tr>
     <td><strong>Sprint 2 Goal</strong></td>
-    <td>Implementar el frontend funcional para las secciones de inicio de sesión, registro, perfil, oportunidades y gestión de proyectos, adaptado al rol de cada usuario.</td>
+    <td>Our focus is on implementing the functional views for login, registration, profile, opportunities, and project management in the frontend, adapted according to the user's role. We believe it delivers a personalized and seamless experience that will allow users to start interacting with the system based on their profile. This will be confirmed when users can successfully authenticate, access their profile, and view the sections assigned to their role.</td>
   </tr>
   <tr>
     <td><strong>Sprint 2 Velocity</strong></td>
@@ -4535,140 +4669,48 @@ link al trello: https://trello.com/b/Cd1t98Sr/sprint-2-backlog
 
 <br><br>
 
-<table>
+<table border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr>
-      <th colspan="2">Sprint #</th>
-      <th colspan="7">Sprint 2</th>
-    </tr>
-    <tr>
       <th colspan="2">User Story</th>
-      <th colspan="7">Work-Item / Task</th>
-    </tr>
-    <tr>
-      <th>Id</th>
-      <th>Title</th>
-      <th>Id</th>
-      <th>Title</th>
+      <th colspan="2">WorkItem / Task</th>
       <th>Description</th>
       <th>Estimated (Hours)</th>
       <th>Assigned to</th>
       <th>Status</th>
     </tr>
+    <tr>
+      <th>Id</th><th>Title</th>
+      <th>Id</th><th>Title</th>
+      <th></th><th></th><th></th><th></th>
+    </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>US01</td>
-      <td>Registro de una nueva planta</td>
-      <td>T01</td>
-      <td>Formulario y backend de registro</td>
-      <td>Como usuario que cuida plantas, quiero registrar una nueva planta con nombre, tipo y foto, para llevar el control de su cuidado.</td>
-      <td>5</td>
-      <td>Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US03</td>
-      <td>Visualización de tareas de cuidado</td>
-      <td>T02</td>
-      <td>Listado de tareas en dashboard</td>
-      <td>Como usuario con plantas registradas, quiero ver las tareas pendientes de cuidado, para saber qué debo hacer cada día.</td>
-      <td>3</td>
-      <td>Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US05</td>
-      <td>Acceder a perfil de planta</td>
-      <td>T03</td>
-      <td>Vista detallada de planta</td>
-      <td>Como usuario, quiero acceder a los perfiles de las plantas que poseo para ver su información actual.</td>
-      <td>4</td>
-      <td>Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US08</td>
-      <td>Guía de cuidado personalizada</td>
-      <td>T04</td>
-      <td>Sección de recomendaciones en ficha</td>
-      <td>Como usuario con plantas registradas, quiero recibir recomendaciones de cuidado personalizadas, para mantenerlas saludables según su tipo.</td>
-      <td>3</td>
-      <td>Giovany Torres</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US09</td>
-      <td>Visualización de tareas con fechas</td>
-      <td>T05</td>
-      <td>Agenda de tareas con calendario</td>
-      <td>Como usuario, quiero ver mis tareas del día por fechas para poder organizarme mejor en el cuidado de las mismas.</td>
-      <td>3</td>
-      <td>Renzo Rivera</td>
-      <td>In Proccess</td>
-    </tr>
-    <tr>
-      <td>US10</td>
-      <td>Sincronización con clima local</td>
-      <td>T06</td>
-      <td>Integración con API del clima</td>
-      <td>Como usuario, quiero que el sistema considere el clima local al sugerir cuidados, para no regar innecesariamente si ha llovido.</td>
-      <td>4</td>
-      <td>Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US11</td>
-      <td>Consultas al asistente RootBot</td>
-      <td>T07</td>
-      <td>Integración del chatbot RootBot</td>
-      <td>Como usuario que tiene preguntas rápidas sobre el cuidado de mis plantas, quiero poder escribir mis consultas al chatbot dentro de la app, para recibir respuestas inmediatas y recomendaciones útiles.</td>
-      <td>6</td>
-      <td>Renzo Rivera</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US13</td>
-      <td>Edición de datos de planta</td>
-      <td>T08</td>
-      <td>Formulario para editar planta</td>
-      <td>Como usuario que cuida plantas, quiero editar la información de una planta registrada, para actualizar datos como su nombre, tipo o imagen.</td>
-      <td>3</td>
-      <td>Erick Palomino</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US14</td>
-      <td>Eliminación de planta</td>
-      <td>T09</td>
-      <td>Botón y confirmación para eliminar</td>
-      <td>Como usuario, quiero eliminar una planta de mi lista, para quitar aquellas que ya no tengo o que se han perdido.</td>
-      <td>3</td>
-      <td>Giovany Torres</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US18</td>
-      <td>Inicio sesión de usuario</td>
-      <td>T10</td>
-      <td>Login y validación</td>
-      <td>Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta y mis plantas monitoreadas.</td>
-      <td>4</td>
-      <td>Erick Palomino</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US19</td>
-      <td>Registrarse en la app</td>
-      <td>T11</td>
-      <td>Formulario de registro</td>
-      <td>Como usuario quiero registrarme en la app para crear mi cuenta y acceder a sus funcionalidades.</td>
-      <td>4</td>
-      <td>Erick Palomino</td>
-      <td>Done</td>
-    </tr>
+    <tr><td>US01</td><td>Registro de una nueva planta</td><td>T01-A</td><td>Diseño del formulario de planta</td><td>Diseñar el formulario de nombre, tipo y foto</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T01-B</td><td>Guardar planta en backend</td><td>Crear endpoint POST y lógica para registrar nueva planta</td><td>3</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US03</td><td>Visualización de tareas de cuidado</td><td>T02-A</td><td>Diseño del listado en dashboard</td><td>Diseñar interfaz para ver tareas pendientes del día</td><td>1.5</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T02-B</td><td>Obtener tareas desde backend</td><td>Conectar con API de tareas filtradas por fecha</td><td>1.5</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US05</td><td>Acceder a perfil de planta</td><td>T03-A</td><td>Diseño de vista detallada</td><td>Mostrar información actual de cada planta</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T03-B</td><td>Integración con backend</td><td>Obtener datos de planta por ID</td><td>2</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US08</td><td>Guía de cuidado personalizada</td><td>T04-A</td><td>Sección de guías</td><td>Diseñar sección de recomendaciones por tipo de planta</td><td>1.5</td><td>Giovany Torres</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T04-B</td><td>Cargar guías desde backend</td><td>Conectar con API de guías por categoría</td><td>1.5</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US09</td><td>Visualización de tareas con fechas</td><td>T05-A</td><td>Diseño de calendario</td><td>Crear componente visual de agenda</td><td>1.5</td><td>Renzo Rivera</td><td>In Process</td></tr>
+    <tr><td></td><td></td><td>T05-B</td><td>Lógica de filtrado por fecha</td><td>Obtener tareas por fecha desde el backend</td><td>1.5</td><td>Javier Gonzales</td><td>In Process</td></tr>
+    <tr><td>US10</td><td>Sincronización con clima local</td><td>T06-A</td><td>Obtener ubicación y clima</td><td>Usar geolocalización e integrar API del clima</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T06-B</td><td>Mostrar recomendaciones según clima</td><td>Sugerir riego o no según condiciones</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US11</td><td>Consultas al asistente RootBot</td><td>T07-A</td><td>Interfaz del chatbot</td><td>Diseñar el área de chat dentro de la app</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T07-B</td><td>Conexión con API de IA</td><td>Conectar a OpenAI y mostrar respuestas del bot</td><td>4</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>US13</td><td>Edición de datos de planta</td><td>T08-A</td><td>Formulario de edición</td><td>Mostrar formulario con valores actuales</td><td>1.5</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T08-B</td><td>Guardar cambios en backend</td><td>Enviar PUT con datos modificados</td><td>1.5</td><td>Giovany Torres</td><td>Done</td></tr>
+    <tr><td>US14</td><td>Eliminación de planta</td><td>T09-A</td><td>Confirmación en frontend</td><td>Diseñar botón y modal de confirmación</td><td>1.5</td><td>Giovany Torres</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T09-B</td><td>Lógica DELETE backend</td><td>Eliminar planta por ID en base de datos</td><td>1.5</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US18</td><td>Inicio sesión de usuario</td><td>T10-A</td><td>Formulario de login</td><td>Crear inputs de email y password con validaciones</td><td>2</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T10-B</td><td>Autenticación backend</td><td>Validar credenciales y devolver token</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>US19</td><td>Registrarse en la app</td><td>T11-A</td><td>Formulario de registro</td><td>Inputs de nombre, correo, contraseña, etc.</td><td>2</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T11-B</td><td>Registro backend y redirección</td><td>Crear cuenta, guardar datos y redirigir a home</td><td>2</td><td>Giovany Torres</td><td>Done</td></tr>
   </tbody>
 </table>
+
 
 
 <br>
@@ -5078,18 +5120,18 @@ Repositorio Landing Page:
   </tr>
   <tr>
     <td><strong>Sprint 2 Review Summary</strong></td>
-    <td>En el anterior sprint se pudo cumplir exitosamente con las User Stories relacionadas a la aplicación web.</td>
+    <td>Durante el Sprint 2 se completaron satisfactoriamente las User Stories planificadas para la aplicación web, incluyendo la implementación de las principales vistas del frontend asociadas al acceso de usuarios y la gestión de funcionalidades clave. Estas entregas permitieron avanzar significativamente hacia una experiencia de usuario funcional.</td>
   </tr>
   <tr>
     <td><strong>Sprint 2 Retorspective Summary</strong></td>
-    <td>En el anterior sprint, se pudo reestructurar la logica de las funcionalidades en el frontend, de modo que será más sencillo implementar servicios del Backend en futuras entregas.</td>
+    <td>El equipo resaltó como acierto la reestructuración de la lógica en el frontend, lo cual facilitó una mayor claridad en la arquitectura del código. Esta mejora contribuirá a una integración más eficiente de los servicios backend en los siguientes sprints. Como punto a reforzar, se mencionó la necesidad de seguir mejorando la comunicación entre los miembros en la estimación de tiempos.</td>
   </tr>
   <tr>
     <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
   </tr>
   <tr>
     <td><strong>Sprint 3 Goal</strong></td>
-    <td>En este sprint, el objetivo fue crear los bounded context core de la aplicación y sus respectivos endpoints, y mejorar los diagramas previamente presentados</td>
+    <td>Our focus is on establishing the main bounded contexts of the system and exposing their base endpoints. We believe it delivers a clear modular structure that facilitates backend scalability and improves system maintainability. This will be confirmed when the fundamental endpoints are integrated into Swagger and ready to be consumed by the frontend.</td>
   </tr>
   <tr>
     <td><strong>Sprint 3 Velocity</strong></td>
@@ -5154,190 +5196,58 @@ link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb
 
 <br>
 
-<table>
+<table border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr>
-      <th colspan="2">Sprint #</th>
-      <th colspan="7">Sprint 3</th>
-    </tr>
-    <tr>
       <th colspan="2">User Story</th>
-      <th colspan="7">Work-Item / Task</th>
-    </tr>
-    <tr>
-      <th>Id</th>
-      <th>Title</th>
-      <th>Id</th>
-      <th>Title</th>
+      <th colspan="2">WorkItem / Task</th>
       <th>Description</th>
       <th>Estimated (Hours)</th>
       <th>Assigned to</th>
       <th>Status</th>
     </tr>
+    <tr>
+      <th>Id</th><th>Title</th>
+      <th>Id</th><th>Title</th>
+      <th></th><th></th><th></th><th></th>
+    </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>TS01</td>
-      <td>Registrar un nuevo historial para una planta</td>
-      <td>TK01</td>
-      <td>Crear historial de planta</td>
-      <td>Crear endpoint que permite ejecutar POST plantHistory</td>
-      <td>4</td>
-      <td>Renzo Rivera</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS02</td>
-      <td>Obtener los historiales de una planta</td>
-      <td>TK02</td>
-      <td>Obtener los historiales de una determinada planta</td>
-      <td>Utilizando una solicitud GET y un parametro plantId se muestran los historiales de la planta</td>
-      <td>3</td>
-      <td>Renzo Rivera</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS03</td>
-      <td>Obtener todos los perfiles</td>
-      <td>TK03</td>
-      <td>Obtener todos los perfiles</td>
-      <td>Utilizando una solicitud GET se obtienen todas los perfiles registrados</td>
-      <td>2</td>
-      <td>Erick Palomino, Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS04</td>
-      <td>Registrar un nuevo perfil</td>
-      <td>TK04</td>
-      <td>Crear un nuevo profile</td>
-      <td>Crear endpoint que permita ejecutar una solicitud POST profile</td>
-      <td>2</td>
-      <td>Erick Palomino</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS05</td>
-      <td>Obtener los detalles de mi perfil</td>
-      <td>TK05</td>
-      <td>Obtener información de un perfil</td>
-      <td>Utilizando una solicitud GET y un parametro profileId se muestran los detalles del perfil.</td>
-      <td>2</td>
-      <td>Erick Palomino</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS06</td>
-      <td>Acceder a todas las guías</td>
-      <td>TK06</td>
-      <td>Obtener guias</td>
-      <td>Utilizando una solicitud GET se obtienen todas las guias registradas</td>
-      <td>3</td>
-      <td>Giovany Torres, Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS07</td>
-      <td>Crear una nueva guía</td>
-      <td>TK07</td>
-      <td>Crear guia</td>
-      <td>Crear endpoint que permite ejecutar POST guide</td>
-      <td>4</td>
-      <td>Giovany Torres</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS08</td>
-      <td>Ver el contenido detallado de una guía</td>
-      <td>TK08</td>
-      <td>Obtener informacion de una determinada guia</td>
-      <td>Utilizando una solicitud GET y un parametro guideId se muestran la informacion de la guia</td>
-      <td>3</td>
-      <td>Giovany Torres</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS09</td>
-      <td>Ver todas mis tareas registradas</td>
-      <td>TK09</td>
-      <td>Obtener informacion de todas las tareas</td>
-      <td>Utilizando una solicitud GET se obtienen todas las plantas registradas</td>
-      <td>2</td>
-      <td>Renzo Rivera</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS10</td>
-      <td>Registrar una nueva tarea</td>
-      <td>TK01</td>
-      <td>Crear task</td>
-      <td>Crear endpoint que permite ejecutar POST task.</td>
-      <td>4</td>
-      <td>Renzo Rivera</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS11</td>
-      <td>Eliminar una tarea</td>
-      <td>TK11</td>
-      <td>Eliminar tarea registrada</td>
-      <td>Utilizando una solicitud DELETE y un parametro taskId se elimina la tarea registrada</td>
-      <td>2</td>
-      <td>Renzo Rivera</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS12</td>
-      <td>Registrar una nueva planta</td>
-      <td>TK12</td>
-      <td>Crear planta</td>
-      <td>Crear endpoint que permite ejecutar POST plant.</td>
-      <td>4</td>
-      <td>Renzo Rivera</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS13</td>
-      <td>Ver todas mis plantas</td>
-      <td>TK13</td>
-      <td>Obtener todas las plantas registradas</td>
-      <td>Utilizando un solicitud GET en el endpoint de plantas se obtendran todas las plantas registradas</td>
-      <td>2</td>
-      <td>Renzo Rivera, Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS14</td>
-      <td>Ver la información detallada de una planta</td>
-      <td>TK14</td>
-      <td>Obtener informacion de una planta</td>
-      <td>Utilizando una solicitud GET y un parametro plantId, se obtendrá la información de dicha planta</td>
-      <td>3</td>
-      <td>Renzo Rivera, Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS15</td>
-      <td>Actualizar los datos de una planta</td>
-      <td>TK15</td>
-      <td>Actualizar datos de una planta determinada</td>
-      <td>Utilizando una solicitud PUT y un parametro plantId se actualizara la informacion de la planta con el recurso enviado</td>
-      <td>4</td>
-      <td>Renzo Rivera, Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS16</td>
-      <td>Eliminar registro de planta</td>
-      <td>TK01</td>
-      <td>Eliminar planta registrada</td>
-      <td>Utilizando una solicitud DELETE y un parametro taskId se elimina la tarea registrada</td>
-      <td>3</td>
-      <td>Renzo Rivera, Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
+    <tr><td>TS01</td><td>Registrar un nuevo historial para una planta</td><td>TK01-A</td><td>Definir modelo y validación</td><td>Crear esquema para plantHistory y validar datos</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK01-B</td><td>Crear endpoint POST</td><td>Desarrollar endpoint y registrar historial en base de datos</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>TS02</td><td>Obtener los historiales de una planta</td><td>TK02-A</td><td>Configurar lógica de búsqueda por ID</td><td>Filtrar historiales por plantId en backend</td><td>1.5</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK02-B</td><td>Diseñar respuesta estructurada</td><td>Formatear la salida de historiales para el cliente</td><td>1.5</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS03</td><td>Obtener todos los perfiles</td><td>TK03-A</td><td>Crear consulta a base de datos</td><td>Query para obtener lista de perfiles registrados</td><td>1</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK03-B</td><td>Proteger endpoint con validaciones</td><td>Verificar autenticación y roles de acceso</td><td>1</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS04</td><td>Registrar un nuevo perfil</td><td>TK04-A</td><td>Definir entidad de perfil</td><td>Crear entidad y validaciones del perfil</td><td>1</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK04-B</td><td>Implementar endpoint POST</td><td>Guardar nuevo perfil con campos obligatorios</td><td>1</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>TS05</td><td>Obtener los detalles de mi perfil</td><td>TK05-A</td><td>Buscar perfil por ID</td><td>Realizar consulta de perfil usando profileId</td><td>1</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK05-B</td><td>Devolver estructura de datos</td><td>Devolver respuesta con los datos del perfil</td><td>1</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>TS06</td><td>Acceder a todas las guías</td><td>TK06-A</td><td>Consulta general a la colección de guías</td><td>GET sin parámetros para mostrar guías disponibles</td><td>1.5</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK06-B</td><td>Formateo de respuesta</td><td>Incluir descripciones e íconos en la respuesta</td><td>1.5</td><td>Giovany Torres</td><td>Done</td></tr>
+    <tr><td>TS07</td><td>Crear una nueva guía</td><td>TK07-A</td><td>Validar datos de entrada</td><td>Verificar estructura de la guía enviada</td><td>2</td><td>Giovany Torres</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK07-B</td><td>Guardar guía en base de datos</td><td>Insertar nueva guía y devolver confirmación</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>TS08</td><td>Ver el contenido detallado de una guía</td><td>TK08-A</td><td>Buscar guía por ID</td><td>Consulta GET usando guideId</td><td>1.5</td><td>Giovany Torres</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK08-B</td><td>Mostrar contenido completo</td><td>Devolver título, cuerpo y recomendaciones</td><td>1.5</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>TS09</td><td>Ver todas mis tareas registradas</td><td>TK09-A</td><td>Filtrar tareas por usuario</td><td>Mostrar tareas asignadas a usuario autenticado</td><td>1</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK09-B</td><td>Respuesta estructurada</td><td>Formatear lista de tareas con fechas y estados</td><td>1</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS10</td><td>Registrar una nueva tarea</td><td>TK10-A</td><td>Validar campos obligatorios</td><td>Verificar tipo de tarea, frecuencia y fecha</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK10-B</td><td>Guardar nueva tarea</td><td>POST task y devolver tarea creada</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>TS11</td><td>Eliminar una tarea</td><td>TK11-A</td><td>Buscar tarea por ID</td><td>Verificar existencia de la tarea antes de eliminar</td><td>1</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK11-B</td><td>Eliminar con DELETE</td><td>Ejecutar solicitud DELETE y retornar mensaje</td><td>1</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>TS12</td><td>Registrar una nueva planta</td><td>TK12-A</td><td>Validar datos de planta</td><td>Verificar nombre, tipo e imagen</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK12-B</td><td>POST planta en backend</td><td>Crear endpoint y guardar en base de datos</td><td>2</td><td>Giovany Torres</td><td>Done</td></tr>
+    <tr><td>TS13</td><td>Ver todas mis plantas</td><td>TK13-A</td><td>Consulta por userId</td><td>Filtrar las plantas por usuario autenticado</td><td>1</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK13-B</td><td>Mostrar resultado con datos clave</td><td>Devolver nombre, tipo y última actualización</td><td>1</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>TS14</td><td>Ver la información detallada de una planta</td><td>TK14-A</td><td>Buscar planta por ID</td><td>GET por plantId y obtener información completa</td><td>1.5</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK14-B</td><td>Mostrar información completa</td><td>Mostrar humedad, temperatura y estado general</td><td>1.5</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>TS15</td><td>Actualizar datos de una planta</td><td>TK15-A</td><td>Validar y recibir datos nuevos</td><td>Recibir datos actualizados desde el cliente</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK15-B</td><td>Ejecutar PUT para actualizar</td><td>Actualizar los datos en base de datos</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>TS16</td><td>Eliminar registro de planta</td><td>TK16-A</td><td>Confirmar existencia de planta</td><td>Verificar si la planta existe antes de eliminar</td><td>1.5</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK16-B</td><td>DELETE definitiva</td><td>Eliminar planta y retornar confirmación</td><td>1.5</td><td>Javier Gonzales</td><td>Done</td></tr>
   </tbody>
 </table>
+
 
 
 <br>
@@ -6113,6 +6023,767 @@ Visualización Backend Desplegado:
 
 <br><br>
 
+---
+
+#### 5.2.4. Sprint 4
+
+##### 5.2.4.1. Sprint Planning 4
+
+<table align="center">
+  <tr>
+    <td><strong>Sprint #4</strong></td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 23 - 06</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>9:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Erik Palomino</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Javier Gonzales, Renzo Rivera</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Review Summary</strong></td>
+    <td>Durante el Sprint 3, se completó con éxito la implementación de los endpoints para los bounded contexts definidos, cubriendo todas las operaciones CRUD requeridas. Se respetó la arquitectura basada en Domain-Driven Design (DDD) y se aplicaron los patrones enseñados en clase, dejando el backend preparado para futuras integraciones.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Retorspective Summary</strong></td>
+    <td>El equipo reconoció avances sólidos en la estructuración del backend y la adopción de buenas prácticas de desarrollo. Sin embargo, se identificó como aspecto a mejorar la falta de integración con el frontend, lo cual será una prioridad para el próximo sprint.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Goal</strong></td>
+    <td>Our focus is on achieving full integration between the backend and frontend layers of the application. We believe it delivers a functional and responsive web experience to end users by enabling real-time interaction with data and services. This will be confirmed when users can register, sign in, view and manage their plant-related content successfully through a unified interface.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Velocity</strong></td>
+    <td>95</td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.4.2. Aspect Leaders and Collaborators
+
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Conexión entre Backend y Frontend</strong></td>
+    <td><strong>Feature de Configuración</strong></td>
+    <td><strong>Correción de bugs previos</strong></td>
+    <td><strong>Implementación de la IA para el chatbot</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>rezor11</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
+
+##### 5.2.4.3. Sprint Backlog 4
+
+<br>
+
+Este Sprint se enfocó en completar funcionalidades clave para el usuario final, incluyendo la integración con clima, el asistente inteligente, la personalización del perfil y la gestión de suscripciones. También se finalizaron endpoints críticos para registro, login y visualización de usuarios. Se empleó Trello para la asignación y seguimiento de tareas, asegurando una correcta distribución entre los miembros del equipo.
+
+<img src="images/backlog4.png" alt="sprint-backlog4" width="1000">
+
+link al trello: https://trello.com/invite/b/686c8b840e0127ce62d7c6e0/ATTIb5a6d6e91b5f6dc820ea86a4fcc743dc76565BE9/sprint-4-open-source
+
+<br>
+
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th colspan="2">Technical User Story</th>
+      <th colspan="2">WorkItem / Task</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+      <th>Id</th><th>Title</th>
+      <th>Id</th><th>Title</th>
+      <th></th><th></th><th></th><th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>US04</td><td>Historial de cuidados</td><td>TK51</td><td>Crear vista de historial en detalle de planta</td><td>Crear vista de historial en detalle de planta</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK52</td><td>Conectar frontend con servicio backend</td><td>Conectar frontend con servicio backend para historial</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK53</td><td>Validaciones si no hay historial</td><td>Agregar validaciones y mensajes si no hay historial disponible</td><td>2</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US06</td><td>Registro manual de tarea completada</td><td>TK54</td><td>Botón "Marcar como realizada"</td><td>Agregar botón "Marcar como realizada" en interfaz de tareas</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK55</td><td>Backend registrar tarea completada</td><td>Actualizar backend para registrar la tarea como completada</td><td>3</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US09</td><td>Sincronización con clima local</td><td>TK56</td><td>Obtener clima con geolocalización</td><td>Obtener clima usando geolocalización del dispositivo</td><td>4</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK57</td><td>Mostrar sugerencia basada en lluvia</td><td>Mostrar sugerencia automática si ha llovido</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>US10</td><td>Consultas al asistente RootBot</td><td>TK58</td><td>UI de chat</td><td>Diseñar interfaz de chat con input y respuestas</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK59</td><td>Conectar con API IA</td><td>Conectar con API de OpenAI o modelo IA</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK60</td><td>Fallback de error en IA</td><td>Manejar errores y fallback si no hay respuesta</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US14</td><td>Edición de datos personales</td><td>TK61</td><td>Formulario editable</td><td>Crear formulario editable con nombre y teléfono</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK62</td><td>Actualizar backend</td><td>Actualizar backend con endpoint PUT</td><td>3</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US15</td><td>Cambio de correo electrónico</td><td>TK63</td><td>Validar correo</td><td>Validar formato de correo en frontend</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK64</td><td>Guardar nuevo correo</td><td>Guardar nuevo correo y mostrar confirmación</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US16</td><td>Gestión del plan de suscripción</td><td>TK65</td><td>UI de planes</td><td>Crear UI para selección y visualización de planes</td><td>4</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK66</td><td>Lógica backend de cambio</td><td>Actualizar lógica y endpoint en backend</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS17</td><td>Obtener lista de usuarios</td><td>TK67</td><td>GET /users</td><td>Crear endpoint GET /users con retorno en JSON</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS18</td><td>Registro de usuario</td><td>TK68</td><td>POST /sign-up</td><td>Crear endpoint POST /sign-up con validaciones</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS19</td><td>Inicio de sesión</td><td>TK69</td><td>POST /sign-in</td><td>Crear endpoint POST /sign-in y devolver token</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US19</td><td>Visualización de perfil</td><td>TK70</td><td>Diseño del perfil</td><td>Diseñar sección de perfil con datos resumidos</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK71</td><td>Estadísticas del backend</td><td>Mostrar estadísticas desde backend</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US20</td><td>Tips según clima y humedad</td><td>TK72</td><td>Obtener datos climáticos</td><td>Obtener datos de clima y humedad desde API</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK73</td><td>Generar recomendaciones</td><td>Generar y mostrar recomendaciones automáticas</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>US22</td><td>Acceso a soporte técnico</td><td>TK74</td><td>Formulario de soporte</td><td>Diseñar formulario y lógica de envío a soporte</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>US24</td><td>Modo oscuro</td><td>TK75</td><td>Toggle de modo oscuro</td><td>Agregar toggle de modo oscuro y guardar preferencia</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US25</td><td>Registro método de pago</td><td>TK76</td><td>Formulario inicial</td><td>Crear formulario de método de pago tras registro</td><td>4</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK77</td><td>Guardar datos de pago</td><td>Validar y guardar datos de pago en backend</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US31</td><td>Selección de idioma</td><td>TK78</td><td>Selector de idioma</td><td>Crear selector de idioma en el frontend</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK79</td><td>Cargar traducciones</td><td>Cargar traducciones dinámicas y mantener preferencia</td><td>3</td><td>Erick Palomino</td><td>Done</td></tr>
+  </tbody>
+</table>
+
+
+<br>
+
+##### 5.2.4.4. Development Evidence for Sprint Review 
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>develop</td>
+      <td>a41c1cf</td>
+      <td>fix: deleted plant form</td>
+      <td></td>
+      <td>Jul 7, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>develop</td>
+      <td>cf242d7</td>
+      <td>Merge branch 'develop'</td>
+      <td>of https://github.com/BioPafi-OpenSource/PlantSync_Frontend into develop</td>
+      <td>Jul 7, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>develop</td>
+      <td>cdae002</td>
+      <td>fix: add backend connections</td>
+      <td></td>
+      <td>Jul 7, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/i18n</td>
+      <td>e7d3256</td>
+      <td>Merge pull request #22</td>
+      <td>from BioPafi-OpenSource/feature/i18n</td>
+      <td>Jul 6, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/i18n</td>
+      <td>a3efa67</td>
+      <td>feat: added i18n for myplants</td>
+      <td></td>
+      <td>Jul 5, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/i18n</td>
+      <td>f48632f</td>
+      <td>feat: i18n added</td>
+      <td></td>
+      <td>Jul 5, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/dark-mode</td>
+      <td>2ab0328</td>
+      <td>Merge pull request #21</td>
+      <td>from BioPafi-OpenSource/feature/dark-mode</td>
+      <td>Jul 4, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/dark-mode</td>
+      <td>e75b21b</td>
+      <td>feat: darkmode transition</td>
+      <td></td>
+      <td>Jul 4, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/chatbot</td>
+      <td>6b6a1cb</td>
+      <td>update apikey from chatbot</td>
+      <td></td>
+      <td>Jul 4, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/chatbot</td>
+      <td>26b27c5</td>
+      <td>Merge pull request #20</td>
+      <td>from BioPafi-OpenSource/feature/chatbot</td>
+      <td>Jul 3, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/chatbot</td>
+      <td>758956e</td>
+      <td>feat: added chatbot feature</td>
+      <td></td>
+      <td>Jul 3, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>develop</td>
+      <td>e7f15c0</td>
+      <td>Merge pull request #19</td>
+      <td>from BioPafi-OpenSource/develop</td>
+      <td>Jul 3, 2025</td>
+    </tr>
+  </tbody>
+</table>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>features/iam-bounded-context</td>
+      <td>3e9cd41</td>
+      <td>feat: add update requests iam</td>
+      <td></td>
+      <td>Jul 8, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>features/iam-bounded-context</td>
+      <td>3858b9a</td>
+      <td>Merge pull request #11</td>
+      <td>from BioPafi-OpenSource/features/iam-bounded-context</td>
+      <td>Jul 8, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>develop</td>
+      <td>6065030</td>
+      <td>Merge pull request #12</td>
+      <td>from BioPafi-OpenSource/develop</td>
+      <td>Jul 8, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>506e64e</td>
+      <td>feat: added profile users persistence on database</td>
+      <td></td>
+      <td>Jul 7, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>a15637e</td>
+      <td>feat: add payment status</td>
+      <td></td>
+      <td>Jul 7, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>c8c0001</td>
+      <td>feat: added exceptions</td>
+      <td></td>
+      <td>Jul 7, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>1ba030e</td>
+      <td>feat: add profile acl</td>
+      <td></td>
+      <td>Jul 6, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>a6ac794</td>
+      <td>feat: add OpenApiConfiguration</td>
+      <td></td>
+      <td>Jul 3, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>1db2d4b</td>
+      <td>feat: added interfaces layer</td>
+      <td></td>
+      <td>Jul 3, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>60c6a63</td>
+      <td>feat: add infrastructure and application layer</td>
+      <td></td>
+      <td>Jul 3, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>f19850c</td>
+      <td>feat: added domain layer</td>
+      <td></td>
+      <td>Jul 3, 2025</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br>
+
+##### 5.2.4.5. Execution Evidence for Sprint Review
+<br>
+
++ US04
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev1.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US06
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev2.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US09
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev3.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US10
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev4.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US14
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev5.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US15
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev6.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US16
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev7.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US19
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev8.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US20
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev9.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US22
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev10.jpg" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US24
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev11.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US25
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev12.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US31
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev13.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
+
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Endpoint URL</th>
+      <th>Recurso</th>
+      <th>Verbo HTTP</th>
+      <th>Acción / Sintaxis</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/profiles</td>
+      <td>Profiles</td>
+      <td>GET</td>
+      <td>Get all profiles</td>
+      <td>Ninguno</td>
+      <td>
+        {
+          "name": "Monstera Deliciosa",
+          "species": "Planta Tropical",
+          "humidity": "Media",
+          "nextWateringDate": "2024-08-01",
+          "imageUrl": "https://static.wixstatic.com/media/example.jpg",
+          "notificationsEnabled": true,
+          "profileId": 1,
+          "id": 1
+        }
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/profiles</td>
+      <td>Profiles</td>
+      <td>POST</td>
+      <td>Create a new profile</td>
+      <td>Body: profile data</td>
+      <td>
+        {
+          "id": 1,
+          "personName": "javier",
+          "subscriptionPlan": "PREMIUM",
+          "userId": 1
+        }
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/authentication/sign-up</td>
+      <td>Authentication</td>
+      <td>POST</td>
+      <td>Sign-up</td>
+      <td>Body: name, email, password, subscriptionPlan</td>
+      <td>
+        {
+          "name": "string",
+          "email": "string",
+          "password": "string",
+          "subscriptionPlan": "string"
+        }
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/authentication/sign-in</td>
+      <td>Authentication</td>
+      <td>POST</td>
+      <td>Sign-in</td>
+      <td>Body: email, password</td>
+      <td>
+        {
+          "email": "string",
+          "password": "string"
+        }
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br><br>
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+<br>
+
+Landing page:
+
+- Configuración del entorno de despliegue:
+
+Como equipo decidimos usar Github Pages como hosting de nuestro Landing Page. Esto es principalmente a su facilidad para configurar y desplegar desde la rama Main. Y actualizamos constantemente la Landing Page con los commits desde Develop.
+
+- Activación de GitHub Pages en el repositorio:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Confirmación del enlace del repositorio con entorno de publicación:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización de la Landing Page:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/landingsprint3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+[Link de la Landing Page](https://biopafi-opensource.github.io/plantSync-LandingPage/)
+
+Web App: 
+
+Se certifica la exitosa implementación de la aplicación web frontend en Azure App Service, utilizando la rama "chore" del repositorio. El despliegue se realizó a partir del directorio generado con el comando de construcción ng build --configuration production, el cual produce la carpeta dist/plant-sync. Esta fue configurada como directorio de publicación estática en Azure, completando satisfactoriamente el proceso de despliegue de la aplicación mediante el entorno de ejecución Node.js provisto por la plataforma.
+
+- Visualización Actions desde el Github:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización del recurso de Azure:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización de la Static WebApp:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+Backend :
+
+Para esta entrega el despliegue del Backend y base de datos fue posible mediante los servicios de la nube de Azure. Se desplegó creando una imagen y su contenedor en Docker Desktop. Luego, se subió la imagen a Azure en una Web App.
+
+
+Servidor de base de datos:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/databasedeploymentazure.png" alt="evidencia-sprint" width="1000">
+</p>
+
+
+Visualización en Docker Desktop:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidenciadockercontenedor.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidenciadockerimagenes.png" alt="evidencia-sprint" width="1000">
+</p>
+
+Aplicación en Azure:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/webappazurebackend.png" alt="evidencia-sprint" width="1000">
+</p>
+Visualización Backend Desplegado:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/swaggerdeployed.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint
+<br>
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>Conexión de nuevo endpoints login y register</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>Desarrollo de la seccion de configuración</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>Conexion del Backend y Frontend</td>
+  </tr>
+</table>
+
+<br><br>
+
+
++ PlantSync_Platform:
+
+<br>
+
+<p align="center">
+  <img src="images/spr4-ini1-back.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/spr4-ini2-back.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
+ + PlantSync_Frontend:
+
+ <br>
+
+<p align="center">
+  <img src="images/insi-front-4-2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/insi-front-4-1.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br><br>
+
++ plantSync-LandingPage:
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidencia-github-landing1.jpg" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidencia-github-landing2.jpg" alt="evidencia-sprint" width="1000">
+</p>
+
+<br><br>
 
 ---
 
@@ -6660,6 +7331,13 @@ Enlace en Youtube: <a href="https://youtu.be/6dQiL5Xb8GU" target="_blank">upc-pr
 
 - La evaluación heurística aplicada a los flujos de usuario y vistas clave de la aplicación evidenció aspectos que deben ser priorizados en el siguiente sprint, relacionados con la claridad de los botones, el flujo de navegación, y la inclusión de más contenido útil en secciones como Rootbot y guías.
 
+*TF*
+---
+- Durante el desarrollo del TF1, el equipo demostró habilidades sólidas de comunicación oral al presentar avances semanales tanto al docente como entre compañeros de equipo, adaptando el lenguaje técnico según la audiencia. Las reuniones de planificación, retrospectiva y revisión fueron espacios clave para compartir ideas de forma clara, estructurada y colaborativa, lo que favoreció una ejecución alineada con los objetivos del proyecto.
+
+
+- La documentación técnica elaborada a lo largo del trabajo, incluyendo los diagramas C4, la definición de User Stories y la organización de actividades en Trello y GitHub, evidenció una comunicación escrita precisa y estructurada. El equipo redactó informes comprensibles para personas técnicas y no técnicas, lo cual fue fundamental para transmitir el propósito, progreso y funcionalidades del sistema de forma efectiva.
+
 
 ## Video about the Team
 
@@ -6672,22 +7350,12 @@ El video presenta un resumen del trabajo desarrollado por el equipo, donde cada 
   </tr>
   <tr>
     <td><strong>URL Microsoft</strong></td>
-    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBktfBO5WFoXjpceBP9nRZBg?e=PmeJq7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-aboutthe-team-sprint-3</a></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EQS_uiYanUhJvv6Wv_oHvW4B5k9uiWqUv_7wI-6dmnNbPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=De3u2C" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-about-the-team-sprint-3</a></td>
   </tr>
   <tr>
     <td><strong>URL Youtube</strong></td>
-    <td><a href="https://www.youtube.com/watch?v=UYvHTTrd7wI" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-aboutthe-team-sprint-3</a></td>
+    <td><a href="https://www.youtube.com/watch?v=MF6QeQh2nEM" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-about-the-team-sprint-3</a></td>
   </tr>
-  <tr>
-    <td><strong>Timings</strong></td>
-    <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=q3ljvY">00:00 - 02:35: Resumen de lo trabajado </a><br>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTUsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=zhTcJy">02:35: Inicio de Testimonios de los integrantes</a><br>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTgsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=OkWwIM">02:38 - 03:51: Erick Leonardo Palomino Fiestas</a><br>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoyMzEsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=CPtq21">03:51 - 4:51: Renzo Sebastian Rivera Ratachi</a><br>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoyOTEsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=l6JFSa">04:51 - 6:18: Javier Sebastian Gonzales Alvarado</a><br>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjozNzgsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=XN42Hh">6:18 - 7:30: Giovany Smith Torres Apolinario</a>
-    </td>
   </tr>
   <tr>
 <td colspan="2">
@@ -6730,7 +7398,9 @@ https://www.serpar.gob.pe/noticias/10-cosas-que-debes-aprender-sobre-el-cuidado-
 
 + **TB1:** [Link Exposición TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EQXTJiEwaBVMtM0ZB7FqT48BHhLEJHhZxA3HTmbBOQK8Kg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DgFxBb)
 
-
 + **TP1:** [Link Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ERme61BdAqRPhoKR7Ql5b2UB3ykeXWxgqbxTaeFgv0tVpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=pwUKmL)
 
-+ **TB2:** [Link Exposición TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ETyYTrRvykdOpAWmi9HRZCEB_kMIuUGInh6W8jJpaUiung?e=iqtlGb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
++ **TB2:** [Link Exposición TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ETyYTrRvykdOpAWmi9HRZCEBqaVsI3bGLnxITA9sc8fZSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NLPguQ)
+
++ **TF:** [Link Exposición TF1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ETkjF2XWIxFMl8tzMLutMgsBuwEyJnal9rCGU5QPr8H0pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SVZdbB)
+
