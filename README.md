@@ -3509,71 +3509,111 @@ El Domain Driven Design (DDD) busca lograr una comprensión común del dominio r
 
 El esquema de contexto ofrece una perspectiva general de las interacciones entre el sistema de software PlantSync, los usuarios y sistemas externos
 
-![C4 CONTEXT](https://imgur.com/mjU7Myv.jpg)
+<p align="center">
+  <img src="images/diagramas/c4contexto.png" alt="c4-context" width="600">
+</p>
 Fuente: Elaborado con structurizr
 
 #### 4.6.2. Software Architecture Container Diagrams
 
 El diagrama de contenedores ofrece una visión general de las conexiones entre aplicaciones y fuentes de datos en el sistema PlantSync. Muestra cómo interactúan y dependen entre sí para su funcionamiento.
 
-![C4 COMTAINER](https://imgur.com/mSzG2RS.jpg)
+<p align="center">
+  <img src="images/diagramas/c4contenedores.png" alt="c4-context" width="600">
+</p>
 Fuente: Elaborado con structurizr
 
 #### 4.6.3. Software Architecture Components Diagrams
 
 Los diagramas de componentes proporcionan una perspectiva sobre las interrelaciones de los elementos principales del sistema de software, describiendo cómo se implementan los módulos respectivos en el programa. <br>
 
-Component user registration
+Component Guides Bounded Context
 
-![C4 COMPONENT](https://imgur.com/H06Et9W.jpg)
-
-Fuente: Elaborado con structurizr
-
-Component plant registration
-
-![C4 COMPONENT](https://imgur.com/Mg3pEog.jpg)
+<p align="center">
+  <img src="images/diagramas/componenteguias.png" alt="c4-context" width="600">
+</p>
 
 Fuente: Elaborado con structurizr
 
-Component IA & Recomendaciones
+Component PlantProfile Bounded Context
 
-![C4 COMPONENT](https://imgur.com/UyIkExn.jpg)
-
-Fuente: Elaborado con structurizr
-
-Component Chatbot & Guías
-
-![C4 COMPONENT](https://imgur.com/nOJC2Pq.jpg)
+<p align="center">
+  <img src="images/diagramas/componenteperfilplanta.png" alt="c4-context" width="600">
+</p>
 
 Fuente: Elaborado con structurizr
 
-Component Notification Service
+Component Profile Bounded Context
 
-![C4 COMPONENT](https://imgur.com/b8F9CM1.jpg)
+<p align="center">
+  <img src="images/diagramas/componenteperfil.png" alt="c4-context" width="600">
+</p>
 
 Fuente: Elaborado con structurizr
 
-Component Payment method
-![C4 COMPONENT](https://imgur.com/z2fH6HJ.jpg)
+Component Tasks Bounded Context
+<p align="center">
+  <img src="images/diagramas/componentetarea.png" alt="c4-context" width="600">
+</p>
+
 Fuente: Elaborado con structurizr
+
+[Enlace al diagrama c4](https://structurizr.com/share/104283/8bf4b7ab-4c49-4b5f-97a7-9f4f9f2c43ec)
 
 ### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams
 
-<img src="images/BioPafi-PlantSync-Class Diagram.png" alt="class-diagram" width="1000">
+<img src="images/diagramas/diagramadeclases.jpg" alt="class-diagram" width="600">
 
-[Enlace al diagrama de clases en Lucidchart](https://lucid.app/lucidchart/7c54dd1b-95df-4695-b9fd-662c620b0ea1/edit?viewport_loc=3516%2C-29%2C6259%2C2960%2CHWEp-vi-RSFO&invitationId=inv_1351b1e5-61e1-490e-ba8b-fd92b6661710)
+[Enlace al diagrama de clases en Lucidchart](https://lucid.app/lucidchart/e7fb02ec-9680-4172-9774-310460758f37/edit?viewport_loc=-2543%2C823%2C3102%2C1453%2C0_0&invitationId=inv_f9051413-cd57-4931-85be-02830a270010)
 
 Class Diagram Frontend:
-<img src="images/BioPafi- Class Diagram Frontend.png" alt="class-diagram-frontend" width="1000">
 
-[Enlace al diagrama de clases del frontend de Lucidchart](https://lucid.app/lucidchart/1dd994f8-b130-47d2-8519-eb30b841b5f7/edit?viewport_loc=3868%2C515%2C4781%2C2069%2CHWEp-vi-RSFO&invitationId=inv_235d0cb5-3b41-431a-a605-df914107ec24)
+<p align="center">
+  <img src="images/diagramas/diagramafrontendcompleto.jpg" alt="c4-context" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/frontendguides.jpg" alt="c4-context" width="600">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/frontendtasks.jpg" alt="c4-context" width="600">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/frontendplantsyauth.jpg" alt="c4-context" width="600">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/frontendapp.jpg" alt="c4-context" width="600">
+</p>
 
 Class Diagram Backend:
 <img src="images/diagram-DDD_Bounded_Context_Backend.png" alt="class-diagram-backend" width="1000">
 
 [Enlace al diagrama de clases del backend](https://i.imgur.com/oxP5tce.png)
+
+<p align="center">
+  <img src="images/diagramas/guidesbackend.jpg" alt="c4-context" width="600">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/plantprofilebackend.jpg" alt="c4-context" width="600">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/profilebackend.jpg" alt="c4-context" width="600">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/sharedbackend.jpg" alt="c4-context" width="600">
+</p>
+
+<p align="center">
+  <img src="images/diagramas/tasksbackend.jpg" alt="c4-context" width="600">
+</p>
 
 #### 4.7.2. Class Dictionary
 
@@ -7307,22 +7347,12 @@ El video presenta un resumen del trabajo desarrollado por el equipo, donde cada 
   </tr>
   <tr>
     <td><strong>URL Microsoft</strong></td>
-    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBktfBO5WFoXjpceBP9nRZBg?e=PmeJq7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-aboutthe-team-sprint-3</a></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EQS_uiYanUhJvv6Wv_oHvW4B5k9uiWqUv_7wI-6dmnNbPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=De3u2C" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-about-the-team-sprint-3</a></td>
   </tr>
   <tr>
     <td><strong>URL Youtube</strong></td>
-    <td><a href="https://www.youtube.com/watch?v=UYvHTTrd7wI" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-aboutthe-team-sprint-3</a></td>
+    <td><a href="https://www.youtube.com/watch?v=MF6QeQh2nEM" target="_blank">upc-pre-202510-1asi0729-4289-biopafi-about-the-team-sprint-3</a></td>
   </tr>
-  <tr>
-    <td><strong>Timings</strong></td>
-    <td>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=q3ljvY">00:00 - 02:35: Resumen de lo trabajado </a><br>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTUsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=zhTcJy">02:35: Inicio de Testimonios de los integrantes</a><br>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNTgsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=OkWwIM">02:38 - 03:51: Erick Leonardo Palomino Fiestas</a><br>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoyMzEsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=CPtq21">03:51 - 4:51: Renzo Sebastian Rivera Ratachi</a><br>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoyOTEsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=l6JFSa">04:51 - 6:18: Javier Sebastian Gonzales Alvarado</a><br>
-      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/EX86iIll4utPswVIelnRrpgBPNMrB9a42BQDtiDSkE0i2Q?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjozNzgsInRpbWVzdGFtcGVkTGlua1JlZmVycmVySW5mbyI6eyJzY2VuYXJpbyI6IkNoYXB0ZXJTaGFyZSIsImFkZGl0aW9uYWxJbmZvIjp7ImlzU2hhcmVkQ2hhcHRlckF1dG8iOmZhbHNlfX19LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZUNoYXB0ZXJMaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&e=XN42Hh">6:18 - 7:30: Giovany Smith Torres Apolinario</a>
-    </td>
   </tr>
   <tr>
 <td colspan="2">
@@ -7367,3 +7397,7 @@ https://www.serpar.gob.pe/noticias/10-cosas-que-debes-aprender-sobre-el-cuidado-
 
 
 + **TP1:** [Link Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ERme61BdAqRPhoKR7Ql5b2UB3ykeXWxgqbxTaeFgv0tVpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=pwUKmL)
+
++ **TB2:** [Link Exposición TP1]()
+
++ **TF:** [Link Exposición TP1]()
