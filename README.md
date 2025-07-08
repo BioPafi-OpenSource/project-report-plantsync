@@ -5921,7 +5921,7 @@ Visualización Backend Desplegado:
 <table align="center">
   <tr>
     <td><strong>Sprint #4</strong></td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
