@@ -406,7 +406,7 @@ Link del documento en GitHub: https://github.com/BioPafi-OpenSource/project-repo
   </tr>
 </table>
 
-## **TP1**
+## **TF**
 
 <table align="center">
   <tr>
@@ -418,7 +418,7 @@ Link del documento en GitHub: https://github.com/BioPafi-OpenSource/project-repo
       Erick Palomino
     </td>
     <td>
-      Reelaboración y perfeccionamiento de los diagramas C4 y de clases, como parte del proceso de mejora continua, con el fin de representar de manera más clara y precisa la arquitectura y los componentes del sistema.
+      Documentación del sprint 4, Corrección de diagramas c4 y de clases y Apoyo en los diversos apartados del frontend y backend
     </td>
   </tr>
   <tr>
@@ -426,7 +426,7 @@ Link del documento en GitHub: https://github.com/BioPafi-OpenSource/project-repo
       Javier Gonzales
     </td>
     <td>
-      Verificación integral del cumplimiento de las funcionalidades definidas en las User Stories dentro del frontend de la aplicación web, complementado con la integración de un componente de inteligencia artificial orientado al asesoramiento en el cuidado de plantas.
+      Implementación de la IA para nuestro ChatBot, Documentación del sprint 4 y Completar los features faltantes
     </td>
   </tr>
   <tr>
@@ -434,7 +434,7 @@ Link del documento en GitHub: https://github.com/BioPafi-OpenSource/project-repo
       Renzo Rivera
     </td>
     <td>
-      Implementación de las conexiones finales entre el backend y frontend, acompañada del despliegue completo de la aplicación, la creación de los endpoints de inicio de sesión y registro de usuario, así como la incorporación del registro de un método de pago al flujo inicial de uso.
+      IAM Bounded Context, Apartado de Configuración Frontend y Apartado de Tareas Frontend
     </td>
   </tr>
 </table>
@@ -511,24 +511,20 @@ Repositorio Informe:
   <img src="images/insight-github/overview2-plantsync.png" alt="evidencia-sprint" width="1000">
 </p>
 
-## **TB2**
+## **TF*
 
 + Informe:
 
 <br>
 
 <p align="center">
-  <img src="images/evidenciareporte1.jpg" alt="evidencia-sprint-3" width="1000">
+  <img src="images/insights1-report-tf1.jpg" alt="evidencia-sprint-3" width="1000">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="images/evidenciareporte2.jpg" alt="evidencia-sprint-3" width="1000">
-</p>
-
-<p align="center">
-  <img src="images/evidenciareporte3.jpg" alt="evidencia-sprint-3" width="1000">
+  <img src="images/insights2-report-tf1.jpg" alt="evidencia-sprint-3" width="1000">
 </p>
 
 <br><br>
@@ -538,18 +534,15 @@ Repositorio Informe:
 <br>
 
 <p align="center">
-  <img src="images/evidencia-sprint3/evidence-github-backend1.jpg" alt="evidencia-sprint-3" width="1000">
+  <img src="images/insights1-backend-tf1.jpg" alt="evidencia-sprint-3" width="1000">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="images/evidenciabackend2.jpg" alt="evidencia-sprint-3" width="1000">
+  <img src="images/insights2-backend-tf1.jpg" alt="evidencia-sprint-3" width="1000">
 </p>
 
-<p align="center">
-  <img src="images/evidenciabackend3.jpg" alt="evidencia-sprint-3" width="1000">
-</p>
 
 <br><br>
 
@@ -564,7 +557,7 @@ Repositorio Informe:
 <br>
 
 <p align="center">
-  <img src="images/evidencia-sprint2/evidencia1-team-sprint2.png" alt="evidencia-sprint" width="1000">
+  <img src="images/insights1-frontend-tf1.jpg" alt="evidencia-sprint" width="1000">
 </p>
 
 <br><br>
@@ -3712,42 +3705,7 @@ Class Plant
   </tr>
 </table>
 
-Class Climate
-
-<table align="center">
-  <tr>
-    <td><strong>Atribute</strong></td>
-    <td><strong>Type</strong></td>
-    <td><strong>Description</strong></td>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>uuid</td>
-    <td>Unique identifier of a Climate</td>
-  </tr>
-  <tr>
-    <td>name</td>
-    <td>String</td>
-    <td>Name of a climate</td>
-  </tr>
-  <tr>
-    <td>humidity</td>
-    <td>float</td>
-    <td>Percentage of humidity in the air of a climate</td>
-  </tr>
-  <tr>
-    <td>temperature</td>
-    <td>float</td>
-    <td>Temperature degree in celcius</td>
-  </tr>
-  <tr>
-    <td>sunlightHours</td>
-    <td>float</td>
-    <td>Hours of sunlight of a climate</td>
-  </tr>
-</table>
-
-Class Guide
+Class Guides
 
 <table align="center">
   <tr>
@@ -3772,37 +3730,8 @@ Class Guide
   </tr>
 </table>
 
-Class Recomendation
 
-<table align="center">
-  <tr>
-    <td><strong>Atribute</strong></td>
-    <td><strong>Type</strong></td>
-    <td><strong>Description</strong></td>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>uuid</td>
-    <td>Unique identifier of an recomendation</td>
-  </tr>
-  <tr>
-    <td>recomendation</td>
-    <td>String</td>
-    <td>Content of the recomendation</td>
-  </tr>
-  <tr>
-    <td>guide</td>
-    <td>Guide</td>
-    <td>Guide included in the recomendation</td>
-  </tr>
-  <tr>
-    <td>climate</td>
-    <td>Climate</td>
-    <td>Suitable climate for the recomendation</td>
-  </tr>
-</table>
-
-Class PlantProfile
+Class Plants
 
 <table align="center">
   <tr>
@@ -3857,35 +3786,6 @@ Class PlantProfile
   </tr>
 </table>
 
-Class Record
-
-<table align="center">
-  <tr>
-    <td><strong>Atribute</strong></td>
-    <td><strong>Type</strong></td>
-    <td><strong>Description</strong></td>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>uuid</td>
-    <td>Unique identifier of a record</td>
-  </tr>
-  <tr>
-    <td>title</td>
-    <td>String</td>
-    <td>Title of a record</td>
-  </tr>
-  <tr>
-    <td>date</td>
-    <td>Date</td>
-    <td>Creation date of a record</td>
-  </tr>
-  <tr>
-    <td>description</td>
-    <td>String</td>
-    <td>Description of the activities in a record</td>
-  </tr>
-</table>
 
 Class Task
 
@@ -3919,86 +3819,6 @@ Class Task
     <td>isDone</td>
     <td>bool</td>
     <td>State of a task</td>
-  </tr>
-</table>
-
-Class Reminder
-
-<table align="center">
-  <tr>
-    <td><strong>Atribute</strong></td>
-    <td><strong>Type</strong></td>
-    <td><strong>Description</strong></td>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>uuid</td>
-    <td>Unique identifier of an reminder</td>
-  </tr>
-  <tr>
-    <td>date</td>
-    <td>Date</td>
-    <td>Date of a reminder</td>
-  </tr>
-  <tr>
-    <td>title</td>
-    <td>String</td>
-    <td>Title of a reminder</td>
-  </tr>
-  <tr>
-    <td>description</td>
-    <td>String</td>
-    <td>Description of a reminder</td>
-  </tr>
-</table>
-
-Class ManualAssistedMonitoring
-
-<table align="center">
-  <tr>
-    <td><strong>Atribute</strong></td>
-    <td><strong>Type</strong></td>
-    <td><strong>Description</strong></td>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>uuid</td>
-    <td>Unique identifier of a ManualAssistedMonitoring</td>
-  </tr>
-  <tr>
-    <td>question</td>
-    <td>String</td>
-    <td>Question for the Asistance</td>
-  </tr>
-  <tr>
-    <td>answer</td>
-    <td>String</td>
-    <td>Answer of the question</td>
-  </tr>
-</table>
-
-Class Subscription
-
-<table align="center">
-  <tr>
-    <td><strong>Atribute</strong></td>
-    <td><strong>Type</strong></td>
-    <td><strong>Description</strong></td>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>uuid</td>
-    <td>Unique identifier of an subscription</td>
-  </tr>
-  <tr>
-    <td>subscriptionType</td>
-    <td>SubscriptionType</td>
-    <td>Type of the subscription</td>
-  </tr>
-  <tr>
-    <td>paymentCard</td>
-    <td>PaymentCard</td>
-    <td>Payment Card associated to the subscription</td>
   </tr>
 </table>
 
