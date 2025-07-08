@@ -6170,7 +6170,7 @@ link al trello: https://trello.com/invite/b/686c8b840e0127ce62d7c6e0/ATTIb5a6d6e
 <br>
 
 <p align="center">
-  <img src="images//sprint4-evidences/ev10.png" alt="evidencia-sprint-4" width="1000">
+  <img src="images//sprint4-evidences/ev10.jpg" alt="evidencia-sprint-4" width="1000">
 </p>
 
 <br><br>
@@ -6205,7 +6205,88 @@ link al trello: https://trello.com/invite/b/686c8b840e0127ce62d7c6e0/ATTIb5a6d6e
 
 <br><br>
 
+
+
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Endpoint URL</th>
+      <th>Recurso</th>
+      <th>Verbo HTTP</th>
+      <th>Acción / Sintaxis</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/profiles</td>
+      <td>Profiles</td>
+      <td>GET</td>
+      <td>Get all profiles</td>
+      <td>Ninguno</td>
+      <td>
+        {
+          "name": "Monstera Deliciosa",
+          "species": "Planta Tropical",
+          "humidity": "Media",
+          "nextWateringDate": "2024-08-01",
+          "imageUrl": "https://static.wixstatic.com/media/example.jpg",
+          "notificationsEnabled": true,
+          "profileId": 1,
+          "id": 1
+        }
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/profiles</td>
+      <td>Profiles</td>
+      <td>POST</td>
+      <td>Create a new profile</td>
+      <td>Body: profile data</td>
+      <td>
+        {
+          "id": 1,
+          "personName": "javier",
+          "subscriptionPlan": "PREMIUM",
+          "userId": 1
+        }
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/authentication/sign-up</td>
+      <td>Authentication</td>
+      <td>POST</td>
+      <td>Sign-up</td>
+      <td>Body: name, email, password, subscriptionPlan</td>
+      <td>
+        {
+          "name": "string",
+          "email": "string",
+          "password": "string",
+          "subscriptionPlan": "string"
+        }
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/authentication/sign-in</td>
+      <td>Authentication</td>
+      <td>POST</td>
+      <td>Sign-in</td>
+      <td>Body: email, password</td>
+      <td>
+        {
+          "email": "string",
+          "password": "string"
+        }
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br><br>
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
 <br>
