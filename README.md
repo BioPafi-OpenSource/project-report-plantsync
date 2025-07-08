@@ -6182,9 +6182,158 @@ Visualización Backend Desplegado:
 
 ##### 5.2.4.1. Sprint Planning 4
 
+<table align="center">
+  <tr>
+    <td><strong>Sprint #4</strong></td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 23 - 06</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>9:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Erik Palomino</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Javier Gonzales, Renzo Rivera</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Review Summary</strong></td>
+    <td>En el anterior sprint se pudo crear los endpoints del backend cumpliendo con todas las CRUD actions y siguiendo el DDD y patrones aprendidos en clase</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Retorspective Summary</strong></td>
+    <td>En el anterior sprint, a pesar de completar con la definición de endpoints del backend aún falta la conexión entre frontend y backend.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Goal</strong></td>
+    <td>En este sprint, el objetivo es lograr una conexión entre backend y frontend para un funcionamiento adecuado de la appweb. Además de cumplir con todos los features de las user stories para un cumplimiento satisfactorio de los usuarios objetivos.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Velocity</strong></td>
+    <td>XX</td>
+  </tr>
+</table>
+<br>
+
 ##### 5.2.4.2. Aspect Leaders and Collaborators
 
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Conexión entre Backend y Frontend</strong></td>
+    <td><strong>Feature de Configuración</strong></td>
+    <td><strong>Correción de bugs previos</strong></td>
+    <td><strong>Implementación de la IA para el chatbot</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>rezor11</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
+
 ##### 5.2.4.3. Sprint Backlog 4
+
+<br>
+
+Este Sprint se enfocó en completar funcionalidades clave para el usuario final, incluyendo la integración con clima, el asistente inteligente, la personalización del perfil y la gestión de suscripciones. También se finalizaron endpoints críticos para registro, login y visualización de usuarios. Se empleó Trello para la asignación y seguimiento de tareas, asegurando una correcta distribución entre los miembros del equipo.
+
+<img src="images/backlog4.png" alt="sprint-backlog4" width="1000">
+
+link al trello: https://trello.com/invite/b/686c8b840e0127ce62d7c6e0/ATTIb5a6d6e91b5f6dc820ea86a4fcc743dc76565BE9/sprint-4-open-source
+
+<br>
+
+<h3>Sprint # Sprint 4</h3>
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th colspan="2">Technical User Story</th>
+      <th colspan="2">WorkItem / Task</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+      <th>Id</th><th>Title</th>
+      <th>Id</th><th>Title</th>
+      <th></th><th></th><th></th><th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>US04</td><td>Historial de cuidados</td><td>TK51</td><td>Crear vista de historial en detalle de planta</td><td>Crear vista de historial en detalle de planta</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK52</td><td>Conectar frontend con servicio backend</td><td>Conectar frontend con servicio backend para historial</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK53</td><td>Validaciones si no hay historial</td><td>Agregar validaciones y mensajes si no hay historial disponible</td><td>2</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US06</td><td>Registro manual de tarea completada</td><td>TK54</td><td>Botón "Marcar como realizada"</td><td>Agregar botón "Marcar como realizada" en interfaz de tareas</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK55</td><td>Backend registrar tarea completada</td><td>Actualizar backend para registrar la tarea como completada</td><td>3</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US09</td><td>Sincronización con clima local</td><td>TK56</td><td>Obtener clima con geolocalización</td><td>Obtener clima usando geolocalización del dispositivo</td><td>4</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK57</td><td>Mostrar sugerencia basada en lluvia</td><td>Mostrar sugerencia automática si ha llovido</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>US10</td><td>Consultas al asistente RootBot</td><td>TK58</td><td>UI de chat</td><td>Diseñar interfaz de chat con input y respuestas</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK59</td><td>Conectar con API IA</td><td>Conectar con API de OpenAI o modelo IA</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK60</td><td>Fallback de error en IA</td><td>Manejar errores y fallback si no hay respuesta</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US14</td><td>Edición de datos personales</td><td>TK61</td><td>Formulario editable</td><td>Crear formulario editable con nombre y teléfono</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK62</td><td>Actualizar backend</td><td>Actualizar backend con endpoint PUT</td><td>3</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US15</td><td>Cambio de correo electrónico</td><td>TK63</td><td>Validar correo</td><td>Validar formato de correo en frontend</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK64</td><td>Guardar nuevo correo</td><td>Guardar nuevo correo y mostrar confirmación</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US16</td><td>Gestión del plan de suscripción</td><td>TK65</td><td>UI de planes</td><td>Crear UI para selección y visualización de planes</td><td>4</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK66</td><td>Lógica backend de cambio</td><td>Actualizar lógica y endpoint en backend</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS17</td><td>Obtener lista de usuarios</td><td>TK67</td><td>GET /users</td><td>Crear endpoint GET /users con retorno en JSON</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS18</td><td>Registro de usuario</td><td>TK68</td><td>POST /sign-up</td><td>Crear endpoint POST /sign-up con validaciones</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS19</td><td>Inicio de sesión</td><td>TK69</td><td>POST /sign-in</td><td>Crear endpoint POST /sign-in y devolver token</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US19</td><td>Visualización de perfil</td><td>TK70</td><td>Diseño del perfil</td><td>Diseñar sección de perfil con datos resumidos</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK71</td><td>Estadísticas del backend</td><td>Mostrar estadísticas desde backend</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US20</td><td>Tips según clima y humedad</td><td>TK72</td><td>Obtener datos climáticos</td><td>Obtener datos de clima y humedad desde API</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK73</td><td>Generar recomendaciones</td><td>Generar y mostrar recomendaciones automáticas</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>US22</td><td>Acceso a soporte técnico</td><td>TK74</td><td>Formulario de soporte</td><td>Diseñar formulario y lógica de envío a soporte</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>US24</td><td>Modo oscuro</td><td>TK75</td><td>Toggle de modo oscuro</td><td>Agregar toggle de modo oscuro y guardar preferencia</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US25</td><td>Registro método de pago</td><td>TK76</td><td>Formulario inicial</td><td>Crear formulario de método de pago tras registro</td><td>4</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK77</td><td>Guardar datos de pago</td><td>Validar y guardar datos de pago en backend</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US31</td><td>Selección de idioma</td><td>TK78</td><td>Selector de idioma</td><td>Crear selector de idioma en el frontend</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK79</td><td>Cargar traducciones</td><td>Cargar traducciones dinámicas y mantener preferencia</td><td>3</td><td>Erick Palomino</td><td>Done</td></tr>
+  </tbody>
+</table>
+
+
+<br>
 
 ##### 5.2.4.4. Development Evidence for Sprint Review 
 
@@ -6193,8 +6342,124 @@ Visualización Backend Desplegado:
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+<br>
+
+Landing page:
+
+- Configuración del entorno de despliegue:
+
+Como equipo decidimos usar Github Pages como hosting de nuestro Landing Page. Esto es principalmente a su facilidad para configurar y desplegar desde la rama Main. Y actualizamos constantemente la Landing Page con los commits desde Develop.
+
+- Activación de GitHub Pages en el repositorio:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Confirmación del enlace del repositorio con entorno de publicación:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización de la Landing Page:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/landingsprint3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+[Link de la Landing Page](https://biopafi-opensource.github.io/plantSync-LandingPage/)
+
+Web App: 
+
+Se certifica la exitosa implementación de la aplicación web frontend en Azure App Service, utilizando la rama "chore" del repositorio. El despliegue se realizó a partir del directorio generado con el comando de construcción ng build --configuration production, el cual produce la carpeta dist/plant-sync. Esta fue configurada como directorio de publicación estática en Azure, completando satisfactoriamente el proceso de despliegue de la aplicación mediante el entorno de ejecución Node.js provisto por la plataforma.
+
+- Visualización Actions desde el Github:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización del recurso de Azure:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización de la Static WebApp:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+Backend :
+
+Para esta entrega el despliegue del Backend y base de datos fue posible mediante los servicios de la nube de Azure. Se desplegó creando una imagen y su contenedor en Docker Desktop. Luego, se subió la imagen a Azure en una Web App.
+
+
+Servidor de base de datos:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/databasedeploymentazure.png" alt="evidencia-sprint" width="1000">
+</p>
+
+
+Visualización en Docker Desktop:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidenciadockercontenedor.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidenciadockerimagenes.png" alt="evidencia-sprint" width="1000">
+</p>
+
+Aplicación en Azure:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/webappazurebackend.png" alt="evidencia-sprint" width="1000">
+</p>
+Visualización Backend Desplegado:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/swaggerdeployed.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
+<br>
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>Conexión de nuevo endpoints login y register</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>Desarrollo de la seccion de configuración</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>Conexion del Backend y Frontend</td>
+  </tr>
+</table>
+
+
+<br>
 
 ---
 
