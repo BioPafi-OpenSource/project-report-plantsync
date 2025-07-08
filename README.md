@@ -5963,7 +5963,7 @@ Visualización Backend Desplegado:
   </tr>
   <tr>
     <td><strong>Sprint 4 Velocity</strong></td>
-    <td>XX</td>
+    <td>95</td>
   </tr>
 </table>
 <br>
@@ -6018,7 +6018,7 @@ link al trello: https://trello.com/invite/b/686c8b840e0127ce62d7c6e0/ATTIb5a6d6e
 
 <br>
 
-<h3>Sprint # Sprint 4</h3>
+
 <table border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr>
