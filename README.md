@@ -7210,7 +7210,7 @@ https://www.serpar.gob.pe/noticias/10-cosas-que-debes-aprender-sobre-el-cuidado-
 
 + **Landing Page Deployado:** [Link Landing Page](https://biopafi-opensource.github.io/plantSync-LandingPage/)
 
-+ **Frontend Deployado:** [Link Frontend](https://yellow-ocean-0e2fe8a10.6.azurestaticapps.net/login)
++ **Frontend Deployado:** [Link Frontend](https://polite-bay-0d4eadd10.1.azurestaticapps.net/)
 
 + **Backend Deployado:** [Link Backend](https://plantsync-platform.azurewebsites.net/swagger-ui/index.html#/)
 
