@@ -14,7 +14,7 @@
 
 **Nombre del curso:** Desarrollo de aplicaciones Open Source
 
-**Sección:** 4289
+**NRC:** 4289
 
 **Nombre del profesor:** BAUTISTA UBILLÚS, EFRAIN RICARDO
 
@@ -29,7 +29,6 @@
 | U20231A500 | Palomino Fiestas, Erick Leonardo    |
 | U202312966 | Gonzales Alvarado, Javier Sebastian |
 | U20231D974 | Rivera Ratachi, Renzo Sebastian     |
-| U202311601 | Torres Apolinario, Giovany Smith    |
 
 **Julio 2025**
 
@@ -243,6 +242,31 @@
     </td>
     <td>Se añadieron los videos de About The Product y About the Team, más las conclusiones y recomendaciones</td>
   </tr>
+  <tr>
+    <td>4.1</td>
+    <td>01/07/25</td>
+    <td>
+    Palomino,<br>
+    Gonzales,<br>
+    </td>
+    <td>Inicio de la documentacion del sprint 4</td>
+  </tr>
+  <tr>
+    <td>4.2</td>
+    <td>01/07/25</td>
+    <td>
+    Palomino,<br>
+    </td>
+    <td>Mejora continua de diagramas de clases y c4</td>
+  </tr>
+  <tr>
+    <td>4.2</td>
+    <td>01/07/25</td>
+    <td>
+    Rivera<br>
+    </td>
+    <td>Elaboración de conclusiones</td>
+  </tr>
 </table>
 
 ---
@@ -378,6 +402,39 @@ Link del documento en GitHub: https://github.com/BioPafi-OpenSource/project-repo
     </td>
     <td>
       Realización de Guides Bounded Context en el backend, entrevista de validación, realización del diagrama del frontend, añadio heuristicas, video about the team, Sprint 3 y conclusiones.
+    </td>
+  </tr>
+</table>
+
+## **TP1**
+
+<table align="center">
+  <tr>
+    <td><strong>Integrante</strong></td>
+    <td><strong>Tareas Asignadas</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Erick Palomino
+    </td>
+    <td>
+      Reelaboración y perfeccionamiento de los diagramas C4 y de clases, como parte del proceso de mejora continua, con el fin de representar de manera más clara y precisa la arquitectura y los componentes del sistema.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Javier Gonzales
+    </td>
+    <td>
+      Verificación integral del cumplimiento de las funcionalidades definidas en las User Stories dentro del frontend de la aplicación web, complementado con la integración de un componente de inteligencia artificial orientado al asesoramiento en el cuidado de plantas.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Renzo Rivera
+    </td>
+    <td>
+      Implementación de las conexiones finales entre el backend y frontend, acompañada del despliegue completo de la aplicación, la creación de los endpoints de inicio de sesión y registro de usuario, así como la incorporación del registro de un método de pago al flujo inicial de uso.
     </td>
   </tr>
 </table>
@@ -656,6 +713,8 @@ Repositorio Informe:
       <br><br>
       TB2 - Participó en la entrevista de validación del sistema y presentó el video “About the Product” y “About the Team”, explicando funcionalidades y roles.
       <br><br>
+      TF1 - Explicó en reuniones grupales la reestructuración propuesta de los diagramas C4 y de clases, detallando su impacto en la arquitectura del sistema.
+      <br><br>
       <strong>Javier Gonzales:</strong>
       TB1 - Presentación oral de los resultados de entrevistas y de la estructura de la Landing Page.
       <br><br>
@@ -663,12 +722,16 @@ Repositorio Informe:
       <br><br>
       TB2 - Expuso durante la entrevista de validación y en el video grupal, mostrando mejoras del frontend e integración con base de datos.
       <br><br>
+      TF1 - Expuso la integración de la inteligencia artificial y verificó el cumplimiento de funcionalidades frente al equipo.
+      <br><br>
       <strong>Renzo Rivera:</strong>
       TB1 – Exposición de análisis competitivo y explicación de los User Flow Diagrams durante la reunión grupal.
       <br><br>
       TP1- Expuso el diseño y lógica del FrontEnd del Chatbot y la sección de tareas, explicando su integración y mejoras.
       <br><br>
       TB2 - Contribuyó en la presentación del video “About the Team” y explicó los cambios realizados en el backend y en el proceso de despliegue.
+      <br><br>
+      TF1 - Presentó el flujo de conexión entre backend y frontend, así como las mejoras realizadas en el despliegue de la app, adaptando su comunicación al equipo técnico.
       <br><br>
       <strong>Sean Palomares:</strong>
       TB1 - Explicación oral de los mapas de impacto y segmentación de objetivos en reuniones grupales.
@@ -687,6 +750,8 @@ Repositorio Informe:
       TP1:La comunicación oral fue fundamental para coordinar las tareas del proyecto y asegurar una comprensión común. Cada integrante presentó con claridad sus avances y propuestas, lo que permitió una integración efectiva del trabajo. Se logró una interacción fluida y profesional dentro del equipo.
       <br><br>
       TB2: La comunicación oral del equipo se fortaleció mediante entrevistas y videos explicativos donde se expresaron con claridad las funciones desarrolladas, lo que facilitó la validación del producto y la comprensión del progreso por parte de los usuarios. Las presentaciones mostraron cohesión, claridad y un dominio del trabajo individual y colectivo.
+      <br><br>
+      TF1: Como equipo, demostramos una comunicación oral efectiva al presentar de manera clara y estructurada nuestras propuestas y avances técnicos durante las reuniones. Cada integrante adaptó su lenguaje a las necesidades del equipo, facilitando el entendimiento común y fomentando la toma de decisiones informadas para avanzar como grupo.
     </td>
   </tr>
   <tr>
@@ -701,6 +766,8 @@ Repositorio Informe:
       <br><br>
       TB2 - Documentó el Profiles Bounded Context del backend, agregó contenido escrito en heurísticas y elaboró las conclusiones del entregable.
       <br><br>
+      TF1 - Redactó los nuevos diagramas técnicos documentando claramente los elementos y relaciones del sistema para facilitar su comprensión.
+      <br><br>
       <strong>Javier Gonzales:</strong>
       TB1 –  Redacción del Lean UX Problem Statement, Assumptions y desarrollo de wireframes documentados.
       <br><br>
@@ -708,12 +775,16 @@ Repositorio Informe:
       <br><br>
       TB2 - Redactó los cambios realizados en la migración a base de datos y en la mejora del frontend, contribuyendo también en las heurísticas y conclusiones.
       <br><br>
+      TF1 - Elaboró reportes detallados de avance con base en las User Stories e incluyó la documentación del componente de inteligencia artificial.
+      <br><br>
       <strong>Renzo Rivera:</strong>
       TB1 –  Documentación escrita de análisis competitivo, User Personas, User Journey Mapping y Task Matrix.
       <br><br>
       TP1 - Elaboró descripciones técnicas del Chatbot y la sección de tareas, detallando los retos y soluciones en el informe parcial.
       <br><br>
       TB2 - Escribió la documentación técnica del Plant Profiles, Tasks Bounded Context y el diagrama del backend.
+      <br><br>
+      TF1 - Documentó los endpoints implementados, describiendo su funcionamiento y los pasos del despliegue final de la aplicación.
       <br><br>
       <strong>Sean Palomares:</strong>
       TB1 – Elaboración escrita de Hypothesis Statements, Product Backlog y base de diseño orientado a objetos.
@@ -732,6 +803,8 @@ Repositorio Informe:
       TP1: La documentación escrita del trabajo parcial fue clara, precisa y permitió dejar registro estructurado de cada avance. Se cuidó el lenguaje técnico y la redacción, haciendo posible una comprensión adecuada tanto para el equipo como para evaluadores externos. La distribución de redacción fue equilibrada y colaborativa.
       <br><br>
       TB2: La producción escrita durante esta etapa del proyecto reflejó claridad técnica, estructuración adecuada de los avances y coherencia con los objetivos planteados. Todos los integrantes aportaron en la documentación técnica y reflexiva del proyecto, generando entregables de calidad con contenido relevante y bien argumentado.
+      <br><br>
+      TF1: La documentación técnica generada por el equipo fue precisa, coherente y orientada tanto a públicos técnicos como académicos. La calidad de los diagramas, reportes funcionales y descripciones de endpoints refleja nuestra capacidad de comunicar por escrito de forma efectiva, asegurando trazabilidad y comprensión de los avances en el desarrollo del proyecto.
     </td>
   </tr>
 </table>
@@ -4066,7 +4139,6 @@ Pasos para el despliegue de la Landing Page en GitHub Pages:
           Palomares Andrade, Sean Farith <br>
           Rivera Ratachi, Renzo Sebastian <br>
           Torres Apolinario, Giovany Smith <br>
-          
   </td>
     </tr>
     <tr>
@@ -4083,7 +4155,7 @@ Pasos para el despliegue de la Landing Page en GitHub Pages:
     </tr>
     <tr>
       <td><b>Sprint 1 Goal</b></td>
-      <td>Elaborar y diseñar una landing page atractiva e informativa para la aplicación de PlantSync</td>
+      <td>Our focus is on delivering an informative and visually appealing landing page for PlantSync. We believe it delivers a clear first impression and encourages user interest in the application. This will be confirmed when potential users can access the landing page and understand the app’s value proposition and core features.</td>
     </tr>
     <tr>
       <td><b>Sprint 1 Velocity</b></td>
@@ -4451,18 +4523,18 @@ Como equipo decidimos usar Github PAges como hosting de nuestro Landing Page. Es
   </tr>
   <tr>
     <td><strong>Sprint 1 Review Summary</strong></td>
-    <td> En el Sprint 1 se finalizó con éxito la landing page estática, incorporando una navegación fluida, un encabezado fijo, secciones informativas, testimonios y un apartado de preguntas frecuentes.</td>
+    <td> Durante el Sprint 1 se completó exitosamente la landing page estática de PlantSync. Esta incluye una navegación fluida, encabezado fijo, secciones informativas sobre la aplicación, testimonios de usuarios y un bloque de preguntas frecuentes (FAQ). Los miembros del equipo cumplieron con los entregables planificados, y el Product Owner expresó satisfacción con el diseño inicial, destacando que comunica claramente el propósito de la solución.</td>
   </tr>
   <tr>
     <td><strong>Sprint 1 Retorspective Summary</strong></td>
-    <td>El equipo destacó una adecuada coordinación y el cumplimiento de las tareas programadas, y sugirió como mejora una distribución más equitativa de las tareas técnicas entre los integrantes.</td>
+    <td>El equipo resaltó como punto positivo la buena coordinación y comunicación entre sus integrantes, lo que permitió cumplir con los objetivos del sprint. Como aspecto de mejora, se propuso una distribución más equitativa de las tareas técnicas, para asegurar que todos los miembros participen de manera balanceada en los desarrollos futuros.</td>
   </tr>
   <tr>
     <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
   </tr>
   <tr>
     <td><strong>Sprint 2 Goal</strong></td>
-    <td>Implementar el frontend funcional para las secciones de inicio de sesión, registro, perfil, oportunidades y gestión de proyectos, adaptado al rol de cada usuario.</td>
+    <td>Our focus is on implementing the functional views for login, registration, profile, opportunities, and project management in the frontend, adapted according to the user's role. We believe it delivers a personalized and seamless experience that will allow users to start interacting with the system based on their profile. This will be confirmed when users can successfully authenticate, access their profile, and view the sections assigned to their role.</td>
   </tr>
   <tr>
     <td><strong>Sprint 2 Velocity</strong></td>
@@ -4983,18 +5055,18 @@ Repositorio Landing Page:
   </tr>
   <tr>
     <td><strong>Sprint 2 Review Summary</strong></td>
-    <td>En el anterior sprint se pudo cumplir exitosamente con las User Stories relacionadas a la aplicación web.</td>
+    <td>Durante el Sprint 2 se completaron satisfactoriamente las User Stories planificadas para la aplicación web, incluyendo la implementación de las principales vistas del frontend asociadas al acceso de usuarios y la gestión de funcionalidades clave. Estas entregas permitieron avanzar significativamente hacia una experiencia de usuario funcional.</td>
   </tr>
   <tr>
     <td><strong>Sprint 2 Retorspective Summary</strong></td>
-    <td>En el anterior sprint, se pudo reestructurar la logica de las funcionalidades en el frontend, de modo que será más sencillo implementar servicios del Backend en futuras entregas.</td>
+    <td>El equipo resaltó como acierto la reestructuración de la lógica en el frontend, lo cual facilitó una mayor claridad en la arquitectura del código. Esta mejora contribuirá a una integración más eficiente de los servicios backend en los siguientes sprints. Como punto a reforzar, se mencionó la necesidad de seguir mejorando la comunicación entre los miembros en la estimación de tiempos.</td>
   </tr>
   <tr>
     <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
   </tr>
   <tr>
     <td><strong>Sprint 3 Goal</strong></td>
-    <td>En este sprint, el objetivo fue crear los bounded context core de la aplicación y sus respectivos endpoints, y mejorar los diagramas previamente presentados</td>
+    <td>Our focus is on establishing the main bounded contexts of the system and exposing their base endpoints. We believe it delivers a clear modular structure that facilitates backend scalability and improves system maintainability. This will be confirmed when the fundamental endpoints are integrated into Swagger and ready to be consumed by the frontend.</td>
   </tr>
   <tr>
     <td><strong>Sprint 3 Velocity</strong></td>
@@ -5948,18 +6020,18 @@ Visualización Backend Desplegado:
   </tr>
   <tr>
     <td><strong>Sprint 3 Review Summary</strong></td>
-    <td>En el anterior sprint se pudo crear los endpoints del backend cumpliendo con todas las CRUD actions y siguiendo el DDD y patrones aprendidos en clase</td>
+    <td>Durante el Sprint 3, se completó con éxito la implementación de los endpoints para los bounded contexts definidos, cubriendo todas las operaciones CRUD requeridas. Se respetó la arquitectura basada en Domain-Driven Design (DDD) y se aplicaron los patrones enseñados en clase, dejando el backend preparado para futuras integraciones.</td>
   </tr>
   <tr>
     <td><strong>Sprint 3 Retorspective Summary</strong></td>
-    <td>En el anterior sprint, a pesar de completar con la definición de endpoints del backend aún falta la conexión entre frontend y backend.</td>
+    <td>El equipo reconoció avances sólidos en la estructuración del backend y la adopción de buenas prácticas de desarrollo. Sin embargo, se identificó como aspecto a mejorar la falta de integración con el frontend, lo cual será una prioridad para el próximo sprint.</td>
   </tr>
   <tr>
     <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
   </tr>
   <tr>
     <td><strong>Sprint 4 Goal</strong></td>
-    <td>En este sprint, el objetivo es lograr una conexión entre backend y frontend para un funcionamiento adecuado de la appweb. Además de cumplir con todos los features de las user stories para un cumplimiento satisfactorio de los usuarios objetivos.</td>
+    <td>Our focus is on achieving full integration between the backend and frontend layers of the application. We believe it delivers a functional and responsive web experience to end users by enabling real-time interaction with data and services. This will be confirmed when users can register, sign in, view and manage their plant-related content successfully through a unified interface.</td>
   </tr>
   <tr>
     <td><strong>Sprint 4 Velocity</strong></td>
