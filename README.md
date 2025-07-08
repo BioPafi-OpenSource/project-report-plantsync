@@ -6256,6 +6256,110 @@ link al trello: https://trello.com/invite/b/686c8b840e0127ce62d7c6e0/ATTIb5a6d6e
   </tbody>
 </table>
 
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>features/iam-bounded-context</td>
+      <td>3e9cd41</td>
+      <td>feat: add update requests iam</td>
+      <td></td>
+      <td>Jul 8, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>features/iam-bounded-context</td>
+      <td>3858b9a</td>
+      <td>Merge pull request #11</td>
+      <td>from BioPafi-OpenSource/features/iam-bounded-context</td>
+      <td>Jul 8, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>develop</td>
+      <td>6065030</td>
+      <td>Merge pull request #12</td>
+      <td>from BioPafi-OpenSource/develop</td>
+      <td>Jul 8, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>506e64e</td>
+      <td>feat: added profile users persistence on database</td>
+      <td></td>
+      <td>Jul 7, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>a15637e</td>
+      <td>feat: add payment status</td>
+      <td></td>
+      <td>Jul 7, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>c8c0001</td>
+      <td>feat: added exceptions</td>
+      <td></td>
+      <td>Jul 7, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>1ba030e</td>
+      <td>feat: add profile acl</td>
+      <td></td>
+      <td>Jul 6, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>a6ac794</td>
+      <td>feat: add OpenApiConfiguration</td>
+      <td></td>
+      <td>Jul 3, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>1db2d4b</td>
+      <td>feat: added interfaces layer</td>
+      <td></td>
+      <td>Jul 3, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>60c6a63</td>
+      <td>feat: add infrastructure and application layer</td>
+      <td></td>
+      <td>Jul 3, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Platform</td>
+      <td>main</td>
+      <td>f19850c</td>
+      <td>feat: added domain layer</td>
+      <td></td>
+      <td>Jul 3, 2025</td>
+    </tr>
+  </tbody>
+</table>
+
+
 <br>
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review
@@ -6599,13 +6703,13 @@ Visualización Backend Desplegado:
 <br>
 
 <p align="center">
-  <img src="xxx" alt="evidencia-sprint-4" width="1000">
+  <img src="images/spr4-ini1-back.png" alt="evidencia-sprint-4" width="1000">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="xxx" alt="evidencia-sprint-4" width="1000">
+  <img src="images/spr4-ini2-back.png" alt="evidencia-sprint-4" width="1000">
 </p>
 
 <br><br>
