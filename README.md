@@ -7333,7 +7333,10 @@ Enlace en Youtube: <a href="https://youtu.be/6dQiL5Xb8GU" target="_blank">upc-pr
 
 *TF*
 ---
-- a
+- Durante el desarrollo del TF1, el equipo demostró habilidades sólidas de comunicación oral al presentar avances semanales tanto al docente como entre compañeros de equipo, adaptando el lenguaje técnico según la audiencia. Las reuniones de planificación, retrospectiva y revisión fueron espacios clave para compartir ideas de forma clara, estructurada y colaborativa, lo que favoreció una ejecución alineada con los objetivos del proyecto.
+
+
+- La documentación técnica elaborada a lo largo del trabajo, incluyendo los diagramas C4, la definición de User Stories y la organización de actividades en Trello y GitHub, evidenció una comunicación escrita precisa y estructurada. El equipo redactó informes comprensibles para personas técnicas y no técnicas, lo cual fue fundamental para transmitir el propósito, progreso y funcionalidades del sistema de forma efectiva.
 
 
 ## Video about the Team
@@ -7398,6 +7401,6 @@ https://www.serpar.gob.pe/noticias/10-cosas-que-debes-aprender-sobre-el-cuidado-
 
 + **TP1:** [Link Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ERme61BdAqRPhoKR7Ql5b2UB3ykeXWxgqbxTaeFgv0tVpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=pwUKmL)
 
-+ **TB2:** [Link Exposición TP1]()
++ **TB2:** [Link Exposición TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ETyYTrRvykdOpAWmi9HRZCEBqaVsI3bGLnxITA9sc8fZSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NLPguQ)
 
-+ **TF:** [Link Exposición TP1]()
++ **TF:** [Link Exposición TF1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ETkjF2XWIxFMl8tzMLutMgsBuwEyJnal9rCGU5QPr8H0pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SVZdbB)
