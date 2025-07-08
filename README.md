@@ -4163,79 +4163,39 @@ Durante el Sprint backlog, el equipo tuvo la tarea de realizar y completar la la
 
 Link de Trello: https://trello.com/invite/b/680e415701f792ca595048d8/ATTI84e6897024d2315973c80adedcfa5d9745BADA07/plantsync  
 
-<table border="1">
+<table border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr>
-      <th>Sprint 1</th>
-      <th colspan="8">Sprint 1</th>
+      <th colspan="9">Sprint 1</th>
     </tr>
     <tr>
       <th colspan="2">User Story</th>
-      <th colspan="3">Work-Item / Task</th>
-      <tr>
-      <th>Id</th>
-      <th>Title</th>
-      <th>Id</th>
-      <th>Title</th>
+      <th colspan="2">WorkItem / Task</th>
       <th>Description</th>
       <th>Estimation (Hours)</th>
       <th>Assigned To</th>
-      <th>Status<br>(To-do / In-Process / To-Review / Done)</th>
+      <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+    <tr>
+      <th>Id</th><th>Title</th>
+      <th>Id</th><th>Title</th>
+      <th></th><th></th><th></th><th></th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>TS01</td>
-      <td>Seccion Principal</td>
-      <td>TK03</td>
-      <td>Sección principal con mensaje claro</td>
-      <td>Como visitante de la landing page, quiero ver de inmediato el mensaje principal del sitio al ingresar, para así saber de qué trata la página sin tener que desplazarme.</td>
-      <td>4</td>
-      <td>Palomino Fiestas, Erick Leonardo</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS02</td>
-      <td>Comparar planes de suscripción</td>
-      <td>TK04</td>
-      <td>Planes de suscripción</td>
-      <td>Como visitante de la landing page, quiero comparar fácilmente los planes de suscripción para elegir el que mejor se ajuste a mis necesidades</td>
-      <td>3</td>
-      <td>Rivera Ratachi, Renzo Sebastian</td>
-      <td>Done</td>
-    </tr>
-  <tr>
-      <td>TS03</td>
-      <td>	Visualización de botón "Acceder" en la cabecera</td>
-      <td>TK02</td>
-      <td>Acceso Landing Page</td>
-      <td>Como visitante de la landing page, quiero ver un botón de "Acceder" en la parte superior de la landing, para saber que más adelante podré ingresar a mi cuenta.</td>
-      <td>1</td>
-      <td>Rivera Ratachi, Renzo Sebastian</td>
-      <td>Done</td>
-  </tr>
-  <tr>
-      <td>TS04</td>
-      <td>	Visualización del botón "Empieza ahora" en la landing</td>
-      <td>TK02</td>
-      <td>Acceso Landing Page</td>
-      <td>Como visitante de la landing page, quiero ver un botón llamativo de "Empieza ahora" en la landing, para sentirme invitado a comenzar con el servicio.</td>
-      <td>2</td>
-      <td>Palomares Andrade, Sean Farith</td>
-      <td>Done</td>
-  </tr>
-  <tr>
-      <td>TS05</td>
-      <td>	Visualizar información sobre la empresa</td>
-      <td>TK02</td>
-      <td>Acceso Landing Page</td>
-      <td>Como visitante de la landing page, quiero conocer más sobre la empresa detrás del servicio, para confiar en el producto antes de suscribirme.</td>
-      <td>2</td>
-      <td>Gonzales Alvarado, Javier Sebastian</td>
-      <td>Done</td>
-  </tr>
+    <tr><td>TS01</td><td>Sección Principal</td><td>TK01</td><td>Diseño visual de sección principal</td><td>Diseñar visualmente la sección principal con mensaje claro y encabezado atractivo</td><td>2</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK02</td><td>Maquetación e implementación</td><td>Implementar HTML/CSS de la sección principal y validar visualización inmediata</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>TS02</td><td>Comparar planes de suscripción</td><td>TK03</td><td>Diseñar estructura comparativa</td><td>Crear la estructura HTML para mostrar visualmente los planes y sus beneficios</td><td>1.5</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK04</td><td>Estilizar e integrar contenido real</td><td>Aplicar estilos, íconos y textos para los distintos planes de suscripción</td><td>1.5</td><td>Sean Palomares</td><td>Done</td></tr>
+    <tr><td>TS03</td><td>Visualizar botón "Acceder"</td><td>TK05</td><td>Diseño y posicionamiento del botón</td><td>Agregar el botón "Acceder" en la cabecera del sitio, en parte superior derecha</td><td>0.5</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK06</td><td>Estilización y pruebas de visibilidad</td><td>Aplicar estilo visual y validar que el botón se mantenga visible al cargar la página</td><td>0.5</td><td>Sean Palomares</td><td>Done</td></tr>
+    <tr><td>TS04</td><td>Botón "Empieza ahora"</td><td>TK07</td><td>Diseño llamativo del botón</td><td>Diseñar un botón atractivo que incentive al usuario a empezar el registro</td><td>1</td><td>Sean Palomares</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK08</td><td>Integración y pruebas de CTA</td><td>Ubicarlo en una posición estratégica en la landing y probar su funcionalidad</td><td>1</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS05</td><td>Visualizar información de la empresa</td><td>TK09</td><td>Maquetar sección "Sobre nosotros"</td><td>Diseñar una sección clara que contenga la historia o misión de la empresa</td><td>1</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK10</td><td>Insertar texto e imágenes</td><td>Incluir contenido institucional e imágenes que reflejen la identidad de la empresa</td><td>1</td><td>Renzo Rivera</td><td>Done</td></tr>
   </tbody>
 </table>
+
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -4572,140 +4532,48 @@ link al trello: https://trello.com/b/Cd1t98Sr/sprint-2-backlog
 
 <br><br>
 
-<table>
+<table border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr>
-      <th colspan="2">Sprint #</th>
-      <th colspan="7">Sprint 2</th>
-    </tr>
-    <tr>
       <th colspan="2">User Story</th>
-      <th colspan="7">Work-Item / Task</th>
-    </tr>
-    <tr>
-      <th>Id</th>
-      <th>Title</th>
-      <th>Id</th>
-      <th>Title</th>
+      <th colspan="2">WorkItem / Task</th>
       <th>Description</th>
       <th>Estimated (Hours)</th>
       <th>Assigned to</th>
       <th>Status</th>
     </tr>
+    <tr>
+      <th>Id</th><th>Title</th>
+      <th>Id</th><th>Title</th>
+      <th></th><th></th><th></th><th></th>
+    </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>US01</td>
-      <td>Registro de una nueva planta</td>
-      <td>T01</td>
-      <td>Formulario y backend de registro</td>
-      <td>Como usuario que cuida plantas, quiero registrar una nueva planta con nombre, tipo y foto, para llevar el control de su cuidado.</td>
-      <td>5</td>
-      <td>Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US03</td>
-      <td>Visualización de tareas de cuidado</td>
-      <td>T02</td>
-      <td>Listado de tareas en dashboard</td>
-      <td>Como usuario con plantas registradas, quiero ver las tareas pendientes de cuidado, para saber qué debo hacer cada día.</td>
-      <td>3</td>
-      <td>Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US05</td>
-      <td>Acceder a perfil de planta</td>
-      <td>T03</td>
-      <td>Vista detallada de planta</td>
-      <td>Como usuario, quiero acceder a los perfiles de las plantas que poseo para ver su información actual.</td>
-      <td>4</td>
-      <td>Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US08</td>
-      <td>Guía de cuidado personalizada</td>
-      <td>T04</td>
-      <td>Sección de recomendaciones en ficha</td>
-      <td>Como usuario con plantas registradas, quiero recibir recomendaciones de cuidado personalizadas, para mantenerlas saludables según su tipo.</td>
-      <td>3</td>
-      <td>Giovany Torres</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US09</td>
-      <td>Visualización de tareas con fechas</td>
-      <td>T05</td>
-      <td>Agenda de tareas con calendario</td>
-      <td>Como usuario, quiero ver mis tareas del día por fechas para poder organizarme mejor en el cuidado de las mismas.</td>
-      <td>3</td>
-      <td>Renzo Rivera</td>
-      <td>In Proccess</td>
-    </tr>
-    <tr>
-      <td>US10</td>
-      <td>Sincronización con clima local</td>
-      <td>T06</td>
-      <td>Integración con API del clima</td>
-      <td>Como usuario, quiero que el sistema considere el clima local al sugerir cuidados, para no regar innecesariamente si ha llovido.</td>
-      <td>4</td>
-      <td>Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US11</td>
-      <td>Consultas al asistente RootBot</td>
-      <td>T07</td>
-      <td>Integración del chatbot RootBot</td>
-      <td>Como usuario que tiene preguntas rápidas sobre el cuidado de mis plantas, quiero poder escribir mis consultas al chatbot dentro de la app, para recibir respuestas inmediatas y recomendaciones útiles.</td>
-      <td>6</td>
-      <td>Renzo Rivera</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US13</td>
-      <td>Edición de datos de planta</td>
-      <td>T08</td>
-      <td>Formulario para editar planta</td>
-      <td>Como usuario que cuida plantas, quiero editar la información de una planta registrada, para actualizar datos como su nombre, tipo o imagen.</td>
-      <td>3</td>
-      <td>Erick Palomino</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US14</td>
-      <td>Eliminación de planta</td>
-      <td>T09</td>
-      <td>Botón y confirmación para eliminar</td>
-      <td>Como usuario, quiero eliminar una planta de mi lista, para quitar aquellas que ya no tengo o que se han perdido.</td>
-      <td>3</td>
-      <td>Giovany Torres</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US18</td>
-      <td>Inicio sesión de usuario</td>
-      <td>T10</td>
-      <td>Login y validación</td>
-      <td>Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta y mis plantas monitoreadas.</td>
-      <td>4</td>
-      <td>Erick Palomino</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US19</td>
-      <td>Registrarse en la app</td>
-      <td>T11</td>
-      <td>Formulario de registro</td>
-      <td>Como usuario quiero registrarme en la app para crear mi cuenta y acceder a sus funcionalidades.</td>
-      <td>4</td>
-      <td>Erick Palomino</td>
-      <td>Done</td>
-    </tr>
+    <tr><td>US01</td><td>Registro de una nueva planta</td><td>T01-A</td><td>Diseño del formulario de planta</td><td>Diseñar el formulario de nombre, tipo y foto</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T01-B</td><td>Guardar planta en backend</td><td>Crear endpoint POST y lógica para registrar nueva planta</td><td>3</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US03</td><td>Visualización de tareas de cuidado</td><td>T02-A</td><td>Diseño del listado en dashboard</td><td>Diseñar interfaz para ver tareas pendientes del día</td><td>1.5</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T02-B</td><td>Obtener tareas desde backend</td><td>Conectar con API de tareas filtradas por fecha</td><td>1.5</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US05</td><td>Acceder a perfil de planta</td><td>T03-A</td><td>Diseño de vista detallada</td><td>Mostrar información actual de cada planta</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T03-B</td><td>Integración con backend</td><td>Obtener datos de planta por ID</td><td>2</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US08</td><td>Guía de cuidado personalizada</td><td>T04-A</td><td>Sección de guías</td><td>Diseñar sección de recomendaciones por tipo de planta</td><td>1.5</td><td>Giovany Torres</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T04-B</td><td>Cargar guías desde backend</td><td>Conectar con API de guías por categoría</td><td>1.5</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US09</td><td>Visualización de tareas con fechas</td><td>T05-A</td><td>Diseño de calendario</td><td>Crear componente visual de agenda</td><td>1.5</td><td>Renzo Rivera</td><td>In Process</td></tr>
+    <tr><td></td><td></td><td>T05-B</td><td>Lógica de filtrado por fecha</td><td>Obtener tareas por fecha desde el backend</td><td>1.5</td><td>Javier Gonzales</td><td>In Process</td></tr>
+    <tr><td>US10</td><td>Sincronización con clima local</td><td>T06-A</td><td>Obtener ubicación y clima</td><td>Usar geolocalización e integrar API del clima</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T06-B</td><td>Mostrar recomendaciones según clima</td><td>Sugerir riego o no según condiciones</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US11</td><td>Consultas al asistente RootBot</td><td>T07-A</td><td>Interfaz del chatbot</td><td>Diseñar el área de chat dentro de la app</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T07-B</td><td>Conexión con API de IA</td><td>Conectar a OpenAI y mostrar respuestas del bot</td><td>4</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>US13</td><td>Edición de datos de planta</td><td>T08-A</td><td>Formulario de edición</td><td>Mostrar formulario con valores actuales</td><td>1.5</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T08-B</td><td>Guardar cambios en backend</td><td>Enviar PUT con datos modificados</td><td>1.5</td><td>Giovany Torres</td><td>Done</td></tr>
+    <tr><td>US14</td><td>Eliminación de planta</td><td>T09-A</td><td>Confirmación en frontend</td><td>Diseñar botón y modal de confirmación</td><td>1.5</td><td>Giovany Torres</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T09-B</td><td>Lógica DELETE backend</td><td>Eliminar planta por ID en base de datos</td><td>1.5</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US18</td><td>Inicio sesión de usuario</td><td>T10-A</td><td>Formulario de login</td><td>Crear inputs de email y password con validaciones</td><td>2</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T10-B</td><td>Autenticación backend</td><td>Validar credenciales y devolver token</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>US19</td><td>Registrarse en la app</td><td>T11-A</td><td>Formulario de registro</td><td>Inputs de nombre, correo, contraseña, etc.</td><td>2</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>T11-B</td><td>Registro backend y redirección</td><td>Crear cuenta, guardar datos y redirigir a home</td><td>2</td><td>Giovany Torres</td><td>Done</td></tr>
   </tbody>
 </table>
+
 
 
 <br>
@@ -5191,190 +5059,58 @@ link al trello: https://trello.com/invite/b/6857724057df83af3adb0e04/ATTI667c5eb
 
 <br>
 
-<table>
+<table border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr>
-      <th colspan="2">Sprint #</th>
-      <th colspan="7">Sprint 3</th>
-    </tr>
-    <tr>
       <th colspan="2">User Story</th>
-      <th colspan="7">Work-Item / Task</th>
-    </tr>
-    <tr>
-      <th>Id</th>
-      <th>Title</th>
-      <th>Id</th>
-      <th>Title</th>
+      <th colspan="2">WorkItem / Task</th>
       <th>Description</th>
       <th>Estimated (Hours)</th>
       <th>Assigned to</th>
       <th>Status</th>
     </tr>
+    <tr>
+      <th>Id</th><th>Title</th>
+      <th>Id</th><th>Title</th>
+      <th></th><th></th><th></th><th></th>
+    </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>TS01</td>
-      <td>Registrar un nuevo historial para una planta</td>
-      <td>TK01</td>
-      <td>Crear historial de planta</td>
-      <td>Crear endpoint que permite ejecutar POST plantHistory</td>
-      <td>4</td>
-      <td>Renzo Rivera</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS02</td>
-      <td>Obtener los historiales de una planta</td>
-      <td>TK02</td>
-      <td>Obtener los historiales de una determinada planta</td>
-      <td>Utilizando una solicitud GET y un parametro plantId se muestran los historiales de la planta</td>
-      <td>3</td>
-      <td>Renzo Rivera</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS03</td>
-      <td>Obtener todos los perfiles</td>
-      <td>TK03</td>
-      <td>Obtener todos los perfiles</td>
-      <td>Utilizando una solicitud GET se obtienen todas los perfiles registrados</td>
-      <td>2</td>
-      <td>Erick Palomino, Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS04</td>
-      <td>Registrar un nuevo perfil</td>
-      <td>TK04</td>
-      <td>Crear un nuevo profile</td>
-      <td>Crear endpoint que permita ejecutar una solicitud POST profile</td>
-      <td>2</td>
-      <td>Erick Palomino</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS05</td>
-      <td>Obtener los detalles de mi perfil</td>
-      <td>TK05</td>
-      <td>Obtener información de un perfil</td>
-      <td>Utilizando una solicitud GET y un parametro profileId se muestran los detalles del perfil.</td>
-      <td>2</td>
-      <td>Erick Palomino</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS06</td>
-      <td>Acceder a todas las guías</td>
-      <td>TK06</td>
-      <td>Obtener guias</td>
-      <td>Utilizando una solicitud GET se obtienen todas las guias registradas</td>
-      <td>3</td>
-      <td>Giovany Torres, Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS07</td>
-      <td>Crear una nueva guía</td>
-      <td>TK07</td>
-      <td>Crear guia</td>
-      <td>Crear endpoint que permite ejecutar POST guide</td>
-      <td>4</td>
-      <td>Giovany Torres</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS08</td>
-      <td>Ver el contenido detallado de una guía</td>
-      <td>TK08</td>
-      <td>Obtener informacion de una determinada guia</td>
-      <td>Utilizando una solicitud GET y un parametro guideId se muestran la informacion de la guia</td>
-      <td>3</td>
-      <td>Giovany Torres</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS09</td>
-      <td>Ver todas mis tareas registradas</td>
-      <td>TK09</td>
-      <td>Obtener informacion de todas las tareas</td>
-      <td>Utilizando una solicitud GET se obtienen todas las plantas registradas</td>
-      <td>2</td>
-      <td>Renzo Rivera</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS10</td>
-      <td>Registrar una nueva tarea</td>
-      <td>TK01</td>
-      <td>Crear task</td>
-      <td>Crear endpoint que permite ejecutar POST task.</td>
-      <td>4</td>
-      <td>Renzo Rivera</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS11</td>
-      <td>Eliminar una tarea</td>
-      <td>TK11</td>
-      <td>Eliminar tarea registrada</td>
-      <td>Utilizando una solicitud DELETE y un parametro taskId se elimina la tarea registrada</td>
-      <td>2</td>
-      <td>Renzo Rivera</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS12</td>
-      <td>Registrar una nueva planta</td>
-      <td>TK12</td>
-      <td>Crear planta</td>
-      <td>Crear endpoint que permite ejecutar POST plant.</td>
-      <td>4</td>
-      <td>Renzo Rivera</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS13</td>
-      <td>Ver todas mis plantas</td>
-      <td>TK13</td>
-      <td>Obtener todas las plantas registradas</td>
-      <td>Utilizando un solicitud GET en el endpoint de plantas se obtendran todas las plantas registradas</td>
-      <td>2</td>
-      <td>Renzo Rivera, Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS14</td>
-      <td>Ver la información detallada de una planta</td>
-      <td>TK14</td>
-      <td>Obtener informacion de una planta</td>
-      <td>Utilizando una solicitud GET y un parametro plantId, se obtendrá la información de dicha planta</td>
-      <td>3</td>
-      <td>Renzo Rivera, Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS15</td>
-      <td>Actualizar los datos de una planta</td>
-      <td>TK15</td>
-      <td>Actualizar datos de una planta determinada</td>
-      <td>Utilizando una solicitud PUT y un parametro plantId se actualizara la informacion de la planta con el recurso enviado</td>
-      <td>4</td>
-      <td>Renzo Rivera, Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TS16</td>
-      <td>Eliminar registro de planta</td>
-      <td>TK01</td>
-      <td>Eliminar planta registrada</td>
-      <td>Utilizando una solicitud DELETE y un parametro taskId se elimina la tarea registrada</td>
-      <td>3</td>
-      <td>Renzo Rivera, Javier Gonzales</td>
-      <td>Done</td>
-    </tr>
+    <tr><td>TS01</td><td>Registrar un nuevo historial para una planta</td><td>TK01-A</td><td>Definir modelo y validación</td><td>Crear esquema para plantHistory y validar datos</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK01-B</td><td>Crear endpoint POST</td><td>Desarrollar endpoint y registrar historial en base de datos</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>TS02</td><td>Obtener los historiales de una planta</td><td>TK02-A</td><td>Configurar lógica de búsqueda por ID</td><td>Filtrar historiales por plantId en backend</td><td>1.5</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK02-B</td><td>Diseñar respuesta estructurada</td><td>Formatear la salida de historiales para el cliente</td><td>1.5</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS03</td><td>Obtener todos los perfiles</td><td>TK03-A</td><td>Crear consulta a base de datos</td><td>Query para obtener lista de perfiles registrados</td><td>1</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK03-B</td><td>Proteger endpoint con validaciones</td><td>Verificar autenticación y roles de acceso</td><td>1</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS04</td><td>Registrar un nuevo perfil</td><td>TK04-A</td><td>Definir entidad de perfil</td><td>Crear entidad y validaciones del perfil</td><td>1</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK04-B</td><td>Implementar endpoint POST</td><td>Guardar nuevo perfil con campos obligatorios</td><td>1</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>TS05</td><td>Obtener los detalles de mi perfil</td><td>TK05-A</td><td>Buscar perfil por ID</td><td>Realizar consulta de perfil usando profileId</td><td>1</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK05-B</td><td>Devolver estructura de datos</td><td>Devolver respuesta con los datos del perfil</td><td>1</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>TS06</td><td>Acceder a todas las guías</td><td>TK06-A</td><td>Consulta general a la colección de guías</td><td>GET sin parámetros para mostrar guías disponibles</td><td>1.5</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK06-B</td><td>Formateo de respuesta</td><td>Incluir descripciones e íconos en la respuesta</td><td>1.5</td><td>Giovany Torres</td><td>Done</td></tr>
+    <tr><td>TS07</td><td>Crear una nueva guía</td><td>TK07-A</td><td>Validar datos de entrada</td><td>Verificar estructura de la guía enviada</td><td>2</td><td>Giovany Torres</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK07-B</td><td>Guardar guía en base de datos</td><td>Insertar nueva guía y devolver confirmación</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>TS08</td><td>Ver el contenido detallado de una guía</td><td>TK08-A</td><td>Buscar guía por ID</td><td>Consulta GET usando guideId</td><td>1.5</td><td>Giovany Torres</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK08-B</td><td>Mostrar contenido completo</td><td>Devolver título, cuerpo y recomendaciones</td><td>1.5</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>TS09</td><td>Ver todas mis tareas registradas</td><td>TK09-A</td><td>Filtrar tareas por usuario</td><td>Mostrar tareas asignadas a usuario autenticado</td><td>1</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK09-B</td><td>Respuesta estructurada</td><td>Formatear lista de tareas con fechas y estados</td><td>1</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS10</td><td>Registrar una nueva tarea</td><td>TK10-A</td><td>Validar campos obligatorios</td><td>Verificar tipo de tarea, frecuencia y fecha</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK10-B</td><td>Guardar nueva tarea</td><td>POST task y devolver tarea creada</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>TS11</td><td>Eliminar una tarea</td><td>TK11-A</td><td>Buscar tarea por ID</td><td>Verificar existencia de la tarea antes de eliminar</td><td>1</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK11-B</td><td>Eliminar con DELETE</td><td>Ejecutar solicitud DELETE y retornar mensaje</td><td>1</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>TS12</td><td>Registrar una nueva planta</td><td>TK12-A</td><td>Validar datos de planta</td><td>Verificar nombre, tipo e imagen</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK12-B</td><td>POST planta en backend</td><td>Crear endpoint y guardar en base de datos</td><td>2</td><td>Giovany Torres</td><td>Done</td></tr>
+    <tr><td>TS13</td><td>Ver todas mis plantas</td><td>TK13-A</td><td>Consulta por userId</td><td>Filtrar las plantas por usuario autenticado</td><td>1</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK13-B</td><td>Mostrar resultado con datos clave</td><td>Devolver nombre, tipo y última actualización</td><td>1</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>TS14</td><td>Ver la información detallada de una planta</td><td>TK14-A</td><td>Buscar planta por ID</td><td>GET por plantId y obtener información completa</td><td>1.5</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK14-B</td><td>Mostrar información completa</td><td>Mostrar humedad, temperatura y estado general</td><td>1.5</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>TS15</td><td>Actualizar datos de una planta</td><td>TK15-A</td><td>Validar y recibir datos nuevos</td><td>Recibir datos actualizados desde el cliente</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK15-B</td><td>Ejecutar PUT para actualizar</td><td>Actualizar los datos en base de datos</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>TS16</td><td>Eliminar registro de planta</td><td>TK16-A</td><td>Confirmar existencia de planta</td><td>Verificar si la planta existe antes de eliminar</td><td>1.5</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK16-B</td><td>DELETE definitiva</td><td>Eliminar planta y retornar confirmación</td><td>1.5</td><td>Javier Gonzales</td><td>Done</td></tr>
   </tbody>
 </table>
+
 
 
 <br>
@@ -6182,19 +5918,414 @@ Visualización Backend Desplegado:
 
 ##### 5.2.4.1. Sprint Planning 4
 
+<table align="center">
+  <tr>
+    <td><strong>Sprint #4</strong></td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 23 - 06</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>9:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in our discord server</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Erik Palomino</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Javier Gonzales, Renzo Rivera</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Review Summary</strong></td>
+    <td>En el anterior sprint se pudo crear los endpoints del backend cumpliendo con todas las CRUD actions y siguiendo el DDD y patrones aprendidos en clase</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 3 Retorspective Summary</strong></td>
+    <td>En el anterior sprint, a pesar de completar con la definición de endpoints del backend aún falta la conexión entre frontend y backend.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Goal</strong></td>
+    <td>En este sprint, el objetivo es lograr una conexión entre backend y frontend para un funcionamiento adecuado de la appweb. Además de cumplir con todos los features de las user stories para un cumplimiento satisfactorio de los usuarios objetivos.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 4 Velocity</strong></td>
+    <td>XX</td>
+  </tr>
+</table>
+<br>
+
 ##### 5.2.4.2. Aspect Leaders and Collaborators
 
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Conexión entre Backend y Frontend</strong></td>
+    <td><strong>Feature de Configuración</strong></td>
+    <td><strong>Correción de bugs previos</strong></td>
+    <td><strong>Implementación de la IA para el chatbot</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erick Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>rezor11</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
+
 ##### 5.2.4.3. Sprint Backlog 4
+
+<br>
+
+Este Sprint se enfocó en completar funcionalidades clave para el usuario final, incluyendo la integración con clima, el asistente inteligente, la personalización del perfil y la gestión de suscripciones. También se finalizaron endpoints críticos para registro, login y visualización de usuarios. Se empleó Trello para la asignación y seguimiento de tareas, asegurando una correcta distribución entre los miembros del equipo.
+
+<img src="images/backlog4.png" alt="sprint-backlog4" width="1000">
+
+link al trello: https://trello.com/invite/b/686c8b840e0127ce62d7c6e0/ATTIb5a6d6e91b5f6dc820ea86a4fcc743dc76565BE9/sprint-4-open-source
+
+<br>
+
+<h3>Sprint # Sprint 4</h3>
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th colspan="2">Technical User Story</th>
+      <th colspan="2">WorkItem / Task</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+      <th>Id</th><th>Title</th>
+      <th>Id</th><th>Title</th>
+      <th></th><th></th><th></th><th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>US04</td><td>Historial de cuidados</td><td>TK51</td><td>Crear vista de historial en detalle de planta</td><td>Crear vista de historial en detalle de planta</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK52</td><td>Conectar frontend con servicio backend</td><td>Conectar frontend con servicio backend para historial</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK53</td><td>Validaciones si no hay historial</td><td>Agregar validaciones y mensajes si no hay historial disponible</td><td>2</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US06</td><td>Registro manual de tarea completada</td><td>TK54</td><td>Botón "Marcar como realizada"</td><td>Agregar botón "Marcar como realizada" en interfaz de tareas</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK55</td><td>Backend registrar tarea completada</td><td>Actualizar backend para registrar la tarea como completada</td><td>3</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US09</td><td>Sincronización con clima local</td><td>TK56</td><td>Obtener clima con geolocalización</td><td>Obtener clima usando geolocalización del dispositivo</td><td>4</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK57</td><td>Mostrar sugerencia basada en lluvia</td><td>Mostrar sugerencia automática si ha llovido</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>US10</td><td>Consultas al asistente RootBot</td><td>TK58</td><td>UI de chat</td><td>Diseñar interfaz de chat con input y respuestas</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK59</td><td>Conectar con API IA</td><td>Conectar con API de OpenAI o modelo IA</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK60</td><td>Fallback de error en IA</td><td>Manejar errores y fallback si no hay respuesta</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US14</td><td>Edición de datos personales</td><td>TK61</td><td>Formulario editable</td><td>Crear formulario editable con nombre y teléfono</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK62</td><td>Actualizar backend</td><td>Actualizar backend con endpoint PUT</td><td>3</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US15</td><td>Cambio de correo electrónico</td><td>TK63</td><td>Validar correo</td><td>Validar formato de correo en frontend</td><td>2</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK64</td><td>Guardar nuevo correo</td><td>Guardar nuevo correo y mostrar confirmación</td><td>2</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US16</td><td>Gestión del plan de suscripción</td><td>TK65</td><td>UI de planes</td><td>Crear UI para selección y visualización de planes</td><td>4</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK66</td><td>Lógica backend de cambio</td><td>Actualizar lógica y endpoint en backend</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS17</td><td>Obtener lista de usuarios</td><td>TK67</td><td>GET /users</td><td>Crear endpoint GET /users con retorno en JSON</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS18</td><td>Registro de usuario</td><td>TK68</td><td>POST /sign-up</td><td>Crear endpoint POST /sign-up con validaciones</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>TS19</td><td>Inicio de sesión</td><td>TK69</td><td>POST /sign-in</td><td>Crear endpoint POST /sign-in y devolver token</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US19</td><td>Visualización de perfil</td><td>TK70</td><td>Diseño del perfil</td><td>Diseñar sección de perfil con datos resumidos</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK71</td><td>Estadísticas del backend</td><td>Mostrar estadísticas desde backend</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US20</td><td>Tips según clima y humedad</td><td>TK72</td><td>Obtener datos climáticos</td><td>Obtener datos de clima y humedad desde API</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK73</td><td>Generar recomendaciones</td><td>Generar y mostrar recomendaciones automáticas</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>US22</td><td>Acceso a soporte técnico</td><td>TK74</td><td>Formulario de soporte</td><td>Diseñar formulario y lógica de envío a soporte</td><td>3</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td>US24</td><td>Modo oscuro</td><td>TK75</td><td>Toggle de modo oscuro</td><td>Agregar toggle de modo oscuro y guardar preferencia</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td>US25</td><td>Registro método de pago</td><td>TK76</td><td>Formulario inicial</td><td>Crear formulario de método de pago tras registro</td><td>4</td><td>Javier Gonzales</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK77</td><td>Guardar datos de pago</td><td>Validar y guardar datos de pago en backend</td><td>4</td><td>Erick Palomino</td><td>Done</td></tr>
+    <tr><td>US31</td><td>Selección de idioma</td><td>TK78</td><td>Selector de idioma</td><td>Crear selector de idioma en el frontend</td><td>3</td><td>Renzo Rivera</td><td>Done</td></tr>
+    <tr><td></td><td></td><td>TK79</td><td>Cargar traducciones</td><td>Cargar traducciones dinámicas y mantener preferencia</td><td>3</td><td>Erick Palomino</td><td>Done</td></tr>
+  </tbody>
+</table>
+
+
+<br>
 
 ##### 5.2.4.4. Development Evidence for Sprint Review 
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review
 
++ US04
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev1.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US06
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev2.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US09
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev3.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US10
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev4.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US14
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev5.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US15
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev6.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US16
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev7.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US19
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev8.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US20
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev9.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US22
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev10.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US24
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev11.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US25
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev12.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
++ US31
+
+<br>
+
+<p align="center">
+  <img src="images//sprint4-evidences/ev13.png" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+<br>
+
+Landing page:
+
+- Configuración del entorno de despliegue:
+
+Como equipo decidimos usar Github Pages como hosting de nuestro Landing Page. Esto es principalmente a su facilidad para configurar y desplegar desde la rama Main. Y actualizamos constantemente la Landing Page con los commits desde Develop.
+
+- Activación de GitHub Pages en el repositorio:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Confirmación del enlace del repositorio con entorno de publicación:
+
+<p align="center">
+  <img src="images/evidencia-sprint/sp1-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización de la Landing Page:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/landingsprint3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+[Link de la Landing Page](https://biopafi-opensource.github.io/plantSync-LandingPage/)
+
+Web App: 
+
+Se certifica la exitosa implementación de la aplicación web frontend en Azure App Service, utilizando la rama "chore" del repositorio. El despliegue se realizó a partir del directorio generado con el comando de construcción ng build --configuration production, el cual produce la carpeta dist/plant-sync. Esta fue configurada como directorio de publicación estática en Azure, completando satisfactoriamente el proceso de despliegue de la aplicación mediante el entorno de ejecución Node.js provisto por la plataforma.
+
+- Visualización Actions desde el Github:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-1.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización del recurso de Azure:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-2.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+- Visualización de la Static WebApp:
+
+<p align="center">
+  <img src="images/evidencia-sprint2/dep-3.png" alt="evidencia-sprint" width="1000">
+</p>
+<br><br>
+
+Backend :
+
+Para esta entrega el despliegue del Backend y base de datos fue posible mediante los servicios de la nube de Azure. Se desplegó creando una imagen y su contenedor en Docker Desktop. Luego, se subió la imagen a Azure en una Web App.
+
+
+Servidor de base de datos:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/databasedeploymentazure.png" alt="evidencia-sprint" width="1000">
+</p>
+
+
+Visualización en Docker Desktop:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidenciadockercontenedor.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidenciadockerimagenes.png" alt="evidencia-sprint" width="1000">
+</p>
+
+Aplicación en Azure:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/webappazurebackend.png" alt="evidencia-sprint" width="1000">
+</p>
+Visualización Backend Desplegado:
+
+<p align="center">
+  <img src="images/evidencia-sprint3/swaggerdeployed.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
+<br>
+<table align="center">
+  <tr>
+    <td><strong>Alumno</strong></td>
+    <td><strong>GitHub User</strong></td>
+    <td><strong>Actividad</strong></td>
+  </tr>
+  <tr>
+    <td>Palomino Fiestas, Erik Leonardo</td>
+    <td>ErickLeo13</td>
+    <td>Conexión de nuevo endpoints login y register</td>
+  </tr>
+  <tr>
+    <td>Gonzales Alvarado, Javier Sebastian</td>
+    <td>WoodsDos</td>
+    <td>Desarrollo de la seccion de configuración</td>
+  </tr>
+  <tr>
+    <td>Rivera Ratachi, Renzo Sebastian</td>
+    <td>renzor11</td>
+    <td>Conexion del Backend y Frontend</td>
+  </tr>
+</table>
+
+
+<br>
 
 ---
 
