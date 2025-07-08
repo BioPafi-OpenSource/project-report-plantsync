@@ -6073,7 +6073,121 @@ link al trello: https://trello.com/invite/b/686c8b840e0127ce62d7c6e0/ATTIb5a6d6e
 
 ##### 5.2.4.4. Development Evidence for Sprint Review 
 
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>develop</td>
+      <td>a41c1cf</td>
+      <td>fix: deleted plant form</td>
+      <td></td>
+      <td>Jul 7, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>develop</td>
+      <td>cf242d7</td>
+      <td>Merge branch 'develop'</td>
+      <td>of https://github.com/BioPafi-OpenSource/PlantSync_Frontend into develop</td>
+      <td>Jul 7, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>develop</td>
+      <td>cdae002</td>
+      <td>fix: add backend connections</td>
+      <td></td>
+      <td>Jul 7, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/i18n</td>
+      <td>e7d3256</td>
+      <td>Merge pull request #22</td>
+      <td>from BioPafi-OpenSource/feature/i18n</td>
+      <td>Jul 6, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/i18n</td>
+      <td>a3efa67</td>
+      <td>feat: added i18n for myplants</td>
+      <td></td>
+      <td>Jul 5, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/i18n</td>
+      <td>f48632f</td>
+      <td>feat: i18n added</td>
+      <td></td>
+      <td>Jul 5, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/dark-mode</td>
+      <td>2ab0328</td>
+      <td>Merge pull request #21</td>
+      <td>from BioPafi-OpenSource/feature/dark-mode</td>
+      <td>Jul 4, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/dark-mode</td>
+      <td>e75b21b</td>
+      <td>feat: darkmode transition</td>
+      <td></td>
+      <td>Jul 4, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/chatbot</td>
+      <td>6b6a1cb</td>
+      <td>update apikey from chatbot</td>
+      <td></td>
+      <td>Jul 4, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/chatbot</td>
+      <td>26b27c5</td>
+      <td>Merge pull request #20</td>
+      <td>from BioPafi-OpenSource/feature/chatbot</td>
+      <td>Jul 3, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>feature/chatbot</td>
+      <td>758956e</td>
+      <td>feat: added chatbot feature</td>
+      <td></td>
+      <td>Jul 3, 2025</td>
+    </tr>
+    <tr>
+      <td>https://github.com/BioPafi-OpenSource/PlantSync_Frontend</td>
+      <td>develop</td>
+      <td>e7f15c0</td>
+      <td>Merge pull request #19</td>
+      <td>from BioPafi-OpenSource/develop</td>
+      <td>Jul 3, 2025</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
 ##### 5.2.4.5. Execution Evidence for Sprint Review
+<br>
 
 + US04
 
@@ -6405,8 +6519,56 @@ Visualización Backend Desplegado:
   </tr>
 </table>
 
+<br><br>
+
+
++ PlantSync_Platform:
 
 <br>
+
+<p align="center">
+  <img src="xxx" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="xxx" alt="evidencia-sprint-4" width="1000">
+</p>
+
+<br><br>
+
+ + PlantSync_Frontend:
+
+ <br>
+
+<p align="center">
+  <img src="images/insi-front-4-2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/insi-front-4-1.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br><br>
+
++ plantSync-LandingPage:
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidencia-github-landing1.jpg" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidencia-github-landing2.jpg" alt="evidencia-sprint" width="1000">
+</p>
+
+<br><br>
 
 ---
 
