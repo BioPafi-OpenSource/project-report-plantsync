@@ -511,7 +511,53 @@ Repositorio Informe:
   <img src="images/insight-github/overview2-plantsync.png" alt="evidencia-sprint" width="1000">
 </p>
 
-## **TF*
+## **TB2**
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidence-github-backend1.jpg" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidenciabackend2.jpg" alt="evidencia-sprint-3" width="1000">
+</p>
+
+<br><br>
+
+ + PlantSync_Frontend:
+
+ <br>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia2-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint2/evidencia1-team-sprint2.png" alt="evidencia-sprint" width="1000">
+</p>
+
+<br><br>
+
++ plantSync-LandingPage:
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidencia-github-landing1.jpg" alt="evidencia-sprint" width="1000">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/evidencia-sprint3/evidencia-github-landing2.jpg" alt="evidencia-sprint" width="1000">
+</p>
+
+## **TF**
 
 + Informe:
 
@@ -7220,7 +7266,7 @@ https://www.serpar.gob.pe/noticias/10-cosas-que-debes-aprender-sobre-el-cuidado-
 
 + **TP1:** [Link Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ERme61BdAqRPhoKR7Ql5b2UB3ykeXWxgqbxTaeFgv0tVpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=pwUKmL)
 
-+ **TB2:** [Link Exposición TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ETyYTrRvykdOpAWmi9HRZCEBqaVsI3bGLnxITA9sc8fZSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NLPguQ)
++ **TB2:** [Link Exposición TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ETyYTrRvykdOpAWmi9HRZCEBqaVsI3bGLnxITA9sc8fZSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Yen1ES)
 
 + **TF:** [Link Exposición TF1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a500_upc_edu_pe/ETkjF2XWIxFMl8tzMLutMgsBuwEyJnal9rCGU5QPr8H0pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SVZdbB)
 
